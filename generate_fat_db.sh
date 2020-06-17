@@ -1,5 +1,4 @@
-#!/bin/sh
-
+#!/bin/bash
 set -euo pipefail
 
 # might not work for non-github repos, fix that
