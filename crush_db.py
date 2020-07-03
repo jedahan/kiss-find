@@ -25,9 +25,10 @@ def main(args: List[str]) -> int:
 
         del entry["package"]
 
-        entry["description"] = entry["description"].strip()
-        if not entry["description"]:
-            del entry["description"]  # delete empty descriptions
+        if "description" in entry:
+            entry["description"] = entry["description"].strip()
+            if not entry["description"]:
+                del entry["description"]  # delete empty descriptions
 
         packages[name].append(entry)
 
