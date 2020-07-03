@@ -22,8 +22,13 @@ def main(args: List[str]) -> int:
 
         if name not in packages:
             packages[name] = []
-        
+
         del entry["package"]
+
+        entry["description"] = entry["description"].strip()
+        if not entry["description"]:
+            del entry["description"]  # delete empty descriptions
+
         packages[name].append(entry)
 
     with open("crushed.json", "w") as f:
