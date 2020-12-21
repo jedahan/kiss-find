@@ -15,4 +15,4 @@ printf '%s\n%s' "$added_repos" "$github_repos" | sort > "$allowlist"
 
 blocklist=$(mktemp)
 grep -v '^[# ].*' removed_repos | sort > "$blocklist"
-comm -23 "$allowlist" "$blocklist" > repo_list
+comm -23 "$allowlist" "$blocklist" | grep -v '^#.*' > repo_list
