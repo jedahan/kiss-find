@@ -21,4 +21,4 @@ doesn't adhere to that format, let me know and I'll try to make it work.
 
 ## Database Creation
 
-Download `git`, `python3` and `jq` and run `./build.sh`
+Download `git`, `gh`, `python3` and `jq` and run `./build.sh`

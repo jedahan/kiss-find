@@ -3,10 +3,6 @@
 #  * Not helpful for "vanilla" x64 KISS (repos for ports, etc.)
 #  * Author asked for removal
 #  * Repo is a redirect to another
-#  (Repos that have been removed or set private by their owners are not included
-#  in this list, as the kiss-repo GitHub topic which seeds this database does not
-#  contain them.)
-
 https://github.com/arvl130/kiss32-cdv-repo
 https://github.com/arvl130/kiss32-glibc-repo
 https://github.com/arvl130/kiss32-repo
