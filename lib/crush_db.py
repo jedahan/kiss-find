@@ -32,8 +32,7 @@ def main(args: List[str]) -> int:
 
         packages[name].append(entry)
 
-    with open("crushed.json", "w") as f:
-        json.dump(packages, f, sort_keys=True, separators=(',', ':'))
+    print(json.dump(packages, sort_keys=True, separators=(',', ':')))
 
     return 0
 

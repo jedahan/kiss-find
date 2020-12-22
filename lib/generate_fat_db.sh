@@ -69,8 +69,7 @@ process_repo() {
         --arg repo "$REPO" \
         --arg path "$PPATH" \
         --arg description "$DESCRIPTION" \
-        '{"package":$package,"version":$version,"repo":$repo,"path":$path,"description":$description}' \
-        >> ../packages.json
+        '{"package":$package,"version":$version,"repo":$repo,"path":$path,"description":$description}'
     done
 }
 
