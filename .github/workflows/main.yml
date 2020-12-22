@@ -15,14 +15,14 @@ jobs:
   update:
     runs-on: ubuntu-latest
     env:
-      GITHUB_ENV: ${{ secrets.GITHUB_TOKEN }}
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
     steps:
       - uses: actions/checkout@v2
 
       - name: generate database
         run: |
-          gh auth login --with-token <<< ${{ secrets.GITHUB_TOKEN }}
+          echo gh auth login --with-token <<< ${{ secrets.GITHUB_TOKEN }}
           make
 
       - name: upload database
