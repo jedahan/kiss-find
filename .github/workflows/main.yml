@@ -12,7 +12,24 @@ on:
   workflow_dispatch:
 
 jobs:
-  update:
+  create_release:
+    name: create release
+    runs-on: ubuntu-latest
+    outputs:
+      id: ${{ steps.create_release.outputs.id }}
+    steps:
+      - name: Create release
+        id: create_release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: ${{ github.ref }}
+          release_name: release ${{ github.ref }}
+          draft: false
+          prerelease: false
+
+  update_database:
     needs: [create_release]
     runs-on: ubuntu-latest
     env:
