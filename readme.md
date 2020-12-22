@@ -2,12 +2,49 @@
 
 tool for indexing and searching as many kiss repositories as possible.
 
+create and install fresh db
+
+    make
+    mkdir -p ~/.cache/kiss-find
+    cp kiss-find.gz ~/.cache/kiss-find/db.gz
+
+install command and find new stuff
+
+    cd disk/kiss/kiss-find
+    kiss build && kiss install
+    kiss find amf
+
+```json
+{
+  "key": "amfora",
+  "value": [
+    {
+      "description": "a fancy terminal browser for the gemini protocol",
+      "path": "amfora",
+      "repo": "https://github.com/jedahan/kiss-repo",
+      "version": "1.7.1 1"
+    }
+  ]
+}
+{
+  "key": "tinyramfs",
+  "value": [
+    {
+      "path": "kernel/tinyramfs",
+      "repo": "https://github.com/mmatongo/dm",
+      "version": "git 1"
+    }
+  ]
+}
+```
+
 # client
 
 You can install kiss-find on kiss with the package in this repo.
 
     cd dist/kiss/kiss-find
     kiss build && kiss install
+    kiss find amf
 
 # build
 
