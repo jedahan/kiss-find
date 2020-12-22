@@ -1,8 +1,8 @@
-# These are just here to document which known repos are removed from the repo list.
-# The current reasons for removal are:
-#  * Not helpful for "vanilla" x64 KISS (repos for ports, etc.)
-#  * Author asked for removal
-#  * Repo is a redirect to another
+# repos here will not be indexed, for one of the following reasons
+#  * author asked for removal
+#  * repository is a redirect to another
+#  * not compatible with vanilla x64 KISS
+
 https://github.com/arvl130/kiss32-cdv-repo
 https://github.com/arvl130/kiss32-glibc-repo
 https://github.com/arvl130/kiss32-repo
