@@ -32,7 +32,7 @@ def main(args: List[str]) -> int:
 
         packages[name].append(entry)
 
-    print(json.dump(packages, sort_keys=True, separators=(',', ':')))
+    print(json.dumps(packages, sort_keys=True, separators=(',', ':')))
 
     return 0
 

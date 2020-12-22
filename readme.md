@@ -1,24 +1,27 @@
-(if you are looking for kiss-find itself [go here])
+# kiss-find
 
-[go here]: https://github.com/Admicos/kiss-repo/tree/master/custom/kiss-find
+tool for indexing and searching as many kiss repositories as possible.
 
-# The kiss-find Database Tools
+# build
 
-This repository contains the tools used to create the kiss-find database, and
-the list of KISS repositories crawled through.
+This repository contains the tools used to create the kiss-find database.
 
-If you just want to download the complete database used in kiss-find, that is 
-available at: `https://files.ecmelberk.com/kiss-find.gz`, and is updated daily.
+It requires `git`, `python3` and `jq`.
 
-## Add Your Repository
+Optional support for github repo discovery is enabled by being logged in with the github `gh` cli.
 
-Send a pull request against the `repo_list` file, with your repository Git
-clone URL in the proper sorted position.
+Run `make clean; make` to generate a fresh db for kiss-find.
 
-Please note that the scripts are not tested with anything other than the 
-GitHub-like `https://example.com/user/repo` URL format. If your repository URL
-doesn't adhere to that format, let me know and I'll try to make it work.
+# adding a repository
 
-## Database Creation
+If your repository is on github, just add the 'kiss-repo' topic and it should be automatically picked up.
 
-Download `git`, `gh`, `python3` and `jq` and run `./build.sh`
+If your repository is anywhere else, make a PR to add it to `repo_safelist`.
+
+# removing a repository
+
+If you would not like your repository indexed, send a PR to add it to `repo_blocklist`.
+
+# credits
+
+Created by [@admicos](https://ecmelberk.com), maintained by [@jedahan](https://github.com/jedahan)

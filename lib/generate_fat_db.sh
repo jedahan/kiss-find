@@ -20,19 +20,19 @@ fetch_repo() {
     FOLDER="$2"
 
     if [ -d "$FOLDER" ]; then
-        echo "  -> Pulling"
+        echo "  -> Pulling" >&2
 
         cd "$FOLDER"
-        git pull -f
+        git pull -f >&2
         cd ".."
     else
-        echo "  -> Cloning"
+        echo "  -> Cloning" >&2
 
-        git clone "$REPO" "$FOLDER"
+        git clone "$REPO" "$FOLDER" >&2
 
         cd "$FOLDER"
-        git config user.email "kissfind@mail.invalid"
-        git config user.name "kiss-find Database"
+        git config user.email "kissfind@mail.invalid" >&2
+        git config user.name "kiss-find database" >&2
         cd ".."
     fi
 }
@@ -44,7 +44,7 @@ process_repo() {
     find_packages "$FOLDER" | while read PACKAGE; do
     PPATH="$(get_path_in_repo "$PACKAGE")"
 
-    echo "  -> Found package $PACKAGE"
+    echo "  -> Found package $PACKAGE" >&2
 
     if [ -L "$PACKAGE/version" ]; then
         # not sure how to handle symlinks in a proper way yet
@@ -75,13 +75,13 @@ process_repo() {
 
 mkdir -p "repos"
 cat "$1" | while read REPO; do
-cd repos
+  cd repos
 
-FOLDER="$(sanitize_folder_name "$REPO")"
-echo ":: $REPO ($FOLDER)"
+  FOLDER="$(sanitize_folder_name "$REPO")"
+  echo ":: $REPO ($FOLDER)" >&2
 
-fetch_repo "$REPO" "$FOLDER"
-process_repo "$REPO" "$FOLDER"
+  fetch_repo "$REPO" "$FOLDER"
+  process_repo "$REPO" "$FOLDER"
 
-cd ..
+  cd ..
 done

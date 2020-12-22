@@ -13,5 +13,5 @@ gh auth status 2>/dev/null && \
 safelist=$(grep -v '^[# ].*' ../repo_safelist | sort)
 
 comm -23 \
-  <(printf '%s\n%s' "$safelist" "$githublist" | sort)
+  <(printf '%s\n%s' "$safelist" "$githublist" | sort) \
   <(grep -v '^[# ].*' ../repo_blocklist | sort)
