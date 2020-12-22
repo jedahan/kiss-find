@@ -3,7 +3,7 @@
 
 VERSION="1"
 DB_PATH="$HOME/.cache/kiss-find/db.gz"
-UPDATE_URL="https://github.com/jedahan/kiss-find-db/releases/download/0.1.0/db.gz"
+UPDATE_URL="https://github.com/jedahan/kiss-find/releases/download/0.1.0/db.gz"
 
 mkdir -p "$(dirname "$DB_PATH")"
 
