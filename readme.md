@@ -2,6 +2,13 @@
 
 tool for indexing and searching as many kiss repositories as possible.
 
+# client
+
+You can install kiss-find on kiss with the package in this repo.
+
+    cd dist/kiss/kiss-find
+    kiss build && kiss install
+
 # build
 
 This repository contains the tools used to create the kiss-find database.
