@@ -2,16 +2,21 @@
 
 tool for indexing and searching as many kiss repositories as possible.
 
-create and install fresh db
+build and index a new db
 
-    make
-    mkdir -p ~/.cache/kiss-find
-    cp kiss-find.gz ~/.cache/kiss-find/db.gz
+    make 
 
-install command and find new stuff
+install kiss-find and db
 
-    cd disk/kiss/kiss-find
-    kiss build && kiss install
+    make install
+
+install kiss-find standalone
+
+    make install-cli
+    kiss find -u # update from the prebuilt db
+
+try out kiss-find
+
     kiss find amf
 
 ```json
