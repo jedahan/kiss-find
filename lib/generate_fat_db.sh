@@ -1,5 +1,5 @@
 #!/bin/bash
-set -euo pipefail
+set -eu
 
 # might not work for non-github repos, fix that
 sanitize_folder_name() {
@@ -23,7 +23,7 @@ fetch_repo() {
         echo "  -> Pulling" >&2
 
         cd "$FOLDER"
-        git pull -f >&2
+        git pull -f >&2 || true
         cd ".."
     else
         echo "  -> Cloning" >&2
