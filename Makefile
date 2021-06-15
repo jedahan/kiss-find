@@ -16,7 +16,7 @@ install-cli:
 install: install-cli install-db
 
 install-db: kiss-find.gz
-	install -Dm644 -t $(XDG_CONFIG_HOME)/kiss-find db.gz
+	install -Dm644 -t $(XDG_CONFIG_HOME)/kiss-find kiss-find.gz
 
 lib/repo_list:
 	lib/sync_latest_repos.sh > lib/repo_list
