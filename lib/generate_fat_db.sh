@@ -49,8 +49,10 @@ process_repo() {
     if [ -L "$PACKAGE/version" ]; then
         # not sure how to handle symlinks in a proper way yet
         VERSION="symlink"
-    else
+    elif [ -f "$PACKAGE/version" ]; then
         VERSION="$(cat "$PACKAGE/version")"
+    else
+	VERSION="unknown"
     fi
 
     if [ -f "$PACKAGE/description" ]; then
