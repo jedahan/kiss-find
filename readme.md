@@ -4,7 +4,7 @@ tool for indexing and searching as many kiss repositories as possible.
 
 build and index a new db
 
-    make 
+    make
 
 install kiss-find and db
 
@@ -17,31 +17,11 @@ install kiss-find standalone
 
 try out kiss-find
 
-    kiss find amf
-
-```json
-{
-  "key": "amfora",
-  "value": [
-    {
-      "description": "a fancy terminal browser for the gemini protocol",
-      "path": "amfora",
-      "repo": "https://github.com/jedahan/kiss-repo",
-      "version": "1.7.1 1"
-    }
-  ]
-}
-{
-  "key": "tinyramfs",
-  "value": [
-    {
-      "path": "kernel/tinyramfs",
-      "repo": "https://github.com/mmatongo/dm",
-      "version": "git 1"
-    }
-  ]
-}
-```
+    $ kiss find amf
+    amfora     1.7.2 2  https://github.com/jedahan/kiss-repo      amfora            a fancy terminal browser for the gemini protocol
+    amfora     1.8.0 1  https://github.com/aabacchus/kiss-repo    amfora            a fancy terminal browser for the gemini protocol
+    bamf       0.5.4 1  https://github.com/eudaldgr/elementaKISS  extra/bamf
+    tinyramfs  git 1    https://github.com/mmatongo/dm            kernel/tinyramfs
 
 # client
 
@@ -55,9 +35,9 @@ You can install kiss-find on kiss with the package in this repo.
 
 This repository contains the tools used to create the kiss-find database.
 
-It requires `git`, `python3` and `jq`.
+It requires `git` and `grep`
 
-Optional support for github repo discovery is enabled by being logged in with the github `gh` cli.
+Optional support for github repo discovery is enabled by being logged in with the github `gh` cli, and requires `jq`.
 
 Run `make clean; make` to generate a fresh db for kiss-find.
 
@@ -73,4 +53,4 @@ If you would not like your repository indexed, send a PR to add it to `repo_bloc
 
 # credits
 
-Created by [@admicos](https://ecmelberk.com), maintained by [@jedahan](https://github.com/jedahan)
+Created by [@admicos](https://ecmelberk.com), rewritten and maintained by [@jedahan](https://github.com/jedahan)

@@ -1,4 +1,4 @@
-name: CI
+name: build database
 
 on:
   push:
@@ -38,6 +38,6 @@ jobs:
         uses: actions/upload-release-asset@v1
         with:
           upload_url: ${{ steps.recreate_release.outputs.upload_url }}
-          asset_path: ./kiss-find.gz
-          asset_name: kiss-find.gz
-          asset_content_type: application/gzip
+          asset_path: ./build/db
+          asset_name: db
+          asset_content_type: text/csv
