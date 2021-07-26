@@ -9,9 +9,8 @@ get_path_in_repo() {
     echo "$1" | cut -d"/" -f2-
 }
 
-# just *hope* no one puts an executable named "build" anywhere other than the package dirs
 find_packages() {
-    find "$1" -name build -type f -executable -exec dirname {} \;
+    find "$1" -name build -type f -exec dirname {} \;
 }
 
 fetch_repo() {
