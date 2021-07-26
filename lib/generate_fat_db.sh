@@ -1,5 +1,4 @@
-#!/bin/bash
-set -eu
+#!/bin/sh -e
 
 # might not work for non-github repos, fix that
 sanitize_folder_name() {
@@ -41,7 +40,7 @@ process_repo() {
     REPO="$1"
     FOLDER="$2"
 
-    find_packages "$FOLDER" | while read PACKAGE; do
+    find_packages "$FOLDER" | while read -r PACKAGE; do
     PPATH="$(get_path_in_repo "$PACKAGE")"
 
     echo "  -> Found package $PACKAGE" >&2
@@ -76,7 +75,7 @@ process_repo() {
 }
 
 mkdir -p "repos"
-cat "$1" | while read REPO; do
+while read -r REPO < "$1"; do
   cd repos
 
   FOLDER="$(sanitize_folder_name "$REPO")"
