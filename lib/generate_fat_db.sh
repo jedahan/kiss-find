@@ -74,7 +74,7 @@ process_repo() {
 }
 
 mkdir -p "repos"
-while read -r REPO < "$1"; do
+while read -r REPO; do
   cd repos
 
   FOLDER="$(sanitize_folder_name "$REPO")"
@@ -84,4 +84,4 @@ while read -r REPO < "$1"; do
   process_repo "$REPO" "$FOLDER"
 
   cd ..
-done
+done < "$1"
