@@ -40,36 +40,31 @@ process_repo() {
     FOLDER="$2"
 
     find_packages "$FOLDER" | while read -r PACKAGE; do
-    PPATH="$(get_path_in_repo "$PACKAGE")"
+        PPATH="$(get_path_in_repo "$PACKAGE")"
 
-    echo "  -> Found package $PACKAGE" >&2
+        echo "  -> Found package $PACKAGE" >&2
 
-    if [ -L "$PACKAGE/version" ]; then
-        # not sure how to handle symlinks in a proper way yet
-        VERSION="symlink"
-    elif [ -f "$PACKAGE/version" ]; then
-        VERSION="$(cat "$PACKAGE/version")"
-    else
-	VERSION="unknown"
-    fi
+        if [ -L "$PACKAGE/version" ]; then
+            # not sure how to handle symlinks in a proper way yet
+            VERSION="symlink"
+        elif [ -f "$PACKAGE/version" ]; then
+            VERSION="$(cat "$PACKAGE/version")"
+        else
+            VERSION="unknown"
+        fi
 
-    if [ -f "$PACKAGE/description" ]; then
         if [ -L "$PACKAGE/description" ]; then
             DESCRIPTION="symlink"
-        else
+        elif [ -f "$PACKAGE/description" ]; then
             DESCRIPTION="$(cat "$PACKAGE/description")"
+        else
+            DESCRIPTION=""
         fi
-    else
-        DESCRIPTION=""
-    fi
 
-    jq -c -n \
-        --arg version "$VERSION" \
-        --arg package "$(basename "$PACKAGE")" \
-        --arg repo "$REPO" \
-        --arg path "$PPATH" \
-        --arg description "$DESCRIPTION" \
-        '{"package":$package,"version":$version,"repo":$repo,"path":$path,"description":$description}'
+        NAME="$(basename "$PACKAGE")"
+
+        printf '%s,%s,%s,%s' "$NAME" "$VERSION" "$REPO" "$PPATH"
+        printf ',%s\n' "$DESCRIPTION"
     done
 }
 

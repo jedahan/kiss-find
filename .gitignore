@@ -1,4 +1,2 @@
 repos/
-lib/repo_list
-lib/packages.json
-kiss-find.gz
+build/

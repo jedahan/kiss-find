@@ -2,8 +2,8 @@
 # Search for packages across every known repository
 
 VERSION="1"
-DB_PATH="${XDG_CACHE_HOME:-${HOME}/.cache}"/kiss-find/db.gz
-UPDATE_URL="https://github.com/jedahan/kiss-find/releases/download/latest/kiss-find.gz"
+DB_PATH="${XDG_CACHE_HOME:-${HOME}/.cache}"/kiss-find/db
+UPDATE_URL="https://github.com/jedahan/kiss-find/releases/download/latest/kiss-find"
 
 mkdir -p "$(dirname "${DB_PATH}")"
 
@@ -35,5 +35,15 @@ if [ ! -f "${DB_PATH}" ]; then
   exit
 fi
 
-zcat "${DB_PATH}" | jq --arg query "$@" \
-  'to_entries[] | select(.key | ascii_downcase | contains($query | ascii_downcase))'
+_grep=${KISS_FIND_GREP:-"$(
+  command -v rg ||
+  command -v ag ||
+  command -v ack ||
+  command -v grep
+)"} || _grep=grep
+
+if [ -t 1 ]; then
+  "$_grep" "$@" "${DB_PATH}" | sort | column -t -s','
+else
+  "$_grep" "$@" "${DB_PATH}" | sort
+fi
