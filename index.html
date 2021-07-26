@@ -8,7 +8,9 @@
 
                 Array.from(document.getElementsByTagName('tr'))
                     .forEach(element => {
-                        const found = needle.length === 0 || element.firstChild.textContent.includes(needle)
+                        const found = needle.length === 0
+                              || element.firstChild.textContent.includes(needle)
+                              || element.lastChild.textContent.includes(needle)
                         element.className = found ? '' : 'hidden'
                     })
             }
