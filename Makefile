@@ -17,8 +17,10 @@ install-db: build/db
 	install -Dm644 -t $(XDG_CONFIG_HOME)/kiss-find db
 
 build/repo_list:
+	mkdir -p build
 	lib/sync_latest_repos.sh > build/repo_list
 
 db: build/repo_list
+	mkdir -p build
 	lib/generate_db.sh build/repo_list > build/db
 
