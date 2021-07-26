@@ -1,4 +1,4 @@
-.PHONY: clean db install install-cli install-db
+.PHONY: clean db web install install-cli install-db
 XDG_CONFIG_HOME := $(HOME)/.config
 
 all: build/db
@@ -20,3 +20,10 @@ build/db:
 	rm -rf build && mkdir -p build
 	lib/sync_latest_repos.sh > build/repo_list
 	lib/generate_db.sh build/repo_list > build/db
+
+web: build/db
+	mkdir -p web
+	cp -f index.html web/
+	cp -f build/db web/db.csv
+	git add web
+	git commit -m 'update gh-pages'

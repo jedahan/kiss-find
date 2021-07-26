@@ -1,0 +1,61 @@
+<head>
+    <script>
+        function init() {
+            const input = document.createElement('input')
+            input.type = 'search'
+            input.oninput = (event) => {
+                const needle = event.target.value.trim()
+
+                Array.from(document.getElementsByTagName('tr'))
+                    .forEach(element => {
+                        const found = needle.length === 0 || element.firstChild.textContent.includes(needle)
+                        element.className = found ? '' : 'hidden'
+                    })
+            }
+            fetch(new Request('db.csv')).then(async response => {
+                const text = await response.text()
+                const rows = text.split('\n')
+                    .map(entry => entry.split(','))
+                    .map((props) => {
+                        const tr = document.createElement('tr')
+
+                        props.forEach(prop => {
+                            const td = document.createElement('td')
+                            td.appendChild(document.createTextNode(prop))
+                            tr.appendChild(td)
+                        })
+                        return tr
+                    })
+
+                const table = document.createElement('table')
+
+                const head = document.createElement('thead')
+                const tr = document.createElement('tr')
+
+                const headers = ['name', 'version', 'url', 'path', 'description']
+                headers.forEach(header => {
+                    console.log(`header is ${header}`)
+                    const th = document.createElement('th')
+                    const thd = document.createTextNode(header)
+                    th.appendChild(thd)
+                    tr.appendChild(th)
+                })
+                head.appendChild(tr)
+                table.appendChild(head)
+
+                rows.forEach(row => table.appendChild(row))
+                const body = document.getElementsByTagName('body')[0]
+                body.appendChild(input)
+                body.appendChild(table)
+            })
+        }
+        window.onload = init
+    </script>
+    <style>
+        .hidden {
+            display: none;
+        }
+    </style>
+</head>
+
+<body></body>
