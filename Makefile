@@ -13,7 +13,7 @@ install-cli:
 
 install: install-cli install-db
 
-install-db: build/db
+install-db: db
 	install -Dm644 -t $(XDG_CONFIG_HOME)/kiss-find db
 
 build/repo_list:
