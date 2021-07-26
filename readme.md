@@ -1,8 +1,10 @@
 # kiss-find
 
-tool for indexing and searching as many kiss repositories as possible.
+tool for indexing and searching as many kiss repositories as possible
+
 web version up on https://jedahan.com/kiss-find
 
+database updates every 6 hours
 
 ![web client](amf.png)
 
