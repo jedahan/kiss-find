@@ -21,9 +21,7 @@ elif [ "$1" = "-u" ]; then
     command curl --location --silent \
       --user-agent "kiss-find/${VERSION}" \
       "${UPDATE_URL}" \
-      --output "${DB_PATH}"
-
-	command -v wget >/dev/null && \
+      --output "${DB_PATH}" || \
     command wget -U "kiss-find/${VERSION}" "${UPDATE_URL}" -O "${DB_PATH}"
 
   echo ":: Update done" >&2
