@@ -3,6 +3,9 @@
 tool for indexing and searching as many kiss repositories as possible.
 web version up on https://jedahan.com/kiss-find
 
+
+![web client](amf.png)
+
 build and index a new db
 
     make
