@@ -23,7 +23,6 @@ build/db:
 
 docs: build/db
 	mkdir -p web
-	cp -f index.html docs/
 	cp -f build/db docs/db.csv
 	git add docs
-	git commit -m 'update gh-pages'
+	git commit -m 'update pages db'

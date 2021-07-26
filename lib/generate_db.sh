@@ -41,6 +41,7 @@ process_repo() {
 
     find_packages "$FOLDER" | while read -r PACKAGE; do
         PPATH="$(get_path_in_repo "$PACKAGE")"
+        BRANCH="$(git -C ${PACKAGE%%\/*} branch --show-current || echo unknown)"
 
         echo "  -> Found package $PACKAGE" >&2
 
@@ -63,7 +64,8 @@ process_repo() {
 
         NAME="$(basename "$PACKAGE")"
 
-        printf '%s,%s,%s,%s' "$NAME" "$VERSION" "$REPO" "$PPATH"
+
+        printf '%s,%s,%s,%s,%s' "$NAME" "$VERSION" "$REPO" "$PPATH" "$BRANCH"
         printf ',%s\n' "$DESCRIPTION"
     done
 }

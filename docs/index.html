@@ -15,24 +15,24 @@
             element.className = found ? '' : 'hidden'
           })
       }
-      const headers = ['name', 'version', 'url', 'path', 'description']
+      const headers = ['name', 'version', 'url', 'path', 'branch', 'description']
       fetch(new Request('db.csv')).then(async response => {
         const text = await response.text()
         const rows = text.split('\n')
           .map(entry => entry.split(','))
-          .map(([name, version, url, path, description]) => {
+          .map(([name, version, url, path, branch, description]) => {
             const tr = document.createElement('tr')
 
             const makeNameTd = (name, url) => {
               const td = document.createElement('td')
               const a = document.createElement('a')
               if (url?.includes('sr.ht/')) {
-                a.href = [url, 'tree', 'master', 'item', path].join('/')
+                a.href = [url, 'tree', branch, 'item', path].join('/')
                 a.appendChild(document.createTextNode(name))
                 return a
               }
               if (url?.includes('github.com/')) {
-                a.href = [url, 'tree', 'main', path].join('/')
+                a.href = [url, 'tree', branch, path].join('/')
                 a.appendChild(document.createTextNode(name))
                 return a
               }
@@ -73,7 +73,7 @@
         const tr = document.createElement('tr')
 
         headers.forEach(header => {
-          if (header === 'path') return
+          if (['path', 'branch'].includes(header)) return
           const th = document.createElement('th')
           const thd = document.createTextNode(header)
           th.appendChild(thd)
