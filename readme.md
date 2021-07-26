@@ -1,6 +1,7 @@
 # kiss-find
 
 tool for indexing and searching as many kiss repositories as possible.
+web version up on https://jedahan.com/kiss-find
 
 build and index a new db
 
