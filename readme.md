@@ -10,11 +10,6 @@ install kiss-find and db
 
     make install
 
-install kiss-find standalone
-
-    make install-cli
-    kiss find -u # update from the prebuilt db
-
 try out kiss-find
 
     $ kiss find amf
@@ -27,8 +22,9 @@ try out kiss-find
 
 You can install kiss-find on kiss with the package in this repo.
 
-    cd dist/kiss/kiss-find
-    kiss build && kiss install
+    make install-cli
+    > cd dist/kiss/kiss-find
+    > kiss build && kiss install
     kiss find amf
 
 # build
