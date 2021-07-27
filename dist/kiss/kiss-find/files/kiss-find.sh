@@ -24,9 +24,12 @@ update() {
     echo "please install curl or wget to update" >&2 && exit
   }
 
-  command -v curl >/dev/null \
-    && command curl --location --silent --user-agent "kiss-find/${VERSION}" "${UPDATE_URL}" --output "${DB_PATH}" \
-    || command wget -U "kiss-find/${VERSION}" "${UPDATE_URL}" -O "${DB_PATH}"
+  if command -v curl >/dev/null 2>&1
+  then
+    command curl --location --silent --user-agent "kiss-find/${VERSION}" "${UPDATE_URL}" --output "${DB_PATH}" \
+  else
+    command wget -U "kiss-find/${VERSION}" "${UPDATE_URL}" -O "${DB_PATH}"
+  fi
 
   echo ":: Update done" >&2 && exit
 }
@@ -36,8 +39,8 @@ if [ -z "$1" ] || [ "$1" = "-h" ] || [ "$1" = "--help" ]; then show_help; exit; 
 if [ "$1" = "-u" ] || [ "$1" = "--update" ]; then update; exit; fi
 [ ! -f "${DB_PATH}" ] && show_update && exit
 
-_grep=${KISS_FIND_GREP:-"$(command -v rg || command -v ag || command -v ack || command -v grep)"}
-[ -z "$_grep" ] && echo "no grep found" >&2 && exit
+_grep=${KISS_FIND_GREP:-"$(command -v rg || command -v ag || command -v ack || command -v grep)"} ||
+  echo "no grep found" >&2 && exit
 
 results=$("$_grep" "$@" "${DB_PATH}" | sort)
 [ -t 1 ] && echo "$results" | column -t -s',' || echo "$results"
