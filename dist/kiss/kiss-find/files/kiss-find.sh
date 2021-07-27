@@ -8,6 +8,7 @@ mkdir -p "$(dirname "${DB_PATH}")"
 
 show_help() {
   echo "kiss-find ${VERSION}"
+  echo ""
   echo "$0 <query>         :: Search for packages across every known repository"
   echo "$0 -u, --update    :: Update package database"
   echo "$0 -h, --help      :: Show this help"
@@ -32,12 +33,23 @@ update() {
 }
 
 [ -f "${DB_PATH}" ] && (( $(date -r ~/.cache/kiss-find/db -v+7d +%s) < $(date +%s) )) && show_update
-if [ -z "$1" ] || [ "$1" = "-h" ] || [ "$1" = "--help" ]; then show_help; exit; fi
+if [ "$1" = "-h" ] || [ "$1" = "--help" ]; then show_help; exit; fi
+if [ -z "$1" ] && [ -z "$(command -v fzf 2>/dev/null)" ]; then show_help; exit; fi
 if [ "$1" = "-u" ] || [ "$1" = "--update" ]; then update; exit; fi
 [ ! -f "${DB_PATH}" ] && show_update && exit
 
 _grep=${KISS_FIND_GREP:-"$(command -v rg || command -v ag || command -v ack || command -v grep)"}
 [ -z "$_grep" ] && echo "no grep found" >&2 && exit
 
-results=$("$_grep" "$@" "${DB_PATH}" | sort)
-[ -t 1 ] && echo "$results" | column -t -s',' || echo "$results"
+if [ -t 1 ]; then
+  if command -v fzf 2>/dev/null; then
+    fzf --exact --preview-window down \
+      --preview "$_grep {q} ${DB_PATH} | column -t -s," \
+      --bind "enter:execute($_grep {q} ${DB_PATH} | column -t -s,)+accept" \
+      < "${DB_PATH}"
+  else
+    "$_grep" "$@" "${DB_PATH}" | sort | column -t -s,
+  fi
+else
+  "$_grep" "$@" "${DB_PATH}" | sort
+fi
