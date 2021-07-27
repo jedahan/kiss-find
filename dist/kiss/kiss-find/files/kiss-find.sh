@@ -35,8 +35,12 @@ update() {
 }
 
 [ -f "${DB_PATH}" ] && (( $(date -r ~/.cache/kiss-find/db -v+7d +%s) < $(date +%s) )) && show_update
-if [ -z "$1" ] || [ "$1" = "-h" ] || [ "$1" = "--help" ]; then show_help; exit; fi
-if [ "$1" = "-u" ] || [ "$1" = "--update" ]; then update; exit; fi
+case "$1" in
+  "" | "-h" | "--help")
+    show_help; exit ;;
+  "-u" | "--update")
+    update; exit ;;
+esac
 [ ! -f "${DB_PATH}" ] && show_update && exit
 
 _grep=${KISS_FIND_GREP:-"$(command -v rg || command -v ag || command -v ack || command -v grep)"} ||
