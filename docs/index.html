@@ -29,12 +29,14 @@
               if (url?.includes('sr.ht/')) {
                 a.href = [url, 'tree', branch, 'item', path].join('/')
                 a.appendChild(document.createTextNode(name))
-                return a
+                td.appendChild(a)
+                return td
               }
               if (url?.includes('github.com/')) {
                 a.href = [url, 'tree', branch, path].join('/')
                 a.appendChild(document.createTextNode(name))
-                return a
+                td.appendChild(a)
+                return td
               }
               return document.createTextNode(name)
             }
