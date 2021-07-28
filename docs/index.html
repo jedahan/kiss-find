@@ -5,6 +5,7 @@
       input.type = 'search'
       input.oninput = (event) => {
         const needle = event.target.value.trim()
+        console.log(`meta editor`)
 
         Array.from(document.getElementsByTagName('tr'))
           .forEach(element => {

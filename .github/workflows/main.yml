@@ -24,6 +24,10 @@ jobs:
       - name: generate database
         run: make
 
+      - name: display fake error
+        run: |
+          echo ::error file={docs/index.html},line={20}:: here is a fake error
+
       - name: recreate release
         id: recreate_release
         uses: GongT/actions-recreate-release@v1
