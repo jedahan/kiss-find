@@ -34,7 +34,6 @@ update() {
 
 [ -f "${DB_PATH}" ] && (( $(date -r ~/.cache/kiss-find/db -v+7d +%s) < $(date +%s) )) && show_update
 if [ "$1" = "-h" ] || [ "$1" = "--help" ]; then show_help; exit; fi
-if [ -z "$1" ] && [ -z "$(command -v fzf 2>/dev/null)" ]; then show_help; exit; fi
 if [ -z "$1" ] && ! command -v fzf 2>/dev/null; then show_help; exit; fi
 if [ "$1" = "-u" ] || [ "$1" = "--update" ]; then update; exit; fi
 [ ! -f "${DB_PATH}" ] && show_update && exit
