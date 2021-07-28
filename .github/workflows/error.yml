@@ -1,4 +1,4 @@
-name: build database
+name: show fake error
 
 on:
   pull_request:
@@ -11,4 +11,4 @@ jobs:
     steps:
       - name: display fake error
         run: |
-          echo ::error file={docs/index.html},line={20}:: here is a fake error
+          echo ::error file=docs/index.html,line=20:: here is a fake error
