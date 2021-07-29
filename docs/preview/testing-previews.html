@@ -17,8 +17,9 @@
           })
       }
       const headers = ['name', 'version', 'url', 'path', 'branch', 'description']
-      const prefix = window.location.includes('/preview/') ? '../' : ''
-      fetch(new Request(`${prefix}db.csv`)).then(async response => {
+      const isPreview = window.location.pathname.split('/').includes('preview')
+      const dbUrl = isPreview() ? '../db.csv' : 'db.csv'
+      fetch(new Request(dbUrl)).then(async response => {
         const text = await response.text()
         const rows = text.split('\n')
           .map(entry => entry.split(','))
