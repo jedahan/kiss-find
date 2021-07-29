@@ -1,0 +1,27 @@
+name: build database
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  schedule:
+    - cron: "0 */6 * * *"
+
+  workflow_dispatch:
+
+jobs:
+  update_database:
+    runs-on: ubuntu-latest
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    steps:
+      - name: checkout
+        uses: actions/checkout@v2
+
+      - name: generate database
+        run: make
+
+      - name: generate database
+        run: make

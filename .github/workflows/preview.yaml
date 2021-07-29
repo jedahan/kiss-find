@@ -1,0 +1,21 @@
+name: preview
+
+on: [ pull_request ]
+
+jobs:
+  preview:
+    runs-on: ubuntu-latest
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    steps:
+      - name: checkout
+        uses: actions/checkout@v2
+
+      - name: upload preview
+        run: |
+          mv docs/index.html docs/preview/${GITHUB_HEAD_REF}.html
+          git add docs/preview/${GITHUB_HEAD_REF}.html
+          git commit --message "preview for ${GITHUB_HEAD_REF}"
+          git push origin main
+          echo ::info::preview generated at https://jedahan.com/kiss-find/preview/${GITHUB_HEAD_REF}.html

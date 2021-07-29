@@ -2,8 +2,8 @@
 # Search for packages across every known repository
 
 VERSION="2"
-DB_PATH="${XDG_CACHE_HOME:-${HOME}/.cache}"/kiss-find/db
-UPDATE_URL="https://github.com/jedahan/kiss-find/releases/download/latest/db"
+DB_PATH="${XDG_CACHE_HOME:-${HOME}/.cache}"/kiss-find/db.csv
+UPDATE_URL="https://raw.githubusercontent.com/jedahan/kiss-find/main/docs/db.csv"
 mkdir -p "$(dirname "${DB_PATH}")"
 
 show_help() {
