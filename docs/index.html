@@ -5,7 +5,6 @@
       input.type = 'search'
       input.oninput = (event) => {
         const needle = event.target.value.trim()
-        console.log(`meta editor`)
 
         Array.from(document.getElementsByTagName('tr'))
           .forEach(element => {
@@ -16,85 +15,54 @@
             element.className = found ? '' : 'hidden'
           })
       }
-      const headers = ['name', 'version', 'url', 'path', 'branch', 'description']
+
       const isPreview = window.location.pathname.split('/').includes('preview')
       const dbUrl = isPreview ? '../db.csv' : 'db.csv'
-      fetch(new Request(dbUrl)).then(async response => {
-        const text = await response.text()
-        const rows = text.split('\n')
-          .map(entry => entry.split(','))
-          .map(([name, version, url, path, branch, description]) => {
-            const tr = document.createElement('tr')
+      fetch(new Request(dbUrl))
+        .then(async response => {
+          const text = await response.text()
+          const packages = text.split('\n')
+            .map(entry => entry.split(','))
+            .map(([name, version, uri, path, branch, description]) => {
+              const href = (url) => {
+                if (url.includes('sr.ht/')) return [url, 'tree', branch, 'item', path].join('/')
+                if (url.includes('github.com/')) return [url, 'tree', branch, path].join('/')
+                return url
+              }
 
-            const makeNameTd = (name, url) => {
-              const td = document.createElement('td')
-              const a = document.createElement('a')
-              if (url?.includes('sr.ht/')) {
-                a.href = [url, 'tree', branch, 'item', path].join('/')
-                a.appendChild(document.createTextNode(name))
-                td.appendChild(a)
+              const a = (url, name) => {
+                const a = document.createElement('a')
+                a.href = url
+                a.appendChild(document.createTextNode(name ?? url?.replace('https://','')))
+                return a
+              }
+
+              const td = (name, content) => {
+                const td = document.createElement('td')
+                if (typeof content === "string") {
+                  td.textContent = content
+                } else if (typeof content === "object") {
+                  td.appendChild(content)
+                }
                 return td
               }
-              if (url?.includes('github.com/')) {
-                a.href = [url, 'tree', branch, path].join('/')
-                a.appendChild(document.createTextNode(name))
-                td.appendChild(a)
-                return td
-              }
-              return document.createTextNode(name)
-            }
 
-            const makeVersionTd = (version) => {
-              const td = document.createElement('td')
-              td.appendChild(document.createTextNode(version))
-              return td
-            }
+              const package = document.createElement('tr')
+              package.append(
+                td('name', a(href(uri ?? ''), name)),
+                td('version', version),
+                td('url', a(uri)),
+                td('description', description),
+              )
+              return package
+            })
 
-            const makeUrlTd = (url) => {
-              const td = document.createElement('td')
-              const a = document.createElement('a')
-              a.href = url
-              a.appendChild(document.createTextNode(url?.replace('https://','')))
-              td.appendChild(a)
-              return td
-            }
-
-            const makeDescriptionTd = (description) => {
-              const td = document.createElement('td')
-              td.appendChild(document.createTextNode(description))
-              return td
-            }
-
-            tr.appendChild(makeNameTd(name, url))
-            tr.appendChild(makeVersionTd(version))
-            tr.appendChild(makeUrlTd(url))
-            tr.appendChild(makeDescriptionTd(description))
-            return tr
-          })
-
-        const table = document.createElement('table')
-
-        const head = document.createElement('thead')
-        const tr = document.createElement('tr')
-
-        headers.forEach(header => {
-          if (['path', 'branch'].includes(header)) return
-          const th = document.createElement('th')
-          const thd = document.createTextNode(header)
-          th.appendChild(thd)
-          tr.appendChild(th)
-        })
-        head.appendChild(tr)
-        table.appendChild(head)
-
-        const tbody = document.createElement('tbody')
-        rows.forEach(row => tbody.appendChild(row))
-        table.appendChild(tbody)
-        const body = document.getElementsByTagName('body')[0]
-        body.appendChild(input)
-        body.appendChild(table)
+          const packgesBody = document.getElementById('packagesBody')
+          packagesBody.append(...packages)
+          document.body.appendChild(input)
       })
     }
+
     window.onload = init
   </script>
   <style>
@@ -380,5 +348,16 @@
 
 <body>
   <h1>Kiss find (<a href=https://github.com/jedahan/kiss-find/>source</a>)</h1>
-  <h2>we love you</h2>
+  <table id=packages>
+    <thead>
+      <tr>
+      <th>name</th>
+      <th>version</th>
+      <th>url</th>
+      <th>description</th>
+    </tr>
+    </thead>
+    <tbody id=packagesBody>
+    </tbody>
+  </table>
 </body>
