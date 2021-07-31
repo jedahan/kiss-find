@@ -1,10 +1,10 @@
 .PHONY: clean install install-cli install-db release
 XDG_CONFIG_HOME := $(HOME)/.config
 
-all: docs/db.csv
+all: docs/db.csv docs/core.csv
 
 clean:
-	rm -rf build docs/db.csv
+	rm -rf build docs/*csv
 
 install: install-cli install-db
 
@@ -16,12 +16,14 @@ install-cli:
 install-db: docs/db.csv
 	install -Dm644 -t $(XDG_CONFIG_HOME)/kiss-find docs/db.csv
 
+docs/core.csv: docs/db.csv
+	grep 'https://github.com/kisslinux/repo' docs/db.csv > docs/core.csv
+
 docs/db.csv:
-	rm -rf build && mkdir -p build
 	lib/sync_latest_repos.sh > build/repo_list
 	lib/generate_db.sh build/repo_list > docs/db.csv
 
-release: docs/db.csv
-	git add docs/db.csv
-	git commit --message 'update pages db'
+release: docs/db.csv docs/core.csv
+	git add docs/db.csv docs/core.csv
+	git commit --message 'update package databases'
 	git push origin HEAD
