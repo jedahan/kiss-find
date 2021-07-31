@@ -80,4 +80,4 @@ while read -r REPO; do
     process_repo "$REPO" "$FOLDER"
 
     cd ..
-done <"$1"
+done <"${1:-/dev/stdin}"

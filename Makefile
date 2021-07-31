@@ -4,7 +4,7 @@ XDG_CONFIG_HOME := $(HOME)/.config
 all: docs/db.csv docs/core.csv
 
 clean:
-	rm -rf .repo_list docs/*csv
+	rm -f docs/db.csv docs/core.csv
 
 install: install-cli install-db
 
@@ -20,8 +20,7 @@ docs/core.csv: docs/db.csv
 	grep 'https://github.com/kisslinux/repo' docs/db.csv > docs/core.csv
 
 docs/db.csv:
-	lib/sync_latest_repos.sh > .repo_list
-	lib/generate_db.sh .repo_list > docs/db.csv
+	lib/sync_latest_repos.sh | lib/generate_db.sh > docs/db.csv
 
 release: docs/db.csv docs/core.csv
 	git add docs/db.csv docs/core.csv
