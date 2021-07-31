@@ -26,7 +26,7 @@ update() {
 
   if command -v curl >/dev/null 2>&1
   then
-    command curl --location --silent --user-agent "kiss-find/${VERSION}" "${UPDATE_URL}" --output "${DB_PATH}" \
+    command curl --location --silent --user-agent "kiss-find/${VERSION}" "${UPDATE_URL}" --output "${DB_PATH}"
   else
     command wget -U "kiss-find/${VERSION}" "${UPDATE_URL}" -O "${DB_PATH}"
   fi
@@ -34,7 +34,7 @@ update() {
   echo ":: Update done" >&2 && exit
 }
 
-[ -f "${DB_PATH}" ] && (( $(date -r ~/.cache/kiss-find/db -v+7d +%s) < $(date +%s) )) && show_update
+if [ -f "${DB_PATH}" ] && (( $(date -r ${DB_PATH} -v+7d +%s) < $(date +%s) )); then show_update; fi
 case "$1" in
   "" | "-h" | "--help")
     show_help; exit ;;
