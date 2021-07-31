@@ -1,8 +1,7 @@
 <head>
   <script>
     function init() {
-      const input = document.createElement('input')
-      input.type = 'search'
+      const input = document.getElementsByTagName('input')[0]
       input.oninput = (event) => {
         const needle = event.target.value.trim()
 
@@ -15,7 +14,6 @@
             element.className = found ? '' : 'hidden'
           })
       }
-      document.body.appendChild(input)
 
       const isPreview = window.location.pathname.split('/').includes('preview')
       const dbUrl = isPreview ? '../db.csv' : 'db.csv'
@@ -348,6 +346,7 @@
 
 <body>
   <h1>Kiss find (<a href=https://github.com/jedahan/kiss-find/>source</a>)</h1>
+  <input type=search placeholder=search autofocus />
   <table id=packages>
     <thead>
       <tr>
