@@ -19,7 +19,9 @@ jobs:
         uses: actions/checkout@v2
 
       - name: setup git config
-        run: git config user.name "GitHub Actions Bot" user.email "<>"
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "<>"
 
       - name: generate database
         run: make clean && make release
