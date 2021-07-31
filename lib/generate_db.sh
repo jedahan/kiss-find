@@ -57,13 +57,12 @@ process_repo() {
         if [ -L "$PACKAGE/description" ]; then
             DESCRIPTION="symlink"
         elif [ -f "$PACKAGE/description" ]; then
-            DESCRIPTION="$(cat "$PACKAGE/description")"
+            DESCRIPTION="$(head -n1 "$PACKAGE/description")"
         else
             DESCRIPTION=""
         fi
 
         NAME="$(basename "$PACKAGE")"
-
 
         printf '%s,%s,%s,%s,%s' "$NAME" "$VERSION" "$REPO" "$PPATH" "$BRANCH"
         printf ',%s\n' "$DESCRIPTION"
@@ -72,13 +71,13 @@ process_repo() {
 
 mkdir -p "repos"
 while read -r REPO; do
-  cd repos
+    cd repos
 
-  FOLDER="$(sanitize_folder_name "$REPO")"
-  echo ":: $REPO ($FOLDER)" >&2
+    FOLDER="$(sanitize_folder_name "$REPO")"
+    echo ":: $REPO ($FOLDER)" >&2
 
-  fetch_repo "$REPO" "$FOLDER"
-  process_repo "$REPO" "$FOLDER"
+    fetch_repo "$REPO" "$FOLDER"
+    process_repo "$REPO" "$FOLDER"
 
-  cd ..
-done < "$1"
+    cd ..
+done <"$1"
