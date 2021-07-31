@@ -4,7 +4,7 @@ XDG_CONFIG_HOME := $(HOME)/.config
 all: docs/db.csv
 
 clean:
-	rm -rf build/
+	rm -rf build docs/db.csv
 
 install: install-cli install-db
 

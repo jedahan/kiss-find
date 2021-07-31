@@ -19,7 +19,4 @@ jobs:
         uses: actions/checkout@v2
 
       - name: generate database
-        run: make
-
-      - name: generate database
-        run: make
+        run: make clean && make release
