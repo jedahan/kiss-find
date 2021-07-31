@@ -4,9 +4,10 @@
 VERSION="2"
 DB_PATH="${XDG_CACHE_HOME:-${HOME}/.cache}"/kiss-find/db.csv
 UPDATE_URL="https://raw.githubusercontent.com/jedahan/kiss-find/main/docs/db.csv"
+UPDATE_MESSAGE=':: Please run `kiss find --update` to download the latest database'
 mkdir -p "$(dirname "${DB_PATH}")"
 
-show_help() {
+help() {
   echo "kiss-find ${VERSION}"
   echo "$0 <query>         :: Search for packages across every known repository"
   echo "$0 -u, --update    :: Update package database"
@@ -14,37 +15,35 @@ show_help() {
   exit
 }
 
-show_update() {
-  echo ':: Please run `kiss find --update` to download the latest database' >&2
-  echo >&2
+log() {
+  echo "$@" >&2
+}
+
+die() {
+  log "$@"
+  exit 1
 }
 
 update() {
-  command -v curl >/dev/null || command -v wget >/dev/null || {
-    echo "please install curl or wget to update" >&2 && exit
-  }
-
-  if command -v curl >/dev/null 2>&1
-  then
+  if command -v curl >/dev/null 2>&1; then
     command curl --location --silent --user-agent "kiss-find/${VERSION}" "${UPDATE_URL}" --output "${DB_PATH}"
-  else
+  elif command -v wget >/dev/null 2>&1; then
     command wget -U "kiss-find/${VERSION}" "${UPDATE_URL}" -O "${DB_PATH}"
+  else
+    die 'please install curl or wget to update'
   fi
 
-  echo ":: Update done" >&2 && exit
+  log ':: Update done'
+  exit
 }
 
-if [ -f "${DB_PATH}" ] && (( $(date -r ${DB_PATH} -v+7d +%s) < $(date +%s) )); then show_update; fi
+if [ -f "${DB_PATH}" ] && [ "$(date -r "${DB_PATH}" -v+7d +%s)" -lt "$(date +%s)" ]; then log "$UPDATE_MESSAGE"; fi
 case "$1" in
-  "" | "-h" | "--help")
-    show_help; exit ;;
-  "-u" | "--update")
-    update; exit ;;
+"" | "-h" | "--help") help ;;
+"-u" | "--update") update ;;
 esac
-[ ! -f "${DB_PATH}" ] && show_update && exit
+if [ ! -f "${DB_PATH}" ]; then die "$UPDATE_MESSAGE"; fi
 
-_grep=${KISS_FIND_GREP:-"$(command -v rg || command -v ag || command -v ack || command -v grep)"} ||
-  echo "no grep found" >&2 && exit
-
+_grep=${KISS_FIND_GREP:-"$(command -v rg || command -v ag || command -v ack || command -v grep)"} || die "no grep found"
 results=$("$_grep" "$@" "${DB_PATH}" | sort)
-[ -t 1 ] && echo "$results" | column -t -s',' || echo "$results"
+if [ -t 0 ]; then echo "$results"; else echo "$results" | column -t -s','; fi
