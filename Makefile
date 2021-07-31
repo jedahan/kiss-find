@@ -23,7 +23,7 @@ docs/db.csv:
 	lib/sync_latest_repos.sh | lib/generate_db.sh > docs/db.csv
 
 release: docs/db.csv docs/core.csv
-	[ "$(git diff | wc -l)" -ne "0" ] \
-		&& git add docs/db.csv docs/core.csv \
-		&& git commit --message 'update package databases' \
-		&& git push origin HEAD
+	git diff --quiet && exit
+	git add docs/db.csv docs/core.csv
+	git commit --message 'update package databases'
+	git push origin HEAD
