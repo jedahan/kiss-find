@@ -29,3 +29,6 @@ release: docs/db.csv docs/core.csv
 		git commit --message 'update package databases'; \
 		git push origin HEAD; \
 	fi
+
+docs/static.html: docs/db.csv
+	tjs lib/render.js < docs/db.csv > docs/static.html
