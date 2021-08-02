@@ -15,6 +15,7 @@
             element.className = found ? '' : 'hidden'
           })
       }
+      input.className = ''
     }
 
     window.onload = init
@@ -302,7 +303,7 @@
 
 <body>
   <h1>Kiss find (<a href=https://github.com/jedahan/kiss-find/>source</a>)</h1>
-  <input type=search placeholder=search autofocus />
+  <input type=search placeholder=search class=hidden autofocus/>
   <table id=packages>
     <thead>
       <tr>
