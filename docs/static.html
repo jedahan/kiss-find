@@ -9,9 +9,9 @@
     Array.from(document.getElementsByTagName('tr')).forEach((element) => {
       const found =
         needle.length === 0 ||
-        element.firstChild.textContent.includes(needle) ||
-        element.children[2].textContent.includes(needle) ||
-        element.lastChild.textContent.includes(needle)
+        element.getElementsByClassName('name')?.[0]?.textContent.includes(needle) ||
+        element.getElementsByClassName('uri')?.[0]?.textContent.includes(needle) ||
+        element.getElementsByClassName('description')?.[0]?.textContent.includes(needle)
       element.className = found ? '' : 'hidden'
     })
   }
