@@ -35,13 +35,15 @@ You can install kiss-find on kiss with the package in this repo.
 
 # build
 
-This repository contains the tools used to create the kiss-find database.
+This repository contains the tools used to create the kiss-find database and web client.
 
-It requires `git` and `grep`
+The database build requires `git` and `grep`
 
 Optional support for github repo discovery is enabled by being logged in with the github `gh` cli, and requires `jq`.
 
 Run `make clean; make` to generate a fresh db for kiss-find.
+
+The web client build requires `tjs`
 
 # adding a repository
 

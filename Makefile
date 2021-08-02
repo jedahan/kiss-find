@@ -4,7 +4,7 @@ XDG_CONFIG_HOME := $(HOME)/.config
 all: docs/db.csv docs/core.csv
 
 clean:
-	rm -f docs/db.csv docs/core.csv
+	rm -f docs/db.csv docs/core.csv docs/static.html
 
 install: install-cli install-db
 
@@ -22,13 +22,13 @@ docs/core.csv: docs/db.csv
 docs/db.csv:
 	lib/sync_latest_repos.sh | lib/generate_db.sh > docs/db.csv
 
-release: docs/db.csv docs/core.csv
+release: docs/db.csv docs/core.csv docs/static.html
 	git diff --quiet
 	if [ $$? -ne 0 ]; then \
-		git add docs/db.csv docs/core.csv; \
+		git add docs/db.csv docs/core.csv docs/static.html; \
 		git commit --message 'update package databases'; \
 		git push origin HEAD; \
 	fi
 
-docs/static.html: docs/db.csv
+docs/static.html: docs/db.csv docs/style.css docs/search.js lib/render.js
 	tjs lib/render.js < docs/db.csv > docs/static.html
