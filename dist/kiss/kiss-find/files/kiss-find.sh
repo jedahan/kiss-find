@@ -5,6 +5,7 @@ VERSION="2"
 DB_PATH="${XDG_CACHE_HOME:-${HOME}/.cache}"/kiss-find/db.csv
 UPDATE_URL="https://raw.githubusercontent.com/jedahan/kiss-find/main/docs/db.csv"
 UPDATE_MESSAGE=':: Please run `kiss find --update` to download the latest database'
+UPDATE_INTERVAL=$((7 * 24 * 60 * 60)) # 7 days
 mkdir -p "$(dirname "${DB_PATH}")"
 
 help() {
@@ -37,7 +38,7 @@ update() {
   exit
 }
 
-if [ -f "${DB_PATH}" ] && [ "$(date -r "${DB_PATH}" -v+7d +%s)" -lt "$(date +%s)" ]; then log "$UPDATE_MESSAGE"; fi
+if [ -f "${DB_PATH}" ] && [ "$(($(date -r "${DB_PATH}" +%s) + UPDATE_INTERVAL))" -lt "$(date +%s)" ]; then log "$UPDATE_MESSAGE"; fi
 case "$1" in
 "" | "-h" | "--help") help ;;
 "-u" | "--update") update ;;
