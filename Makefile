@@ -9,8 +9,8 @@ clean:
 install: install-cli install-db
 
 install-cli:
-	cd dist/kiss/kiss-find
-	kiss build
+	cd dist/kiss/kiss-find && \
+	kiss build && \
 	kiss install
 
 install-db: docs/db.csv
