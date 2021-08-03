@@ -31,4 +31,5 @@ release: docs/db.csv docs/core.csv docs/static.html
 	fi
 
 docs/static.html: docs/db.csv docs/style.css docs/search.js lib/render.js
-	tjs lib/render.js < docs/db.csv > docs/static.html
+	command -v tjs 2>/dev/null \
+	&& tjs lib/render.js < docs/db.csv > docs/static.html
