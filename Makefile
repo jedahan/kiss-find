@@ -23,8 +23,7 @@ docs/db.csv:
 	lib/sync_latest_repos.sh | lib/generate_db.sh > docs/db.csv
 
 release: docs/db.csv docs/core.csv docs/static.html
-	git diff --quiet
-	if [ $$? -ne 0 ]; then \
+	if git diff --quiet; then \
 		git add docs/db.csv docs/core.csv docs/static.html; \
 		git commit --message 'update package databases'; \
 		git push origin HEAD; \
