@@ -30,7 +30,8 @@ release: docs/db.csv docs/core.csv docs/static.html
 		git push origin HEAD; \
 	fi
 
-docs/static.html: docs/db.csv docs/style.css docs/search.js lib/render.js
-	command -v tjs 2>/dev/null \
-	&& tjs lib/render.js < docs/db.csv > docs/static.html \
-	|| true
+txiki.js/build/tjs:
+	git clone --recursive https://github.com/saghul/txiki.js --shallow-submodules && make -C txiki.js
+
+docs/static.html: docs/db.csv docs/style.css docs/search.js lib/render.js txiki.js/build/tjs
+	txiki.js/build/tjs lib/render.js < docs/db.csv > docs/static.html
