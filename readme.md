@@ -47,14 +47,19 @@ The web client build requires `tjs`
 
 # adding a repository
 
-If your repository is on github, just add the 'kiss-repo' topic and it should be automatically picked up.
+If your repository is on github, just add the `kiss-repo` [topic][] and it should be automatically picked up.
 
-If your repository is anywhere else, make a PR to add it to `repo_safelist`.
+If your repository is anywhere else, [open a pull request][] adding it to the `include` file.
 
 # removing a repository
 
-If you would not like your repository indexed, send a PR to add it to `repo_blocklist`.
+If you would not like your repository indexed, [request removal][] and we will add it the `filter` file. 
 
 # credits
 
 Created by [@admicos](https://ecmelberk.com), rewritten and maintained by [@jedahan](https://github.com/jedahan)
+
+[open a pull request]: https://github.com/jedahan/kiss-find/
+[request a removal]: https://github.com/jedahan/kiss-find/issues/new?assignees=jedahan&labels=filter&template=remove-repository-request.md&title=Remove+repository+http%3A%2F%2Fgithub.com%2Fperson%2Fkiss-repo.git
+[the `filter` file]: https://github.com/jedahan/kiss-find/blob/main/filter
+[the `include` file]: https://github.com/jedahan/kiss-find/blob/main/include
