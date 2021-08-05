@@ -59,7 +59,7 @@ If you would not like your repository indexed, [request removal][] and we will a
 
 Created by [@admicos](https://ecmelberk.com), rewritten and maintained by [@jedahan](https://github.com/jedahan)
 
-[open a pull request]: https://github.com/jedahan/kiss-find/
+[open a pull request]: https://github.com/jedahan/kiss-find/edit/main/include
 [request a removal]: https://github.com/jedahan/kiss-find/issues/new?assignees=jedahan&labels=filter&template=remove-repository-request.md&title=Remove+repository+http%3A%2F%2Fgithub.com%2Fperson%2Fkiss-repo.git
 [the `filter` file]: https://github.com/jedahan/kiss-find/blob/main/filter
 [the `include` file]: https://github.com/jedahan/kiss-find/blob/main/include
