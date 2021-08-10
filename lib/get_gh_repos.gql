@@ -7,9 +7,9 @@
 
 query {
   search(type: REPOSITORY, query: "topic:kiss-repo", first: 100) {
+    repositoryCount
     edges {
       node {
-        __typename
         ... on Repository {
           url
         }
