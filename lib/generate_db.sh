@@ -64,7 +64,7 @@ process_repo() {
 
         NAME="$(basename "$PACKAGE")"
 
-        printf '%s,%s,%s,%s,%s' "$NAME" "$VERSION" "$REPO" "$PPATH" "$BRANCH"
+        printf '%s,%s,%s,%s,"%s"' "$NAME" "$VERSION" "$REPO" "$PPATH" "$BRANCH"
         printf ',%s\n' "$DESCRIPTION"
     done
 }
