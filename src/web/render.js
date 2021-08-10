@@ -58,8 +58,8 @@ function html(pieces) {
     })
     .join('\n      ')
 
-  const datalist = Array.from(new Set(packages))
-    .map(([name]) => `<option value="${name}">`)
+  const datalist = Array.from(new Set(packages.map(([name]) => name)))
+    .map(name => `<option value="${name}">`)
     .join('\n      ')
 
   console.log(html`

@@ -8,7 +8,8 @@ window.onload = function () {
         needle.length === 0 ||
         element.getElementsByClassName('name')?.[0]?.textContent.includes(needle) ||
         element.getElementsByClassName('url')?.[0]?.textContent.includes(needle) ||
-        element.getElementsByClassName('description')?.[0]?.textContent.includes(needle)
+        element.getElementsByClassName('description')?.[0]?.textContent.includes(needle) ||
+        Array.from(element.getElementsByTagName('a')).some(a => a.textContent.includes(needle))
       element.className = found ? 'match' : 'hidden'
     })
 
