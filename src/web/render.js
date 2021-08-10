@@ -58,7 +58,9 @@ function html(pieces) {
     })
     .join('\n      ')
 
-  const datalist = Array.from(new Set(packages.map(([name]) => name)))
+  const names = Array.from(new Set(packages.map(([name]) => name)))
+
+  const datalist = names
     .map(name => `<option value="${name}">`)
     .join('\n      ')
 
@@ -79,6 +81,7 @@ function html(pieces) {
   <h1>Kiss find (<a href=https://github.com/jedahan/kiss-find/>source</a>)</h1>
   <input list=packages type=search placeholder=search class=hidden autofocus/>
   <span> <span id=count>${packages.length}</span> packages</span>
+  <span> (<span id=uniques>${names.length}</span> unique)</span>
   <datalist id=packages>
     ${datalist}
   </datalist>

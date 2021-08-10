@@ -33,7 +33,7 @@ build/txiki.js:
 	git clone --recursive https://github.com/saghul/txiki.js --shallow-submodules build/txiki.js
 
 $(TJS): build/txiki.js
-	make -C txiki.js
+	make -C build/txiki.js
 
 $(WEBSITE): $(DB) src/web/style.css src/web/search.js src/web/render.js $(TJS)
 	mkdir -p build/web; \
