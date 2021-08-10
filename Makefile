@@ -20,13 +20,14 @@ install-cli:
 	kiss build && \
 	kiss install
 
-install-db: docs/db.csv
+install-db: $(DB)
 	install -Dm644 -t $(XDG_CONFIG_HOME)/kiss-find $(DB)
 
 $(CORE): $(DB)
 	grep 'https://github.com/kisslinux/repo' $(DB) > $(CORE)
 
 $(DB):
+	mkdir -p $(DESTDIR); \
 	src/db/list_repositories.sh | src/db/build_database.sh > $(DB)
 
 build/txiki.js:
