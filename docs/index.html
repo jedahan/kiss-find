@@ -1,5 +1,8 @@
 
 <head>
+  <meta charset=utf-8 />
+  <title>kiss find</title>
+  <link href="data:image/gif;base64,R0lGODlhEAAQAPH/AAAAAP8AAP8AN////yH5BAUAAAQALAAAAAAQABAAAAM2SLrc/jA+QBUFM2iqA2bAMHSktwCCWJIYEIyvKLOuJt+wV69ry5cfwu7WCVp2RSPoUpE4n4sEADs=" rel="icon">
   <script>
     window.onload = function () {
   const input = document.getElementsByTagName('input')[0]
@@ -12,8 +15,10 @@
         element.getElementsByClassName('name')?.[0]?.textContent.includes(needle) ||
         element.getElementsByClassName('uri')?.[0]?.textContent.includes(needle) ||
         element.getElementsByClassName('description')?.[0]?.textContent.includes(needle)
-      element.className = found ? '' : 'hidden'
+      element.className = found ? 'match' : 'hidden'
     })
+
+    document.getElementById('count').textContent = document.getElementsByClassName('match').length
   }
   input.className = ''
 }
@@ -305,6 +310,7 @@ fieldset {
 <body>
   <h1>Kiss find (<a href=https://github.com/jedahan/kiss-find/>source</a>)</h1>
   <input list=packages type=search placeholder=search class=hidden autofocus/>
+  <span> <span id=count>3029</span> packages</span>
   <datalist id=packages>
     <option value="godot-git">
       <option value="git">

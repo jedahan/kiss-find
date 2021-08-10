@@ -9,8 +9,10 @@ window.onload = function () {
         element.getElementsByClassName('name')?.[0]?.textContent.includes(needle) ||
         element.getElementsByClassName('uri')?.[0]?.textContent.includes(needle) ||
         element.getElementsByClassName('description')?.[0]?.textContent.includes(needle)
-      element.className = found ? '' : 'hidden'
+      element.className = found ? 'match' : 'hidden'
     })
+
+    document.getElementById('count').textContent = document.getElementsByClassName('match').length
   }
   input.className = ''
 }
