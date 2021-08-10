@@ -39,7 +39,7 @@ function html(pieces) {
 
       function a(url, name) {
         const text = name ?? url?.replace('https://', '')
-        return `<a href=${url}>${text}</a>`
+        return `<a href=${url} class=url>${text}</a>`
       }
 
       const td = (name, content) => `<td class=${name}>${content}</td>`
@@ -49,7 +49,7 @@ function html(pieces) {
         [
           '  ' + td('name', a(href(uri ?? ''), name)),
           td('version', version),
-          td('url', a(uri)),
+          td('uri', a(uri)),
           td('description', description.slice(1).slice(0,-1)),
         ].join('\n        '),
         `</tr>`,

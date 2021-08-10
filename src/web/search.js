@@ -7,7 +7,7 @@ window.onload = function () {
       const found =
         needle.length === 0 ||
         element.getElementsByClassName('name')?.[0]?.textContent.includes(needle) ||
-        element.getElementsByClassName('uri')?.[0]?.textContent.includes(needle) ||
+        element.getElementsByClassName('url')?.[0]?.textContent.includes(needle) ||
         element.getElementsByClassName('description')?.[0]?.textContent.includes(needle)
       element.className = found ? 'match' : 'hidden'
     })
