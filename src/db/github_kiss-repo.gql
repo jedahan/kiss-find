@@ -1,0 +1,21 @@
+# Save output json
+#
+#     gh api graphql --field query=@github_kiss-repo.gql > results.json
+#
+# Convert to one url per-line
+#
+#     jq -r '.data.search.edges[].node.url' results.json | sort -f > repo_list
+
+query {
+  search(type: REPOSITORY, query: "topic:kiss-repo", first: 100) {
+    repositoryCount
+    edges {
+      node {
+        ... on Repository {
+          url
+        }
+      }
+    }
+  }
+}
+

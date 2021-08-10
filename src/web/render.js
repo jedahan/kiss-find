@@ -22,8 +22,8 @@ function html(pieces) {
 }
 
 ;(async () => {
-  const script = new TextDecoder().decode(await tjs.fs.readFile('docs/search.js'))
-  const style = new TextDecoder().decode(await tjs.fs.readFile('docs/style.css'))
+  const script = new TextDecoder().decode(await tjs.fs.readFile('src/web/search.js'))
+  const style = new TextDecoder().decode(await tjs.fs.readFile('src/web/style.css'))
   const packages = (await readFile())
     .split('\n')
     .filter((line) => line !== '')

@@ -1,34 +1,40 @@
-.PHONY: clean install install-cli install-db release
+.PHONY: clean install install-cli install-db
 XDG_CONFIG_HOME := $(HOME)/.config
+DESTDIR := build
+CORE := $(DESTDIR)/core.csv
+DB := $(DESTDIR)/db.csv
+WEBSITE := $(DESTDIR)/web/index.html
+TJS := build/txiki.js/build/tjs
 
-all: docs/db.csv docs/core.csv
+DATABASES := $(DB) $(CORE)
+
+all: $(DATABASES) $(WEBSITE)
 
 clean:
-	rm -f docs/db.csv docs/core.csv docs/index.html
+	rm -f $(DATABASES) $(WEBSITE)
 
 install: install-cli install-db
 
 install-cli:
-	cd dist/kiss/kiss-find && \
+	cd package/kiss-find && \
 	kiss build && \
 	kiss install
 
 install-db: docs/db.csv
-	install -Dm644 -t $(XDG_CONFIG_HOME)/kiss-find docs/db.csv
+	install -Dm644 -t $(XDG_CONFIG_HOME)/kiss-find $(DB)
 
-docs/core.csv: docs/db.csv
-	grep 'https://github.com/kisslinux/repo' docs/db.csv > docs/core.csv
+$(CORE): $(DB)
+	grep 'https://github.com/kisslinux/repo' $(DB) > $(CORE)
 
-docs/db.csv:
-	lib/sync_latest_repos.sh | lib/generate_db.sh > docs/db.csv
+$(DB):
+	src/db/list_repositories.sh | src/db/build_database.sh > $(DB)
 
-release: docs/db.csv docs/core.csv docs/index.html
-	git add docs/db.csv docs/core.csv docs/index.html; \
-	git commit --message 'update package databases and website'; \
-	git push origin HEAD;
+build/txiki.js:
+	git clone --recursive https://github.com/saghul/txiki.js --shallow-submodules build/txiki.js
 
-txiki.js/build/tjs:
-	git clone --recursive https://github.com/saghul/txiki.js --shallow-submodules && make -C txiki.js
+$(TJS): build/txiki.js
+	make -C txiki.js
 
-docs/index.html: docs/db.csv docs/style.css docs/search.js lib/render.js txiki.js/build/tjs
-	txiki.js/build/tjs lib/render.js < docs/db.csv > docs/index.html
+$(WEBSITE): $(DB) src/web/style.css src/web/search.js src/web/render.js $(TJS)
+	mkdir -p build/web; \
+	$(TJS) src/web/render.js < $(DB) > $(WEBSITE)

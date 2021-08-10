@@ -6,7 +6,7 @@ web version up on https://jedahan.com/kiss-find
 
 database updates every 6 hours
 
-![web client](amf.png)
+![web client](screenshot.png)
 
 build and index a new db
 

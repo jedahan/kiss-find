@@ -69,9 +69,9 @@ process_repo() {
     done
 }
 
-mkdir -p "repos"
+mkdir -p "build/repos"
 while read -r REPO; do
-    cd repos
+    cd build/repos
 
     FOLDER="$(sanitize_folder_name "$REPO")"
     echo ":: $REPO ($FOLDER)" >&2
