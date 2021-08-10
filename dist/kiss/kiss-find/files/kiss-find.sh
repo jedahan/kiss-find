@@ -38,11 +38,11 @@ update() {
   exit
 }
 
-if [ -f "${DB_PATH}" ] && [ "$(($(date -r "${DB_PATH}" +%s) + UPDATE_INTERVAL))" -lt "$(date +%s)" ]; then log "$UPDATE_MESSAGE"; fi
 case "$1" in
 "" | "-h" | "--help") help ;;
 "-u" | "--update") update ;;
 esac
+if [ -f "${DB_PATH}" ] && [ "$(($(date -r "${DB_PATH}" +%s) + UPDATE_INTERVAL))" -lt "$(date +%s)" ]; then log "$UPDATE_MESSAGE"; fi
 if [ ! -f "${DB_PATH}" ]; then die "$UPDATE_MESSAGE"; fi
 
 _grep=${KISS_FIND_GREP:-"$(command -v rg || command -v ag || command -v ack || command -v grep)"} || die "no grep found"
