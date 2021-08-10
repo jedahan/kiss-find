@@ -59,25 +59,21 @@ process_repo() {
         elif [ -f "$PACKAGE/description" ]; then
             DESCRIPTION="$(head -n1 "$PACKAGE/description")"
         else
-            DESCRIPTION=""
+            DESCRIPTION=" "
         fi
 
         NAME="$(basename "$PACKAGE")"
 
-        printf '%s,%s,%s,%s,"%s"' "$NAME" "$VERSION" "$REPO" "$PPATH" "$BRANCH"
-        printf ',%s\n' "$DESCRIPTION"
+        printf '%s,%s,%s,%s,%s,"%s"\n' \
+          "$NAME" "$VERSION" "$REPO" "$PPATH" "$BRANCH" "$DESCRIPTION"
     done
 }
 
-mkdir -p "build/repos"
+mkdir -p "build/repos" && cd build/repos
 while read -r REPO; do
-    cd build/repos
-
     FOLDER="$(sanitize_folder_name "$REPO")"
     echo ":: $REPO ($FOLDER)" >&2
 
     fetch_repo "$REPO" "$FOLDER"
     process_repo "$REPO" "$FOLDER"
-
-    cd ..
 done <"${1:-/dev/stdin}"

@@ -50,7 +50,7 @@ function html(pieces) {
           '  ' + td('name', a(href(uri ?? ''), name)),
           td('version', version),
           td('url', a(uri)),
-          td('description', description),
+          td('description', description.slice(1).slice(0,-1)),
         ].join('\n        '),
         `</tr>`,
       ].join('\n      ')
