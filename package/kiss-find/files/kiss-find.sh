@@ -3,7 +3,7 @@
 
 VERSION="2"
 DB_PATH="${XDG_CACHE_HOME:-${HOME}/.cache}"/kiss-find/db.csv
-UPDATE_URL="https://raw.githubusercontent.com/jedahan/kiss-find/main/docs/db.csv"
+UPDATE_URL="https://jedahan.com/kiss-find/db.csv"
 UPDATE_MESSAGE=':: Please run `kiss find --update` to download the latest database'
 UPDATE_INTERVAL=$((7 * 24 * 60 * 60)) # 7 days
 mkdir -p "$(dirname "${DB_PATH}")"
