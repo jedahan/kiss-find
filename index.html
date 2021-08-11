@@ -29,7 +29,7 @@
   input.addEventListener('input', (event) => {
     const needle = event.target.value.trim().toLowerCase()
 
-    Array.from(document.getElementsByTagName('tr')).forEach((element) => {
+    Array.from(document.getElementById('packages').getElementsByTagName('tr')).forEach((element) => {
       const found =
         needle.length === 0 ||
         element.getElementsByClassName('name')?.[0]?.textContent.toLowerCase().includes(needle) ||
@@ -329,10 +329,10 @@ fieldset {
 
 <body>
   <h1>Kiss find (<a href=https://github.com/jedahan/kiss-find/>source</a>)</h1>
-  <input list=packages type=search placeholder=search class=hidden autofocus/>
+  <input list=names type=search placeholder=search class=hidden autofocus/>
   <span> <span id=count>4866</span> packages</span>
   <span> (<span id=uniques>2094</span> unique)</span>
-  <datalist id=packages>
+  <datalist id=names>
     <option value="git">
       <option value="velox">
       <option value="units">
@@ -2438,7 +2438,7 @@ fieldset {
       <th>description</th>
     </tr>
     </thead>
-    <tbody>
+    <tbody id=packages>
       <tr>
         <td class=name><a href=https://git.nihaljere.xyz/kiss-nihal/file/git/build.html class=url>git</a></td>
         <td class=version>symlink</td>
