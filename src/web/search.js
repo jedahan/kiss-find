@@ -23,7 +23,7 @@ window.onload = function () {
   input.addEventListener('input', (event) => {
     const needle = event.target.value.trim().toLowerCase()
 
-    Array.from(document.getElementsByTagName('tr')).forEach((element) => {
+    Array.from(document.getElementById('packages').getElementsByTagName('tr')).forEach((element) => {
       const found =
         needle.length === 0 ||
         element.getElementsByClassName('name')?.[0]?.textContent.toLowerCase().includes(needle) ||
