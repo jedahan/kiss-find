@@ -28,6 +28,7 @@ window.onload = function () {
         needle.length === 0 ||
         element.getElementsByClassName('name')?.[0]?.textContent.toLowerCase().includes(needle) ||
         element.getElementsByClassName('url')?.[0]?.textContent.toLowerCase().includes(needle) ||
+        element.getElementsByClassName('maintainer')?.[0]?.textContent.toLowerCase().includes(needle) ||
         element.getElementsByClassName('description')?.[0]?.textContent.toLowerCase().includes(needle) ||
         Array.from(element.getElementsByTagName('a')).some(a => a.textContent.toLowerCase().includes(needle))
       element.className = found ? 'match' : 'hidden'
