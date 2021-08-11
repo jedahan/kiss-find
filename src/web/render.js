@@ -30,18 +30,19 @@ function html(pieces) {
     .map((entry) => entry.split(','))
 
   const tbody = packages
-    .map(([name, version, uri, path, branch, description]) => {
-      const href = (url) => {
+    .map(([name, version, uri, path, branch, maintainer, description]) => {
+      function href(url) {
         if (url.includes('sr.ht/')) return [url, 'tree', branch, 'item', path].join('/')
         if (url.includes('github.com/')) return [url, 'tree', branch, path].join('/')
-        if (url.startsWith('git://')) return [url.replace(/^git:\/\//,'https://'), 'file', path, 'build.html'].join('/')
+        if (url.startsWith('git://'))
+          return [url.replace(/^git:\/\//, 'https://'), 'file', path, 'build.html'].join('/')
         return url
       }
 
-      function a(url, name) {
-        const text = name ?? url?.replace('https://', '')
-        return `<a href=${url} class=url>${text}</a>`
-      }
+      const unquote = (string) => string.slice(1).slice(0, -1)
+
+      const a = (url, name) =>
+        `<a href=${url} class=url>${name ?? url?.replace('https://', '')}</a>`
 
       const td = (name, content) => `<td class=${name}>${content}</td>`
 
@@ -51,7 +52,8 @@ function html(pieces) {
           '  ' + td('name', a(href(uri ?? ''), name)),
           td('version', version.split(' ')[0]),
           td('uri', a(uri)),
-          td('description', description.slice(1).slice(0,-1)),
+          td('maintainer', unquote(maintainer)),
+          td('description', unquote(description)),
         ].join('\n        '),
         `</tr>`,
       ].join('\n      ')
@@ -61,9 +63,7 @@ function html(pieces) {
 
   const names = Array.from(new Set(packages.map(([name]) => name)))
 
-  const datalist = names
-    .map(name => `<option value="${name}">`)
-    .join('\n      ')
+  const datalist = names.map((name) => `<option value="${name}">`).join('\n      ')
 
   console.log(html`
 <head>
@@ -92,6 +92,7 @@ function html(pieces) {
       <th>name</th>
       <th>version</th>
       <th>url</th>
+      <th>maintainer</th>
       <th>description</th>
     </tr>
     </thead>
