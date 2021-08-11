@@ -34,6 +34,7 @@ function html(pieces) {
       const href = (url) => {
         if (url.includes('sr.ht/')) return [url, 'tree', branch, 'item', path].join('/')
         if (url.includes('github.com/')) return [url, 'tree', branch, path].join('/')
+        if (url.startsWith('git://')) return [url.replace(/^git:\/\//,'https://'), 'file', path, 'build.html'].join('/')
         return url
       }
 
@@ -48,7 +49,7 @@ function html(pieces) {
         `<tr>`,
         [
           '  ' + td('name', a(href(uri ?? ''), name)),
-          td('version', version),
+          td('version', version.split(' ')[0]),
           td('uri', a(uri)),
           td('description', description.slice(1).slice(0,-1)),
         ].join('\n        '),
