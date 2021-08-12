@@ -3527,7 +3527,7 @@ firefox-privacy,1.0 3,https://github.com/kisslinux/repo,extra/firefox-privacy,ma
 llvm,12.0.1 1,https://github.com/kisslinux/repo,extra/llvm,master,"Dylan Araps"," "
 kirc,0.2.9 1,https://github.com/kisslinux/repo,extra/kirc,master,"Dylan Araps"," "
 mesa,21.2.0 1,https://github.com/kisslinux/repo,extra/mesa,master,"Dylan Araps"," "
-nodejs,16.6.1 1,https://github.com/kisslinux/repo,extra/nodejs,master,"Dylan Araps"," "
+nodejs,16.6.2 1,https://github.com/kisslinux/repo,extra/nodejs,master,"Dylan Araps"," "
 nasm,2.15.05 1,https://github.com/kisslinux/repo,extra/nasm,master,"Dylan Araps"," "
 hicolor-icon-theme,0.17 1,https://github.com/kisslinux/repo,extra/hicolor-icon-theme,master,"Dylan Araps"," "
 util-linux,2.37.1 1,https://github.com/kisslinux/repo,extra/util-linux,master,"Dylan Araps"," "
