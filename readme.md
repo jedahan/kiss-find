@@ -24,6 +24,12 @@ try out kiss-find
     bamf       0.5.4 1  https://github.com/eudaldgr/elementaKISS  extra/bamf
     tinyramfs  git 1    https://github.com/mmatongo/dm            kernel/tinyramfs
 
+# contributing
+
+This project uses [git bug][], a distributed bug-tracker that integrates with the git repository, to manage issues, features, etc.
+
+For folks who are more comfortable with the web you may use the [github issue tracker][].
+
 # client
 
 You can install kiss-find on kiss with the package in this repo.
@@ -59,6 +65,8 @@ If you would not like your repository indexed, [request removal][] and we will a
 
 Created by [@admicos](https://ecmelberk.com), rewritten and maintained by [@jedahan](https://github.com/jedahan)
 
+[git bug]: https://github.com/MichaelMure/git-bug
+[github issue tracker]: https://github.com/jedahan/kiss-find/issues
 [open a pull request]: https://github.com/jedahan/kiss-find/edit/main/include
 [request a removal]: https://github.com/jedahan/kiss-find/issues/new?assignees=jedahan&labels=filter&template=remove-repository-request.md&title=Remove+repository+http%3A%2F%2Fgithub.com%2Fperson%2Fkiss-repo.git
 [the `filter` file]: https://github.com/jedahan/kiss-find/blob/main/filter
