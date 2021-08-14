@@ -89,8 +89,12 @@ function html(pieces) {
 </head>
 
 <body>
-  <h1>Kiss find (<a href=https://github.com/jedahan/kiss-find/>source</a>)</h1>
-  <p>${stats.packages} packages by ${stats.maintainers} maintainers across ${stats.repositories} repositories</p>
+  <h1>kiss find</h1>
+  <p>
+    <span>${stats.packages} packages by ${stats.maintainers} maintainers across ${stats.repositories} repositories</span>
+    (<a href=https://github.com/jedahan/kiss-find/>source</a>)
+  </p>
+
   <input list=names type=search placeholder=search class=hidden autofocus/>
   <span> <span id=count>${packages.length}</span> matches</span>
   <span> (<span id=uniques>${names.length}</span> unique)</span>
