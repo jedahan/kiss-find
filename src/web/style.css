@@ -11,6 +11,10 @@ tr td:nth-child(2) {
   overflow: hidden;
 }
 
+thead a:hover::after {
+  content: ' ↕ ';
+}
+
 /* Sakura.css v1.3.1
   * ================
   * Minimal css theme.
