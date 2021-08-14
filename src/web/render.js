@@ -24,7 +24,6 @@ function html(pieces) {
 ;(async () => {
   const search = new TextDecoder().decode(await tjs.fs.readFile('src/web/search.js'))
   const sort = new TextDecoder().decode(await tjs.fs.readFile('src/web/sort.js'))
-  const stats = new TextDecoder().decode(await tjs.fs.readFile('src/web/stats.js'))
   const style = new TextDecoder().decode(await tjs.fs.readFile('src/web/style.css'))
   const packages = (await readFile())
     .split('\n')
@@ -67,6 +66,12 @@ function html(pieces) {
 
   const datalist = names.map((name) => `<option value="${name}">`).join('\n      ')
 
+  const stats = {
+    packages: new Set(packages.map((info) => info[0])).size,
+    repositories: new Set(packages.map((info) => info[2])).size,
+    maintainers: new Set(packages.map((info) => info[5])).size,
+  }
+
   console.log(html`
 <head>
   <meta charset=utf-8 />
@@ -78,9 +83,6 @@ function html(pieces) {
   <script>
     ${sort}
   </script>
-  <script>
-    ${stats}
-  </script>
   <style>
     ${style}
   </style>
@@ -88,8 +90,9 @@ function html(pieces) {
 
 <body>
   <h1>Kiss find (<a href=https://github.com/jedahan/kiss-find/>source</a>)</h1>
+  <p>${stats.packages} packages by ${stats.maintainers} maintainers across ${stats.repositories} repositories</p>
   <input list=names type=search placeholder=search class=hidden autofocus/>
-  <span> <span id=count>${packages.length}</span> packages</span>
+  <span> <span id=count>${packages.length}</span> matches</span>
   <span> (<span id=uniques>${names.length}</span> unique)</span>
   <datalist id=names>
     ${datalist}
