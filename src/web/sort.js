@@ -24,9 +24,8 @@ function sortColumn(column) {
     arrayTable.reverse()
   } else {
     arrayTable.sort((a, b) => {
-      if (a[column] === b[column]) return 0
-      if (a[column] < b[column]) return -1
-      return 1
+      const [A, B] = [a, b].map((texts) => texts[column].replace(/<[^>]*>/g, ''))
+      return A === B ? 0 : A < B ? -1 : 1
     })
   }
 
