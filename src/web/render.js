@@ -22,7 +22,8 @@ function html(pieces) {
 }
 
 ;(async () => {
-  const script = new TextDecoder().decode(await tjs.fs.readFile('src/web/search.js'))
+  const search = new TextDecoder().decode(await tjs.fs.readFile('src/web/search.js'))
+  const sort = new TextDecoder().decode(await tjs.fs.readFile('src/web/sort.js'))
   const style = new TextDecoder().decode(await tjs.fs.readFile('src/web/style.css'))
   const packages = (await readFile())
     .split('\n')
@@ -71,7 +72,10 @@ function html(pieces) {
   <title>kiss find</title>
   <link href="data:image/gif;base64,R0lGODlhEAAQAPH/AAAAAP8AAP8AN////yH5BAUAAAQALAAAAAAQABAAAAM2SLrc/jA+QBUFM2iqA2bAMHSktwCCWJIYEIyvKLOuJt+wV69ry5cfwu7WCVp2RSPoUpE4n4sEADs=" rel="icon">
   <script>
-    ${script}
+    ${search}
+  </script>
+  <script>
+    ${sort}
   </script>
   <style>
     ${style}
@@ -86,15 +90,15 @@ function html(pieces) {
   <datalist id=names>
     ${datalist}
   </datalist>
-  <table>
+  <table id=sortable>
     <thead>
-      <tr>
-      <th>name</th>
-      <th>version</th>
-      <th>url</th>
-      <th>maintainer</th>
-      <th>description</th>
-    </tr>
+      <tr id=header>
+        <th>name</th>
+        <th>version</th>
+        <th>url</th>
+        <th>maintainer</th>
+        <th>description</th>
+      </tr>
     </thead>
     <tbody id=packages>
       ${tbody}

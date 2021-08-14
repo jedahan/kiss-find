@@ -11,9 +11,11 @@ window.onload = function () {
 
         document.getElementById('count').textContent = matches.length
 
-        document.getElementById('uniques').textContent = new Set(Array.from(document.getElementsByClassName('match'))
-          .map(match => match.getElementsByClassName('name')?.[0]?.textContent))
-          .size
+        document.getElementById('uniques').textContent = new Set(
+          Array.from(document.getElementsByClassName('match')).map(
+            (match) => match.getElementsByClassName('name')?.[0]?.textContent
+          )
+        ).size
         queued = false
       })
     }
@@ -23,17 +25,26 @@ window.onload = function () {
   input.addEventListener('input', (event) => {
     const needle = event.target.value.trim().toLowerCase()
 
-    Array.from(document.getElementById('packages').getElementsByTagName('tr')).forEach((element) => {
-      const found =
-        needle.length === 0 ||
-        element.getElementsByClassName('name')?.[0]?.textContent.toLowerCase().includes(needle) ||
-        element.getElementsByClassName('url')?.[0]?.textContent.toLowerCase().includes(needle) ||
-        element.getElementsByClassName('maintainer')?.[0]?.textContent.toLowerCase().includes(needle) ||
-        element.getElementsByClassName('description')?.[0]?.textContent.toLowerCase().includes(needle) ||
-        Array.from(element.getElementsByTagName('a')).some(a => a.textContent.toLowerCase().includes(needle))
-      element.className = found ? 'match' : 'hidden'
-    })
-
+    Array.from(document.getElementById('packages').getElementsByTagName('tr')).forEach(
+      (element) => {
+        const found =
+          needle.length === 0 ||
+          element.getElementsByClassName('name')?.[0]?.textContent.toLowerCase().includes(needle) ||
+          element.getElementsByClassName('url')?.[0]?.textContent.toLowerCase().includes(needle) ||
+          element
+            .getElementsByClassName('maintainer')?.[0]
+            ?.textContent.toLowerCase()
+            .includes(needle) ||
+          element
+            .getElementsByClassName('description')?.[0]
+            ?.textContent.toLowerCase()
+            .includes(needle) ||
+          Array.from(element.getElementsByTagName('a')).some((a) =>
+            a.textContent.toLowerCase().includes(needle)
+          )
+        element.className = found ? 'match' : 'hidden'
+      }
+    )
   })
   input.className = ''
 }

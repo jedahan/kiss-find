@@ -36,7 +36,7 @@ build/txiki.js:
 $(TJS): build/txiki.js
 	make -C build/txiki.js
 
-$(WEBSITE): $(DB) src/web/style.css src/web/search.js src/web/render.js $(TJS)
+$(WEBSITE): $(DB) src/web/style.css src/web/search.js src/web/sort.js src/web/render.js $(TJS)
 	mkdir -p build/web; \
 	cp -f build/db.csv build/web/db.csv; \
 	$(TJS) src/web/render.js < $(DB) > $(WEBSITE)
