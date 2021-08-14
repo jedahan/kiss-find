@@ -4,7 +4,7 @@
   <title>kiss find</title>
   <link href="data:image/gif;base64,R0lGODlhEAAQAPH/AAAAAP8AAP8AN////yH5BAUAAAQALAAAAAAQABAAAAM2SLrc/jA+QBUFM2iqA2bAMHSktwCCWJIYEIyvKLOuJt+wV69ry5cfwu7WCVp2RSPoUpE4n4sEADs=" rel="icon">
   <script>
-    window.onload = function () {
+    window.addEventListener('load', () => {
   let queued = false
   const input = document.getElementsByTagName('input')[0]
 
@@ -53,7 +53,7 @@
     )
   })
   input.className = ''
-}
+})
 
   </script>
   <script>
@@ -83,9 +83,8 @@ function sortColumn(column) {
     arrayTable.reverse()
   } else {
     arrayTable.sort((a, b) => {
-      if (a[column] === b[column]) return 0
-      if (a[column] < b[column]) return -1
-      return 1
+      const [A, B] = [a, b].map((texts) => texts[column].replace(/<[^>]*>/g, ''))
+      return A === B ? 0 : A < B ? -1 : 1
     })
   }
 
@@ -99,6 +98,8 @@ function sortColumn(column) {
         arrayTable[row][column]
     })
   })
+
+  document.getElementsByTagName('input')[0].dispatchEvent(new Event('input'))
 }
 
   </script>
@@ -2494,11 +2495,11 @@ fieldset {
   <table id=sortable>
     <thead>
       <tr id=header>
-        <th>name</th>
-        <th>version</th>
-        <th>url</th>
-        <th>maintainer</th>
-        <th>description</th>
+        <th><a href=#>name</a></th>
+        <th><a href=#>version</a></th>
+        <th><a href=#>url</a></th>
+        <th><a href=#>maintainer</a></th>
+        <th><a href=#>description</a></th>
       </tr>
     </thead>
     <tbody id=packages>
@@ -18527,7 +18528,7 @@ fieldset {
       </tr>
       <tr>
         <td class=name><a href=https://github.com/ehawkvu/kiss-xorg/tree/master/community/imlib2 class=url>imlib2</a></td>
-        <td class=version>1.7.2</td>
+        <td class=version>1.7.3</td>
         <td class=uri><a href=https://github.com/ehawkvu/kiss-xorg class=url>github.com/ehawkvu/kiss-xorg</a></td>
         <td class=maintainer>Ethan</td>
         <td class=description> </td>

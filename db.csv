@@ -2287,7 +2287,7 @@ xcb-util-image,0.4.0 1,https://github.com/ehawkvu/kiss-xorg,xorg/xcb-util-image,
 xf86-input-libinput,1.1.0 1,https://github.com/ehawkvu/kiss-xorg,xorg/xf86-input-libinput,master,"Dylan Araps"," "
 xf86-video-vesa,2.5.0 1,https://github.com/ehawkvu/kiss-xorg,xorg/xf86-video-vesa,master,"Dylan Araps"," "
 xrdb,1.2.1 1,https://github.com/ehawkvu/kiss-xorg,xorg/xrdb,master,"Ethan"," "
-imlib2,1.7.2 1,https://github.com/ehawkvu/kiss-xorg,community/imlib2,master,"Ethan"," "
+imlib2,1.7.3 1,https://github.com/ehawkvu/kiss-xorg,community/imlib2,master,"Ethan"," "
 xdotool,3.20160805.1 1,https://github.com/ehawkvu/kiss-xorg,community/xdotool,master,"Ethan"," "
 libXft-bgra-git,git 1,https://github.com/ehawkvu/kiss-xorg,community/libXft-bgra-git,master,"Ethan"," "
 xnotify,0.8.1 1,https://github.com/ehawkvu/kiss-xorg,community/xnotify,master,"Ethan"," "
