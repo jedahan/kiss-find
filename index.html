@@ -103,6 +103,21 @@ function sortColumn(column) {
 }
 
   </script>
+  <script>
+    window.addEventListener('load', () => {
+  const maintainers = new Set(
+    Array.from(document.getElementsByClassName('maintainer')).map((element) => element.textContent)
+  ).size
+  document.getElementById('maintainerHeader').textContent += ` (${maintainers})`
+
+  const uris = new Set(
+    Array.from(document.getElementsByClassName('uri')).map((element) => element.textContent)
+  ).size
+
+  document.getElementById('urlHeader').textContent += ` (${uris})`
+})
+
+  </script>
   <style>
     .hidden {
   display: none;
@@ -2495,11 +2510,11 @@ fieldset {
   <table id=sortable>
     <thead>
       <tr id=header>
-        <th><a href=#>name</a></th>
-        <th><a href=#>version</a></th>
-        <th><a href=#>url</a></th>
-        <th><a href=#>maintainer</a></th>
-        <th><a href=#>description</a></th>
+        <th><a href=# id=nameHeader>name</a></th>
+        <th><a href=# id=versionHeader>version</a></th>
+        <th><a href=# id=urlHeader>url</a></th>
+        <th><a href=# id=maintainerHeader>maintainer</a></th>
+        <th><a href=# id=descriptionHeader>description</a></th>
       </tr>
     </thead>
     <tbody id=packages>
