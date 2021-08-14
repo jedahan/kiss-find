@@ -24,6 +24,7 @@ function html(pieces) {
 ;(async () => {
   const search = new TextDecoder().decode(await tjs.fs.readFile('src/web/search.js'))
   const sort = new TextDecoder().decode(await tjs.fs.readFile('src/web/sort.js'))
+  const stats = new TextDecoder().decode(await tjs.fs.readFile('src/web/stats.js'))
   const style = new TextDecoder().decode(await tjs.fs.readFile('src/web/style.css'))
   const packages = (await readFile())
     .split('\n')
@@ -77,6 +78,9 @@ function html(pieces) {
   <script>
     ${sort}
   </script>
+  <script>
+    ${stats}
+  </script>
   <style>
     ${style}
   </style>
@@ -93,11 +97,11 @@ function html(pieces) {
   <table id=sortable>
     <thead>
       <tr id=header>
-        <th><a href=#>name</a></th>
-        <th><a href=#>version</a></th>
-        <th><a href=#>url</a></th>
-        <th><a href=#>maintainer</a></th>
-        <th><a href=#>description</a></th>
+        <th><a href=# id=nameHeader>name</a></th>
+        <th><a href=# id=versionHeader>version</a></th>
+        <th><a href=# id=urlHeader>url</a></th>
+        <th><a href=# id=maintainerHeader>maintainer</a></th>
+        <th><a href=# id=descriptionHeader>description</a></th>
       </tr>
     </thead>
     <tbody id=packages>
