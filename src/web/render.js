@@ -93,11 +93,11 @@ function html(pieces) {
   <table id=sortable>
     <thead>
       <tr id=header>
-        <th>name</th>
-        <th>version</th>
-        <th>url</th>
-        <th>maintainer</th>
-        <th>description</th>
+        <th><a href=#>name</a></th>
+        <th><a href=#>version</a></th>
+        <th><a href=#>url</a></th>
+        <th><a href=#>maintainer</a></th>
+        <th><a href=#>description</a></th>
       </tr>
     </thead>
     <tbody id=packages>

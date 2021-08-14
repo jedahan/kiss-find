@@ -1,4 +1,4 @@
-window.onload = function () {
+window.addEventListener('load', () => {
   let queued = false
   const input = document.getElementsByTagName('input')[0]
 
@@ -47,4 +47,4 @@ window.onload = function () {
     )
   })
   input.className = ''
-}
+})

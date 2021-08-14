@@ -40,4 +40,6 @@ function sortColumn(column) {
         arrayTable[row][column]
     })
   })
+
+  document.getElementsByTagName('input')[0].dispatchEvent(new Event('input'))
 }
