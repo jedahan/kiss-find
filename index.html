@@ -103,21 +103,6 @@ function sortColumn(column) {
 }
 
   </script>
-  <script>
-    window.addEventListener('load', () => {
-  const maintainers = new Set(
-    Array.from(document.getElementsByClassName('maintainer')).map((element) => element.textContent)
-  ).size
-  document.getElementById('maintainerHeader').textContent += ` (${maintainers})`
-
-  const uris = new Set(
-    Array.from(document.getElementsByClassName('uri')).map((element) => element.textContent)
-  ).size
-
-  document.getElementById('urlHeader').textContent += ` (${uris})`
-})
-
-  </script>
   <style>
     .hidden {
   display: none;
@@ -130,6 +115,10 @@ tr td:nth-child(2) {
   min-width: 10em;
   text-overflow: ellipsis;
   overflow: hidden;
+}
+
+thead a:hover::after {
+  content: ' ↕ ';
 }
 
 /* Sakura.css v1.3.1
@@ -403,8 +392,9 @@ fieldset {
 
 <body>
   <h1>Kiss find (<a href=https://github.com/jedahan/kiss-find/>source</a>)</h1>
+  <p>2099 packages by 114 maintainers across 93 repositories</p>
   <input list=names type=search placeholder=search class=hidden autofocus/>
-  <span> <span id=count>4879</span> packages</span>
+  <span> <span id=count>4879</span> matches</span>
   <span> (<span id=uniques>2099</span> unique)</span>
   <datalist id=names>
     <option value="git">
