@@ -1196,7 +1196,7 @@ amfora,1.8.0 1,https://github.com/aabacchus/kiss-repo,amfora,main,"aabacchus","a
 lld,12.0.1 1,https://github.com/aabacchus/kiss-repo,lld,main,"aabacchus"," "
 gtk+2,2.24.33 1,https://github.com/aabacchus/kiss-repo,gtk+2,main,"aabacchus"," "
 colorpicker,git 1,https://github.com/aabacchus/kiss-repo,colorpicker,main,"aabacchus"," "
-kiss,5.5.25 1,https://github.com/aabacchus/kiss-repo,forks/kiss,main,"aabacchus"," "
+kiss,5.5.26 1,https://github.com/aabacchus/kiss-repo,forks/kiss,main,"aabacchus"," "
 snownews,git 1,https://github.com/aabacchus/kiss-repo,snownews,main,"aabacchus"," "
 gpgme,1.15.1 1,https://github.com/aabacchus/kiss-repo,gpgme,main,"aabacchus"," "
 neomutt,20210205 1,https://github.com/aabacchus/kiss-repo,neomutt,main,"aabacchus"," "
