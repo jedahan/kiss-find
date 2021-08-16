@@ -24,7 +24,7 @@ jobs:
           git config user.email "<>"
 
       - name: generate database
-        run: make clean && make build/web/index.html
+        run: make clean && make build/web/index.html && make repology
 
       - name: update github pages
         uses: JamesIves/github-pages-deploy-action@4.1.4

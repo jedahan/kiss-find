@@ -1,4 +1,4 @@
-.PHONY: clean install install-cli install-db
+.PHONY: clean install install-cli install-db repology
 XDG_CONFIG_HOME := $(HOME)/.config
 DESTDIR := build
 CORE := $(DESTDIR)/core.csv
@@ -8,7 +8,7 @@ TJS := build/txiki.js/build/tjs
 
 DATABASES := $(DB) $(CORE)
 
-all: $(DATABASES) $(WEBSITE)
+all: $(DATABASES) $(WEBSITE) repology
 
 clean:
 	rm -f $(DATABASES) $(WEBSITE)
@@ -35,6 +35,21 @@ build/txiki.js:
 
 $(TJS): build/txiki.js
 	make -C build/txiki.js
+
+build/web/repology:
+	mkdir -p build/web/repology
+
+repology: build/web/repology/kiss-linux.json build/web/repology/kiss-community.json
+
+build/web/repology/kiss-linux.json: build/web/repology build/db.csv
+	grep 'github.com/kisslinux' build/db.csv \
+		| jq --slurp --raw-input --raw-output 'split("\n") | .[0:-1] | map(split(",")) | map({"name": .[0], "version": .[1], "maintainer": .[5]|ltrimstr("\"")|rtrimstr("\"")})' \
+		> build/web/repology/kiss-linux.json
+
+build/web/repology/kiss-community.json: build/web/repology build/db.csv
+	grep --invert-match 'github.com/kisslinux' build/db.csv \
+		| jq --slurp --raw-input --raw-output 'split("\n") | .[0:-1] | map(split(",")) | map({"name": .[0], "version": .[1], "maintainer": .[5]|ltrimstr("\"")|rtrimstr("\""), "description": .[6]|ltrimstr("\"")|rtrimstr("\"") })' \
+		> build/web/repology/kiss-community.json
 
 $(WEBSITE): $(DB) src/web/style.css src/web/search.js src/web/sort.js src/web/render.js $(TJS)
 	mkdir -p build/web; \
