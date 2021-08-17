@@ -12996,6 +12996,12 @@
     "description": " "
   },
   {
+    "name": "r-lang",
+    "version": "4.1.1 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "python",
     "version": "3.7.9 1",
     "maintainer": "Ethan",
@@ -18300,6 +18306,12 @@
     "description": " "
   },
   {
+    "name": "bison",
+    "version": "3.7.6 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
     "name": "openssh",
     "version": "8.6p1 3",
     "maintainer": "hovercats",
@@ -18542,12 +18554,6 @@
   {
     "name": "musl",
     "version": "1.2.2 1",
-    "maintainer": "hovercats",
-    "description": " "
-  },
-  {
-    "name": "bison",
-    "version": "3.7.6 1",
     "maintainer": "hovercats",
     "description": " "
   },
