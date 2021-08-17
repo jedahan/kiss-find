@@ -3607,7 +3607,7 @@ libass,0.15.1 1,https://github.com/kisslinux/repo,extra/libass,master,"Dylan Ara
 libjpeg-turbo,2.1.1 1,https://github.com/kisslinux/repo,extra/libjpeg-turbo,master,"Dylan Araps"," "
 lame,3.100 2,https://github.com/kisslinux/repo,extra/lame,master,"Dylan Araps"," "
 pango,1.48.8 1,https://github.com/kisslinux/repo,extra/pango,master,"Dylan Araps"," "
-git,2.32.0 1,https://github.com/kisslinux/repo,core/git,master,"Dylan Araps"," "
+git,2.33.0 1,https://github.com/kisslinux/repo,core/git,master,"Dylan Araps"," "
 pigz,2.6 2,https://github.com/kisslinux/repo,core/pigz,master,"Dylan Araps"," "
 zlib,1.2.11 3,https://github.com/kisslinux/repo,core/zlib,master,"Dylan Araps"," "
 make,4.3 1,https://github.com/kisslinux/repo,core/make,master,"Dylan Araps"," "
