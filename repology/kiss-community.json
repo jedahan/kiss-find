@@ -3066,6 +3066,12 @@
     "description": " "
   },
   {
+    "name": "libdb",
+    "version": "5.3.28 1",
+    "maintainer": "Zola",
+    "description": " "
+  },
+  {
     "name": "libunistring",
     "version": "0.9.10 1",
     "maintainer": "git-bruh",
@@ -18493,7 +18499,7 @@
   },
   {
     "name": "git",
-    "version": "2.32.0 1",
+    "version": "2.33.0 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -18584,6 +18590,12 @@
   {
     "name": "libXft",
     "version": "2.3.4 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "sowm",
+    "version": "1.6 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -26959,8 +26971,8 @@
   },
   {
     "name": "cataclysm-dda",
-    "version": "0.F 1",
-    "maintainer": "Claudia",
+    "version": "0.F-1 1",
+    "maintainer": "Linux User",
     "description": " "
   },
   {
@@ -26971,7 +26983,7 @@
   },
   {
     "name": "crispy-doom",
-    "version": "5.10.2 1",
+    "version": "5.10.3 1",
     "maintainer": "Linux User",
     "description": " "
   },
@@ -28129,8 +28141,8 @@
   },
   {
     "name": "boost",
-    "version": "1.76.0 1 ",
-    "maintainer": "Claudia",
+    "version": "1.77.0 1 ",
+    "maintainer": "Linux User",
     "description": " "
   },
   {
