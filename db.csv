@@ -3539,7 +3539,7 @@ libogg,1.3.5 1,https://github.com/kisslinux/repo,extra/libogg,master,"Dylan Arap
 perl,5.34.0 1,https://github.com/kisslinux/repo,extra/perl,master,"Dylan Araps"," "
 json-c,0.15 1,https://github.com/kisslinux/repo,extra/json-c,master,"Dylan Araps"," "
 pcre,8.45 1,https://github.com/kisslinux/repo,extra/pcre,master,"Dylan Araps"," "
-mold,aea7fac8f06a21988ad1c9496cbc8ea8ef754ec0 1,https://github.com/kisslinux/repo,extra/mold,master,"Dylan Araps"," "
+mold,34558f410dd34c045e16b783b9f9c42079b42247 1,https://github.com/kisslinux/repo,extra/mold,master,"Dylan Araps"," "
 e2fsprogs,1.46.3 1,https://github.com/kisslinux/repo,extra/e2fsprogs,master,"Dylan Araps"," "
 rust,1.54.0 1,https://github.com/kisslinux/repo,extra/rust,master,"Dylan Araps"," "
 dosfstools,4.2 1,https://github.com/kisslinux/repo,extra/dosfstools,master,"Dylan Araps"," "
