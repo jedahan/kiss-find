@@ -1,7 +1,7 @@
 [
   {
     "name": "firefox",
-    "version": "92.0b4 1",
+    "version": "92.0b5 1",
     "maintainer": "Dylan Araps"
   },
   {
@@ -406,7 +406,7 @@
   },
   {
     "name": "pango",
-    "version": "1.48.8 1",
+    "version": "1.48.9 1",
     "maintainer": "Dylan Araps"
   },
   {
