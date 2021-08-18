@@ -3108,6 +3108,7 @@ libXi,1.7.99.2 1,https://github.com/hovercats/kiss-dumpsterfire,xorg/libXi,main,
 libXdamage,1.1.5 2,https://github.com/hovercats/kiss-dumpsterfire,xorg/libXdamage,main,"hovercats"," "
 no-wm,git 1,https://github.com/hovercats/kiss-dumpsterfire,xorg/no-wm,main,"hovercats"," "
 st,0.8.4 1,https://github.com/hovercats/kiss-dumpsterfire,xorg/st,main,"hovercats"," "
+glazier,0.1 1,https://github.com/hovercats/kiss-dumpsterfire,xorg/glazier,main,"hovercats"," "
 xcb-util-keysyms,0.4.0 1,https://github.com/hovercats/kiss-dumpsterfire,xorg/xcb-util-keysyms,main,"hovercats"," "
 libXfixes,6.0.0 1,https://github.com/hovercats/kiss-dumpsterfire,xorg/libXfixes,main,"hovercats"," "
 xcb-util-cursor,0.1.3 1,https://github.com/hovercats/kiss-dumpsterfire,xorg/xcb-util-cursor,main,"hovercats"," "

@@ -18660,6 +18660,12 @@
     "description": " "
   },
   {
+    "name": "glazier",
+    "version": "0.1 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
     "name": "xcb-util-keysyms",
     "version": "0.4.0 1",
     "maintainer": "hovercats",
