@@ -13026,6 +13026,12 @@
     "description": " "
   },
   {
+    "name": "openblas",
+    "version": "0.3.17 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "sbcl",
     "version": "2.1.7 1",
     "maintainer": "Ethan",
@@ -13501,7 +13507,7 @@
   },
   {
     "name": "firefox-beta",
-    "version": "92.0b4 1",
+    "version": "92.0b5 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13549,7 +13555,7 @@
   },
   {
     "name": "pango",
-    "version": "1.48.8 1",
+    "version": "1.48.9 1",
     "maintainer": "Ethan",
     "description": " "
   },
