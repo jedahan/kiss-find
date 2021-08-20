@@ -76,7 +76,7 @@
   },
   {
     "name": "e2fsprogs",
-    "version": "1.46.3 1",
+    "version": "1.46.4 1",
     "maintainer": "Dylan Araps"
   },
   {
@@ -121,7 +121,7 @@
   },
   {
     "name": "mesa",
-    "version": "21.2.0 1",
+    "version": "21.2.1 1",
     "maintainer": "Dylan Araps"
   },
   {
@@ -196,7 +196,7 @@
   },
   {
     "name": "ccache",
-    "version": "4.3 1",
+    "version": "4.4 1",
     "maintainer": "Dylan Araps"
   },
   {
@@ -296,7 +296,7 @@
   },
   {
     "name": "glib",
-    "version": "2.68.3 1",
+    "version": "2.68.4 1",
     "maintainer": "Dylan Araps"
   },
   {
