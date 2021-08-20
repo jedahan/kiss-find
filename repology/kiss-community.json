@@ -18205,7 +18205,7 @@
   },
   {
     "name": "mesa",
-    "version": "21.2.0 1",
+    "version": "21.2.1 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -18264,6 +18264,12 @@
     "description": " "
   },
   {
+    "name": "ssu",
+    "version": "0.3.2 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
     "name": "vim",
     "version": "git 1",
     "maintainer": "hovercats",
@@ -18296,6 +18302,12 @@
   {
     "name": "devour",
     "version": "git 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "samurai",
+    "version": "1.2 1",
     "maintainer": "hovercats",
     "description": " "
   },
