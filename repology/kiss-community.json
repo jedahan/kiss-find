@@ -2364,6 +2364,12 @@
     "description": " "
   },
   {
+    "name": "libsamplerate",
+    "version": "0.2.1 1",
+    "maintainer": "Zola",
+    "description": " "
+  },
+  {
     "name": "flac",
     "version": "1.3.3 1",
     "maintainer": "Owen Rafferty",
@@ -3031,7 +3037,7 @@
   },
   {
     "name": "catgirl",
-    "version": "1.9 1",
+    "version": "1.9a 1",
     "maintainer": "aabacchus",
     "description": " "
   },
@@ -3861,6 +3867,12 @@
     "name": "libzmq",
     "version": "4.3.4 1",
     "maintainer": "Zola",
+    "description": " "
+  },
+  {
+    "name": "rsync",
+    "version": "3.2.3 1",
+    "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
@@ -16740,12 +16752,6 @@
     "description": " "
   },
   {
-    "name": "glib",
-    "version": "symlink",
-    "maintainer": "unknown",
-    "description": " "
-  },
-  {
     "name": "wpa_supplicant",
     "version": "symlink",
     "maintainer": "unknown",
@@ -27427,7 +27433,7 @@
   },
   {
     "name": "cdogs-sdl",
-    "version": "0.13.0 1",
+    "version": "1.0.0 1",
     "maintainer": "Linux User",
     "description": " "
   },
