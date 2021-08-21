@@ -13483,7 +13483,7 @@
   },
   {
     "name": "mesa",
-    "version": "21.2.0 1",
+    "version": "21.2.1 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13507,7 +13507,7 @@
   },
   {
     "name": "firefox-beta",
-    "version": "92.0b5 1",
+    "version": "92.0b6 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -21571,8 +21571,8 @@
   },
   {
     "name": "tor",
-    "version": "0.4.5.7 1",
-    "maintainer": "Daniel M. Matongo",
+    "version": "0.4.6.6 1",
+    "maintainer": "Kyryl Melekhin",
     "description": " "
   },
   {
@@ -22633,7 +22633,7 @@
   },
   {
     "name": "catgirl",
-    "version": "1.8 1",
+    "version": "1.9 1",
     "maintainer": "aabacchus",
     "description": " "
   },
@@ -22665,6 +22665,12 @@
     "name": "sane",
     "version": "1.0.32 1 ",
     "maintainer": "Cédric",
+    "description": " "
+  },
+  {
+    "name": "libdb",
+    "version": "5.3.28 1",
+    "maintainer": "Zola",
     "description": " "
   },
   {
@@ -23880,12 +23886,6 @@
     "description": " "
   },
   {
-    "name": "bzip2",
-    "version": "1.0.8 1",
-    "maintainer": "Kyryl Melekhin",
-    "description": " "
-  },
-  {
     "name": "mtdev",
     "version": "1.1.6 1",
     "maintainer": "Dylan Araps",
@@ -23989,8 +23989,8 @@
   },
   {
     "name": "e2fsprogs",
-    "version": "1.46.3 1",
-    "maintainer": "Kyryl Melekhin",
+    "version": "1.46.4 1",
+    "maintainer": "Dylan Araps",
     "description": " "
   },
   {
@@ -24049,14 +24049,14 @@
   },
   {
     "name": "mesa",
-    "version": "21.2.0 1",
-    "maintainer": "Kyryl Melekhin",
+    "version": "21.2.1 1",
+    "maintainer": "Dylan Araps",
     "description": " "
   },
   {
     "name": "nodejs",
-    "version": "16.6.1 1",
-    "maintainer": "Kyryl Melekhin",
+    "version": "16.7.0 1",
+    "maintainer": "Dylan Araps",
     "description": " "
   },
   {
@@ -24073,8 +24073,8 @@
   },
   {
     "name": "util-linux",
-    "version": "2.37.1 1",
-    "maintainer": "Kyryl Melekhin",
+    "version": "2.37.2 1",
+    "maintainer": "Dylan Araps",
     "description": " "
   },
   {
@@ -24151,8 +24151,8 @@
   },
   {
     "name": "ccache",
-    "version": "4.3 1",
-    "maintainer": "Dilyn Corner",
+    "version": "4.4 1",
+    "maintainer": "Dylan Araps",
     "description": " "
   },
   {
@@ -24187,8 +24187,8 @@
   },
   {
     "name": "openssh",
-    "version": "8.6p1 3",
-    "maintainer": "Kyryl Melekhin",
+    "version": "8.7p1 1",
+    "maintainer": "Dylan Araps",
     "description": " "
   },
   {
@@ -24211,8 +24211,8 @@
   },
   {
     "name": "gnugrep",
-    "version": "3.6 1",
-    "maintainer": "Kyryl Melekhin",
+    "version": "3.7 1",
+    "maintainer": "Dylan Araps",
     "description": " "
   },
   {
@@ -24253,8 +24253,8 @@
   },
   {
     "name": "meson",
-    "version": "0.59.0 1",
-    "maintainer": "Kyryl Melekhin",
+    "version": "0.59.1 1",
+    "maintainer": "Dylan Araps",
     "description": " "
   },
   {
@@ -24265,8 +24265,8 @@
   },
   {
     "name": "glib",
-    "version": "2.68.3 1",
-    "maintainer": "Kyryl Melekhin",
+    "version": "2.68.4 1",
+    "maintainer": "Dylan Araps",
     "description": " "
   },
   {
@@ -24355,8 +24355,8 @@
   },
   {
     "name": "libwebp",
-    "version": "1.2.0 1",
-    "maintainer": "git-bruh",
+    "version": "1.2.1 1",
+    "maintainer": "Dylan Araps",
     "description": " "
   },
   {
@@ -24403,14 +24403,20 @@
   },
   {
     "name": "pango",
-    "version": "1.48.7 1",
-    "maintainer": "Dilyn Corner",
+    "version": "1.48.9 2",
+    "maintainer": "Dylan Araps",
+    "description": " "
+  },
+  {
+    "name": "bzip2",
+    "version": "1.0.8 1",
+    "maintainer": "Dylan Araps",
     "description": " "
   },
   {
     "name": "git",
-    "version": "2.32.0 1",
-    "maintainer": "Dilyn Corner",
+    "version": "2.33.0 1",
+    "maintainer": "Dylan Araps",
     "description": " "
   },
   {
@@ -24439,8 +24445,8 @@
   },
   {
     "name": "kiss",
-    "version": "5.5.25 1",
-    "maintainer": "Kyryl Melekhin",
+    "version": "5.5.26 1",
+    "maintainer": "Dylan Araps",
     "description": " "
   },
   {
@@ -24463,8 +24469,8 @@
   },
   {
     "name": "busybox",
-    "version": "1.33.1 5",
-    "maintainer": "Kyryl Melekhin",
+    "version": "1.34.0 1",
+    "maintainer": "Dylan Araps",
     "description": " "
   },
   {
