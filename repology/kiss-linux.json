@@ -150,6 +150,11 @@
     "maintainer": "Dylan Araps"
   },
   {
+    "name": "mdevd",
+    "version": "0.1.4.0 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
     "name": "vim",
     "version": "git 1",
     "maintainer": "Dylan Araps"
@@ -431,7 +436,7 @@
   },
   {
     "name": "kiss",
-    "version": "5.5.26 1",
+    "version": "5.5.27 1",
     "maintainer": "Dylan Araps"
   },
   {

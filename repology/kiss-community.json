@@ -1717,13 +1717,19 @@
   },
   {
     "name": "cppcheck",
-    "version": "2.4.1 1",
+    "version": "2.5 1",
     "maintainer": "Martin Gulliksson",
     "description": " "
   },
   {
     "name": "glew",
     "version": "2.2.0 1",
+    "maintainer": "Martin Gulliksson",
+    "description": " "
+  },
+  {
+    "name": "feh",
+    "version": "3.7.1 1",
     "maintainer": "Martin Gulliksson",
     "description": " "
   },
@@ -1735,7 +1741,7 @@
   },
   {
     "name": "browser",
-    "version": "29.3.0 1",
+    "version": "29.4.0.1 1",
     "maintainer": "Martin Gulliksson",
     "description": " "
   },
@@ -6607,13 +6613,19 @@
   },
   {
     "name": "cppcheck",
-    "version": "2.4.1 1",
+    "version": "2.5 1",
     "maintainer": "Martin Gulliksson",
     "description": " "
   },
   {
     "name": "glew",
     "version": "2.2.0 1",
+    "maintainer": "Martin Gulliksson",
+    "description": " "
+  },
+  {
+    "name": "feh",
+    "version": "3.7.1 1",
     "maintainer": "Martin Gulliksson",
     "description": " "
   },
@@ -6625,7 +6637,7 @@
   },
   {
     "name": "browser",
-    "version": "29.3.0 1",
+    "version": "29.4.0.1 1",
     "maintainer": "Martin Gulliksson",
     "description": " "
   },
