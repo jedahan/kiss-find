@@ -7212,6 +7212,12 @@
     "description": " "
   },
   {
+    "name": "libstrophe",
+    "version": "0.10.1 1",
+    "maintainer": "aabacchus",
+    "description": " "
+  },
+  {
     "name": "gtk+2",
     "version": "2.24.33 1",
     "maintainer": "aabacchus",
@@ -7238,6 +7244,12 @@
   {
     "name": "gpgme",
     "version": "1.15.1 1",
+    "maintainer": "aabacchus",
+    "description": " "
+  },
+  {
+    "name": "profanity",
+    "version": "0.11.0 1",
     "maintainer": "aabacchus",
     "description": " "
   },
@@ -7285,7 +7297,7 @@
   },
   {
     "name": "miktex",
-    "version": "21.7 1",
+    "version": "21.8 1",
     "maintainer": "aabacchus",
     "description": " "
   },
@@ -13344,12 +13356,6 @@
     "description": " "
   },
   {
-    "name": "rsync",
-    "version": "3.2.3 1",
-    "maintainer": "Ethan",
-    "description": " "
-  },
-  {
     "name": "neovim-git",
     "version": "git 1",
     "maintainer": "Ethan",
@@ -18156,6 +18162,12 @@
     "description": " "
   },
   {
+    "name": "libxkbcommon",
+    "version": "1.3.0 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
     "name": "sfeed",
     "version": "0.9 1",
     "maintainer": "hovercats",
@@ -18331,7 +18343,7 @@
   },
   {
     "name": "catgirl",
-    "version": "1.9 1",
+    "version": "1.9a 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -18595,7 +18607,7 @@
   },
   {
     "name": "busybox",
-    "version": "1.33.1 5",
+    "version": "1.34.0 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -18824,6 +18836,12 @@
   {
     "name": "xcb-util-image",
     "version": "0.4.0 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "xbanish",
+    "version": "1.7 1",
     "maintainer": "hovercats",
     "description": " "
   },
