@@ -6990,24 +6990,6 @@
     "description": " "
   },
   {
-    "name": "zig-master",
-    "version": "git 1",
-    "maintainer": "Ominitay",
-    "description": " "
-  },
-  {
-    "name": "llvm",
-    "version": "12.0.0 2",
-    "maintainer": "Ominitay",
-    "description": " "
-  },
-  {
-    "name": "zig",
-    "version": "0.8.0 1",
-    "maintainer": "Ominitay",
-    "description": " "
-  },
-  {
     "name": "sowm",
     "version": "1.6 1",
     "maintainer": "SparklingPower",
@@ -26697,6 +26679,24 @@
     "name": "wl-clipboard",
     "version": "d2c32f2b4d469f53070e8c4052dea6f412de3916 1",
     "maintainer": "Linux User",
+    "description": " "
+  },
+  {
+    "name": "zig-master",
+    "version": "git 1",
+    "maintainer": "Ominitay",
+    "description": " "
+  },
+  {
+    "name": "llvm",
+    "version": "12.0.0 2",
+    "maintainer": "Ominitay",
+    "description": " "
+  },
+  {
+    "name": "zig",
+    "version": "0.8.0 1",
+    "maintainer": "Ominitay",
     "description": " "
   },
   {
