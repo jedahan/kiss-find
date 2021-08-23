@@ -4380,10 +4380,16 @@
     "description": " "
   },
   {
+    "name": "git",
+    "version": "2.33.0 1",
+    "maintainer": "AndreiSva",
+    "description": "dynamically linked git"
+  },
+  {
     "name": "python",
     "version": "3.9.6 2",
     "maintainer": "AndreiSva",
-    "description": " "
+    "description": "Python package with documentation (pydoc) and turtle modules included"
   },
   {
     "name": "gdb",
@@ -13782,6 +13788,18 @@
     "description": " "
   },
   {
+    "name": "gcr",
+    "version": "3.40.0 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "libtasn1",
+    "version": "4.17.0 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "libXft-bgra-git",
     "version": "git 1",
     "maintainer": "Ethan",
@@ -13958,6 +13976,12 @@
   {
     "name": "glew",
     "version": "2.2.0 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "p11-kit",
+    "version": "0.24.0 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -23823,6 +23847,12 @@
     "name": "tdb",
     "version": "1.4.5 1",
     "maintainer": "Cédric",
+    "description": " "
+  },
+  {
+    "name": "hitch",
+    "version": "1.5.2 1",
+    "maintainer": "Kyryl Melekhin",
     "description": " "
   },
   {
