@@ -221,7 +221,7 @@
   },
   {
     "name": "eiwd",
-    "version": "1.16 1",
+    "version": "1.17 1",
     "maintainer": "Dylan Araps"
   },
   {
@@ -441,7 +441,7 @@
   },
   {
     "name": "curl",
-    "version": "7.78.0 1",
+    "version": "7.78.0 2",
     "maintainer": "Dylan Araps"
   },
   {

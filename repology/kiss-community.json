@@ -3072,6 +3072,12 @@
     "description": " "
   },
   {
+    "name": "talloc",
+    "version": "2.3.3 1",
+    "maintainer": "Zola",
+    "description": " "
+  },
+  {
     "name": "sane",
     "version": "1.0.32 1 ",
     "maintainer": "Cédric",
@@ -7219,7 +7225,7 @@
   },
   {
     "name": "kiss",
-    "version": "5.5.26 1",
+    "version": "5.5.27 1",
     "maintainer": "aabacchus",
     "description": " "
   },
