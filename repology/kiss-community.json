@@ -18192,6 +18192,12 @@
     "description": " "
   },
   {
+    "name": "smdev",
+    "version": "git 2",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
     "name": "vimb",
     "version": "3.6.0 1",
     "maintainer": "hovercats",
@@ -18373,7 +18379,7 @@
   },
   {
     "name": "eiwd",
-    "version": "1.16 1",
+    "version": "1.17 1",
     "maintainer": "hovercats",
     "description": " "
   },
