@@ -7236,6 +7236,18 @@
     "description": " "
   },
   {
+    "name": "pxltrm",
+    "version": "git 1",
+    "maintainer": "aabacchus",
+    "description": " "
+  },
+  {
+    "name": "libnsgif",
+    "version": "0.2.1a 1",
+    "maintainer": "aabacchus",
+    "description": " "
+  },
+  {
     "name": "gpgme",
     "version": "1.15.1 1",
     "maintainer": "aabacchus",
