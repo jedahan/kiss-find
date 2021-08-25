@@ -1968,6 +1968,12 @@
     "description": " "
   },
   {
+    "name": "libpcap",
+    "version": "1.10.1 1",
+    "maintainer": "git-bruh",
+    "description": " "
+  },
+  {
     "name": "bemenu",
     "version": "0.6.3 1",
     "maintainer": "git-bruh",
@@ -2023,7 +2029,7 @@
   },
   {
     "name": "sfeed_curses",
-    "version": "0.9.13 1",
+    "version": "1.0 1",
     "maintainer": "Nihal Jere",
     "description": " "
   },
@@ -2089,7 +2095,7 @@
   },
   {
     "name": "sfeed",
-    "version": "0.9.25 1",
+    "version": "1.0 1",
     "maintainer": "Nihal Jere",
     "description": " "
   },
@@ -2124,6 +2130,12 @@
     "description": " "
   },
   {
+    "name": "cifs-utils",
+    "version": "6.13 1",
+    "maintainer": "Zola",
+    "description": " "
+  },
+  {
     "name": "rbw-bin",
     "version": "1.3.0 1",
     "maintainer": "git-bruh",
@@ -2155,7 +2167,7 @@
   },
   {
     "name": "exiftool",
-    "version": "12.29 1 ",
+    "version": "12.30 1 ",
     "maintainer": "Cédric",
     "description": " "
   },
@@ -2221,7 +2233,7 @@
   },
   {
     "name": "cups-filters",
-    "version": "1.28.9 1 ",
+    "version": "1.28.10 1 ",
     "maintainer": "Cédric",
     "description": " "
   },
@@ -2295,6 +2307,12 @@
     "name": "sdcv",
     "version": "0.5.3 1 ",
     "maintainer": "Xiaodong Xu",
+    "description": " "
+  },
+  {
+    "name": "FreeImage",
+    "version": "3.18.0 1",
+    "maintainer": "Zola",
     "description": " "
   },
   {
@@ -2773,7 +2791,7 @@
   },
   {
     "name": "isync",
-    "version": "1.4.2 1",
+    "version": "1.4.3 1",
     "maintainer": "Nihal Jere",
     "description": " "
   },
@@ -3480,6 +3498,12 @@
     "description": " "
   },
   {
+    "name": "nethogs",
+    "version": "0.8.6 1",
+    "maintainer": "git-bruh",
+    "description": " "
+  },
+  {
     "name": "htop",
     "version": "3.0.5 1 ",
     "maintainer": "Ominitay",
@@ -3643,7 +3667,7 @@
   },
   {
     "name": "gnupg2",
-    "version": "2.3.1 1 ",
+    "version": "2.3.2 1 ",
     "maintainer": "Nihal Jere",
     "description": " "
   },
@@ -9537,570 +9561,6 @@
     "name": "kinit",
     "version": "5.83.0 1",
     "maintainer": "Dilyn Corner",
-    "description": " "
-  },
-  {
-    "name": "oksh",
-    "version": "6.9 1",
-    "maintainer": "dilyn.corner@k1sslinux.org",
-    "description": " "
-  },
-  {
-    "name": "mtdev",
-    "version": "1.1.6 1",
-    "maintainer": "dilyn.corner@tutanota.com",
-    "description": " "
-  },
-  {
-    "name": "pash",
-    "version": "2.3.0 1 ",
-    "maintainer": "dilyn.corner@tutanota.com",
-    "description": " "
-  },
-  {
-    "name": "pixman",
-    "version": "0.40.0 1",
-    "maintainer": "dilyn.corner@tutanota.com",
-    "description": " "
-  },
-  {
-    "name": "libpciaccess",
-    "version": "0.16 1",
-    "maintainer": "dilyn.corner@tutanota.com",
-    "description": " "
-  },
-  {
-    "name": "minisign",
-    "version": "81431bf0077ae540bfc768165fbbaa8db4e43956 1",
-    "maintainer": "dilyn",
-    "description": " "
-  },
-  {
-    "name": "cairo",
-    "version": "1.17.4 1",
-    "maintainer": "dilyn.corner@tutanota.com",
-    "description": " "
-  },
-  {
-    "name": "fontconfig",
-    "version": "2.13.94 1",
-    "maintainer": "dilyn.corner@k1sslinux.org",
-    "description": " "
-  },
-  {
-    "name": "libxml2",
-    "version": "2.9.12 1",
-    "maintainer": "dilyn.corner@k1sslinux.org",
-    "description": " "
-  },
-  {
-    "name": "libevdev",
-    "version": "1.11.0 1",
-    "maintainer": "dilyn.corner@tutanota.com",
-    "description": " "
-  },
-  {
-    "name": "python2",
-    "version": "2.7.18 1",
-    "maintainer": "dilyn.corner@tutanota.com",
-    "description": " "
-  },
-  {
-    "name": "iosevka-nerd-fonts",
-    "version": "2.1.0 2",
-    "maintainer": "dilyn",
-    "description": " "
-  },
-  {
-    "name": "perl",
-    "version": "5.34.0 1",
-    "maintainer": "dilyn",
-    "description": " "
-  },
-  {
-    "name": "rust",
-    "version": "1.53.0 1",
-    "maintainer": "dilyn.corner@k1sslinux.org",
-    "description": " "
-  },
-  {
-    "name": "chromium",
-    "version": "91.0.4472.77 1",
-    "maintainer": "dilyn.corner@k1sslinux.org",
-    "description": " "
-  },
-  {
-    "name": "mesa",
-    "version": "21.1.5 1",
-    "maintainer": "dilyn",
-    "description": " "
-  },
-  {
-    "name": "nodejs",
-    "version": "16.5.0 1",
-    "maintainer": "dilyn",
-    "description": " "
-  },
-  {
-    "name": "nasm",
-    "version": "2.15.05 1",
-    "maintainer": "dilyn.corner@tutanota.com",
-    "description": " "
-  },
-  {
-    "name": "freetype-harfbuzz",
-    "version": "2.10.4+2.8.2 1",
-    "maintainer": "dilyn",
-    "description": " "
-  },
-  {
-    "name": "netbsd-curses",
-    "version": "0.3.2 1",
-    "maintainer": "dilyn",
-    "description": " "
-  },
-  {
-    "name": "vim",
-    "version": "git 2",
-    "maintainer": "dilyn.corner@tutanota.com",
-    "description": " "
-  },
-  {
-    "name": "libdrm",
-    "version": "2.4.107 1",
-    "maintainer": "dilyn.corner@k1sslinux.org",
-    "description": " "
-  },
-  {
-    "name": "python",
-    "version": "3.9.6 1",
-    "maintainer": "dilyn.corner@k1sslinux.org",
-    "description": " "
-  },
-  {
-    "name": "libinput",
-    "version": "1.18.0 1",
-    "maintainer": "dilyn.corner@k1sslinux.org",
-    "description": " "
-  },
-  {
-    "name": "github-cli",
-    "version": "1.12.1 1",
-    "maintainer": "dilyn.corner@k1sslinux.org",
-    "description": " "
-  },
-  {
-    "name": "dhcpcd",
-    "version": "9.4.0 1",
-    "maintainer": "dilyn.corner@tutanota.com",
-    "description": " "
-  },
-  {
-    "name": "libffi",
-    "version": "3.4.2 2",
-    "maintainer": "dilyn.corner@k1sslinux.org",
-    "description": " "
-  },
-  {
-    "name": "bottom",
-    "version": "0.6.2 1",
-    "maintainer": "dilyn.corner@k1sslinux.org",
-    "description": " "
-  },
-  {
-    "name": "expat",
-    "version": "2.4.1 1",
-    "maintainer": "dilyn.corner@k1sslinux.org",
-    "description": " "
-  },
-  {
-    "name": "aerc",
-    "version": "1687e558d3fae4d5622677c031bb9365a8c3e261 1",
-    "maintainer": "dilyn",
-    "description": " "
-  },
-  {
-    "name": "cozette-font",
-    "version": "1.9.0 1",
-    "maintainer": "dilyn.corner@tutanota.com",
-    "description": " "
-  },
-  {
-    "name": "openssh",
-    "version": "8.6p1 1",
-    "maintainer": "dilyn.corner@k1sslinux.org",
-    "description": " "
-  },
-  {
-    "name": "go",
-    "version": "1.16.6 1",
-    "maintainer": "dilyn",
-    "description": " "
-  },
-  {
-    "name": "iana-etc",
-    "version": "20200910 1",
-    "maintainer": "dilyn.corner@tutanota.com",
-    "description": " "
-  },
-  {
-    "name": "pkgconf",
-    "version": "1.7.4 1",
-    "maintainer": "dilyn.corner@tutanota.com",
-    "description": " "
-  },
-  {
-    "name": "opus",
-    "version": "git 2",
-    "maintainer": "dilyn.corner@tutanota.com",
-    "description": " "
-  },
-  {
-    "name": "tzdata",
-    "version": "2021a 1",
-    "maintainer": "dilyn.corner@tutanota.com",
-    "description": " "
-  },
-  {
-    "name": "meson",
-    "version": "0.59.0 1",
-    "maintainer": "dilyn",
-    "description": " "
-  },
-  {
-    "name": "nss",
-    "version": "3.68 1",
-    "maintainer": "dilyn",
-    "description": " "
-  },
-  {
-    "name": "libpng",
-    "version": "1.6.37 2",
-    "maintainer": "dilyn.corner@tutanota.com",
-    "description": " "
-  },
-  {
-    "name": "jj",
-    "version": "git 1",
-    "maintainer": "dilyn.corner@k1sslinux.org",
-    "description": " "
-  },
-  {
-    "name": "sqlite",
-    "version": "3.36.0 1",
-    "maintainer": "dilyn.corner@k1sslinux.org",
-    "description": " "
-  },
-  {
-    "name": "libudev-zero",
-    "version": "0.5.2 1",
-    "maintainer": "dilyn.corner@k1sslinux.org",
-    "description": " "
-  },
-  {
-    "name": "fossil",
-    "version": "2.16 1",
-    "maintainer": "dilyn.corner@k1sslinux.org",
-    "description": " "
-  },
-  {
-    "name": "libva",
-    "version": "2.12.0 1",
-    "maintainer": "dilyn.corner@k1sslinux.org",
-    "description": " "
-  },
-  {
-    "name": "libwebp",
-    "version": "1.2.0 1",
-    "maintainer": "dilyn.corner@tutanota.com",
-    "description": " "
-  },
-  {
-    "name": "opendoas",
-    "version": "6.8.1 2",
-    "maintainer": "dilyn",
-    "description": " "
-  },
-  {
-    "name": "bzip2",
-    "version": "1.0.8 2",
-    "maintainer": "dilyn.corner@k1sslinux.org",
-    "description": " "
-  },
-  {
-    "name": "nawk",
-    "version": "git 2",
-    "maintainer": "dilyn.corner@tutanota.com",
-    "description": " "
-  },
-  {
-    "name": "libressl",
-    "version": "3.3.3 1",
-    "maintainer": "dilyn.corner@k1sslinux.org",
-    "description": " "
-  },
-  {
-    "name": "dash",
-    "version": "0.5.11.4 1",
-    "maintainer": "dilyn.corner@k1sslinux.org",
-    "description": " "
-  },
-  {
-    "name": "zlib",
-    "version": "1.2.11 3",
-    "maintainer": "dilyn.corner@tutanota.com",
-    "description": " "
-  },
-  {
-    "name": "smdev",
-    "version": "git 2",
-    "maintainer": "dilyn.corner@k1sslinux.org",
-    "description": " "
-  },
-  {
-    "name": "make",
-    "version": "20210704 1",
-    "maintainer": "dilyn",
-    "description": " "
-  },
-  {
-    "name": "kiss",
-    "version": "5.5.18 1",
-    "maintainer": "dilyn",
-    "description": " "
-  },
-  {
-    "name": "otools",
-    "version": "git 2",
-    "maintainer": "dilyn",
-    "description": " "
-  },
-  {
-    "name": "curl",
-    "version": "7.77.0 1",
-    "maintainer": "dilyn.corner@k1sslinux.org",
-    "description": " "
-  },
-  {
-    "name": "llvm",
-    "version": "12.0.1 1",
-    "maintainer": "dilyn",
-    "description": " "
-  },
-  {
-    "name": "toybox",
-    "version": "git 3",
-    "maintainer": "dilyn.corner@tutanota.com",
-    "description": " "
-  },
-  {
-    "name": "flex",
-    "version": "2.6.4 4",
-    "maintainer": "dilyn.corner@tutanota.com",
-    "description": " "
-  },
-  {
-    "name": "openntpd",
-    "version": "6.8p1 4",
-    "maintainer": "dilyn.corner@k1sslinux.org",
-    "description": " "
-  },
-  {
-    "name": "m4",
-    "version": "6.7 2",
-    "maintainer": "dilyn.corner@tutanota.com",
-    "description": " "
-  },
-  {
-    "name": "musl",
-    "version": "1.2.2 1",
-    "maintainer": "dilyn.corner@tutanota.com",
-    "description": " "
-  },
-  {
-    "name": "samurai",
-    "version": "1.2 1",
-    "maintainer": "dilyn.corner@tutanota.com",
-    "description": " "
-  },
-  {
-    "name": "baselayout",
-    "version": "1 7",
-    "maintainer": "dilyn.corner@tutanota.com",
-    "description": " "
-  },
-  {
-    "name": "sm",
-    "version": "git 1",
-    "maintainer": "dilyn.corner@k1sslinux.org",
-    "description": " "
-  },
-  {
-    "name": "xz",
-    "version": "5.2.5 2",
-    "maintainer": "dilyn.corner@tutanota.com",
-    "description": " "
-  },
-  {
-    "name": "zstd",
-    "version": "1.5.0 1",
-    "maintainer": "dilyn.corner@k1sslinux.org",
-    "description": " "
-  },
-  {
-    "name": "zfs",
-    "version": "2.1.0 1",
-    "maintainer": "dilyn.corner@k1sslinux.org",
-    "description": " "
-  },
-  {
-    "name": "hummingbird",
-    "version": "b1f7ea13c94d5990af4de74b2691ebf4d681fd66 1",
-    "maintainer": "dilyn",
-    "description": " "
-  },
-  {
-    "name": "byacc",
-    "version": "20210619 1",
-    "maintainer": "dilyn.corner@k1sslinux.org",
-    "description": " "
-  },
-  {
-    "name": "b3sum",
-    "version": "b1de822a36b012f419b6e894896e33a1e34c0bd7 1",
-    "maintainer": "dilyn",
-    "description": " "
-  },
-  {
-    "name": "cmake",
-    "version": "3.21.0 1",
-    "maintainer": "dilyn",
-    "description": " "
-  },
-  {
-    "name": "xkeyboard-config",
-    "version": "2.33 1",
-    "maintainer": "dilyn.corner@k1sslinux.org",
-    "description": " "
-  },
-  {
-    "name": "libxkbcommon",
-    "version": "1.3.0 2",
-    "maintainer": "dilyn.corner@k1sslinux.org",
-    "description": " "
-  },
-  {
-    "name": "foot",
-    "version": "1.8.2 2",
-    "maintainer": "dilyn",
-    "description": " "
-  },
-  {
-    "name": "grim",
-    "version": "1.3.2 1",
-    "maintainer": "dilyn.corner@k1sslinux.org",
-    "description": " "
-  },
-  {
-    "name": "wayfire",
-    "version": "0.7.2 2",
-    "maintainer": "dilyn.corner@k1sslinux.org",
-    "description": " "
-  },
-  {
-    "name": "seatd",
-    "version": "0.5.0 1 ",
-    "maintainer": "dilyn.corner@k1sslinux.org",
-    "description": " "
-  },
-  {
-    "name": "wayland-protocols",
-    "version": "1.21 1",
-    "maintainer": "dilyn.corner@k1sslinux.org",
-    "description": " "
-  },
-  {
-    "name": "wlroots",
-    "version": "0.14.1 1",
-    "maintainer": "dilyn",
-    "description": " "
-  },
-  {
-    "name": "wev",
-    "version": "1.0.0 1",
-    "maintainer": "dilyn.corner@tutanota.com",
-    "description": " "
-  },
-  {
-    "name": "wayland",
-    "version": "1.19.0 1",
-    "maintainer": "dilyn.corner@tutanota.com",
-    "description": " "
-  },
-  {
-    "name": "wbg",
-    "version": "6671844d7892ed57a34ee55d7e7f0824e35fcd8c 1",
-    "maintainer": "dilyn",
-    "description": " "
-  },
-  {
-    "name": "wl-clipboard-rs",
-    "version": "0.4.1 1",
-    "maintainer": "dilyn.corner@tutanota.com",
-    "description": " "
-  },
-  {
-    "name": "gperf",
-    "version": "3.1 3",
-    "maintainer": "dilyn.corner@tutanota.com",
-    "description": " "
-  },
-  {
-    "name": "git",
-    "version": "2.32.0 1",
-    "maintainer": "dilyn.corner@k1sslinux.org",
-    "description": " "
-  },
-  {
-    "name": "libelf",
-    "version": "0.185 1",
-    "maintainer": "dilyn.corner@k1sslinux.org",
-    "description": " "
-  },
-  {
-    "name": "gmake",
-    "version": "4.3 1",
-    "maintainer": "dilyn.corner@tutanota.com",
-    "description": " "
-  },
-  {
-    "name": "util-linux",
-    "version": "2.37 1",
-    "maintainer": "dilyn.corner@k1sslinux.org",
-    "description": " "
-  },
-  {
-    "name": "alsa-utils",
-    "version": "1.2.5.1 1",
-    "maintainer": "dilyn.corner@k1sslinux.org",
-    "description": " "
-  },
-  {
-    "name": "alsa-lib",
-    "version": "1.2.5.1 1",
-    "maintainer": "dilyn.corner@k1sslinux.org",
-    "description": " "
-  },
-  {
-    "name": "linux-headers",
-    "version": "5.12 1",
-    "maintainer": "dilyn.corner@k1sslinux.org",
-    "description": " "
-  },
-  {
-    "name": "gnupg1",
-    "version": "1.4.23 2",
-    "maintainer": "dilyn.corner@tutanota.com",
     "description": " "
   },
   {
