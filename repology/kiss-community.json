@@ -12631,13 +12631,13 @@
   },
   {
     "name": "pyright",
-    "version": "1.1.162 1",
+    "version": "1.1.163 1",
     "maintainer": "Ethan",
     "description": " "
   },
   {
     "name": "typescript-language-server",
-    "version": "0.6.0 1",
+    "version": "0.6.1 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -12667,7 +12667,7 @@
   },
   {
     "name": "notmuch",
-    "version": "0.32.2 1",
+    "version": "0.32.3 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -12882,6 +12882,12 @@
     "description": " "
   },
   {
+    "name": "harfbuzz-icu",
+    "version": "2.9.0 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "graphite2",
     "version": "1.3.14 1",
     "maintainer": "Ethan",
@@ -12991,7 +12997,7 @@
   },
   {
     "name": "freetype-harfbuzz",
-    "version": "2.11.0+2.8.2 1",
+    "version": "2.11.0+2.9.0 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13045,8 +13051,8 @@
   },
   {
     "name": "libepoxy",
-    "version": "1.5.8 1",
-    "maintainer": "Dylan Araps",
+    "version": "1.5.9 1",
+    "maintainer": "Ethan",
     "description": " "
   },
   {
@@ -13267,7 +13273,7 @@
   },
   {
     "name": "xdotool",
-    "version": "3.20160805.1 1",
+    "version": "3.20210804.2 1",
     "maintainer": "Ethan",
     "description": " "
   },

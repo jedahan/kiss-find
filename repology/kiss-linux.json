@@ -66,7 +66,7 @@
   },
   {
     "name": "mold",
-    "version": "34558f410dd34c045e16b783b9f9c42079b42247 1",
+    "version": "b99626fbf2c22e1024996646cb87cfdab5cfe667 1",
     "maintainer": "Dylan Araps"
   },
   {
@@ -141,7 +141,7 @@
   },
   {
     "name": "freetype-harfbuzz",
-    "version": "2.11.0+2.8.2 1",
+    "version": "2.11.0+2.9.0 1",
     "maintainer": "Dylan Araps"
   },
   {
