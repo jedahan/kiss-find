@@ -121,7 +121,7 @@
   },
   {
     "name": "nodejs",
-    "version": "16.7.0 1",
+    "version": "16.8.0 1",
     "maintainer": "Dylan Araps"
   },
   {
@@ -376,7 +376,7 @@
   },
   {
     "name": "cmake",
-    "version": "3.21.1 1",
+    "version": "3.21.2 1",
     "maintainer": "Dylan Araps"
   },
   {
