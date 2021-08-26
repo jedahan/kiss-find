@@ -10,7 +10,7 @@ get_path_in_repo() {
 }
 
 find_packages() {
-    find "$1" -name build -type f -exec dirname {} \;
+    find -L "$1" -name build -type f -exec dirname {} \;
 }
 
 fetch_repo() {
