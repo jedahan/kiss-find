@@ -13015,7 +13015,7 @@
   },
   {
     "name": "firefox-beta",
-    "version": "92.0b8 1",
+    "version": "92.0b9 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -20763,12 +20763,6 @@
     "name": "mariadb",
     "version": "10.5.8 1",
     "maintainer": "Daniel M. Matongo",
-    "description": " "
-  },
-  {
-    "name": "rust",
-    "version": "1.54.0 1",
-    "maintainer": "Muhammad Herdiansyah",
     "description": " "
   },
   {
