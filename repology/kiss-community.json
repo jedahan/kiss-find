@@ -1812,12 +1812,6 @@
     "description": " "
   },
   {
-    "name": "pdfcpu",
-    "version": "0.3.11 1",
-    "maintainer": "aabacchus",
-    "description": " "
-  },
-  {
     "name": "zathura-djvu",
     "version": "0.2.9 1",
     "maintainer": "ectlunya",
@@ -3271,7 +3265,7 @@
   },
   {
     "name": "go",
-    "version": "1.16.6 1",
+    "version": "1.17 1",
     "maintainer": "Nihal Jere",
     "description": " "
   },
@@ -3451,8 +3445,8 @@
   },
   {
     "name": "lld",
-    "version": "12.0.1 1",
-    "maintainer": "Ominitay",
+    "version": "12.0.1 2",
+    "maintainer": "ominitay",
     "description": " "
   },
   {
