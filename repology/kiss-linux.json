@@ -461,7 +461,7 @@
   },
   {
     "name": "busybox",
-    "version": "1.34.0 2",
+    "version": "1.34.0 3",
     "maintainer": "Dylan Araps"
   },
   {
@@ -551,7 +551,7 @@
   },
   {
     "name": "foot",
-    "version": "8bdd019227225c94fa6e282d941ffbc09fd7a81c 1",
+    "version": "1.9.0 1",
     "maintainer": "Dylan Araps"
   },
   {

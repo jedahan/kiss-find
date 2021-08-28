@@ -25147,8 +25147,8 @@
   },
   {
     "name": "sudo",
-    "version": "1.9.7 1",
-    "maintainer": "Daniel M. Matongo",
+    "version": "1.9.7p2 1",
+    "maintainer": "Linux User",
     "description": " "
   },
   {
@@ -25237,8 +25237,8 @@
   },
   {
     "name": "strace",
-    "version": "5.12 1",
-    "maintainer": "Daniel M. Matongo",
+    "version": "5.13 1",
+    "maintainer": "Linux User",
     "description": " "
   },
   {
@@ -25273,7 +25273,7 @@
   },
   {
     "name": "nodejs",
-    "version": "16.7.0 1",
+    "version": "16.9.0 1",
     "maintainer": "Linux User",
     "description": " "
   },
@@ -25291,13 +25291,13 @@
   },
   {
     "name": "util-linux",
-    "version": "2.37 1",
-    "maintainer": "Daniel M. Matongo",
+    "version": "2.37.2 1",
+    "maintainer": "Linux User",
     "description": " "
   },
   {
     "name": "freetype-harfbuzz",
-    "version": "2.10.4+2.8.2 1",
+    "version": "2.10.4+2.9.0 1",
     "maintainer": "Linux User",
     "description": " "
   },
@@ -25327,8 +25327,8 @@
   },
   {
     "name": "libinput",
-    "version": "1.18.0 1",
-    "maintainer": "Daniel M. Matongo",
+    "version": "1.18.1 1",
+    "maintainer": "Linux User",
     "description": " "
   },
   {
@@ -25375,8 +25375,8 @@
   },
   {
     "name": "cbindgen",
-    "version": "0.19.0 1",
-    "maintainer": "Daniel M. Matongo",
+    "version": "0.20.0 1",
+    "maintainer": "Linux User",
     "description": " "
   },
   {
@@ -25405,7 +25405,7 @@
   },
   {
     "name": "openssh",
-    "version": "8.6p1 2",
+    "version": "8.7p1 1",
     "maintainer": "Linux User",
     "description": " "
   },
@@ -25441,8 +25441,8 @@
   },
   {
     "name": "pkgconf",
-    "version": "1.7.4 1",
-    "maintainer": "Daniel M. Matongo",
+    "version": "1.8.0 1",
+    "maintainer": "Linux User",
     "description": " "
   },
   {
@@ -25471,8 +25471,8 @@
   },
   {
     "name": "meson",
-    "version": "0.58.1 1",
-    "maintainer": "Daniel M. Matongo",
+    "version": "0.59.1 1",
+    "maintainer": "Linux User",
     "description": " "
   },
   {
@@ -25549,8 +25549,8 @@
   },
   {
     "name": "libepoxy",
-    "version": "1.5.8 1",
-    "maintainer": "Daniel M. Matongo",
+    "version": "1.5.9 1",
+    "maintainer": "Linux User",
     "description": " "
   },
   {
@@ -25591,13 +25591,13 @@
   },
   {
     "name": "opendoas",
-    "version": "6.8.1 1",
-    "maintainer": "Daniel M. Matongo",
+    "version": "6.8.1 2",
+    "maintainer": "Linux User",
     "description": " "
   },
   {
     "name": "cmake",
-    "version": "3.21.0 1",
+    "version": "3.21.2 1",
     "maintainer": "Linux User",
     "description": " "
   },
@@ -25609,8 +25609,8 @@
   },
   {
     "name": "patchelf",
-    "version": "0.12 1",
-    "maintainer": "Daniel M. Matongo",
+    "version": "0.13 1",
+    "maintainer": "Linux User",
     "description": " "
   },
   {
@@ -25627,8 +25627,8 @@
   },
   {
     "name": "libjpeg-turbo",
-    "version": "2.1.0 1",
-    "maintainer": "Daniel M. Matongo",
+    "version": "2.1.1 1",
+    "maintainer": "Linux User",
     "description": " "
   },
   {
@@ -25639,8 +25639,8 @@
   },
   {
     "name": "pango",
-    "version": "1.48.5 1",
-    "maintainer": "Daniel M. Matongo",
+    "version": "1.48.9 1",
+    "maintainer": "Linux User",
     "description": " "
   },
   {
@@ -25681,7 +25681,7 @@
   },
   {
     "name": "curl",
-    "version": "7.77.0 2",
+    "version": "7.78.0 1",
     "maintainer": "Linux User",
     "description": " "
   },
@@ -25699,7 +25699,7 @@
   },
   {
     "name": "openssl",
-    "version": "1.1.1k 1",
+    "version": "1.1.1l 1",
     "maintainer": "Linux User",
     "description": " "
   },
@@ -25759,8 +25759,8 @@
   },
   {
     "name": "gcc",
-    "version": "11.1.0 1",
-    "maintainer": "Daniel M. Matongo",
+    "version": "11.2.0 1",
+    "maintainer": "Linux User",
     "description": " "
   },
   {
@@ -25771,8 +25771,8 @@
   },
   {
     "name": "libXft",
-    "version": "2.3.3 1",
-    "maintainer": "Daniel M. Matongo",
+    "version": "2.3.4 1",
+    "maintainer": "Linux User",
     "description": " "
   },
   {
@@ -25963,8 +25963,8 @@
   },
   {
     "name": "xorg-server",
-    "version": "1.20.11 1",
-    "maintainer": "Daniel M. Matongo",
+    "version": "1.20.13 1",
+    "maintainer": "Linux User",
     "description": " "
   },
   {
@@ -26005,8 +26005,8 @@
   },
   {
     "name": "libXfont2",
-    "version": "2.0.4 1",
-    "maintainer": "Daniel M. Matongo",
+    "version": "2.0.5 1",
+    "maintainer": "Linux User",
     "description": " "
   },
   {
@@ -26101,8 +26101,8 @@
   },
   {
     "name": "xrdb",
-    "version": "1.2.0 1",
-    "maintainer": "Daniel M. Matongo",
+    "version": "1.2.1 1",
+    "maintainer": "Linux User",
     "description": " "
   },
   {
@@ -26155,7 +26155,7 @@
   },
   {
     "name": "foot",
-    "version": "1.8.1 1",
+    "version": "1.9.0 1",
     "maintainer": "Linux User",
     "description": " "
   },
