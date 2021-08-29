@@ -151,7 +151,7 @@
   },
   {
     "name": "mdevd",
-    "version": "0.1.4.0 3",
+    "version": "b61ab0373a724d38e059655d561b5fb3dcb2aff6 1",
     "maintainer": "Dylan Araps"
   },
   {
@@ -326,7 +326,7 @@
   },
   {
     "name": "libudev-zero",
-    "version": "0.5.2 1",
+    "version": "1.0.0 1",
     "maintainer": "Dylan Araps"
   },
   {
@@ -461,7 +461,7 @@
   },
   {
     "name": "busybox",
-    "version": "1.34.0 3",
+    "version": "1.34.0 4",
     "maintainer": "Dylan Araps"
   },
   {
