@@ -25122,6 +25122,12 @@
     "description": " "
   },
   {
+    "name": "libpciaccess",
+    "version": "0.16 1",
+    "maintainer": "Linux User",
+    "description": " "
+  },
+  {
     "name": "cairo",
     "version": "1.16.0 1",
     "maintainer": "Daniel M. Matongo",
@@ -25770,12 +25776,6 @@
     "description": " "
   },
   {
-    "name": "libpciaccess",
-    "version": "0.16 1",
-    "maintainer": "Daniel M. Matongo",
-    "description": " "
-  },
-  {
     "name": "sowm",
     "version": "1.6 1",
     "maintainer": "Daniel M. Matongo",
@@ -26114,12 +26114,6 @@
   {
     "name": "slurp",
     "version": "1.3.2 1",
-    "maintainer": "Linux User",
-    "description": " "
-  },
-  {
-    "name": "libpciaccess",
-    "version": "0.16 1",
     "maintainer": "Linux User",
     "description": " "
   },
