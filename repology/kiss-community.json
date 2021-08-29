@@ -12547,7 +12547,7 @@
   },
   {
     "name": "typescript",
-    "version": "4.3.5 1",
+    "version": "4.4.2 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -12607,7 +12607,7 @@
   },
   {
     "name": "mesa",
-    "version": "21.2.0 1",
+    "version": "21.2.1 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -12631,13 +12631,13 @@
   },
   {
     "name": "typescript-language-server",
-    "version": "0.6.1 1",
+    "version": "0.6.2 1",
     "maintainer": "Ethan",
     "description": " "
   },
   {
     "name": "vim-language-server",
-    "version": "2.2.3 1",
+    "version": "2.2.4 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -25267,7 +25267,7 @@
   },
   {
     "name": "nodejs",
-    "version": "16.9.0 1",
+    "version": "16.8.0 1",
     "maintainer": "Linux User",
     "description": " "
   },
