@@ -5773,7 +5773,7 @@
   },
   {
     "name": "linux-headers",
-    "version": "5.13.8 1",
+    "version": "5.13.13 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -18049,7 +18049,7 @@
   },
   {
     "name": "gcc",
-    "version": "11.2.0 1",
+    "version": "11.2.0 2",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -18121,7 +18121,7 @@
   },
   {
     "name": "busybox",
-    "version": "1.34.0 1",
+    "version": "1.34.0 2",
     "maintainer": "hovercats",
     "description": " "
   },
