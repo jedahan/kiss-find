@@ -18072,6 +18072,12 @@
     "description": " "
   },
   {
+    "name": "bzip2",
+    "version": "1.0.8 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
     "name": "git",
     "version": "2.33.0 1",
     "maintainer": "hovercats",
