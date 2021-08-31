@@ -17839,7 +17839,7 @@
   },
   {
     "name": "github-cli",
-    "version": "1.13.1 1",
+    "version": "2.0.0 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -17906,6 +17906,12 @@
   {
     "name": "ncurses",
     "version": "6.2 5",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "ncdu",
+    "version": "1.16 1",
     "maintainer": "hovercats",
     "description": " "
   },
