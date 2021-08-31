@@ -4891,7 +4891,7 @@
   },
   {
     "name": "python",
-    "version": "3.9.6 2",
+    "version": "3.9.7 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -5395,7 +5395,7 @@
   },
   {
     "name": "mercurial",
-    "version": "5.9 1",
+    "version": "5.9.1 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
