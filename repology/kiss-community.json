@@ -17670,6 +17670,18 @@
     "description": " "
   },
   {
+    "name": "gcc-bin",
+    "version": "10.2.0 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "binutils-bin",
+    "version": "2.36.1 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
     "name": "oksh",
     "version": "6.9 1",
     "maintainer": "hovercats",
@@ -17778,6 +17790,12 @@
     "description": " "
   },
   {
+    "name": "llvm",
+    "version": "12.0.1 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
     "name": "tinyalsa",
     "version": "2.0.0 1",
     "maintainer": "hovercats",
@@ -17822,12 +17840,6 @@
   {
     "name": "freetype-harfbuzz",
     "version": "2.11.0+2.8.2 1",
-    "maintainer": "hovercats",
-    "description": " "
-  },
-  {
-    "name": "binutils",
-    "version": "2.37 2",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -18096,12 +18108,6 @@
     "description": " "
   },
   {
-    "name": "gcc",
-    "version": "11.2.0 2",
-    "maintainer": "hovercats",
-    "description": " "
-  },
-  {
     "name": "cmake",
     "version": "3.21.0 1",
     "maintainer": "hovercats",
@@ -18162,8 +18168,8 @@
     "description": " "
   },
   {
-    "name": "llvm",
-    "version": "12.0.1 1",
+    "name": "binutils",
+    "version": "2.37 2",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -18200,6 +18206,12 @@
   {
     "name": "byacc",
     "version": "20210619 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "gcc",
+    "version": "11.2.0 2",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -18434,6 +18446,48 @@
   {
     "name": "wmutils",
     "version": "git 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "libseat",
+    "version": "0.5.0 2",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "wld",
+    "version": "git 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "wayland-protocols",
+    "version": "1.21 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "wlroots",
+    "version": "0.14.1 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "wayland",
+    "version": "1.19.0 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "wbg",
+    "version": "1.0.2 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "wl-clipboard",
+    "version": "d2c32f2b4d469f53070e8c4052dea6f412de3916 1",
     "maintainer": "hovercats",
     "description": " "
   },
