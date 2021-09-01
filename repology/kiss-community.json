@@ -7116,6 +7116,12 @@
     "description": " "
   },
   {
+    "name": "libXft",
+    "version": "2.3.3-d385aa3e 1",
+    "maintainer": "aabacchus",
+    "description": " "
+  },
+  {
     "name": "xmenu",
     "version": "4.5.5 1",
     "maintainer": "aabacchus",
@@ -7182,6 +7188,12 @@
     "description": " "
   },
   {
+    "name": "herbe",
+    "version": "1.0.0 1 ",
+    "maintainer": "aabacchus",
+    "description": " "
+  },
+  {
     "name": "netbsd-curses",
     "version": "0.3.1 1",
     "maintainer": "aabacchus",
@@ -7230,6 +7242,12 @@
     "description": "a fancy terminal browser for the gemini protocol"
   },
   {
+    "name": "litterbox",
+    "version": "1.8 1",
+    "maintainer": "aabacchus",
+    "description": " "
+  },
+  {
     "name": "lld",
     "version": "12.0.1 1",
     "maintainer": "aabacchus",
@@ -7238,6 +7256,18 @@
   {
     "name": "libstrophe",
     "version": "0.10.1 1",
+    "maintainer": "aabacchus",
+    "description": " "
+  },
+  {
+    "name": "kiss-find",
+    "version": "git 1",
+    "maintainer": "aabacchus",
+    "description": " "
+  },
+  {
+    "name": "bmake",
+    "version": "20210808 1",
     "maintainer": "aabacchus",
     "description": " "
   },
@@ -7255,7 +7285,7 @@
   },
   {
     "name": "kiss",
-    "version": "5.5.27 1",
+    "version": "5.5.28 1",
     "maintainer": "aabacchus",
     "description": " "
   },
@@ -7268,6 +7298,12 @@
   {
     "name": "pxltrm",
     "version": "git 1",
+    "maintainer": "aabacchus",
+    "description": " "
+  },
+  {
+    "name": "abcmidi",
+    "version": "2021.05.10 1",
     "maintainer": "aabacchus",
     "description": " "
   },
