@@ -2569,8 +2569,8 @@
   },
   {
     "name": "libconfig",
-    "version": "1.7.3 1",
-    "maintainer": "Muhammad Herdiansyah",
+    "version": "1.7.3 1 ",
+    "maintainer": "git-bruh",
     "description": " "
   },
   {
@@ -2995,8 +2995,8 @@
   },
   {
     "name": "libev",
-    "version": "4.33 1",
-    "maintainer": "M. Herdiansyah",
+    "version": "4.33 1 ",
+    "maintainer": "git-bruh",
     "description": " "
   },
   {
@@ -3415,7 +3415,7 @@
   },
   {
     "name": "osh",
-    "version": "0.8.12 1",
+    "version": "0.9.0 1",
     "maintainer": "Jonathan Dahan",
     "description": " "
   },
@@ -3537,6 +3537,12 @@
     "name": "libedit",
     "version": "20210714-3.1 1",
     "maintainer": "git-bruh",
+    "description": " "
+  },
+  {
+    "name": "bri",
+    "version": "20180907 1",
+    "maintainer": "Mederim",
     "description": " "
   },
   {
@@ -7393,7 +7399,7 @@
   },
   {
     "name": "graphite-harfbuzz",
-    "version": "2.8.2 1",
+    "version": "2.9.0 1",
     "maintainer": "aabacchus",
     "description": " "
   },
@@ -12613,7 +12619,7 @@
   },
   {
     "name": "txr",
-    "version": "269 1",
+    "version": "270 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -12667,7 +12673,7 @@
   },
   {
     "name": "pyright",
-    "version": "1.1.164 1",
+    "version": "1.1.165 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -26683,13 +26689,13 @@
   },
   {
     "name": "cataclysm-dda",
-    "version": "0.F-1 1",
+    "version": "0.F-2 1",
     "maintainer": "Linux User",
     "description": " "
   },
   {
     "name": "doomretro",
-    "version": "4.2 1",
+    "version": "4.2.1 1",
     "maintainer": "Linux User",
     "description": " "
   },
@@ -27085,7 +27091,7 @@
   },
   {
     "name": "cdogs-sdl",
-    "version": "1.0.0 1",
+    "version": "1.0.1 1",
     "maintainer": "Linux User",
     "description": " "
   },
