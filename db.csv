@@ -3499,7 +3499,7 @@ cairo,1.16.0 1,https://github.com/kisslinux/repo,extra/cairo,master,"Dylan Araps
 intel-vaapi-driver,2.4.1 1,https://github.com/kisslinux/repo,extra/intel-vaapi-driver,master,"Dylan Araps"," "
 libva-utils,2.12.0 1,https://github.com/kisslinux/repo,extra/libva-utils,master,"Dylan Araps"," "
 ffmpeg,4.4 1,https://github.com/kisslinux/repo,extra/ffmpeg,master,"Dylan Araps"," "
-strace,5.13 1,https://github.com/kisslinux/repo,extra/strace,master,"Dylan Araps"," "
+strace,5.14 1,https://github.com/kisslinux/repo,extra/strace,master,"Dylan Araps"," "
 e2fsprogs,1.46.4 1,https://github.com/kisslinux/repo,extra/e2fsprogs,master,"Dylan Araps"," "
 alsa-utils,1.2.5.1 1,https://github.com/kisslinux/repo,extra/alsa-utils,master,"Dylan Araps"," "
 perl,5.34.0 1,https://github.com/kisslinux/repo,extra/perl,master,"Dylan Araps"," "
