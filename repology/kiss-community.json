@@ -4867,7 +4867,7 @@
   },
   {
     "name": "nginx",
-    "version": "1.21.1 1",
+    "version": "1.21.2 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -4951,7 +4951,7 @@
   },
   {
     "name": "ntfs-3g",
-    "version": "2017.3.23 1",
+    "version": "2021.8.22 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -5280,6 +5280,12 @@
     "description": " "
   },
   {
+    "name": "links",
+    "version": "2.23 1",
+    "maintainer": "Cem Keylan",
+    "description": " "
+  },
+  {
     "name": "yash",
     "version": "2.51 1",
     "maintainer": "Cem Keylan",
@@ -5419,7 +5425,7 @@
   },
   {
     "name": "poppler",
-    "version": "21.08.0 1",
+    "version": "21.09.0 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -6223,7 +6229,7 @@
   },
   {
     "name": "wayland-protocols",
-    "version": "1.21 1",
+    "version": "1.22 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -6517,7 +6523,7 @@
   },
   {
     "name": "hugo",
-    "version": "0.87.0 1",
+    "version": "0.88.0 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
