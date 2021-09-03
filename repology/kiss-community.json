@@ -12936,6 +12936,12 @@
     "description": " "
   },
   {
+    "name": "poppler",
+    "version": "21.09.0 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "gd",
     "version": "2.3.2 1",
     "maintainer": "Ethan",
@@ -18186,6 +18192,12 @@
     "description": " "
   },
   {
+    "name": "linux-headers",
+    "version": "5.10.54 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
     "name": "musl",
     "version": "1.2.2 1",
     "maintainer": "hovercats",
@@ -18463,7 +18475,7 @@
   },
   {
     "name": "wayland-protocols",
-    "version": "1.21 1",
+    "version": "1.22 1",
     "maintainer": "hovercats",
     "description": " "
   },
