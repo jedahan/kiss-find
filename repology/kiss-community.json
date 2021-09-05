@@ -54,6 +54,12 @@
     "description": " "
   },
   {
+    "name": "dwl",
+    "version": "git 2",
+    "maintainer": "Nihal Jere",
+    "description": " "
+  },
+  {
     "name": "cabal-install-bin",
     "version": "3.2.0.0 1",
     "maintainer": "Nihal Jere",
@@ -122,6 +128,12 @@
   {
     "name": "wayland",
     "version": "1.19.0 1",
+    "maintainer": "Nihal Jere",
+    "description": " "
+  },
+  {
+    "name": "mutt",
+    "version": "2.0.5 1",
     "maintainer": "Nihal Jere",
     "description": " "
   },
