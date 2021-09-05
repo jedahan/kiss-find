@@ -2142,7 +2142,7 @@ trealla-git,git 1,https://github.com/ehawkvu/kiss-personal,langs/trealla-git,mas
 nim,1.4.8 1,https://github.com/ehawkvu/kiss-personal,langs/nim,master,"Ethan"," "
 python,3.7.9 1,https://github.com/ehawkvu/kiss-personal,langs/python,master,"Ethan"," "
 typescript,4.4.2 1,https://github.com/ehawkvu/kiss-personal,langs/typescript,master,"Ethan"," "
-elixir,1.12.2 1,https://github.com/ehawkvu/kiss-personal,langs/elixir,master,"Ethan"," "
+elixir,1.12.3 1,https://github.com/ehawkvu/kiss-personal,langs/elixir,master,"Ethan"," "
 txr,270 1,https://github.com/ehawkvu/kiss-personal,langs/txr,master,"Ethan"," "
 openblas,0.3.17 1,https://github.com/ehawkvu/kiss-personal,langs/openblas,master,"Ethan"," "
 libatomic_ops,7.6.10 1,https://github.com/ehawkvu/kiss-personal,langs/libatomic_ops,master,"Ethan"," "
