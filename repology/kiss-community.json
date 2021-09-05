@@ -12781,7 +12781,7 @@
   },
   {
     "name": "notmuch",
-    "version": "0.32.3 1",
+    "version": "0.33 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -12864,6 +12864,12 @@
     "description": " "
   },
   {
+    "name": "elixir",
+    "version": "1.12.2 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "txr",
     "version": "270 1",
     "maintainer": "Ethan",
@@ -12908,6 +12914,12 @@
   {
     "name": "quickjs",
     "version": "2021.03.27 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "erlang",
+    "version": "24.0.6 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13657,7 +13669,7 @@
   },
   {
     "name": "xdotool",
-    "version": "3.20210804.2 1",
+    "version": "3.20210903.1 1",
     "maintainer": "Ethan",
     "description": " "
   },
