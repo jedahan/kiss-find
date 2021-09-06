@@ -192,6 +192,12 @@
     "description": " "
   },
   {
+    "name": "curl",
+    "version": "symlink",
+    "maintainer": "unknown",
+    "description": " "
+  },
+  {
     "name": "slock-nihal",
     "version": "6.2 1",
     "maintainer": "Nihal Jere",

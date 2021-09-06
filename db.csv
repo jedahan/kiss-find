@@ -30,6 +30,7 @@ zathura-cb,0.1.8 1,git://git.nihaljere.xyz/kiss-nihal,zathura-cb,master,"Nihal J
 librewolf,88.0-1 1,git://git.nihaljere.xyz/kiss-nihal,librewolf,master,"Nihal Jere"," "
 sfeed_curses,symlink,git://git.nihaljere.xyz/kiss-nihal,sfeed_curses,master,"unknown"," "
 firmware,1 1,git://git.nihaljere.xyz/kiss-nihal,firmware,master,"Nihal Jere"," "
+curl,symlink,git://git.nihaljere.xyz/kiss-nihal,curl,master,"unknown"," "
 slock-nihal,6.2 1,git://git.nihaljere.xyz/kiss-nihal,slock-nihal,master,"Nihal Jere"," "
 brotli,1.0.9 1,git://git.nihaljere.xyz/kiss-nihal,brotli,master,"Nihal Jere"," "
 dwmblocks,0.1 1,git://git.nihaljere.xyz/kiss-nihal,dwmblocks,master,"Nihal Jere"," "
