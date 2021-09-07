@@ -17802,6 +17802,12 @@
     "description": " "
   },
   {
+    "name": "tzdata",
+    "version": "2021a 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
     "name": "bash",
     "version": "5.1.p8 1",
     "maintainer": "hovercats",
@@ -17910,6 +17916,12 @@
     "description": " "
   },
   {
+    "name": "zip",
+    "version": "3.0 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
     "name": "libxslt",
     "version": "1.1.34 1 ",
     "maintainer": "hovercats",
@@ -17930,6 +17942,12 @@
   {
     "name": "perl",
     "version": "5.34.0 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "libffi",
+    "version": "3.4.2 2",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -17964,8 +17982,20 @@
     "description": " "
   },
   {
+    "name": "youtube-dl",
+    "version": "2021.06.06 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
     "name": "mtm",
     "version": "1.2.0 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "pixman",
+    "version": "0.40.0 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -18126,6 +18156,12 @@
     "description": " "
   },
   {
+    "name": "pfetch",
+    "version": "0.6.0 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
     "name": "gcr",
     "version": "3.40.0 1",
     "maintainer": "hovercats",
@@ -18192,8 +18228,20 @@
     "description": " "
   },
   {
+    "name": "libpciaccess",
+    "version": "0.16 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
     "name": "birch",
     "version": "git 1 ",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "meson",
+    "version": "0.58.1 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -18254,6 +18302,12 @@
   {
     "name": "binutils",
     "version": "2.37 2",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "kiss",
+    "version": "5.5.28 1",
     "maintainer": "hovercats",
     "description": " "
   },
