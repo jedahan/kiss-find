@@ -12576,6 +12576,12 @@
     "description": " "
   },
   {
+    "name": "erlang_ls",
+    "version": "0.18.0 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "gopls",
     "version": "0.7.1 1",
     "maintainer": "Ethan",
@@ -12596,6 +12602,12 @@
   {
     "name": "pyright",
     "version": "1.1.166 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "rebar3",
+    "version": "3.17.0 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -12637,6 +12649,12 @@
   },
   {
     "name": "mutt-wizard-git",
+    "version": "git 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "keyd-git",
     "version": "git 1",
     "maintainer": "Ethan",
     "description": " "
