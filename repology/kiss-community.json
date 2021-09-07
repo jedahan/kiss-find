@@ -12756,12 +12756,6 @@
     "description": " "
   },
   {
-    "name": "htop",
-    "version": "2.2.0 1",
-    "maintainer": "Ethan",
-    "description": " "
-  },
-  {
     "name": "hdparm",
     "version": "9.62 1",
     "maintainer": "Ethan",
@@ -12973,7 +12967,7 @@
   },
   {
     "name": "graphite-harfbuzz",
-    "version": "2.8.2 1",
+    "version": "2.9.1 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -12985,7 +12979,7 @@
   },
   {
     "name": "harfbuzz-icu",
-    "version": "2.9.0 1",
+    "version": "2.9.1 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13039,7 +13033,7 @@
   },
   {
     "name": "firefox-beta",
-    "version": "92.0b9 1",
+    "version": "93.0b1 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13057,7 +13051,7 @@
   },
   {
     "name": "freetype-harfbuzz",
-    "version": "2.11.0+2.9.0 1",
+    "version": "2.11.0+2.9.1 1",
     "maintainer": "Ethan",
     "description": " "
   },
