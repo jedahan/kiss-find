@@ -3211,7 +3211,7 @@
   },
   {
     "name": "zathura-cb",
-    "version": "0.1.8 1",
+    "version": "0.1.9 1",
     "maintainer": "Arthur Williams",
     "description": " "
   },
@@ -3835,7 +3835,7 @@
   },
   {
     "name": "poppler",
-    "version": "21.08.0 1",
+    "version": "21.09.0 1",
     "maintainer": "Cédric",
     "description": " "
   },
@@ -7242,6 +7242,12 @@
     "description": " "
   },
   {
+    "name": "fbpdf",
+    "version": "git 1",
+    "maintainer": "aabacchus",
+    "description": " "
+  },
+  {
     "name": "picom-ibhagwan",
     "version": "7.5 1",
     "maintainer": "aabacchus",
@@ -7381,7 +7387,7 @@
   },
   {
     "name": "log4cxx",
-    "version": "0.11.0 1",
+    "version": "0.12.0 1",
     "maintainer": "aabacchus",
     "description": " "
   },
@@ -18283,7 +18289,7 @@
   },
   {
     "name": "byacc",
-    "version": "20210619 1",
+    "version": "20210808 1",
     "maintainer": "hovercats",
     "description": " "
   },
