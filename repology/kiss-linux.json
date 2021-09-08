@@ -296,7 +296,7 @@
   },
   {
     "name": "opendoas",
-    "version": "6.8.1 1",
+    "version": "6.8.1 2",
     "maintainer": "Dylan Araps"
   },
   {
@@ -511,7 +511,7 @@
   },
   {
     "name": "bison",
-    "version": "3.7.6 1",
+    "version": "3.8 1",
     "maintainer": "Dylan Araps"
   },
   {

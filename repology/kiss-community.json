@@ -4891,7 +4891,7 @@
   },
   {
     "name": "freetype-harfbuzz",
-    "version": "2.10.4+2.9.0 1",
+    "version": "2.11.0+2.9.1 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -5407,7 +5407,7 @@
   },
   {
     "name": "harfbuzz-icu",
-    "version": "2.9.0 1",
+    "version": "2.9.1 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -5503,7 +5503,7 @@
   },
   {
     "name": "bison",
-    "version": "3.7.6 2",
+    "version": "3.8 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -5707,7 +5707,7 @@
   },
   {
     "name": "binutils",
-    "version": "2.37 1",
+    "version": "2.37 2",
     "maintainer": "Cem Keylan",
     "description": " "
   },
