@@ -3715,7 +3715,7 @@
   },
   {
     "name": "pounce",
-    "version": "2.4 1",
+    "version": "2.5 1",
     "maintainer": "aabacchus",
     "description": " "
   },
@@ -13039,7 +13039,7 @@
   },
   {
     "name": "firefox-beta",
-    "version": "93.0b1 1",
+    "version": "93.0b2 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13141,8 +13141,8 @@
   },
   {
     "name": "gdk-pixbuf",
-    "version": "2.42.6 1",
-    "maintainer": "Dylan Araps",
+    "version": "2.42.6 2",
+    "maintainer": "Ethan",
     "description": " "
   },
   {
@@ -13472,6 +13472,12 @@
   {
     "name": "sxiv",
     "version": "26 2",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "tiff",
+    "version": "4.3.0 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -25429,8 +25435,8 @@
   },
   {
     "name": "python",
-    "version": "3.9.6 1",
-    "maintainer": "Linux User",
+    "version": "3.9.7 1",
+    "maintainer": "Daniel M. Matongo",
     "description": " "
   },
   {
@@ -25531,8 +25537,8 @@
   },
   {
     "name": "strace",
-    "version": "5.13 1",
-    "maintainer": "Linux User",
+    "version": "5.14 1",
+    "maintainer": "Daniel M. Matongo",
     "description": " "
   },
   {
@@ -25567,8 +25573,8 @@
   },
   {
     "name": "freetype-harfbuzz",
-    "version": "2.10.4+2.9.0 1",
-    "maintainer": "Linux User",
+    "version": "2.11.0+2.9.1 1",
+    "maintainer": "Daniel M. Matongo",
     "description": " "
   },
   {
@@ -25579,8 +25585,8 @@
   },
   {
     "name": "libudev-zero",
-    "version": "0.5.2 1",
-    "maintainer": "Linux User",
+    "version": "1.0.0 1",
+    "maintainer": "Daniel M. Matongo",
     "description": " "
   },
   {
@@ -25831,8 +25837,8 @@
   },
   {
     "name": "eiwd",
-    "version": "1.15-1 1",
-    "maintainer": "Linux User",
+    "version": "1.17 1",
+    "maintainer": "Daniel M. Matongo",
     "description": " "
   },
   {
@@ -25903,8 +25909,8 @@
   },
   {
     "name": "nodejs",
-    "version": "16.8.0 1",
-    "maintainer": "Linux User",
+    "version": "16.9.0 1",
+    "maintainer": "Daniel M. Matongo",
     "description": " "
   },
   {
@@ -26023,13 +26029,13 @@
   },
   {
     "name": "openssl",
-    "version": "1.1.1l 1",
-    "maintainer": "Linux User",
+    "version": "1.1.1k 1",
+    "maintainer": "Daniel M. Matongo",
     "description": " "
   },
   {
     "name": "bison",
-    "version": "3.7.6 1",
+    "version": "3.8 1",
     "maintainer": "Daniel M. Matongo",
     "description": " "
   },
@@ -26377,8 +26383,8 @@
   },
   {
     "name": "wayland-protocols",
-    "version": "1.21 1",
-    "maintainer": "Linux User",
+    "version": "1.22 1",
+    "maintainer": "Daniel M. Matongo",
     "description": " "
   },
   {
