@@ -121,7 +121,7 @@
   },
   {
     "name": "perl",
-    "version": "5.34.0 1",
+    "version": "5.34.0 2",
     "maintainer": "Dylan Araps"
   },
   {
@@ -206,7 +206,7 @@
   },
   {
     "name": "rust",
-    "version": "1.54.0 1",
+    "version": "1.55.0 1",
     "maintainer": "Dylan Araps"
   },
   {
@@ -401,7 +401,7 @@
   },
   {
     "name": "firefox",
-    "version": "93.0b1 1",
+    "version": "93.0b3 1",
     "maintainer": "Dylan Araps"
   },
   {
