@@ -12547,7 +12547,7 @@
   },
   {
     "name": "gopls",
-    "version": "0.7.1 1",
+    "version": "0.7.2 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -12997,7 +12997,7 @@
   },
   {
     "name": "firefox-beta",
-    "version": "93.0b2 1",
+    "version": "93.0b3 1",
     "maintainer": "Ethan",
     "description": " "
   },

@@ -121,7 +121,7 @@
   },
   {
     "name": "perl",
-    "version": "5.34.0 2",
+    "version": "5.34.0 3",
     "maintainer": "Dylan Araps"
   },
   {
@@ -136,7 +136,7 @@
   },
   {
     "name": "freetype-harfbuzz",
-    "version": "2.11.0+2.9.0 1",
+    "version": "2.11.0+2.9.1 1",
     "maintainer": "Dylan Araps"
   },
   {
@@ -491,7 +491,7 @@
   },
   {
     "name": "busybox",
-    "version": "1.34.0 4",
+    "version": "1.34.0 5",
     "maintainer": "Dylan Araps"
   },
   {
