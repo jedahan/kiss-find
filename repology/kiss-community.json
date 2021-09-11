@@ -2011,7 +2011,7 @@
   },
   {
     "name": "libgcrypt",
-    "version": "1.9.3 1",
+    "version": "1.9.4 1",
     "maintainer": "git-bruh",
     "description": " "
   },
@@ -2425,7 +2425,7 @@
   },
   {
     "name": "micro",
-    "version": "2.0.9 1",
+    "version": "2.0.10 1",
     "maintainer": "git-bruh",
     "description": " "
   },
@@ -2779,7 +2779,7 @@
   },
   {
     "name": "automake",
-    "version": "1.16.3 1 ",
+    "version": "1.16.4 1",
     "maintainer": "git-bruh",
     "description": " "
   },
@@ -3031,7 +3031,7 @@
   },
   {
     "name": "btrfs-progs",
-    "version": "5.13 1",
+    "version": "5.14 1",
     "maintainer": "git-bruh",
     "description": " "
   },
@@ -3073,7 +3073,7 @@
   },
   {
     "name": "dnscrypt-proxy",
-    "version": "2.0.45 1",
+    "version": "2.1.0 1",
     "maintainer": "git-bruh",
     "description": " "
   },
@@ -3396,12 +3396,6 @@
     "description": " "
   },
   {
-    "name": "cjson",
-    "version": "1.7.14 1",
-    "maintainer": "git-bruh",
-    "description": " "
-  },
-  {
     "name": "totp",
     "version": "0.1 1",
     "maintainer": "Adrien Gallouët",
@@ -3613,7 +3607,7 @@
   },
   {
     "name": "postgresql",
-    "version": "13.3 1",
+    "version": "13.4 1",
     "maintainer": "git-bruh",
     "description": " "
   },
@@ -3781,7 +3775,7 @@
   },
   {
     "name": "imagemagick",
-    "version": "7.1.0-4 1",
+    "version": "7.1.0-6 1",
     "maintainer": "git-bruh",
     "description": " "
   },
@@ -3877,8 +3871,8 @@
   },
   {
     "name": "nnn",
-    "version": "4.1 1",
-    "maintainer": "Dilyn Corner",
+    "version": "4.2 1",
+    "maintainer": "FriendlyNeighborhoodShane",
     "description": " "
   },
   {

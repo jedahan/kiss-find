@@ -51,7 +51,7 @@
   },
   {
     "name": "ccache",
-    "version": "4.4 1",
+    "version": "4.4.1 1",
     "maintainer": "Dylan Araps"
   },
   {
@@ -506,7 +506,7 @@
   },
   {
     "name": "bison",
-    "version": "3.8 1",
+    "version": "3.8.1 1",
     "maintainer": "Dylan Araps"
   },
   {
@@ -556,7 +556,7 @@
   },
   {
     "name": "libxkbcommon",
-    "version": "1.3.0 1",
+    "version": "1.3.1 1",
     "maintainer": "Dylan Araps"
   },
   {
