@@ -2334,12 +2334,6 @@
     "description": " "
   },
   {
-    "name": "mplayer",
-    "version": "1.4 1",
-    "maintainer": "ilmich",
-    "description": " "
-  },
-  {
     "name": "asciinema",
     "version": "2.0.2 2",
     "maintainer": "Daniel M. Matongo",
@@ -2347,7 +2341,7 @@
   },
   {
     "name": "radare2",
-    "version": "5.3.1 1",
+    "version": "5.4.0 1",
     "maintainer": "Kyryl Melekhin",
     "description": " "
   },
@@ -2529,12 +2523,6 @@
     "name": "iptables",
     "version": "1.8.7 1 ",
     "maintainer": "magenbluten",
-    "description": " "
-  },
-  {
-    "name": "dosbox",
-    "version": "0.74-3 1",
-    "maintainer": "James Davies",
     "description": " "
   },
   {
@@ -2982,12 +2970,6 @@
     "description": " "
   },
   {
-    "name": "alacritty",
-    "version": "0.8.0 1",
-    "maintainer": "git-bruh",
-    "description": " "
-  },
-  {
     "name": "lm-sensors",
     "version": "3.6.0 1",
     "maintainer": "GullikX",
@@ -3205,7 +3187,7 @@
   },
   {
     "name": "extra-cmake-modules",
-    "version": "5.84.0 1",
+    "version": "5.85.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
@@ -3829,7 +3811,7 @@
   },
   {
     "name": "nss",
-    "version": "3.68 1",
+    "version": "3.70 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
@@ -3897,12 +3879,6 @@
     "name": "nnn",
     "version": "4.1 1",
     "maintainer": "Dilyn Corner",
-    "description": " "
-  },
-  {
-    "name": "giblib",
-    "version": "1.2.4 1",
-    "maintainer": "ax",
     "description": " "
   },
   {
@@ -4128,12 +4104,6 @@
     "description": " "
   },
   {
-    "name": "xdotool",
-    "version": "3.20160805.1 1",
-    "maintainer": "dm9pZCAq",
-    "description": " "
-  },
-  {
     "name": "tty-clock",
     "version": "2.3 1 ",
     "maintainer": "matthew w",
@@ -4183,8 +4153,8 @@
   },
   {
     "name": "nawk-git",
-    "version": "20180827 1 ",
-    "maintainer": "mb",
+    "version": "git 1",
+    "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
@@ -12769,7 +12739,7 @@
   },
   {
     "name": "notmuch",
-    "version": "0.33 1",
+    "version": "0.33.1 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -17917,7 +17887,7 @@
   },
   {
     "name": "freetype-harfbuzz",
-    "version": "2.11.0+2.8.2 1",
+    "version": "2.11.0+2.9.1 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -18085,7 +18055,7 @@
   },
   {
     "name": "gtk+3",
-    "version": "3.24.29 1",
+    "version": "3.24.30 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -18181,7 +18151,7 @@
   },
   {
     "name": "bison",
-    "version": "3.7.6 1",
+    "version": "3.8 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -18217,7 +18187,7 @@
   },
   {
     "name": "nodejs",
-    "version": "16.6.0 1",
+    "version": "16.9.1 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -18325,7 +18295,7 @@
   },
   {
     "name": "busybox",
-    "version": "1.34.0 2",
+    "version": "1.34.0 3",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -18572,6 +18542,12 @@
   {
     "name": "wayland-protocols",
     "version": "1.22 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "dwl",
+    "version": "0.2.1 1",
     "maintainer": "hovercats",
     "description": " "
   },
