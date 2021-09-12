@@ -2365,8 +2365,8 @@
   },
   {
     "name": "os-prober",
-    "version": "1.78 1 ",
-    "maintainer": "konimex",
+    "version": "1.79 1 ",
+    "maintainer": "Muhammad Herdiansyah",
     "description": " "
   },
   {
@@ -3865,7 +3865,7 @@
   },
   {
     "name": "cryptsetup",
-    "version": "2.3.6 1",
+    "version": "2.4.0 1",
     "maintainer": "Muhammad Herdiansyah",
     "description": " "
   },
