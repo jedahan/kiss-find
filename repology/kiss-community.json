@@ -12553,7 +12553,7 @@
   },
   {
     "name": "pyright",
-    "version": "1.1.166 1",
+    "version": "1.1.167 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13513,7 +13513,7 @@
   },
   {
     "name": "chromium",
-    "version": "92.0.4515.107 1",
+    "version": "93.0.4577.63 1",
     "maintainer": "Ethan",
     "description": " "
   },
