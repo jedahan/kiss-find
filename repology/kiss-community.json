@@ -8257,8 +8257,14 @@
   },
   {
     "name": "chrony",
-    "version": "4.0 1",
-    "maintainer": "David Garland",
+    "version": "4.1 2",
+    "maintainer": "davidgarland",
+    "description": " "
+  },
+  {
+    "name": "openjdk16-hotspot-bin",
+    "version": "16.0.2+7 1",
+    "maintainer": "davidgarland",
     "description": " "
   },
   {
@@ -8271,6 +8277,12 @@
     "name": "fftw",
     "version": "3.3.9 1",
     "maintainer": "David Garland",
+    "description": " "
+  },
+  {
+    "name": "entr",
+    "version": "5.0 1",
+    "maintainer": "davidgarland",
     "description": " "
   },
   {
@@ -8287,14 +8299,14 @@
   },
   {
     "name": "openjdk11-hotspot-bin",
-    "version": "11.0.9.1+1 1",
-    "maintainer": "David Garland",
+    "version": "11.0.12+7 2",
+    "maintainer": "davidgarland",
     "description": " "
   },
   {
     "name": "melonDS",
-    "version": "0.9 1",
-    "maintainer": "David Garland",
+    "version": "0.9.3 2",
+    "maintainer": "davidgarland",
     "description": " "
   },
   {
@@ -20402,6 +20414,12 @@
   {
     "name": "scons",
     "version": "4.1.0 2",
+    "maintainer": "Justinas Grigas",
+    "description": " "
+  },
+  {
+    "name": "tt",
+    "version": " git 1",
     "maintainer": "Justinas Grigas",
     "description": " "
   },
