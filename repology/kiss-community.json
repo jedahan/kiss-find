@@ -4501,7 +4501,7 @@
   },
   {
     "name": "libass",
-    "version": "0.15.1 1",
+    "version": "0.15.2 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -5413,7 +5413,7 @@
   },
   {
     "name": "imagemagick",
-    "version": "7.1.0-6 1",
+    "version": "7.1.0-7 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -5449,7 +5449,7 @@
   },
   {
     "name": "libexif",
-    "version": "0.6.22 1",
+    "version": "0.6.23 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -5731,7 +5731,7 @@
   },
   {
     "name": "linux-headers",
-    "version": "5.14.1 1",
+    "version": "5.14.3 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
