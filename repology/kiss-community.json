@@ -5287,7 +5287,7 @@
   },
   {
     "name": "links",
-    "version": "2.23 1",
+    "version": "2.24 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -6378,6 +6378,12 @@
     "description": " "
   },
   {
+    "name": "gettext-tiny",
+    "version": "0.3.2 1",
+    "maintainer": "Cem Keylan",
+    "description": " "
+  },
+  {
     "name": "zathura-pdf-poppler",
     "version": "0.3.0 2",
     "maintainer": "Cem Keylan",
@@ -6583,7 +6589,7 @@
   },
   {
     "name": "msmtp",
-    "version": "1.8.15 1",
+    "version": "1.8.16 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -19194,6 +19200,12 @@
     "description": " "
   },
   {
+    "name": "opus-tools",
+    "version": "0.2 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
     "name": "go-mtpfs-git",
     "version": "git 1",
     "maintainer": "Owen Rafferty",
@@ -19202,6 +19214,18 @@
   {
     "name": "android-udev",
     "version": "20210501 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
+    "name": "opusfile",
+    "version": "0.12 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
+    "name": "opustags",
+    "version": "1.6.0 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
@@ -19293,6 +19317,12 @@
     "name": "gcc",
     "version": "symlink",
     "maintainer": "unknown",
+    "description": " "
+  },
+  {
+    "name": "libopusenc",
+    "version": "0.2.1 1",
+    "maintainer": "Owen Rafferty",
     "description": " "
   },
   {
