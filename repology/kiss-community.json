@@ -5437,7 +5437,7 @@
   },
   {
     "name": "seatd",
-    "version": "0.6.0 1",
+    "version": "0.6.1 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -5479,7 +5479,7 @@
   },
   {
     "name": "libinput",
-    "version": "1.18.1 1",
+    "version": "1.19.0 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -12589,7 +12589,7 @@
   },
   {
     "name": "pyright",
-    "version": "1.1.167 1",
+    "version": "1.1.168 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13141,7 +13141,7 @@
   },
   {
     "name": "libinput",
-    "version": "1.18.1 1",
+    "version": "1.19.0 1",
     "maintainer": "Ethan",
     "description": " "
   },
