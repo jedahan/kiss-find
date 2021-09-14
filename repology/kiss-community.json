@@ -8257,13 +8257,13 @@
   },
   {
     "name": "glfw",
-    "version": "3.3.4 2",
+    "version": "3.3.4 1",
     "maintainer": "davidgarland",
     "description": " "
   },
   {
     "name": "chrony",
-    "version": "4.1 2",
+    "version": "4.1 1",
     "maintainer": "davidgarland",
     "description": " "
   },
@@ -8286,6 +8286,18 @@
     "description": " "
   },
   {
+    "name": "mesa",
+    "version": "21.2.1 1",
+    "maintainer": "davidgarland",
+    "description": " "
+  },
+  {
+    "name": "libglvnd",
+    "version": "1.3.3 1",
+    "maintainer": "davidgarland",
+    "description": " "
+  },
+  {
     "name": "entr",
     "version": "5.0 1",
     "maintainer": "davidgarland",
@@ -8305,13 +8317,13 @@
   },
   {
     "name": "openjdk11-hotspot-bin",
-    "version": "11.0.12+7 2",
+    "version": "11.0.12+7 1",
     "maintainer": "davidgarland",
     "description": " "
   },
   {
     "name": "melonDS",
-    "version": "0.9.3 2",
+    "version": "0.9.3 1",
     "maintainer": "davidgarland",
     "description": " "
   },
@@ -19161,6 +19173,282 @@
     "name": "sdl2-image",
     "version": "2.0.5 1",
     "maintainer": "ilmich",
+    "description": " "
+  },
+  {
+    "name": "qhull",
+    "version": "2020.2 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
+    "name": "velox",
+    "version": "git 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
+    "name": "python-six",
+    "version": "1.16.0 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
+    "name": "go-mtpfs-git",
+    "version": "git 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
+    "name": "android-udev",
+    "version": "20210501 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
+    "name": "swc",
+    "version": "git 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
+    "name": "llvm",
+    "version": "symlink",
+    "maintainer": "unknown",
+    "description": " "
+  },
+  {
+    "name": "openblas",
+    "version": "0.3.17 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
+    "name": "python-pyqt-builder",
+    "version": "1.10.3 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
+    "name": "android-tools",
+    "version": "31.0.2 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
+    "name": "tiff",
+    "version": "4.3.0 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
+    "name": "python-pyqt5",
+    "version": "5.15.4 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
+    "name": "cyrus-sasl-xoauth2",
+    "version": "0.2 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
+    "name": "python-cycler",
+    "version": "0.10.0 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
+    "name": "python-scipy",
+    "version": "1.7.1 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
+    "name": "python-pyparsing",
+    "version": "2.4.7 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
+    "name": "cython",
+    "version": "0.29.24 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
+    "name": "imv",
+    "version": "4.3.0 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
+    "name": "libmtp",
+    "version": "1.1.18 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
+    "name": "gcc",
+    "version": "symlink",
+    "maintainer": "unknown",
+    "description": " "
+  },
+  {
+    "name": "python-ply",
+    "version": "3.11 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
+    "name": "libbsd",
+    "version": "0.11.3 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
+    "name": "mutt",
+    "version": "symlink",
+    "maintainer": "unknown",
+    "description": " "
+  },
+  {
+    "name": "python-dateutil",
+    "version": "2.8.2 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
+    "name": "xsimd",
+    "version": "7.6.0 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
+    "name": "simple-mtpfs",
+    "version": "0.4.0 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
+    "name": "wld",
+    "version": "git 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
+    "name": "mesa",
+    "version": "symlink",
+    "maintainer": "unknown",
+    "description": " "
+  },
+  {
+    "name": "sip",
+    "version": "6.1.1 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
+    "name": "libglvnd",
+    "version": "1.3.4 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
+    "name": "eigen",
+    "version": "3.4.0 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
+    "name": "python-packaging",
+    "version": "21.0 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
+    "name": "libmd",
+    "version": "1.0.3 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
+    "name": "python-kiwisolver",
+    "version": "1.3.2 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
+    "name": "python-numpy",
+    "version": "1.21.1 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
+    "name": "python-gast",
+    "version": "0.5.2 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
+    "name": "signify",
+    "version": "30 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
+    "name": "python-pillow",
+    "version": "8.3.2 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
+    "name": "python-beniget",
+    "version": "0.4.1 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
+    "name": "python-pythran",
+    "version": "0.9.12.post1 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
+    "name": "python-pyqt5-sip",
+    "version": "12.9.0 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
+    "name": "python-toml",
+    "version": "0.10.2 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
+    "name": "python-matplotlib",
+    "version": "3.4.3 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
+    "name": "pybind11",
+    "version": "2.7.1 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
+    "name": "pcre2",
+    "version": "10.37 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
+    "name": "python-cppy",
+    "version": "1.1.0 1",
+    "maintainer": "Owen Rafferty",
     "description": " "
   },
   {
