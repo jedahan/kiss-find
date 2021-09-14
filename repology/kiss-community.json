@@ -18594,12 +18594,6 @@
     "description": " "
   },
   {
-    "name": "libpng",
-    "version": "1.6.37 2",
-    "maintainer": "hovercats",
-    "description": " "
-  },
-  {
     "name": "xsel",
     "version": "1.2.0 2",
     "maintainer": "hovercats",

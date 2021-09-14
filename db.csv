@@ -3097,7 +3097,6 @@ xcb-util-keysyms,0.4.0 1,https://github.com/hovercats/kiss-dumpsterfire,xorg/xcb
 meh,git 1,https://github.com/hovercats/kiss-dumpsterfire,xorg/meh,main,"hovercats"," "
 libxkbfile,1.1.0 1,https://github.com/hovercats/kiss-dumpsterfire,xorg/libxkbfile,main,"hovercats"," "
 spectrwm,3.4.1 1,https://github.com/hovercats/kiss-dumpsterfire,xorg/spectrwm,main,"hovercats"," "
-libpng,1.6.37 2,https://github.com/hovercats/kiss-dumpsterfire,xorg/libpng,main,"hovercats"," "
 xsel,1.2.0 2,https://github.com/hovercats/kiss-dumpsterfire,xorg/xsel,main,"hovercats"," "
 xdotool,3.20210903.1 1,https://github.com/hovercats/kiss-dumpsterfire,xorg/xdotool,main,"hovercats"," "
 libXxf86vm,1.1.4 1,https://github.com/hovercats/kiss-dumpsterfire,xorg/libXxf86vm,main,"hovercats"," "
