@@ -17797,7 +17797,7 @@
   },
   {
     "name": "libgcrypt",
-    "version": "1.9.3 1",
+    "version": "1.9.4 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -17857,7 +17857,7 @@
   },
   {
     "name": "dash",
-    "version": "0.5.11.4 1 ",
+    "version": "0.5.11.5 1 ",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -18019,7 +18019,7 @@
   },
   {
     "name": "glib-networking",
-    "version": "2.68.2 1",
+    "version": "2.70.rc 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -18133,7 +18133,7 @@
   },
   {
     "name": "glib",
-    "version": "2.68.3 3",
+    "version": "2.69.3 1",
     "maintainer": "hovercats",
     "description": " "
   },
