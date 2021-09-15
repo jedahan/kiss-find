@@ -25717,7 +25717,7 @@
   },
   {
     "name": "libass",
-    "version": "0.15.1 1",
+    "version": "0.15.2 1",
     "maintainer": "Daniel M. Matongo",
     "description": " "
   },
@@ -25765,8 +25765,8 @@
   },
   {
     "name": "ccache",
-    "version": "4.4 1",
-    "maintainer": "Linux User",
+    "version": "4.4.1 1",
+    "maintainer": "Daniel M. Matongo",
     "description": " "
   },
   {
@@ -25849,8 +25849,8 @@
   },
   {
     "name": "sudo",
-    "version": "1.9.7p2 1",
-    "maintainer": "Linux User",
+    "version": "1.9.8 1",
+    "maintainer": "Daniel M. Matongo",
     "description": " "
   },
   {
@@ -25987,8 +25987,8 @@
   },
   {
     "name": "pango",
-    "version": "1.48.9 1",
-    "maintainer": "Linux User",
+    "version": "1.48.10 1",
+    "maintainer": "Daniel M. Matongo",
     "description": " "
   },
   {
@@ -26017,8 +26017,8 @@
   },
   {
     "name": "adwaita-icon-theme",
-    "version": "40.1.1 1",
-    "maintainer": "Linux User",
+    "version": "41.0 1",
+    "maintainer": "Daniel M. Matongo",
     "description": " "
   },
   {
@@ -26173,8 +26173,8 @@
   },
   {
     "name": "libinput",
-    "version": "1.18.1 1",
-    "maintainer": "Linux User",
+    "version": "1.19.0 1",
+    "maintainer": "Daniel M. Matongo",
     "description": " "
   },
   {
@@ -26227,7 +26227,7 @@
   },
   {
     "name": "nodejs",
-    "version": "16.9.0 1",
+    "version": "16.9.1 1",
     "maintainer": "Daniel M. Matongo",
     "description": " "
   },
@@ -26353,7 +26353,7 @@
   },
   {
     "name": "bison",
-    "version": "3.8 1",
+    "version": "3.8.1 1",
     "maintainer": "Daniel M. Matongo",
     "description": " "
   },
@@ -26725,8 +26725,8 @@
   },
   {
     "name": "libseat",
-    "version": "0.5.0 1",
-    "maintainer": "Linux User",
+    "version": "0.6.1 1",
+    "maintainer": "Daniel M. Matongo",
     "description": " "
   },
   {
