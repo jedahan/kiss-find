@@ -2599,7 +2599,7 @@
   },
   {
     "name": "pandoc-bin",
-    "version": "2.14.1 1 ",
+    "version": "2.14.2 1 ",
     "maintainer": "Cédric",
     "description": " "
   },
@@ -2719,7 +2719,7 @@
   },
   {
     "name": "syncthing",
-    "version": "1.18.0 1",
+    "version": "1.18.2 1",
     "maintainer": "Cédric",
     "description": " "
   },
@@ -19188,12 +19188,6 @@
     "description": " "
   },
   {
-    "name": "velox",
-    "version": "git 1",
-    "maintainer": "Owen Rafferty",
-    "description": " "
-  },
-  {
     "name": "python-six",
     "version": "1.16.0 1",
     "maintainer": "Owen Rafferty",
@@ -19212,12 +19206,6 @@
     "description": " "
   },
   {
-    "name": "android-udev",
-    "version": "20210501 1",
-    "maintainer": "Owen Rafferty",
-    "description": " "
-  },
-  {
     "name": "opusfile",
     "version": "0.12 1",
     "maintainer": "Owen Rafferty",
@@ -19226,12 +19214,6 @@
   {
     "name": "opustags",
     "version": "1.6.0 1",
-    "maintainer": "Owen Rafferty",
-    "description": " "
-  },
-  {
-    "name": "swc",
-    "version": "git 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
@@ -19358,12 +19340,6 @@
   {
     "name": "simple-mtpfs",
     "version": "0.4.0 1",
-    "maintainer": "Owen Rafferty",
-    "description": " "
-  },
-  {
-    "name": "wld",
-    "version": "git 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
