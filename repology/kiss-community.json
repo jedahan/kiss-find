@@ -21607,7 +21607,7 @@
   },
   {
     "name": "catgirl",
-    "version": "1.9 1",
+    "version": "1.9a 1",
     "maintainer": "aabacchus",
     "description": " "
   },
@@ -21631,7 +21631,7 @@
   },
   {
     "name": "cryptsetup",
-    "version": "2.3.6 1",
+    "version": "2.4.0 1",
     "maintainer": "Muhammad Herdiansyah",
     "description": " "
   },
@@ -21751,8 +21751,14 @@
   },
   {
     "name": "go",
-    "version": "1.16.6 1",
+    "version": "1.17 1",
     "maintainer": "Nihal Jere",
+    "description": " "
+  },
+  {
+    "name": "libpcap",
+    "version": "1.10.1 1",
+    "maintainer": "git-bruh",
     "description": " "
   },
   {
@@ -21763,7 +21769,7 @@
   },
   {
     "name": "osh",
-    "version": "0.8.12 1",
+    "version": "0.9.0 1",
     "maintainer": "Jonathan Dahan",
     "description": " "
   },
@@ -21786,12 +21792,6 @@
     "description": " "
   },
   {
-    "name": "pdfcpu",
-    "version": "0.3.11 1",
-    "maintainer": "aabacchus",
-    "description": " "
-  },
-  {
     "name": "neomutt",
     "version": "20210205 1",
     "maintainer": "phoebos",
@@ -21799,7 +21799,7 @@
   },
   {
     "name": "sfeed",
-    "version": "0.9.25 1",
+    "version": "1.0 1",
     "maintainer": "Nihal Jere",
     "description": " "
   },
@@ -21811,7 +21811,7 @@
   },
   {
     "name": "dnscrypt-proxy",
-    "version": "2.0.45 1",
+    "version": "2.1.0 1",
     "maintainer": "git-bruh",
     "description": " "
   },
@@ -21900,9 +21900,21 @@
     "description": " "
   },
   {
+    "name": "cifs-utils",
+    "version": "6.13 1",
+    "maintainer": "Zola",
+    "description": " "
+  },
+  {
     "name": "procps-ng",
     "version": "3.3.17 1",
     "maintainer": "git-bruh",
+    "description": " "
+  },
+  {
+    "name": "talloc",
+    "version": "2.3.3 1",
+    "maintainer": "Zola",
     "description": " "
   },
   {
@@ -21961,7 +21973,7 @@
   },
   {
     "name": "harfbuzz-icu",
-    "version": "2.8.2 1",
+    "version": "2.9.1 1",
     "maintainer": "git-bruh",
     "description": " "
   },
@@ -22059,6 +22071,12 @@
     "name": "mpfr",
     "version": "4.1.0 1",
     "maintainer": "Dylan Araps",
+    "description": " "
+  },
+  {
+    "name": "FreeImage",
+    "version": "3.18.0 1",
+    "maintainer": "Zola",
     "description": " "
   },
   {
@@ -22279,8 +22297,8 @@
   },
   {
     "name": "vcsh",
-    "version": "1.20190621-4 1",
-    "maintainer": "Rio6",
+    "version": "2.0.2 1",
+    "maintainer": "Rio Liu",
     "description": " "
   },
   {
@@ -22291,8 +22309,8 @@
   },
   {
     "name": "os-prober",
-    "version": "1.78 1 ",
-    "maintainer": "konimex",
+    "version": "1.79 1 ",
+    "maintainer": "Muhammad Herdiansyah",
     "description": " "
   },
   {
@@ -22315,7 +22333,7 @@
   },
   {
     "name": "isync",
-    "version": "1.4.2 1",
+    "version": "1.4.3 1",
     "maintainer": "Nihal Jere",
     "description": " "
   },
@@ -22345,13 +22363,13 @@
   },
   {
     "name": "nnn",
-    "version": "4.1 1",
-    "maintainer": "Dilyn Corner",
+    "version": "4.2 1",
+    "maintainer": "FriendlyNeighborhoodShane",
     "description": " "
   },
   {
     "name": "sfeed_curses",
-    "version": "0.9.13 1",
+    "version": "1.0 1",
     "maintainer": "Nihal Jere",
     "description": " "
   },
@@ -22405,8 +22423,8 @@
   },
   {
     "name": "sdl2",
-    "version": "2.0.14 1 ",
-    "maintainer": "Rio6",
+    "version": "2.0.16 1 ",
+    "maintainer": "Rio Liu",
     "description": " "
   },
   {
@@ -22465,7 +22483,7 @@
   },
   {
     "name": "libgcrypt",
-    "version": "1.9.3 1",
+    "version": "1.9.4 1",
     "maintainer": "git-bruh",
     "description": " "
   },
@@ -22473,6 +22491,12 @@
     "name": "brownout",
     "version": "0.4 1",
     "maintainer": "Raphael",
+    "description": " "
+  },
+  {
+    "name": "cava",
+    "version": "0.7.4 1",
+    "maintainer": "Mederim",
     "description": " "
   },
   {
@@ -22573,8 +22597,8 @@
   },
   {
     "name": "less",
-    "version": "563 1 ",
-    "maintainer": "Aaron G",
+    "version": "590 1",
+    "maintainer": "FriendlyNeighborhoodShane",
     "description": " "
   },
   {
@@ -22657,7 +22681,7 @@
   },
   {
     "name": "postgresql",
-    "version": "13.3 1",
+    "version": "13.4 1",
     "maintainer": "git-bruh",
     "description": " "
   },
@@ -22669,7 +22693,7 @@
   },
   {
     "name": "syncthing",
-    "version": "1.18.0 1",
+    "version": "1.18.2 1",
     "maintainer": "Cédric",
     "description": " "
   },
@@ -22693,8 +22717,8 @@
   },
   {
     "name": "lld",
-    "version": "12.0.1 1",
-    "maintainer": "Ominitay",
+    "version": "12.0.1 2",
+    "maintainer": "ominitay",
     "description": " "
   },
   {
@@ -22735,13 +22759,13 @@
   },
   {
     "name": "pounce",
-    "version": "2.4 1",
+    "version": "2.5 1",
     "maintainer": "aabacchus",
     "description": " "
   },
   {
     "name": "libsoup",
-    "version": "2.72.0 1",
+    "version": "2.74.0 1",
     "maintainer": "git-bruh",
     "description": " "
   },
@@ -22975,7 +22999,7 @@
   },
   {
     "name": "gnupg2",
-    "version": "2.3.1 1 ",
+    "version": "2.3.2 1 ",
     "maintainer": "Nihal Jere",
     "description": " "
   },
@@ -23071,7 +23095,7 @@
   },
   {
     "name": "cups-filters",
-    "version": "1.28.9 1 ",
+    "version": "1.28.10 1 ",
     "maintainer": "Cédric",
     "description": " "
   },
@@ -23109,6 +23133,12 @@
     "name": "zsh",
     "version": "5.8 1",
     "maintainer": "Devon Morris",
+    "description": " "
+  },
+  {
+    "name": "bri",
+    "version": "20180907 1",
+    "maintainer": "Mederim",
     "description": " "
   },
   {
@@ -23173,8 +23203,14 @@
   },
   {
     "name": "ntfs-3g",
-    "version": "2017.3.23 2 ",
-    "maintainer": "M. Herdiansyah",
+    "version": "2021.8.22 1",
+    "maintainer": "FriendlyNeighborhoodShane",
+    "description": " "
+  },
+  {
+    "name": "nethogs",
+    "version": "0.8.6 1",
+    "maintainer": "git-bruh",
     "description": " "
   },
   {
@@ -23205,12 +23241,6 @@
     "name": "imlib2",
     "version": "1.7.1 1",
     "maintainer": "Nihal",
-    "description": " "
-  },
-  {
-    "name": "cjson",
-    "version": "1.7.14 1",
-    "maintainer": "git-bruh",
     "description": " "
   },
   {
@@ -23257,8 +23287,8 @@
   },
   {
     "name": "chromium",
-    "version": "92.0.4515.107 1",
-    "maintainer": "git-bruh",
+    "version": "93.0.4577.82 1",
+    "maintainer": "Kyryl Melekhin",
     "description": " "
   },
   {
@@ -23317,8 +23347,8 @@
   },
   {
     "name": "xdotool",
-    "version": "3.20160805.1 1",
-    "maintainer": "dm9pZCAq",
+    "version": "3.20210804.2 1",
+    "maintainer": "Kyryl Melekhin",
     "description": " "
   },
   {
@@ -23359,7 +23389,7 @@
   },
   {
     "name": "glib-networking",
-    "version": "2.68.1 1",
+    "version": "2.68.2 1",
     "maintainer": "git-bruh",
     "description": " "
   },
@@ -23419,8 +23449,8 @@
   },
   {
     "name": "nawk-git",
-    "version": "20180827 1 ",
-    "maintainer": "mb",
+    "version": "git 1",
+    "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
@@ -23461,7 +23491,7 @@
   },
   {
     "name": "automake",
-    "version": "1.16.3 1 ",
+    "version": "1.16.4 1",
     "maintainer": "git-bruh",
     "description": " "
   },
@@ -23491,7 +23521,7 @@
   },
   {
     "name": "pandoc-bin",
-    "version": "2.14.1 1 ",
+    "version": "2.14.2 1 ",
     "maintainer": "Cédric",
     "description": " "
   },
@@ -23563,14 +23593,14 @@
   },
   {
     "name": "exiftool",
-    "version": "12.29 1 ",
+    "version": "12.30 1 ",
     "maintainer": "Cédric",
     "description": " "
   },
   {
     "name": "libconfig",
-    "version": "1.7.3 1",
-    "maintainer": "Muhammad Herdiansyah",
+    "version": "1.7.3 1 ",
+    "maintainer": "git-bruh",
     "description": " "
   },
   {
@@ -23652,6 +23682,12 @@
     "description": " "
   },
   {
+    "name": "links",
+    "version": "2.23.0 1",
+    "maintainer": "aabacchus",
+    "description": " "
+  },
+  {
     "name": "freeglut",
     "version": "3.2.1 1 ",
     "maintainer": "Dylan Araps",
@@ -23725,7 +23761,7 @@
   },
   {
     "name": "btrfs-progs",
-    "version": "5.13 1",
+    "version": "5.14 1",
     "maintainer": "git-bruh",
     "description": " "
   },
@@ -23737,7 +23773,7 @@
   },
   {
     "name": "micro",
-    "version": "2.0.9 1",
+    "version": "2.0.10 1",
     "maintainer": "git-bruh",
     "description": " "
   },
@@ -23773,7 +23809,7 @@
   },
   {
     "name": "zathura-cb",
-    "version": "0.1.8 1",
+    "version": "0.1.9 1",
     "maintainer": "Arthur Williams",
     "description": " "
   },
@@ -23791,7 +23827,7 @@
   },
   {
     "name": "slides",
-    "version": "0.4.1 1",
+    "version": "0.5.0 1",
     "maintainer": "Xiaodong Xu",
     "description": " "
   },
@@ -23829,6 +23865,12 @@
     "name": "iptables",
     "version": "1.8.7 1 ",
     "maintainer": "magenbluten",
+    "description": " "
+  },
+  {
+    "name": "libsamplerate",
+    "version": "0.2.1 1",
+    "maintainer": "Zola",
     "description": " "
   },
   {
@@ -23916,12 +23958,6 @@
     "description": " "
   },
   {
-    "name": "links2",
-    "version": "2.23.0 1",
-    "maintainer": "aabacchus",
-    "description": " "
-  },
-  {
     "name": "cproc",
     "version": "git 1",
     "maintainer": "git-bruh",
@@ -23941,7 +23977,7 @@
   },
   {
     "name": "imagemagick",
-    "version": "7.1.0-4 1",
+    "version": "7.1.0-6 1",
     "maintainer": "git-bruh",
     "description": " "
   },
@@ -23989,8 +24025,8 @@
   },
   {
     "name": "libev",
-    "version": "4.33 1",
-    "maintainer": "M. Herdiansyah",
+    "version": "4.33 1 ",
+    "maintainer": "git-bruh",
     "description": " "
   },
   {
@@ -24007,7 +24043,7 @@
   },
   {
     "name": "nss",
-    "version": "3.68 1",
+    "version": "3.70 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
@@ -24031,8 +24067,8 @@
   },
   {
     "name": "extra-cmake-modules",
-    "version": "5.84.0 1",
-    "maintainer": "Dilyn Corner",
+    "version": "5.86.0 1",
+    "maintainer": "davidgarland",
     "description": " "
   },
   {
@@ -24073,7 +24109,7 @@
   },
   {
     "name": "poppler",
-    "version": "21.08.0 1",
+    "version": "21.09.0 1",
     "maintainer": "Cédric",
     "description": " "
   },
@@ -24157,8 +24193,8 @@
   },
   {
     "name": "libudev-zero",
-    "version": "0.5.2 1",
-    "maintainer": "Dilyn Corner",
+    "version": "1.0.0 1",
+    "maintainer": "Kyryl Melekhin",
     "description": " "
   },
   {
@@ -24241,7 +24277,7 @@
   },
   {
     "name": "freetype-harfbuzz",
-    "version": "2.11.0+2.8.2 1",
+    "version": "2.11.0+2.9.0 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -24343,8 +24379,8 @@
   },
   {
     "name": "libepoxy",
-    "version": "1.5.8 1",
-    "maintainer": "Dilyn Corner",
+    "version": "1.5.9 1",
+    "maintainer": "Kyryl Melekhin",
     "description": " "
   },
   {
@@ -24439,8 +24475,8 @@
   },
   {
     "name": "libinput",
-    "version": "1.18.0 1",
-    "maintainer": "Dilyn Corner",
+    "version": "1.19.0 1",
+    "maintainer": "Kyryl Melekhin",
     "description": " "
   },
   {
@@ -24523,8 +24559,8 @@
   },
   {
     "name": "pango",
-    "version": "1.48.9 2",
-    "maintainer": "Dylan Araps",
+    "version": "1.48.10 1",
+    "maintainer": "Kyryl Melekhin",
     "description": " "
   },
   {
@@ -24793,7 +24829,7 @@
   },
   {
     "name": "kiss",
-    "version": "5.5.26 1",
+    "version": "5.5.28 1",
     "maintainer": "Dylan Araps",
     "description": " "
   },
@@ -24967,8 +25003,8 @@
   },
   {
     "name": "xorgproto",
-    "version": "2021.4.99.2 1",
-    "maintainer": "Dilyn Corner",
+    "version": "2021.5 1",
+    "maintainer": "Kyryl Melekhin",
     "description": " "
   },
   {
@@ -25021,8 +25057,8 @@
   },
   {
     "name": "libxkbcommon",
-    "version": "1.3.0 2",
-    "maintainer": "Dilyn Corner",
+    "version": "1.3.1 1",
+    "maintainer": "Kyryl Melekhin",
     "description": " "
   },
   {
