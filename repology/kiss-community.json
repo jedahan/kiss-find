@@ -6031,7 +6031,7 @@
   },
   {
     "name": "xorgproto",
-    "version": "2021.4.99.2 1",
+    "version": "2021.5 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -6247,7 +6247,7 @@
   },
   {
     "name": "wayland-protocols",
-    "version": "1.22 1",
+    "version": "1.23 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -17743,13 +17743,13 @@
   },
   {
     "name": "gcc-bin",
-    "version": "10.2.0 1",
+    "version": "11.2.0 1",
     "maintainer": "hovercats",
     "description": " "
   },
   {
     "name": "binutils-bin",
-    "version": "2.36.1 1",
+    "version": "2.37 1",
     "maintainer": "hovercats",
     "description": " "
   },
