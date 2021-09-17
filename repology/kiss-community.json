@@ -16212,6 +16212,12 @@
     "description": " "
   },
   {
+    "name": "openal-soft",
+    "version": "1.21.1 1",
+    "maintainer": "git-bruh",
+    "description": " "
+  },
+  {
     "name": "basu",
     "version": "git 1",
     "maintainer": "git-bruh",
@@ -16364,6 +16370,12 @@
   {
     "name": "ghc",
     "version": "9.0.1 1",
+    "maintainer": "git-bruh",
+    "description": " "
+  },
+  {
+    "name": "barnard",
+    "version": "git 1",
     "maintainer": "git-bruh",
     "description": " "
   },
