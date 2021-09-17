@@ -2089,7 +2089,7 @@ fastjar,0.98 1,https://github.com/ehawkvu/kiss-java-boot,fastjar,master,"Ethan",
 jikes,1.22 1,https://github.com/ehawkvu/kiss-java-boot,jikes,master,"Ethan"," "
 typescript-language-server,0.6.2 1,https://github.com/ehawkvu/kiss-personal,lsp/typescript-language-server,master,"Ethan"," "
 acorn,8.5.0 1,https://github.com/ehawkvu/kiss-personal,lsp/acorn,master,"Ethan"," "
-pyright,1.1.168 1,https://github.com/ehawkvu/kiss-personal,lsp/pyright,master,"Ethan"," "
+pyright,1.1.169 1,https://github.com/ehawkvu/kiss-personal,lsp/pyright,master,"Ethan"," "
 texlab,3.2.0 1,https://github.com/ehawkvu/kiss-personal,lsp/texlab,master,"Ethan"," "
 gopls,0.7.2 1,https://github.com/ehawkvu/kiss-personal,lsp/gopls,master,"Ethan"," "
 rebar3,3.17.0 1,https://github.com/ehawkvu/kiss-personal,lsp/rebar3,master,"Ethan"," "
