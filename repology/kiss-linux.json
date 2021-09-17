@@ -191,7 +191,7 @@
   },
   {
     "name": "eiwd",
-    "version": "1.17 1",
+    "version": "1.18 1",
     "maintainer": "Dylan Araps"
   },
   {
@@ -606,7 +606,7 @@
   },
   {
     "name": "firefox",
-    "version": "93.0b5 1",
+    "version": "93.0b6 1",
     "maintainer": "Dylan Araps"
   }
 ]
