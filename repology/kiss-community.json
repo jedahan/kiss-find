@@ -7135,7 +7135,7 @@
   },
   {
     "name": "gcc-fort",
-    "version": "11.1.0 4",
+    "version": "11.2.0 1",
     "maintainer": "Xeno-Hypster",
     "description": " "
   },
@@ -13387,7 +13387,7 @@
   },
   {
     "name": "firefox-beta",
-    "version": "93.0b5 1",
+    "version": "93.0b6 1",
     "maintainer": "Ethan",
     "description": " "
   },
