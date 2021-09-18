@@ -2881,7 +2881,7 @@
   },
   {
     "name": "msmtp",
-    "version": "1.8.15 2",
+    "version": "1.8.16 1",
     "maintainer": "Cédric",
     "description": " "
   },
@@ -2917,8 +2917,8 @@
   },
   {
     "name": "gdb",
-    "version": "10.2 1",
-    "maintainer": "Liam Warden",
+    "version": "11.1 1",
+    "maintainer": "Xeno-Hypster",
     "description": " "
   },
   {
@@ -3385,7 +3385,7 @@
   },
   {
     "name": "chromium",
-    "version": "93.0.4577.63 1",
+    "version": "93.0.4577.82 1",
     "maintainer": "git-bruh",
     "description": " "
   },
@@ -19381,7 +19381,7 @@
   },
   {
     "name": "python-numpy",
-    "version": "1.21.1 1",
+    "version": "1.21.2 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
@@ -19525,7 +19525,7 @@
   },
   {
     "name": "python-pythran",
-    "version": "0.9.12.post1 1",
+    "version": "0.10.0 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
