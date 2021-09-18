@@ -16399,7 +16399,7 @@
   },
   {
     "name": "libglvnd",
-    "version": "1.3.3 1",
+    "version": "1.3.4 1",
     "maintainer": "git-bruh",
     "description": " "
   },
@@ -16411,31 +16411,19 @@
   },
   {
     "name": "wlroots",
-    "version": "6649c4d7b306e5838d6898a4b9669c2e4eb2e0f4 1",
-    "maintainer": "git-bruh",
-    "description": " "
-  },
-  {
-    "name": "eglexternalplatform",
-    "version": "git 1",
+    "version": "4dda5742f216657b4397860e4c457c7e9767ce5c 1",
     "maintainer": "git-bruh",
     "description": " "
   },
   {
     "name": "egl-wayland",
-    "version": "git 1",
+    "version": "1.1.8 3",
     "maintainer": "git-bruh",
     "description": " "
   },
   {
     "name": "sway",
-    "version": "b345d6e5d2f175b0be5c5f2a445291611104c98e 1",
-    "maintainer": "git-bruh",
-    "description": " "
-  },
-  {
-    "name": "xorg-libs",
-    "version": "1 1",
+    "version": "8d0a84f3c736ee3a5b0c9cdb6b7b765a308db29f 1",
     "maintainer": "git-bruh",
     "description": " "
   },
