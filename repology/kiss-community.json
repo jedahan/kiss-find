@@ -4669,7 +4669,7 @@
   },
   {
     "name": "gsettings-desktop-schemas",
-    "version": "40.0 1",
+    "version": "41.0 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -5893,7 +5893,7 @@
   },
   {
     "name": "imagemagick",
-    "version": "7.1.0-7 1",
+    "version": "7.1.0-8 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -12919,7 +12919,7 @@
   },
   {
     "name": "acpid",
-    "version": "2.0.32 2",
+    "version": "2.0.33 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -12931,7 +12931,7 @@
   },
   {
     "name": "ttf-ms-fonts",
-    "version": " 2.0 1",
+    "version": "2.0 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13261,7 +13261,7 @@
   },
   {
     "name": "imlib2",
-    "version": "1.7.3 1",
+    "version": "1.7.4 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -18001,7 +18001,7 @@
   },
   {
     "name": "freetype-harfbuzz",
-    "version": "2.11.0+2.9.1 1",
+    "version": "2.11.0+3.0.0 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -18306,6 +18306,12 @@
     "description": " "
   },
   {
+    "name": "nasm",
+    "version": "2.15.05 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
     "name": "lynx",
     "version": "2.8.9rel.1 1 ",
     "maintainer": "hovercats",
@@ -18379,7 +18385,7 @@
   },
   {
     "name": "webkit2gtk",
-    "version": "2.32.3 1",
+    "version": "2.32.4 1",
     "maintainer": "hovercats",
     "description": " "
   },
