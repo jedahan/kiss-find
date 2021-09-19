@@ -516,7 +516,7 @@
   },
   {
     "name": "openssl",
-    "version": "1.1.1l 2",
+    "version": "3.0.0 1",
     "maintainer": "Dylan Araps"
   },
   {
@@ -597,11 +597,6 @@
   {
     "name": "kiss",
     "version": "5.5.28 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "openssl",
-    "version": "3.0.0 1",
     "maintainer": "Dylan Araps"
   },
   {

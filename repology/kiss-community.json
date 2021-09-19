@@ -18216,6 +18216,12 @@
     "description": " "
   },
   {
+    "name": "x265",
+    "version": "3.5 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
     "name": "wpa_supplicant",
     "version": "2.9 4",
     "maintainer": "hovercats",
@@ -18326,6 +18332,12 @@
   {
     "name": "libevent",
     "version": "2.1.12 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "x264",
+    "version": "20190812-2245 4",
     "maintainer": "hovercats",
     "description": " "
   },
