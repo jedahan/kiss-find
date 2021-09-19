@@ -4855,7 +4855,7 @@
   },
   {
     "name": "gobject-introspection",
-    "version": "1.68.0 2",
+    "version": "1.70.0 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -4909,7 +4909,7 @@
   },
   {
     "name": "seatd",
-    "version": "0.6.1 1",
+    "version": "0.6.2 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -4963,7 +4963,7 @@
   },
   {
     "name": "libva",
-    "version": "2.12.0 1",
+    "version": "2.13.0 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -5017,7 +5017,7 @@
   },
   {
     "name": "harfbuzz-icu",
-    "version": "2.9.1 1",
+    "version": "3.0.0 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -5119,7 +5119,7 @@
   },
   {
     "name": "freetype-harfbuzz",
-    "version": "2.11.0+2.9.1 1",
+    "version": "2.11.0+3.0.0 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -5191,7 +5191,7 @@
   },
   {
     "name": "glib",
-    "version": "2.68.4 1",
+    "version": "2.70.0 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -5581,7 +5581,7 @@
   },
   {
     "name": "vala",
-    "version": "0.52.5 1",
+    "version": "0.54.0 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -5635,7 +5635,7 @@
   },
   {
     "name": "glib-networking",
-    "version": "2.68.2 1",
+    "version": "2.70.0 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -5875,7 +5875,7 @@
   },
   {
     "name": "acpid",
-    "version": "2.0.32 1",
+    "version": "2.0.33 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -5941,7 +5941,7 @@
   },
   {
     "name": "webkit2gtk",
-    "version": "2.32.3 1",
+    "version": "2.32.4 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -26029,7 +26029,7 @@
   },
   {
     "name": "sudo",
-    "version": "1.9.8 1",
+    "version": "1.9.8p1 1",
     "maintainer": "Daniel M. Matongo",
     "description": " "
   },
@@ -26059,8 +26059,8 @@
   },
   {
     "name": "libva",
-    "version": "2.12.0 2",
-    "maintainer": "Linux User",
+    "version": "2.13.0 1",
+    "maintainer": "Daniel M. Matongo",
     "description": " "
   },
   {
@@ -26131,7 +26131,7 @@
   },
   {
     "name": "eiwd",
-    "version": "1.17 1",
+    "version": "1.18 1",
     "maintainer": "Daniel M. Matongo",
     "description": " "
   },
@@ -26155,8 +26155,8 @@
   },
   {
     "name": "glib",
-    "version": "2.68.4 1",
-    "maintainer": "Linux User",
+    "version": "2.70.0 1",
+    "maintainer": "Daniel M. Matongo",
     "description": " "
   },
   {
@@ -26575,7 +26575,7 @@
   },
   {
     "name": "openssl",
-    "version": "1.1.1k 1",
+    "version": "3.0.0 1",
     "maintainer": "Daniel M. Matongo",
     "description": " "
   },
