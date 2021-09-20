@@ -4537,7 +4537,7 @@
   },
   {
     "name": "aria2",
-    "version": "1.36.0 1",
+    "version": "1.36.0 2",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -5059,7 +5059,7 @@
   },
   {
     "name": "libgit2",
-    "version": "1.2.0 1",
+    "version": "1.2.0 2",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -5335,7 +5335,7 @@
   },
   {
     "name": "nginx",
-    "version": "1.21.3 1",
+    "version": "1.21.3 2",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -5539,7 +5539,7 @@
   },
   {
     "name": "imlib2",
-    "version": "1.7.3 1",
+    "version": "1.7.4 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -5959,7 +5959,7 @@
   },
   {
     "name": "libressl",
-    "version": "3.3.4 1",
+    "version": "3.4.0 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -6031,7 +6031,7 @@
   },
   {
     "name": "curl",
-    "version": "7.79.0 1",
+    "version": "7.79.0 2",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -6085,7 +6085,7 @@
   },
   {
     "name": "cpt",
-    "version": "6.2.0 2",
+    "version": "6.2.1 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -7423,7 +7423,7 @@
   },
   {
     "name": "graphite-harfbuzz",
-    "version": "2.9.1 1",
+    "version": "3.0.0 1",
     "maintainer": "aabacchus",
     "description": " "
   },
