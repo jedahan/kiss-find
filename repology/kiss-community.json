@@ -1843,8 +1843,8 @@
   },
   {
     "name": "github-cli",
-    "version": "1.13.1 1",
-    "maintainer": "Dilyn Corner",
+    "version": "2.0.0 1",
+    "maintainer": "git-bruh",
     "description": " "
   },
   {
@@ -1939,7 +1939,7 @@
   },
   {
     "name": "go",
-    "version": "1.17 1",
+    "version": "1.17.1 1",
     "maintainer": "Nihal Jere",
     "description": " "
   },
@@ -2215,7 +2215,7 @@
   },
   {
     "name": "dash",
-    "version": "0.5.11.4 1 ",
+    "version": "0.5.11.5 1 ",
     "maintainer": "Nihal Jere",
     "description": " "
   },
@@ -2239,8 +2239,8 @@
   },
   {
     "name": "libarchive",
-    "version": "3.5.1 1",
-    "maintainer": "Nihal",
+    "version": "3.5.2 1",
+    "maintainer": "Nihal Jere",
     "description": " "
   },
   {
@@ -2887,8 +2887,8 @@
   },
   {
     "name": "libcap",
-    "version": "2.51 1 ",
-    "maintainer": "Linux User",
+    "version": "2.57 1",
+    "maintainer": "git-bruh",
     "description": " "
   },
   {
@@ -3013,8 +3013,8 @@
   },
   {
     "name": "pinentry",
-    "version": "1.1.1 1",
-    "maintainer": "Nihal",
+    "version": "1.2.0 1",
+    "maintainer": "Nihal Jere",
     "description": " "
   },
   {
@@ -3487,7 +3487,7 @@
   },
   {
     "name": "iproute2",
-    "version": "5.13.0 1 ",
+    "version": "5.14.0 1 ",
     "maintainer": "Nihal Jere",
     "description": " "
   },
@@ -3679,8 +3679,8 @@
   },
   {
     "name": "wget",
-    "version": "1.21.1 1",
-    "maintainer": "Nihal",
+    "version": "1.21.2 1",
+    "maintainer": "Nihal Jere",
     "description": " "
   },
   {
@@ -3745,7 +3745,7 @@
   },
   {
     "name": "links",
-    "version": "2.23.0 1",
+    "version": "2.24 1",
     "maintainer": "aabacchus",
     "description": " "
   },
@@ -4177,8 +4177,8 @@
   },
   {
     "name": "bubblewrap",
-    "version": "0.4.1 1",
-    "maintainer": "Daniel M. Matongo",
+    "version": "0.5.0 1",
+    "maintainer": "git-bruh",
     "description": " "
   },
   {
@@ -7356,6 +7356,12 @@
     "description": " "
   },
   {
+    "name": "links",
+    "version": "2.24 1",
+    "maintainer": "aabacchus",
+    "description": " "
+  },
+  {
     "name": "herbe",
     "version": "1.0.0 1 ",
     "maintainer": "aabacchus",
@@ -7369,13 +7375,7 @@
   },
   {
     "name": "kiss",
-    "version": "5.5.28 1",
-    "maintainer": "aabacchus",
-    "description": " "
-  },
-  {
-    "name": "links2",
-    "version": "2.23.0 1",
+    "version": "5.5.28 2",
     "maintainer": "aabacchus",
     "description": " "
   },
@@ -8292,9 +8292,9 @@
     "description": " "
   },
   {
-    "name": "tcc",
-    "version": "0.9.27 1",
-    "maintainer": "David Garland",
+    "name": "libepoxy",
+    "version": "1.5.9 1",
+    "maintainer": "davidgarland",
     "description": " "
   },
   {
@@ -8323,8 +8323,8 @@
   },
   {
     "name": "libslirp",
-    "version": "4.4.0 1",
-    "maintainer": "David Garland",
+    "version": "4.6.1 1",
+    "maintainer": "davidgarland",
     "description": " "
   },
   {
