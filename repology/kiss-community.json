@@ -13519,8 +13519,8 @@
   },
   {
     "name": "xf86-input-libinput",
-    "version": "1.1.0 1",
-    "maintainer": "Dylan Araps",
+    "version": "1.2.0 1",
+    "maintainer": "Ethan",
     "description": " "
   },
   {
@@ -19383,6 +19383,12 @@
     "name": "python-beniget",
     "version": "0.4.1 1",
     "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
+    "name": "freetype-harfbuzz",
+    "version": "symlink",
+    "maintainer": "unknown",
     "description": " "
   },
   {
