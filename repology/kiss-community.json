@@ -18301,7 +18301,7 @@
   },
   {
     "name": "links",
-    "version": "2.23.0 1",
+    "version": "2.24 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -18547,7 +18547,7 @@
   },
   {
     "name": "xf86-input-libinput",
-    "version": "1.1.0 1",
+    "version": "1.2.0 1",
     "maintainer": "hovercats",
     "description": " "
   },
