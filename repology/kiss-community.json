@@ -16405,7 +16405,7 @@
   },
   {
     "name": "nvidia",
-    "version": "470.63.01 1",
+    "version": "470.74 1",
     "maintainer": "git-bruh",
     "description": " "
   },
@@ -17893,7 +17893,7 @@
   },
   {
     "name": "cmake",
-    "version": "3.21.2 1",
+    "version": "3.21.3 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -18834,6 +18834,12 @@
     "description": " "
   },
   {
+    "name": "cmake-bin",
+    "version": "3.21.3 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
     "name": "binutils-bin",
     "version": "2.37 1",
     "maintainer": "hovercats",
@@ -19356,8 +19362,20 @@
     "description": " "
   },
   {
+    "name": "python-idna",
+    "version": "3.2 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
     "name": "gpgme",
     "version": "1.16.0 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
+    "name": "python-urllib3",
+    "version": "1.26.6 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
@@ -19386,12 +19404,6 @@
     "description": " "
   },
   {
-    "name": "freetype-harfbuzz",
-    "version": "symlink",
-    "maintainer": "unknown",
-    "description": " "
-  },
-  {
     "name": "python-cppy",
     "version": "1.1.0 1",
     "maintainer": "Owen Rafferty",
@@ -19400,18 +19412,6 @@
   {
     "name": "opusfile",
     "version": "0.12 1",
-    "maintainer": "Owen Rafferty",
-    "description": " "
-  },
-  {
-    "name": "simple-mtpfs",
-    "version": "0.4.0 1",
-    "maintainer": "Owen Rafferty",
-    "description": " "
-  },
-  {
-    "name": "xwayland",
-    "version": "21.1.2 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
@@ -19470,21 +19470,15 @@
     "description": " "
   },
   {
-    "name": "libmtp",
-    "version": "1.1.18 1",
-    "maintainer": "Owen Rafferty",
-    "description": " "
-  },
-  {
     "name": "openblas",
     "version": "0.3.17 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
   {
-    "name": "sway-no-seat",
-    "version": "symlink",
-    "maintainer": "unknown",
+    "name": "python-charset_normalizer",
+    "version": "2.0.6 1",
+    "maintainer": "Owen Rafferty",
     "description": " "
   },
   {
@@ -19506,12 +19500,6 @@
     "description": " "
   },
   {
-    "name": "go-mtpfs-git",
-    "version": "git 1",
-    "maintainer": "Owen Rafferty",
-    "description": " "
-  },
-  {
     "name": "python-dateutil",
     "version": "2.8.2 1",
     "maintainer": "Owen Rafferty",
@@ -19526,6 +19514,12 @@
   {
     "name": "android-tools",
     "version": "31.0.2 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
+    "name": "python-requests",
+    "version": "2.26.0 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
@@ -19662,8 +19656,8 @@
     "description": " "
   },
   {
-    "name": "xorg-font-util",
-    "version": "1.3.2 1",
+    "name": "python-certifi",
+    "version": "2021.5.30 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
