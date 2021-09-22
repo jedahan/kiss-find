@@ -4980,12 +4980,6 @@
     "description": " "
   },
   {
-    "name": "sqlite-docs",
-    "version": "symlink",
-    "maintainer": "unknown",
-    "description": " "
-  },
-  {
     "name": "unzip",
     "version": "6.0 1",
     "maintainer": "Cem Keylan",
@@ -4993,7 +4987,7 @@
   },
   {
     "name": "ncurses",
-    "version": "6.2 2",
+    "version": "6.2 3",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -12565,7 +12559,7 @@
   },
   {
     "name": "pyright",
-    "version": "1.1.169 1",
+    "version": "1.1.170 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -12709,7 +12703,7 @@
   },
   {
     "name": "erlang",
-    "version": "24.0.6 1",
+    "version": "24.1 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -12961,7 +12955,7 @@
   },
   {
     "name": "mesa",
-    "version": "21.2.1 1",
+    "version": "21.2.2 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13363,7 +13357,7 @@
   },
   {
     "name": "webkit2gtk",
-    "version": "2.32.4 1",
+    "version": "2.34.0 1",
     "maintainer": "Ethan",
     "description": " "
   },
