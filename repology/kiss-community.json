@@ -13068,9 +13068,27 @@
     "description": " "
   },
   {
+    "name": "texlive-pstricks",
+    "version": "2021.58293 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "texlive-publishers",
+    "version": "2021.58683 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "texmeta",
     "version": "unknown",
     "maintainer": "unknown",
+    "description": " "
+  },
+  {
+    "name": "texlive-formatsextra",
+    "version": "2021.57972 1",
+    "maintainer": "Ethan",
     "description": " "
   },
   {
@@ -13080,8 +13098,92 @@
     "description": " "
   },
   {
+    "name": "texlive-music",
+    "version": "2021.58331 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "texlive-humanities",
+    "version": "2021.58589 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "texlive-langkorean",
+    "version": "2021.58468 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "texlive-latexextra",
+    "version": "2021.58668 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "texlive-langchinese",
+    "version": "2021.58583 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "texlive-science",
+    "version": "2021.58667 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "texlive-langgreek",
+    "version": "2021.57684 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "texlive-fontsextra",
+    "version": "2021.58704 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "texmf-dist",
     "version": "2021.58710 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "texlive-games",
+    "version": "2021.56833 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "texlive-langjapanese",
+    "version": "2021.58632 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "texlive-bibtexextra",
+    "version": "2021.58697 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "texlive-pictures",
+    "version": "2021.58558 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "texlive-langcyrillic",
+    "version": "2021.58426 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "texlive-langextra",
+    "version": "2021.58019 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13356,6 +13458,12 @@
     "description": " "
   },
   {
+    "name": "libXaw",
+    "version": "1.0.14 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "gcr",
     "version": "3.40.0 1",
     "maintainer": "Ethan",
@@ -13578,6 +13686,24 @@
     "description": " "
   },
   {
+    "name": "libSM",
+    "version": "1.2.3 2",
+    "maintainer": "Dylan Araps",
+    "description": " "
+  },
+  {
+    "name": "xbitmaps",
+    "version": "1.1.2 1",
+    "maintainer": "Dylan Araps",
+    "description": " "
+  },
+  {
+    "name": "xorg-util-macros",
+    "version": "1.19.3 1",
+    "maintainer": "Dylan Araps",
+    "description": " "
+  },
+  {
     "name": "xcb-util-image",
     "version": "0.4.0 1",
     "maintainer": "Dylan Araps",
@@ -13596,9 +13722,27 @@
     "description": " "
   },
   {
+    "name": "libXt",
+    "version": "1.2.1 1",
+    "maintainer": "Dylan Araps",
+    "description": " "
+  },
+  {
     "name": "xrdb",
     "version": "1.2.1 1",
     "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "libXtst",
+    "version": "1.2.3 1",
+    "maintainer": "Dylan Araps",
+    "description": " "
+  },
+  {
+    "name": "libXau",
+    "version": "1.0.9 1",
+    "maintainer": "Dylan Araps",
     "description": " "
   },
   {
@@ -13616,6 +13760,12 @@
   {
     "name": "xcb-proto",
     "version": "1.14.1 1",
+    "maintainer": "Dylan Araps",
+    "description": " "
+  },
+  {
+    "name": "libXcursor",
+    "version": "1.2.0 2",
     "maintainer": "Dylan Araps",
     "description": " "
   },
@@ -13644,14 +13794,44 @@
     "description": " "
   },
   {
+    "name": "libXmu",
+    "version": "1.1.3 1",
+    "maintainer": "Dylan Araps",
+    "description": " "
+  },
+  {
+    "name": "libXxf86vm",
+    "version": "1.1.4 1",
+    "maintainer": "Dylan Araps",
+    "description": " "
+  },
+  {
     "name": "xcb-util-cursor",
     "version": "0.1.3 1",
     "maintainer": "Dylan Araps",
     "description": " "
   },
   {
+    "name": "libXft",
+    "version": "2.3.4 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "xcb-util-keysyms",
     "version": "0.4.0 1",
+    "maintainer": "Dylan Araps",
+    "description": " "
+  },
+  {
+    "name": "libXScrnSaver",
+    "version": "1.2.3 1",
+    "maintainer": "Dylan Araps",
+    "description": " "
+  },
+  {
+    "name": "xtrans",
+    "version": "1.4.0 2",
     "maintainer": "Dylan Araps",
     "description": " "
   },
@@ -13674,6 +13854,12 @@
     "description": " "
   },
   {
+    "name": "libXrender",
+    "version": "0.9.10 2",
+    "maintainer": "Dylan Araps",
+    "description": " "
+  },
+  {
     "name": "xf86-video-vesa",
     "version": "2.5.0 1",
     "maintainer": "Dylan Araps",
@@ -13686,14 +13872,32 @@
     "description": " "
   },
   {
+    "name": "libXinerama",
+    "version": "1.1.4 1",
+    "maintainer": "Dylan Araps",
+    "description": " "
+  },
+  {
     "name": "xorg-server",
     "version": "1.20.13 1",
     "maintainer": "Ethan",
     "description": " "
   },
   {
+    "name": "libICE",
+    "version": "1.0.10 2",
+    "maintainer": "Dylan Araps",
+    "description": " "
+  },
+  {
     "name": "libxcb",
     "version": "1.14 1",
+    "maintainer": "Dylan Araps",
+    "description": " "
+  },
+  {
+    "name": "libXrandr",
+    "version": "1.5.2 1",
     "maintainer": "Dylan Araps",
     "description": " "
   },
@@ -13728,8 +13932,26 @@
     "description": " "
   },
   {
+    "name": "xorgproto",
+    "version": "2021.5 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "libX11",
     "version": "1.7.2 2",
+    "maintainer": "Dylan Araps",
+    "description": " "
+  },
+  {
+    "name": "libXfont2",
+    "version": "2.0.5 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "libxkbfile",
+    "version": "1.1.0 1",
     "maintainer": "Dylan Araps",
     "description": " "
   },
@@ -13764,14 +13986,44 @@
     "description": " "
   },
   {
+    "name": "libXdamage",
+    "version": "1.1.5 2",
+    "maintainer": "Dylan Araps",
+    "description": " "
+  },
+  {
     "name": "setxkbmap",
     "version": "1.3.2 1",
     "maintainer": "Dylan Araps",
     "description": " "
   },
   {
+    "name": "libXi",
+    "version": "1.8 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "libXcomposite",
+    "version": "0.4.5 2",
+    "maintainer": "Dylan Araps",
+    "description": " "
+  },
+  {
     "name": "st",
     "version": "0.8.4 1",
+    "maintainer": "Dylan Araps",
+    "description": " "
+  },
+  {
+    "name": "libXfixes",
+    "version": "6.0.0 1",
+    "maintainer": "Dylan Araps",
+    "description": " "
+  },
+  {
+    "name": "libXext",
+    "version": "1.3.4 2",
     "maintainer": "Dylan Araps",
     "description": " "
   },
@@ -21654,6 +21906,12 @@
     "description": " "
   },
   {
+    "name": "dummy-b",
+    "version": "symlink",
+    "maintainer": "unknown",
+    "description": " "
+  },
+  {
     "name": "dummy-a",
     "version": "1 1",
     "maintainer": "Muhammad Herdiansyah",
@@ -23760,6 +24018,12 @@
     "description": " "
   },
   {
+    "name": "i3-gaps",
+    "version": "4.19.1 1",
+    "maintainer": "Ominitay",
+    "description": " "
+  },
+  {
     "name": "hack",
     "version": "3.003 1 ",
     "maintainer": "Dylan Araps",
@@ -24948,6 +25212,24 @@
     "description": " "
   },
   {
+    "name": "libSM",
+    "version": "1.2.3 2",
+    "maintainer": "Dylan Araps",
+    "description": " "
+  },
+  {
+    "name": "xbitmaps",
+    "version": "1.1.2 1",
+    "maintainer": "Dylan Araps",
+    "description": " "
+  },
+  {
+    "name": "xorg-util-macros",
+    "version": "1.19.3 1",
+    "maintainer": "git-bruh",
+    "description": " "
+  },
+  {
     "name": "libpciaccess",
     "version": "0.16 1",
     "maintainer": "Dylan Araps",
@@ -24972,9 +25254,27 @@
     "description": " "
   },
   {
+    "name": "libXt",
+    "version": "1.2.1 1",
+    "maintainer": "git-bruh",
+    "description": " "
+  },
+  {
     "name": "xrdb",
     "version": "1.2.1 1",
     "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "libXtst",
+    "version": "1.2.3 1",
+    "maintainer": "Dylan Araps",
+    "description": " "
+  },
+  {
+    "name": "libXau",
+    "version": "1.0.9 1",
+    "maintainer": "Dylan Araps",
     "description": " "
   },
   {
@@ -24992,6 +25292,12 @@
   {
     "name": "xcb-proto",
     "version": "1.14.1 1",
+    "maintainer": "Dylan Araps",
+    "description": " "
+  },
+  {
+    "name": "libXcursor",
+    "version": "1.2.0 2",
     "maintainer": "Dylan Araps",
     "description": " "
   },
@@ -25020,14 +25326,44 @@
     "description": " "
   },
   {
+    "name": "libXmu",
+    "version": "1.1.3 1",
+    "maintainer": "Dylan Araps",
+    "description": " "
+  },
+  {
+    "name": "libXxf86vm",
+    "version": "1.1.4 1",
+    "maintainer": "Dylan Araps",
+    "description": " "
+  },
+  {
     "name": "xcb-util-cursor",
     "version": "0.1.3 1",
     "maintainer": "Dylan Araps",
     "description": " "
   },
   {
+    "name": "libXft",
+    "version": "2.3.3 1",
+    "maintainer": "Dylan Araps",
+    "description": " "
+  },
+  {
     "name": "xcb-util-keysyms",
     "version": "0.4.0 1",
+    "maintainer": "Dylan Araps",
+    "description": " "
+  },
+  {
+    "name": "libXScrnSaver",
+    "version": "1.2.3 1",
+    "maintainer": "Dylan Araps",
+    "description": " "
+  },
+  {
+    "name": "xtrans",
+    "version": "1.4.0 2",
     "maintainer": "Dylan Araps",
     "description": " "
   },
@@ -25068,6 +25404,12 @@
     "description": " "
   },
   {
+    "name": "libXinerama",
+    "version": "1.1.4 1",
+    "maintainer": "Dylan Araps",
+    "description": " "
+  },
+  {
     "name": "xorg-server",
     "version": "1.20.13 1",
     "maintainer": "Kyryl Melekhin",
@@ -25080,8 +25422,20 @@
     "description": " "
   },
   {
+    "name": "libICE",
+    "version": "1.0.10 2",
+    "maintainer": "Dylan Araps",
+    "description": " "
+  },
+  {
     "name": "libxcb",
     "version": "1.14 1",
+    "maintainer": "Dylan Araps",
+    "description": " "
+  },
+  {
+    "name": "libXrandr",
+    "version": "1.5.2 1",
     "maintainer": "Dylan Araps",
     "description": " "
   },
@@ -25128,6 +25482,18 @@
     "description": " "
   },
   {
+    "name": "libXfont2",
+    "version": "2.0.5 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "libxkbfile",
+    "version": "1.1.0 1",
+    "maintainer": "Dylan Araps",
+    "description": " "
+  },
+  {
     "name": "sowm",
     "version": "1.6 1",
     "maintainer": "Dylan Araps",
@@ -25158,8 +25524,26 @@
     "description": " "
   },
   {
+    "name": "libXdamage",
+    "version": "1.1.5 2",
+    "maintainer": "Dylan Araps",
+    "description": " "
+  },
+  {
     "name": "setxkbmap",
     "version": "1.3.2 1",
+    "maintainer": "Dylan Araps",
+    "description": " "
+  },
+  {
+    "name": "libXi",
+    "version": "1.8 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "libXcomposite",
+    "version": "0.4.5 2",
     "maintainer": "Dylan Araps",
     "description": " "
   },
@@ -25167,6 +25551,12 @@
     "name": "st",
     "version": "0.8.4 1",
     "maintainer": "Dylan Araps",
+    "description": " "
+  },
+  {
+    "name": "libXfixes",
+    "version": "6.0.0 1",
+    "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
@@ -27342,8 +27732,32 @@
     "description": " "
   },
   {
+    "name": "xfce4-panel",
+    "version": "4.14.0 1",
+    "maintainer": "Linux User",
+    "description": " "
+  },
+  {
+    "name": "libxfce4ui",
+    "version": "4.14.1 1",
+    "maintainer": "Linux User",
+    "description": " "
+  },
+  {
     "name": "vte3",
     "version": "git 1",
+    "maintainer": "Linux User",
+    "description": " "
+  },
+  {
+    "name": "xfdesktop",
+    "version": "4.14.1 1",
+    "maintainer": "Linux User",
+    "description": " "
+  },
+  {
+    "name": "thunar",
+    "version": "0.9.5 1",
     "maintainer": "Linux User",
     "description": " "
   },
@@ -27354,15 +27768,45 @@
     "description": " "
   },
   {
+    "name": "xfwm4",
+    "version": "4.14.0 1",
+    "maintainer": "Linux User",
+    "description": " "
+  },
+  {
     "name": "intltool-fake",
     "version": "1 1",
     "maintainer": "Eudald Gubert i Roldan",
     "description": " "
   },
   {
+    "name": "xfce4-settings",
+    "version": "4.14.0 1",
+    "maintainer": "Linux User",
+    "description": " "
+  },
+  {
     "name": "gettext",
     "version": "0.3.2 1",
     "maintainer": "Eudald Gubert i Roldan",
+    "description": " "
+  },
+  {
+    "name": "xfce4-session",
+    "version": "4.14.0 1",
+    "maintainer": "Linux User",
+    "description": " "
+  },
+  {
+    "name": "garcon",
+    "version": "0.6.4 1",
+    "maintainer": "Linux User",
+    "description": " "
+  },
+  {
+    "name": "xfce4-terminal",
+    "version": "0.8.9.2 1",
+    "maintainer": "Linux User",
     "description": " "
   },
   {
