@@ -366,7 +366,7 @@
   },
   {
     "name": "nodejs",
-    "version": "16.9.1 1",
+    "version": "16.10.0 1",
     "maintainer": "Dylan Araps"
   },
   {
@@ -521,7 +521,7 @@
   },
   {
     "name": "curl",
-    "version": "7.79.0 1",
+    "version": "7.79.1 1",
     "maintainer": "Dylan Araps"
   },
   {
