@@ -222,6 +222,66 @@
     "description": " "
   },
   {
+    "name": "pash",
+    "version": "git 1",
+    "maintainer": "luizbra",
+    "description": " "
+  },
+  {
+    "name": "sdhcp",
+    "version": "git 1",
+    "maintainer": "luizbra",
+    "description": " "
+  },
+  {
+    "name": "autoconf",
+    "version": "2.71 1",
+    "maintainer": "luizbra",
+    "description": " "
+  },
+  {
+    "name": "file",
+    "version": " 5.40 1",
+    "maintainer": "luizbra",
+    "description": " "
+  },
+  {
+    "name": "libtool",
+    "version": "2.4.6 1 ",
+    "maintainer": "luizbra",
+    "description": " "
+  },
+  {
+    "name": "zsh",
+    "version": "5.8 1",
+    "maintainer": "luizbra",
+    "description": " "
+  },
+  {
+    "name": "neovim",
+    "version": "0.5.0 2",
+    "maintainer": "luizbra",
+    "description": " "
+  },
+  {
+    "name": "spotifyd",
+    "version": "0.3.2 9",
+    "maintainer": "luizbra",
+    "description": " "
+  },
+  {
+    "name": "automake",
+    "version": "1.16.4 1",
+    "maintainer": "luizbra",
+    "description": " "
+  },
+  {
+    "name": "wget",
+    "version": "1.21.2 1",
+    "maintainer": "luizbra",
+    "description": " "
+  },
+  {
     "name": "flex",
     "version": "git 1",
     "maintainer": "Armaan Bhojwani",
