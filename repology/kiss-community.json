@@ -234,50 +234,32 @@
     "description": " "
   },
   {
-    "name": "autoconf",
-    "version": "2.71 1",
-    "maintainer": "luizbra",
-    "description": " "
-  },
-  {
     "name": "file",
     "version": "5.40 1",
     "maintainer": "luizbra",
     "description": " "
   },
   {
-    "name": "libtool",
-    "version": "2.4.6 1 ",
-    "maintainer": "luizbra",
-    "description": " "
-  },
-  {
-    "name": "zsh",
-    "version": "5.8 1",
-    "maintainer": "luizbra",
-    "description": " "
-  },
-  {
-    "name": "neovim",
-    "version": "0.5.0 2",
-    "maintainer": "luizbra",
-    "description": " "
-  },
-  {
     "name": "spotifyd",
-    "version": "0.3.2 9",
+    "version": "0.3.2 1",
     "maintainer": "luizbra",
     "description": " "
   },
   {
-    "name": "automake",
-    "version": "1.16.4 1",
+    "name": "nerd-fonts-mononoki",
+    "version": "2.1.0 1",
     "maintainer": "luizbra",
     "description": " "
   },
   {
     "name": "wget",
     "version": "1.21.2 1",
+    "maintainer": "luizbra",
+    "description": " "
+  },
+  {
+    "name": "imagemagick",
+    "version": "7.1.0-8 1",
     "maintainer": "luizbra",
     "description": " "
   },
@@ -12661,7 +12643,7 @@
   },
   {
     "name": "vim-language-server",
-    "version": "2.2.4 1",
+    "version": "2.2.5 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -24775,7 +24757,7 @@
   },
   {
     "name": "mandoc",
-    "version": "1.14.5 4",
+    "version": "1.14.6 1",
     "maintainer": "Dylan Araps",
     "description": " "
   },
