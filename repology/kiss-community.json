@@ -241,7 +241,7 @@
   },
   {
     "name": "file",
-    "version": " 5.40 1",
+    "version": "5.40 1",
     "maintainer": "luizbra",
     "description": " "
   },
@@ -21991,8 +21991,8 @@
   },
   {
     "name": "github-cli",
-    "version": "1.13.1 1",
-    "maintainer": "Dilyn Corner",
+    "version": "2.0.0 1",
+    "maintainer": "git-bruh",
     "description": " "
   },
   {
@@ -22123,7 +22123,7 @@
   },
   {
     "name": "go",
-    "version": "1.17 1",
+    "version": "1.17.1 1",
     "maintainer": "Nihal Jere",
     "description": " "
   },
@@ -22435,7 +22435,7 @@
   },
   {
     "name": "dash",
-    "version": "0.5.11.4 1 ",
+    "version": "0.5.11.5 1 ",
     "maintainer": "Nihal Jere",
     "description": " "
   },
@@ -22459,14 +22459,20 @@
   },
   {
     "name": "libarchive",
-    "version": "3.5.1 1",
-    "maintainer": "Nihal",
+    "version": "3.5.2 1",
+    "maintainer": "Nihal Jere",
     "description": " "
   },
   {
     "name": "htop",
     "version": "git 1",
     "maintainer": "Kyryl Melekhin",
+    "description": " "
+  },
+  {
+    "name": "tiff",
+    "version": "4.3.0 1",
+    "maintainer": "Mederim",
     "description": " "
   },
   {
@@ -23143,14 +23149,14 @@
   },
   {
     "name": "msmtp",
-    "version": "1.8.15 1",
-    "maintainer": "Cédric",
+    "version": "1.8.16 1",
+    "maintainer": "Kyryl Melekhin",
     "description": " "
   },
   {
     "name": "libcap",
-    "version": "2.51 1 ",
-    "maintainer": "Linux User",
+    "version": "2.57 1",
+    "maintainer": "git-bruh",
     "description": " "
   },
   {
@@ -23281,8 +23287,8 @@
   },
   {
     "name": "pinentry",
-    "version": "1.1.1 1",
-    "maintainer": "Nihal",
+    "version": "1.2.0 1",
+    "maintainer": "Nihal Jere",
     "description": " "
   },
   {
@@ -23611,8 +23617,8 @@
   },
   {
     "name": "imlib2",
-    "version": "1.7.1 1",
-    "maintainer": "Nihal",
+    "version": "1.7.4 1",
+    "maintainer": "Kyryl Melekhin",
     "description": " "
   },
   {
@@ -23767,7 +23773,7 @@
   },
   {
     "name": "iproute2",
-    "version": "5.13.0 1 ",
+    "version": "5.14.0 1 ",
     "maintainer": "Nihal Jere",
     "description": " "
   },
@@ -23983,8 +23989,8 @@
   },
   {
     "name": "wget",
-    "version": "1.21.1 1",
-    "maintainer": "Nihal",
+    "version": "1.21.2 1",
+    "maintainer": "Nihal Jere",
     "description": " "
   },
   {
@@ -24061,7 +24067,7 @@
   },
   {
     "name": "links",
-    "version": "2.23.0 1",
+    "version": "2.24 1",
     "maintainer": "aabacchus",
     "description": " "
   },
@@ -24517,7 +24523,7 @@
   },
   {
     "name": "webkit2gtk",
-    "version": "2.32.3 1",
+    "version": "2.34.0 1",
     "maintainer": "Kyryl Melekhin",
     "description": " "
   },
@@ -24547,8 +24553,8 @@
   },
   {
     "name": "bubblewrap",
-    "version": "0.4.1 1",
-    "maintainer": "Daniel M. Matongo",
+    "version": "0.5.0 1",
+    "maintainer": "git-bruh",
     "description": " "
   },
   {
@@ -24607,8 +24613,8 @@
   },
   {
     "name": "cmake",
-    "version": "3.21.1 1",
-    "maintainer": "Kyryl Melekhin",
+    "version": "3.21.3 1",
+    "maintainer": "Dylan Araps",
     "description": " "
   },
   {
@@ -24619,8 +24625,8 @@
   },
   {
     "name": "libva",
-    "version": "2.12.0 1",
-    "maintainer": "Dilyn Corner",
+    "version": "2.13.0 1",
+    "maintainer": "Ethan",
     "description": " "
   },
   {
@@ -24642,12 +24648,6 @@
     "description": " "
   },
   {
-    "name": "tiff",
-    "version": "4.3.0 1",
-    "maintainer": "Dilyn Corner",
-    "description": " "
-  },
-  {
     "name": "eudev",
     "version": "3.2.10 1",
     "maintainer": "git-bruh",
@@ -24655,13 +24655,19 @@
   },
   {
     "name": "freetype-harfbuzz",
-    "version": "2.11.0+2.9.0 1",
-    "maintainer": "Ethan",
+    "version": "2.11.0+3.0.0 1",
+    "maintainer": "Kyryl Melekhin",
     "description": " "
   },
   {
     "name": "gnupg1",
     "version": "1.4.23 2",
+    "maintainer": "Dylan Araps",
+    "description": " "
+  },
+  {
+    "name": "mdevd",
+    "version": "b61ab0373a724d38e059655d561b5fb3dcb2aff6 1",
     "maintainer": "Dylan Araps",
     "description": " "
   },
@@ -24679,8 +24685,8 @@
   },
   {
     "name": "eiwd",
-    "version": "1.16 1",
-    "maintainer": "Kyryl Melekhin",
+    "version": "1.18 1",
+    "maintainer": "Dylan Araps",
     "description": " "
   },
   {
@@ -24691,14 +24697,14 @@
   },
   {
     "name": "man-pages",
-    "version": "5.12 1",
-    "maintainer": "Kyryl Melekhin",
+    "version": "5.13 1",
+    "maintainer": "Dylan Araps",
     "description": " "
   },
   {
     "name": "mesa",
-    "version": "21.2.1 1",
-    "maintainer": "Dylan Araps",
+    "version": "21.2.2 1",
+    "maintainer": "Ethan",
     "description": " "
   },
   {
@@ -24709,7 +24715,7 @@
   },
   {
     "name": "glib",
-    "version": "2.68.4 1",
+    "version": "2.70.0 1",
     "maintainer": "Dylan Araps",
     "description": " "
   },
@@ -24721,7 +24727,7 @@
   },
   {
     "name": "gtk+3",
-    "version": "3.24.29 3",
+    "version": "3.24.30 1",
     "maintainer": "Kyryl Melekhin",
     "description": " "
   },
@@ -24799,7 +24805,7 @@
   },
   {
     "name": "libwebp",
-    "version": "1.2.1 1",
+    "version": "1.2.1 2",
     "maintainer": "Dylan Araps",
     "description": " "
   },
@@ -24811,8 +24817,8 @@
   },
   {
     "name": "opendoas",
-    "version": "6.8.1 1",
-    "maintainer": "git-bruh",
+    "version": "6.8.1 2",
+    "maintainer": "Dylan Araps",
     "description": " "
   },
   {
@@ -24823,7 +24829,7 @@
   },
   {
     "name": "ccache",
-    "version": "4.4 1",
+    "version": "4.4.1 1",
     "maintainer": "Dylan Araps",
     "description": " "
   },
@@ -24859,8 +24865,8 @@
   },
   {
     "name": "adwaita-icon-theme",
-    "version": "40.1.1 1",
-    "maintainer": "Kyryl Melekhin",
+    "version": "41.0 1",
+    "maintainer": "Dylan Araps",
     "description": " "
   },
   {
@@ -24901,7 +24907,7 @@
   },
   {
     "name": "nodejs",
-    "version": "16.7.0 1",
+    "version": "16.10.0 1",
     "maintainer": "Dylan Araps",
     "description": " "
   },
@@ -24925,8 +24931,8 @@
   },
   {
     "name": "strace",
-    "version": "5.13 1",
-    "maintainer": "Kyryl Melekhin",
+    "version": "5.14 1",
+    "maintainer": "Dylan Araps",
     "description": " "
   },
   {
@@ -25003,13 +25009,13 @@
   },
   {
     "name": "gdk-pixbuf",
-    "version": "2.42.6 1",
-    "maintainer": "Dilyn Corner",
+    "version": "2.42.6 2",
+    "maintainer": "Dylan Araps",
     "description": " "
   },
   {
     "name": "python",
-    "version": "3.9.6 3",
+    "version": "3.9.7 1",
     "maintainer": "Dylan Araps",
     "description": " "
   },
@@ -25057,8 +25063,8 @@
   },
   {
     "name": "mutt",
-    "version": "2.1.1 1",
-    "maintainer": "Kyryl Melekhin",
+    "version": "2.1.3 1",
+    "maintainer": "Dylan Araps",
     "description": " "
   },
   {
@@ -25087,8 +25093,8 @@
   },
   {
     "name": "libass",
-    "version": "0.15.1 1",
-    "maintainer": "Dilyn Corner",
+    "version": "0.15.2 1",
+    "maintainer": "Dylan Araps",
     "description": " "
   },
   {
@@ -25117,14 +25123,14 @@
   },
   {
     "name": "curl",
-    "version": "7.78.0 1",
-    "maintainer": "Kyryl Melekhin",
+    "version": "7.79.1 1",
+    "maintainer": "Dylan Araps",
     "description": " "
   },
   {
     "name": "bison",
-    "version": "3.7.6 1",
-    "maintainer": "Dilyn Corner",
+    "version": "3.8.1 1",
+    "maintainer": "Dylan Araps",
     "description": " "
   },
   {
@@ -25201,7 +25207,7 @@
   },
   {
     "name": "busybox",
-    "version": "1.34.0 1",
+    "version": "1.34.0 6",
     "maintainer": "Dylan Araps",
     "description": " "
   },
@@ -25249,8 +25255,8 @@
   },
   {
     "name": "xf86-input-libinput",
-    "version": "1.1.0 1",
-    "maintainer": "Dilyn Corner",
+    "version": "1.2.0 1",
+    "maintainer": "Ethan",
     "description": " "
   },
   {
