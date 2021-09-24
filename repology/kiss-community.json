@@ -4801,7 +4801,7 @@
   },
   {
     "name": "chezmoi",
-    "version": "2.4.0 1",
+    "version": "2.5.0 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -5419,7 +5419,7 @@
   },
   {
     "name": "fribidi",
-    "version": "1.0.10 1",
+    "version": "1.0.11 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -5737,7 +5737,7 @@
   },
   {
     "name": "nodejs",
-    "version": "16.9.1 1",
+    "version": "16.10.0 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -6097,7 +6097,7 @@
   },
   {
     "name": "otools",
-    "version": "1.4.2 3",
+    "version": "1.5.0 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -6110,12 +6110,6 @@
   {
     "name": "libnl",
     "version": "3.5.0 2",
-    "maintainer": "Cem Keylan",
-    "description": " "
-  },
-  {
-    "name": "mandoc",
-    "version": "1.14.5 3",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -6656,6 +6650,18 @@
   {
     "name": "libXext",
     "version": "1.3.4 2",
+    "maintainer": "Cem Keylan",
+    "description": " "
+  },
+  {
+    "name": "libnghttp2",
+    "version": "1.45.1 1",
+    "maintainer": "Cem Keylan",
+    "description": " "
+  },
+  {
+    "name": "libsoup3",
+    "version": "3.0.0 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
