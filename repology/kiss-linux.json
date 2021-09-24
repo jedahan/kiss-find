@@ -261,7 +261,7 @@
   },
   {
     "name": "mandoc",
-    "version": "1.14.5 4",
+    "version": "1.14.6 1",
     "maintainer": "Dylan Araps"
   },
   {
@@ -317,6 +317,11 @@
   {
     "name": "ccache",
     "version": "4.4.1 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "bkeymaps",
+    "version": "1.13 1",
     "maintainer": "Dylan Araps"
   },
   {

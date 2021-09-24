@@ -19668,12 +19668,6 @@
     "description": " "
   },
   {
-    "name": "ffmpeg",
-    "version": "symlink",
-    "maintainer": "unknown",
-    "description": " "
-  },
-  {
     "name": "tk",
     "version": "8.6.11.1 1",
     "maintainer": "Owen Rafferty",
@@ -19746,27 +19740,9 @@
     "description": " "
   },
   {
-    "name": "ghostscript",
-    "version": "symlink",
-    "maintainer": "unknown",
-    "description": " "
-  },
-  {
-    "name": "mesa",
-    "version": "symlink",
-    "maintainer": "unknown",
-    "description": " "
-  },
-  {
     "name": "opustags",
     "version": "1.6.0 1",
     "maintainer": "Owen Rafferty",
-    "description": " "
-  },
-  {
-    "name": "curl",
-    "version": "symlink",
-    "maintainer": "unknown",
     "description": " "
   },
   {
@@ -19806,12 +19782,6 @@
     "description": " "
   },
   {
-    "name": "gcc",
-    "version": "symlink",
-    "maintainer": "unknown",
-    "description": " "
-  },
-  {
     "name": "python-gast",
     "version": "0.5.2 1",
     "maintainer": "Owen Rafferty",
@@ -19821,12 +19791,6 @@
     "name": "python-dateutil",
     "version": "2.8.2 1",
     "maintainer": "Owen Rafferty",
-    "description": " "
-  },
-  {
-    "name": "gnupg2",
-    "version": "symlink",
-    "maintainer": "unknown",
     "description": " "
   },
   {
@@ -19850,12 +19814,6 @@
   {
     "name": "python-six",
     "version": "1.16.0 1",
-    "maintainer": "Owen Rafferty",
-    "description": " "
-  },
-  {
-    "name": "ppp",
-    "version": "2.4.9 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
@@ -19920,24 +19878,6 @@
     "description": " "
   },
   {
-    "name": "pcre2",
-    "version": "10.37 1",
-    "maintainer": "Owen Rafferty",
-    "description": " "
-  },
-  {
-    "name": "libdrm",
-    "version": "symlink",
-    "maintainer": "unknown",
-    "description": " "
-  },
-  {
-    "name": "llvm",
-    "version": "symlink",
-    "maintainer": "unknown",
-    "description": " "
-  },
-  {
     "name": "python-distro",
     "version": "1.6.0 1",
     "maintainer": "Owen Rafferty",
@@ -19950,15 +19890,15 @@
     "description": " "
   },
   {
-    "name": "signify",
-    "version": "30 1",
+    "name": "urlview-git",
+    "version": "git 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
   {
-    "name": "mutt",
-    "version": "symlink",
-    "maintainer": "unknown",
+    "name": "signify",
+    "version": "30 1",
+    "maintainer": "Owen Rafferty",
     "description": " "
   },
   {
@@ -19983,6 +19923,60 @@
     "name": "python-matplotlib",
     "version": "3.4.3 1",
     "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
+    "name": "ffmpeg",
+    "version": "symlink",
+    "maintainer": "unknown",
+    "description": " "
+  },
+  {
+    "name": "ghostscript",
+    "version": "symlink",
+    "maintainer": "unknown",
+    "description": " "
+  },
+  {
+    "name": "mesa",
+    "version": "symlink",
+    "maintainer": "unknown",
+    "description": " "
+  },
+  {
+    "name": "curl",
+    "version": "symlink",
+    "maintainer": "unknown",
+    "description": " "
+  },
+  {
+    "name": "gcc",
+    "version": "symlink",
+    "maintainer": "unknown",
+    "description": " "
+  },
+  {
+    "name": "gnupg2",
+    "version": "symlink",
+    "maintainer": "unknown",
+    "description": " "
+  },
+  {
+    "name": "libdrm",
+    "version": "symlink",
+    "maintainer": "unknown",
+    "description": " "
+  },
+  {
+    "name": "llvm",
+    "version": "symlink",
+    "maintainer": "unknown",
+    "description": " "
+  },
+  {
+    "name": "mutt",
+    "version": "symlink",
+    "maintainer": "unknown",
     "description": " "
   },
   {
