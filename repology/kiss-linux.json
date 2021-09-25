@@ -481,7 +481,7 @@
   },
   {
     "name": "tzdata",
-    "version": "2021a 1",
+    "version": "2021b 1",
     "maintainer": "Dylan Araps"
   },
   {
@@ -531,7 +531,7 @@
   },
   {
     "name": "bison",
-    "version": "3.8.1 1",
+    "version": "3.8.2 1",
     "maintainer": "Dylan Araps"
   },
   {
