@@ -794,7 +794,7 @@ figlet,2.2.5 1,https://github.com/CarbsLinux/repository,community/figlet,master,
 xss-lock,git 1,https://github.com/CarbsLinux/repository,community/xss-lock,master,"Cem Keylan"," "
 cyrus-sasl,2.1.27 4,https://github.com/CarbsLinux/repository,community/cyrus-sasl,master,"Cem Keylan"," "
 btrfs-progs,5.14.1 1,https://github.com/CarbsLinux/repository,community/btrfs-progs,master,"Cem Keylan"," "
-coreutils,8.32 1 ,https://github.com/CarbsLinux/repository,community/coreutils,master,"Cem Keylan"," "
+coreutils,9.0 1,https://github.com/CarbsLinux/repository,community/coreutils,master,"Cem Keylan"," "
 chezmoi,2.5.0 1,https://github.com/CarbsLinux/repository,community/chezmoi,master,"Cem Keylan"," "
 dbus,1.12.20 1,https://github.com/CarbsLinux/repository,dbus/dbus,master,"Cem Keylan"," "
 dunst,1.6.1 1,https://github.com/CarbsLinux/repository,dbus/dunst,master,"Cem Keylan"," "
