@@ -7278,6 +7278,12 @@
     "description": " "
   },
   {
+    "name": "libmd",
+    "version": "1.0.3 1",
+    "maintainer": "aabacchus",
+    "description": " "
+  },
+  {
     "name": "weston",
     "version": "git 1",
     "maintainer": "aabacchus",
@@ -7304,6 +7310,12 @@
   {
     "name": "gdbm",
     "version": "1.20 1",
+    "maintainer": "aabacchus",
+    "description": " "
+  },
+  {
+    "name": "libbsd",
+    "version": "0.11.3 1",
     "maintainer": "aabacchus",
     "description": " "
   },
@@ -7388,6 +7400,12 @@
   {
     "name": "nilfs-utils",
     "version": "2.2.8 1",
+    "maintainer": "aabacchus",
+    "description": " "
+  },
+  {
+    "name": "kplot",
+    "version": "0.1.15 1",
     "maintainer": "aabacchus",
     "description": " "
   },
@@ -12914,6 +12932,12 @@
   {
     "name": "grap",
     "version": "1.46 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "qemu",
+    "version": "6.1.0 1",
     "maintainer": "Ethan",
     "description": " "
   },
