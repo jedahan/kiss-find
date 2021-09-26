@@ -246,14 +246,14 @@
     "description": " "
   },
   {
-    "name": "nerd-fonts-mononoki",
-    "version": "2.1.0 1",
+    "name": "wget",
+    "version": "1.21.2 1",
     "maintainer": "luizbra",
     "description": " "
   },
   {
-    "name": "wget",
-    "version": "1.21.2 1",
+    "name": "pfetch",
+    "version": "0.6.0 1",
     "maintainer": "luizbra",
     "description": " "
   },
@@ -4885,7 +4885,7 @@
   },
   {
     "name": "foot",
-    "version": "1.9.0 1",
+    "version": "1.9.0 2",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -4957,7 +4957,7 @@
   },
   {
     "name": "seatd",
-    "version": "0.6.2 1",
+    "version": "0.6.2 2",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -5347,7 +5347,7 @@
   },
   {
     "name": "bison",
-    "version": "3.8.1 1",
+    "version": "3.8.2 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -6090,12 +6090,6 @@
     "description": " "
   },
   {
-    "name": "libnl",
-    "version": "3.5.0 2",
-    "maintainer": "Cem Keylan",
-    "description": " "
-  },
-  {
     "name": "make",
     "version": "4.3 2",
     "maintainer": "Cem Keylan",
@@ -6170,6 +6164,12 @@
   {
     "name": "b3sum",
     "version": "git 2",
+    "maintainer": "Cem Keylan",
+    "description": " "
+  },
+  {
+    "name": "libnl-tiny",
+    "version": "git 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -6607,7 +6607,7 @@
   },
   {
     "name": "feh",
-    "version": "3.7.1 1",
+    "version": "3.7.2 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -12607,7 +12607,7 @@
   },
   {
     "name": "pyright",
-    "version": "1.1.170 1",
+    "version": "1.1.171 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -12846,6 +12846,18 @@
     "description": " "
   },
   {
+    "name": "htop",
+    "version": "3.1.0 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "kjv",
+    "version": "git 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "vimb",
     "version": "3.6.0 1",
     "maintainer": "Ethan",
@@ -12918,6 +12930,12 @@
     "description": " "
   },
   {
+    "name": "vul",
+    "version": "git 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "cabextract",
     "version": "1.9.1 1",
     "maintainer": "Ethan",
@@ -12956,6 +12974,12 @@
   {
     "name": "pcre2",
     "version": "10.37 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "diffutils",
+    "version": "3.8 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13388,6 +13412,12 @@
   {
     "name": "xdo",
     "version": "0.5.7 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "nsxiv",
+    "version": "27.1 1",
     "maintainer": "Ethan",
     "description": " "
   },
