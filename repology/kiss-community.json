@@ -2623,8 +2623,8 @@
   },
   {
     "name": "execline",
-    "version": "2.8.0.1 1",
-    "maintainer": "Rio6",
+    "version": "2.8.1.0 1",
+    "maintainer": "Rio Liu",
     "description": " "
   },
   {
@@ -2773,8 +2773,8 @@
   },
   {
     "name": "s6-linux-init",
-    "version": "1.0.6.3 1",
-    "maintainer": "Rio6",
+    "version": "1.0.6.4 1",
+    "maintainer": "Rio Liu",
     "description": " "
   },
   {
@@ -2802,6 +2802,12 @@
     "description": " "
   },
   {
+    "name": "json-glib",
+    "version": "1.6.6 1",
+    "maintainer": "Mederim",
+    "description": " "
+  },
+  {
     "name": "tmate-bin",
     "version": "2.4.0 1",
     "maintainer": "git-bruh",
@@ -2815,8 +2821,8 @@
   },
   {
     "name": "s6",
-    "version": "2.10.0.3 1",
-    "maintainer": "Rio6",
+    "version": "2.11.0.0 1",
+    "maintainer": "Rio Liu",
     "description": " "
   },
   {
@@ -3553,8 +3559,8 @@
   },
   {
     "name": "skalibs",
-    "version": "2.10.0.3 1",
-    "maintainer": "Rio6",
+    "version": "2.11.0.0 1",
+    "maintainer": "Rio Liu",
     "description": " "
   },
   {
@@ -3687,6 +3693,12 @@
     "name": "dejavu-ttf",
     "version": "2.37 1",
     "maintainer": "Eudald Gubert i Roldan",
+    "description": " "
+  },
+  {
+    "name": "pqiv",
+    "version": "2.12 1 ",
+    "maintainer": "Cédric",
     "description": " "
   },
   {
@@ -3829,8 +3841,8 @@
   },
   {
     "name": "s6-rc",
-    "version": "0.5.2.2 1",
-    "maintainer": "Rio6",
+    "version": "0.5.2.3 1",
+    "maintainer": "Rio Liu",
     "description": " "
   },
   {
@@ -4692,6 +4704,12 @@
     "description": " "
   },
   {
+    "name": "transmission",
+    "version": "3.00 1",
+    "maintainer": "Cem Keylan",
+    "description": " "
+  },
+  {
     "name": "girara",
     "version": "0.3.6 1",
     "maintainer": "Cem Keylan",
@@ -4772,6 +4790,12 @@
   {
     "name": "btrfs-progs",
     "version": "5.14.1 1",
+    "maintainer": "Cem Keylan",
+    "description": " "
+  },
+  {
+    "name": "libevent",
+    "version": "2.1.12 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -4928,6 +4952,12 @@
   {
     "name": "prout",
     "version": "git 1",
+    "maintainer": "Cem Keylan",
+    "description": " "
+  },
+  {
+    "name": "catgirl",
+    "version": "1.9a 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -5425,7 +5455,7 @@
   },
   {
     "name": "openssh",
-    "version": "8.7p1 1",
+    "version": "8.8p1 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -12775,7 +12805,7 @@
   },
   {
     "name": "sbcl",
-    "version": "2.1.8 1",
+    "version": "2.1.9 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -12806,6 +12836,12 @@
   {
     "name": "linux-lts",
     "version": "5.10.63 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "fossil",
+    "version": "2.16 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -12926,6 +12962,12 @@
   {
     "name": "hub",
     "version": "2.14.2 3",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "xapian",
+    "version": "1.4.18 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13070,6 +13112,12 @@
   {
     "name": "graphite2",
     "version": "1.3.14 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "ghostscript",
+    "version": "9.55.0 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -18252,6 +18300,12 @@
     "description": " "
   },
   {
+    "name": "xvidcore",
+    "version": "1.3.7 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
     "name": "github-cli",
     "version": "2.0.0 1",
     "maintainer": "hovercats",
@@ -18277,7 +18331,7 @@
   },
   {
     "name": "go",
-    "version": "1.17 1",
+    "version": "1.17.1 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -18390,6 +18444,12 @@
     "description": " "
   },
   {
+    "name": "opus",
+    "version": "1.3.1 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
     "name": "sm",
     "version": "git 1",
     "maintainer": "hovercats",
@@ -18462,8 +18522,14 @@
     "description": " "
   },
   {
+    "name": "libogg",
+    "version": "1.3.5 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
     "name": "bison",
-    "version": "3.8.1 1",
+    "version": "3.8.2 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -18476,6 +18542,12 @@
   {
     "name": "tinyalsa",
     "version": "2.0.0 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "libjpeg-turbo",
+    "version": "2.1.1 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -18499,13 +18571,25 @@
   },
   {
     "name": "openssh",
-    "version": "8.7p1 1",
+    "version": "8.8p1 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "libwebp",
+    "version": "1.2.1 2",
     "maintainer": "hovercats",
     "description": " "
   },
   {
     "name": "libtool",
     "version": "2.4.6 1 ",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "lame",
+    "version": "3.100 2",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -18536,6 +18620,12 @@
   {
     "name": "perl",
     "version": "5.34.0 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "libvorbis",
+    "version": "1.3.7 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -18614,6 +18704,12 @@
   {
     "name": "nodejs",
     "version": "16.9.1 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "libvpx",
+    "version": "1.10.0 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -18751,7 +18847,7 @@
   },
   {
     "name": "webkit2gtk",
-    "version": "2.32.4 1",
+    "version": "2.34.0 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -18805,7 +18901,7 @@
   },
   {
     "name": "curl",
-    "version": "7.79.0 1",
+    "version": "7.79.1 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -18955,7 +19051,7 @@
   },
   {
     "name": "mesa",
-    "version": "21.2.1 1",
+    "version": "21.2.2 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -19128,12 +19224,6 @@
     "description": " "
   },
   {
-    "name": "libdrm",
-    "version": "2.4.107 1",
-    "maintainer": "hovercats",
-    "description": " "
-  },
-  {
     "name": "sx",
     "version": "git 1",
     "maintainer": "hovercats",
@@ -19194,20 +19284,20 @@
     "description": " "
   },
   {
-    "name": "gcc-bin",
-    "version": "11.2.0 1",
-    "maintainer": "hovercats",
-    "description": " "
-  },
-  {
-    "name": "cmake-bin",
+    "name": "cmake",
     "version": "3.21.3 1",
     "maintainer": "hovercats",
     "description": " "
   },
   {
-    "name": "binutils-bin",
+    "name": "binutils",
     "version": "2.37 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "gcc",
+    "version": "11.2.0 1",
     "maintainer": "hovercats",
     "description": " "
   },
