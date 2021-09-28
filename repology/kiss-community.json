@@ -12942,12 +12942,6 @@
     "description": " "
   },
   {
-    "name": "hub",
-    "version": "2.14.2 3",
-    "maintainer": "Ethan",
-    "description": " "
-  },
-  {
     "name": "xapian",
     "version": "1.4.18 1",
     "maintainer": "Ethan",
@@ -13693,7 +13687,7 @@
   },
   {
     "name": "libinput",
-    "version": "1.19.0 1",
+    "version": "1.19.1 1",
     "maintainer": "Ethan",
     "description": " "
   },
