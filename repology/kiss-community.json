@@ -12625,7 +12625,7 @@
   },
   {
     "name": "typescript-language-server",
-    "version": "0.6.2 1",
+    "version": "0.6.3 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -12637,7 +12637,7 @@
   },
   {
     "name": "pyright",
-    "version": "1.1.171 1",
+    "version": "1.1.172 1",
     "maintainer": "Ethan",
     "description": " "
   },
