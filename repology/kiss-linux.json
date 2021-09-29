@@ -61,7 +61,7 @@
   },
   {
     "name": "libinput",
-    "version": "1.19.0 1",
+    "version": "1.19.1 1",
     "maintainer": "Dylan Araps"
   },
   {
@@ -176,7 +176,7 @@
   },
   {
     "name": "mdevd",
-    "version": "b61ab0373a724d38e059655d561b5fb3dcb2aff6 1",
+    "version": "0.1.5.0 1",
     "maintainer": "Dylan Araps"
   },
   {
@@ -186,7 +186,7 @@
   },
   {
     "name": "meson",
-    "version": "0.59.1 1",
+    "version": "0.59.2 1",
     "maintainer": "Dylan Araps"
   },
   {
@@ -316,7 +316,7 @@
   },
   {
     "name": "ccache",
-    "version": "4.4.1 1",
+    "version": "4.4.2 1",
     "maintainer": "Dylan Araps"
   },
   {

@@ -2047,7 +2047,7 @@
   },
   {
     "name": "mediainfo",
-    "version": "21.03 1",
+    "version": "21.09 1",
     "maintainer": "Cédric",
     "description": " "
   },
@@ -2557,7 +2557,7 @@
   },
   {
     "name": "ghostscript",
-    "version": "9.54.0 1 ",
+    "version": "9.55.0 1 ",
     "maintainer": "Cédric",
     "description": " "
   },
@@ -2606,7 +2606,7 @@
   {
     "name": "cmus",
     "version": "2.9.1 1",
-    "maintainer": "alaughlin",
+    "maintainer": "Jonathan Dahan",
     "description": " "
   },
   {
@@ -2875,7 +2875,7 @@
   },
   {
     "name": "libmediainfo",
-    "version": "21.03 1 ",
+    "version": "21.09 1 ",
     "maintainer": "Cédric",
     "description": " "
   },
@@ -3002,7 +3002,7 @@
   {
     "name": "libmad",
     "version": "0.15.1b 1",
-    "maintainer": "Adam Laughlin",
+    "maintainer": "Jonathan Dahan",
     "description": " "
   },
   {
@@ -3721,7 +3721,7 @@
   },
   {
     "name": "exiftool",
-    "version": "12.30 1 ",
+    "version": "12.31 1 ",
     "maintainer": "Cédric",
     "description": " "
   },
@@ -21420,8 +21420,20 @@
     "description": " "
   },
   {
+    "name": "glfw",
+    "version": " 3.3.4 1",
+    "maintainer": "Justinas Grigas",
+    "description": " "
+  },
+  {
     "name": "siji",
     "version": "git 1",
+    "maintainer": "Justinas Grigas",
+    "description": " "
+  },
+  {
+    "name": "raylib",
+    "version": " 3.7.0 1",
     "maintainer": "Justinas Grigas",
     "description": " "
   },
@@ -21458,6 +21470,12 @@
   {
     "name": "kanshi",
     "version": " 1.2.0 1",
+    "maintainer": "Justinas Grigas",
+    "description": " "
+  },
+  {
+    "name": "extra-cmake-modules",
+    "version": " 5.86.0 1",
     "maintainer": "Justinas Grigas",
     "description": " "
   },
