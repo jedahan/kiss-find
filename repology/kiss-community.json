@@ -5173,7 +5173,7 @@
   },
   {
     "name": "kcgi",
-    "version": "0.12.5 1",
+    "version": "0.13.0 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -5233,7 +5233,7 @@
   },
   {
     "name": "meson",
-    "version": "0.59.1 3",
+    "version": "0.59.2 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -5491,7 +5491,7 @@
   },
   {
     "name": "ccache",
-    "version": "4.4.1 1",
+    "version": "4.4.2 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -6049,7 +6049,7 @@
   },
   {
     "name": "zstd",
-    "version": "1.5.0 1",
+    "version": "1.5.0 2",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -18198,6 +18198,12 @@
     "description": " "
   },
   {
+    "name": "velox",
+    "version": "git 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
     "name": "wbg",
     "version": "1.0.2 1",
     "maintainer": "hovercats",
@@ -18223,6 +18229,12 @@
   },
   {
     "name": "wld",
+    "version": "git 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "swc",
     "version": "git 1",
     "maintainer": "hovercats",
     "description": " "
@@ -19147,7 +19159,7 @@
   },
   {
     "name": "libinput",
-    "version": "1.19.0 1",
+    "version": "1.19.1 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -19770,8 +19782,26 @@
     "description": " "
   },
   {
+    "name": "dbus",
+    "version": "1.13.18 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
+    "name": "dbus-glib",
+    "version": "0.110 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
     "name": "vorbis-tools",
     "version": "1.4.2 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
+    "name": "libheif",
+    "version": "1.12.0 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
@@ -19832,6 +19862,12 @@
   {
     "name": "font-util",
     "version": "1.3.2 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
+    "name": "libde265",
+    "version": "1.0.8 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
@@ -20064,6 +20100,12 @@
     "description": " "
   },
   {
+    "name": "firefox",
+    "version": "symlink",
+    "maintainer": "unknown",
+    "description": " "
+  },
+  {
     "name": "ghostscript",
     "version": "symlink",
     "maintainer": "unknown",
@@ -20071,12 +20113,6 @@
   },
   {
     "name": "mesa",
-    "version": "symlink",
-    "maintainer": "unknown",
-    "description": " "
-  },
-  {
-    "name": "curl",
     "version": "symlink",
     "maintainer": "unknown",
     "description": " "
