@@ -6043,7 +6043,7 @@
   },
   {
     "name": "carbs-docs",
-    "version": "20201226 1",
+    "version": "2021.09 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -12781,7 +12781,7 @@
   },
   {
     "name": "erlang",
-    "version": "24.1 1",
+    "version": "24.1.1 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -12919,7 +12919,7 @@
   },
   {
     "name": "pax",
-    "version": "1.4.2 1",
+    "version": "1.5.0 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13051,7 +13051,7 @@
   },
   {
     "name": "notmuch",
-    "version": "0.33.1 1",
+    "version": "0.33.2 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -17718,39 +17718,63 @@
     "description": " "
   },
   {
-    "name": "libressl",
-    "version": "3.3.3 1",
+    "name": "linux-headers",
+    "version": "symlink",
+    "maintainer": "unknown",
+    "description": " "
+  },
+  {
+    "name": "flex",
+    "version": "symlink",
+    "maintainer": "unknown",
+    "description": " "
+  },
+  {
+    "name": "openssl",
+    "version": "3.0.0 1",
     "maintainer": "James Davies",
     "description": " "
   },
   {
     "name": "curl",
-    "version": "7.77.0 1",
-    "maintainer": "James Davies",
+    "version": "symlink",
+    "maintainer": "unknown",
+    "description": " "
+  },
+  {
+    "name": "bison",
+    "version": "symlink",
+    "maintainer": "unknown",
     "description": " "
   },
   {
     "name": "baselayout",
-    "version": "1 7",
+    "version": "1 8",
     "maintainer": "James Davies",
     "description": " "
   },
   {
     "name": "make",
-    "version": "4.3 1",
-    "maintainer": "James Davies",
+    "version": "symlink",
+    "maintainer": "unknown",
     "description": " "
   },
   {
     "name": "zlib",
-    "version": "1.2.11 3",
+    "version": "symlink",
+    "maintainer": "unknown",
+    "description": " "
+  },
+  {
+    "name": "baseinit",
+    "version": "1.0.3 2",
     "maintainer": "James Davies",
     "description": " "
   },
   {
     "name": "bzip2",
-    "version": "1.0.8 1",
-    "maintainer": "James Davies",
+    "version": "symlink",
+    "maintainer": "unknown",
     "description": " "
   },
   {
@@ -17761,37 +17785,43 @@
   },
   {
     "name": "pigz",
-    "version": "2.6 1",
-    "maintainer": "James Davies",
+    "version": "symlink",
+    "maintainer": "unknown",
+    "description": " "
+  },
+  {
+    "name": "m4",
+    "version": "symlink",
+    "maintainer": "unknown",
     "description": " "
   },
   {
     "name": "git",
-    "version": "2.32.0 1",
-    "maintainer": "James Davies",
+    "version": "symlink",
+    "maintainer": "unknown",
     "description": " "
   },
   {
     "name": "xz",
-    "version": "5.2.5 1",
-    "maintainer": "James Davies",
+    "version": "symlink",
+    "maintainer": "unknown",
     "description": " "
   },
   {
     "name": "busybox",
-    "version": "1.33.1 1",
-    "maintainer": "James Davies",
+    "version": "symlink",
+    "maintainer": "unknown",
     "description": " "
   },
   {
     "name": "llvm",
-    "version": "12.0.0 1",
+    "version": "12.0.1 1",
     "maintainer": "James Davies",
     "description": " "
   },
   {
     "name": "kiss",
-    "version": "5.3.2 1",
+    "version": "5.5.28 1",
     "maintainer": "James Davies",
     "description": " "
   },
