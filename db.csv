@@ -2266,7 +2266,7 @@ xbanish,1.7 1,https://github.com/ehawkvu/kiss-xorg,community/xbanish,master,"Eth
 webkit2gtk,2.34.0 1,https://github.com/ehawkvu/kiss-xorg,community/webkit2gtk,master,"Ethan"," "
 sent,1 1,https://github.com/ehawkvu/kiss-xorg,community/sent,master,"Ethan"," "
 libudev-zero,1.0.0 1,https://github.com/ehawkvu/kiss-xorg,extra/libudev-zero,master,"Ethan"," "
-liberation-fonts,2.1.4 1,https://github.com/ehawkvu/kiss-xorg,extra/liberation-fonts,master,"Ethan"," "
+liberation-fonts,2.1.5 1,https://github.com/ehawkvu/kiss-xorg,extra/liberation-fonts,master,"Ethan"," "
 ffmpeg,4.4 2,https://github.com/ehawkvu/kiss-xorg,extra/ffmpeg,master,"Ethan"," "
 libpciaccess,0.16 1,https://github.com/ehawkvu/kiss-xorg,extra/libpciaccess,master,"Dylan Araps"," "
 libva,2.13.0 1,https://github.com/ehawkvu/kiss-xorg,extra/libva,master,"Ethan"," "
