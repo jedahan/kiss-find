@@ -1031,7 +1031,7 @@ b3sum,git 2,https://github.com/CarbsLinux/repository,core/b3sum,master,"Cem Keyl
 libnl-tiny,git 1,https://github.com/CarbsLinux/repository,core/libnl-tiny,master,"Cem Keylan"," "
 sbase,git 4,https://github.com/CarbsLinux/repository,core/sbase,master,"Cem Keylan"," "
 xz,5.2.5 3,https://github.com/CarbsLinux/repository,core/xz,master,"Cem Keylan"," "
-busybox,1.33.1 3,https://github.com/CarbsLinux/repository,core/busybox,master,"Cem Keylan"," "
+busybox,1.34.1 1,https://github.com/CarbsLinux/repository,core/busybox,master,"Cem Keylan"," "
 sinit,1.1 3,https://github.com/CarbsLinux/repository,core/sinit,master,"Cem Keylan"," "
 carbs-init,1.2.2 3,https://github.com/CarbsLinux/repository,core/carbs-init,master,"Cem Keylan"," "
 libtls-bearssl,0.2 1,https://github.com/CarbsLinux/repository,core/libtls-bearssl,master,"Cem Keylan"," "
