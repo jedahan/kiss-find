@@ -1861,7 +1861,7 @@
   },
   {
     "name": "poppler-data",
-    "version": "0.4.10 1",
+    "version": "0.4.11 1",
     "maintainer": "Xiaodong Xu",
     "description": " "
   },
@@ -2091,12 +2091,6 @@
     "name": "dvtm",
     "version": "0.15 1",
     "maintainer": "unlcorn",
-    "description": " "
-  },
-  {
-    "name": "attr",
-    "version": "2.5.1 1",
-    "maintainer": "git-bruh",
     "description": " "
   },
   {
@@ -2760,12 +2754,6 @@
     "description": " "
   },
   {
-    "name": "acl",
-    "version": "2.3.1 1",
-    "maintainer": "git-bruh",
-    "description": " "
-  },
-  {
     "name": "less",
     "version": "590 1",
     "maintainer": "FriendlyNeighborhoodShane",
@@ -3150,12 +3138,6 @@
     "description": " "
   },
   {
-    "name": "borg",
-    "version": "1.1.17 1",
-    "maintainer": "git-bruh",
-    "description": " "
-  },
-  {
     "name": "qt5-wayland",
     "version": "5.15.3 1",
     "maintainer": "Dilyn Corner",
@@ -3397,7 +3379,7 @@
   },
   {
     "name": "rclone",
-    "version": "1.56.0 1",
+    "version": "1.56.2 1",
     "maintainer": "Xiaodong Xu",
     "description": " "
   },
@@ -18156,6 +18138,12 @@
     "description": " "
   },
   {
+    "name": "liberation-fonts",
+    "version": "2.1.5 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
     "name": "abduco",
     "version": "0.6 1",
     "maintainer": "hovercats",
@@ -18631,7 +18619,7 @@
   },
   {
     "name": "llvm",
-    "version": "12.0.1 1",
+    "version": "13.0.0 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -18674,6 +18662,12 @@
   {
     "name": "pkgconf",
     "version": "1.8.0 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "dhcpcd",
+    "version": "9.4.0 2",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -18721,7 +18715,7 @@
   },
   {
     "name": "tzdata",
-    "version": "2021a 1",
+    "version": "2021c 1",
     "maintainer": "hovercats",
     "description": " "
   },
