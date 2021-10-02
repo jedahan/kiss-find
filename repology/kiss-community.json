@@ -13117,7 +13117,7 @@
   },
   {
     "name": "poppler",
-    "version": "21.09.0 1",
+    "version": "21.10.0 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -18726,6 +18726,12 @@
     "description": " "
   },
   {
+    "name": "atk",
+    "version": "2.36.0 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
     "name": "webkit2gtk",
     "version": "2.34.0 1",
     "maintainer": "hovercats",
@@ -18864,6 +18870,12 @@
     "description": " "
   },
   {
+    "name": "libSM",
+    "version": "1.2.3 2",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
     "name": "xorg-util-macros",
     "version": "1.19.3 1",
     "maintainer": "hovercats",
@@ -18896,6 +18908,12 @@
   {
     "name": "sxhkd",
     "version": "0.6.2 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "libXt",
+    "version": "1.2.1 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -19016,6 +19034,12 @@
   {
     "name": "xorg-server",
     "version": "1.20.13 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "libICE",
+    "version": "1.0.10 2",
     "maintainer": "hovercats",
     "description": " "
   },
