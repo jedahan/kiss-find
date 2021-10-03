@@ -3703,7 +3703,7 @@
   },
   {
     "name": "exiftool",
-    "version": "12.31 1 ",
+    "version": "12.32 1 ",
     "maintainer": "Cédric",
     "description": " "
   },
@@ -13045,7 +13045,7 @@
   },
   {
     "name": "git-extras",
-    "version": "6.2.0 1",
+    "version": "6.3.0 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13573,7 +13573,7 @@
   },
   {
     "name": "webkit2gtk",
-    "version": "2.34.0 1",
+    "version": "2.32.4 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -18074,6 +18074,12 @@
   {
     "name": "velox",
     "version": "git 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "xkeyboard-config",
+    "version": "2.33 1",
     "maintainer": "hovercats",
     "description": " "
   },
