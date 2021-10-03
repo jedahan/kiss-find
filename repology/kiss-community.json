@@ -4789,7 +4789,7 @@
   },
   {
     "name": "chezmoi",
-    "version": "2.5.1 1",
+    "version": "2.6.0 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -4891,7 +4891,7 @@
   },
   {
     "name": "foot",
-    "version": "1.9.0 1",
+    "version": "1.9.2 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -5233,7 +5233,7 @@
   },
   {
     "name": "mesa",
-    "version": "21.2.3 1",
+    "version": "21.2.3 2",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -5293,7 +5293,7 @@
   },
   {
     "name": "liberation-fonts-ttf",
-    "version": "2.1.4 1",
+    "version": "2.1.5 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -5359,7 +5359,7 @@
   },
   {
     "name": "clang",
-    "version": "12.0.1 1",
+    "version": "13.0.0 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -5797,7 +5797,7 @@
   },
   {
     "name": "llvm",
-    "version": "12.0.1 1",
+    "version": "13.0.0 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -5953,13 +5953,13 @@
   },
   {
     "name": "tzdata",
-    "version": "2021b 1",
+    "version": "2021c 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
   {
     "name": "poppler",
-    "version": "21.09.0 1",
+    "version": "21.10.0 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -5971,7 +5971,7 @@
   },
   {
     "name": "libva-utils",
-    "version": "2.12.0 1",
+    "version": "2.13.0 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -6637,7 +6637,7 @@
   },
   {
     "name": "libsoup3",
-    "version": "3.0.0 1",
+    "version": "3.0.1 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -18733,7 +18733,7 @@
   },
   {
     "name": "webkit2gtk",
-    "version": "2.34.0 1",
+    "version": "2.32.4 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -18918,6 +18918,12 @@
     "description": " "
   },
   {
+    "name": "dwm",
+    "version": "6.2 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
     "name": "libXtst",
     "version": "1.2.3 1",
     "maintainer": "hovercats",
@@ -19028,6 +19034,12 @@
   {
     "name": "monsterwm",
     "version": "git 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "libXinerama",
+    "version": "1.1.4 1",
     "maintainer": "hovercats",
     "description": " "
   },
