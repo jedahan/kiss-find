@@ -4741,7 +4741,7 @@
   },
   {
     "name": "automake",
-    "version": "1.16.4 1",
+    "version": "1.16.5 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -4789,7 +4789,7 @@
   },
   {
     "name": "chezmoi",
-    "version": "2.6.0 1",
+    "version": "2.6.1 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -5935,7 +5935,7 @@
   },
   {
     "name": "imagemagick",
-    "version": "7.1.0-8 1",
+    "version": "7.1.0-9 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -16536,66 +16536,6 @@
     "description": " "
   },
   {
-    "name": "mesa",
-    "version": "21.1.4 1",
-    "maintainer": "git-bruh",
-    "description": " "
-  },
-  {
-    "name": "util-linux",
-    "version": "symlink",
-    "maintainer": "unknown",
-    "description": " "
-  },
-  {
-    "name": "compiler-rt",
-    "version": "12.0.1 1",
-    "maintainer": "git-bruh",
-    "description": " "
-  },
-  {
-    "name": "clang",
-    "version": "symlink",
-    "maintainer": "unknown",
-    "description": " "
-  },
-  {
-    "name": "gcc",
-    "version": "symlink",
-    "maintainer": "unknown",
-    "description": " "
-  },
-  {
-    "name": "musl",
-    "version": "symlink",
-    "maintainer": "unknown",
-    "description": " "
-  },
-  {
-    "name": "llvm",
-    "version": "12.0.1 1",
-    "maintainer": "git-bruh",
-    "description": " "
-  },
-  {
-    "name": "python",
-    "version": "symlink",
-    "maintainer": "unknown",
-    "description": " "
-  },
-  {
-    "name": "pipewire",
-    "version": "0.3.36 1",
-    "maintainer": "git-bruh",
-    "description": " "
-  },
-  {
-    "name": "openal-soft",
-    "version": "1.21.1 1",
-    "maintainer": "git-bruh",
-    "description": " "
-  },
-  {
     "name": "basu",
     "version": "git 1",
     "maintainer": "git-bruh",
@@ -16614,18 +16554,6 @@
     "description": " "
   },
   {
-    "name": "linux-firmware",
-    "version": "20210315 1",
-    "maintainer": "git-bruh",
-    "description": " "
-  },
-  {
-    "name": "ttf-jetbrains-mono",
-    "version": "2.225 1",
-    "maintainer": "git-bruh",
-    "description": " "
-  },
-  {
     "name": "pi-hole",
     "version": "5.2.4 1",
     "maintainer": "git-bruh",
@@ -16638,20 +16566,164 @@
     "description": " "
   },
   {
+    "name": "json-glib",
+    "version": "1.6.4 1",
+    "maintainer": "git-bruh",
+    "description": " "
+  },
+  {
+    "name": "libidn",
+    "version": "1.36 1",
+    "maintainer": "git-bruh",
+    "description": " "
+  },
+  {
+    "name": "iwyu",
+    "version": "0.16 1",
+    "maintainer": "git-bruh",
+    "description": " "
+  },
+  {
+    "name": "gotify-server",
+    "version": "2.0.21 1",
+    "maintainer": "git-bruh",
+    "description": " "
+  },
+  {
+    "name": "alsa-plugins",
+    "version": "1.2.5 1",
+    "maintainer": "git-bruh",
+    "description": " "
+  },
+  {
+    "name": "ghc",
+    "version": "9.0.1 1",
+    "maintainer": "git-bruh",
+    "description": " "
+  },
+  {
+    "name": "barnard",
+    "version": "git 1",
+    "maintainer": "git-bruh",
+    "description": " "
+  },
+  {
+    "name": "xdg-desktop-portal-wlr",
+    "version": "0.4.0 1",
+    "maintainer": "git-bruh",
+    "description": " "
+  },
+  {
+    "name": "mesa",
+    "version": "symlink",
+    "maintainer": "unknown",
+    "description": " "
+  },
+  {
+    "name": "util-linux",
+    "version": "symlink",
+    "maintainer": "unknown",
+    "description": " "
+  },
+  {
+    "name": "compiler-rt",
+    "version": "13.0.0 1",
+    "maintainer": "git-bruh",
+    "description": " "
+  },
+  {
+    "name": "clang",
+    "version": "symlink",
+    "maintainer": "unknown",
+    "description": " "
+  },
+  {
+    "name": "lld",
+    "version": "13.0.0 2",
+    "maintainer": "git-bruh",
+    "description": " "
+  },
+  {
+    "name": "gcc",
+    "version": "symlink",
+    "maintainer": "unknown",
+    "description": " "
+  },
+  {
+    "name": "musl",
+    "version": "symlink",
+    "maintainer": "unknown",
+    "description": " "
+  },
+  {
+    "name": "llvm",
+    "version": "13.0.0 1",
+    "maintainer": "git-bruh",
+    "description": " "
+  },
+  {
+    "name": "python",
+    "version": "symlink",
+    "maintainer": "unknown",
+    "description": " "
+  },
+  {
+    "name": "pipewire",
+    "version": "0.3.36 1",
+    "maintainer": "git-bruh",
+    "description": " "
+  },
+  {
+    "name": "glu",
+    "version": "9.0.2 1",
+    "maintainer": "git-bruh",
+    "description": " "
+  },
+  {
+    "name": "openal-soft",
+    "version": "1.21.1 1",
+    "maintainer": "git-bruh",
+    "description": " "
+  },
+  {
+    "name": "gcompat",
+    "version": "git 1",
+    "maintainer": "git-bruh",
+    "description": " "
+  },
+  {
+    "name": "linux-firmware",
+    "version": "20210315 1",
+    "maintainer": "git-bruh",
+    "description": " "
+  },
+  {
+    "name": "glfw",
+    "version": "3.3.4 1",
+    "maintainer": "git-bruh",
+    "description": " "
+  },
+  {
+    "name": "ttf-jetbrains-mono",
+    "version": "2.242 1",
+    "maintainer": "git-bruh",
+    "description": " "
+  },
+  {
     "name": "docker",
     "version": "19.03.14 1",
     "maintainer": "git-bruh",
     "description": " "
   },
   {
-    "name": "runc",
-    "version": "1.0.2 1",
+    "name": "btop",
+    "version": "1.0.13 1",
     "maintainer": "git-bruh",
     "description": " "
   },
   {
-    "name": "json-glib",
-    "version": "1.6.4 1",
+    "name": "runc",
+    "version": "1.0.2 1",
     "maintainer": "git-bruh",
     "description": " "
   },
@@ -16674,18 +16746,6 @@
     "description": " "
   },
   {
-    "name": "libidn",
-    "version": "1.36 1",
-    "maintainer": "git-bruh",
-    "description": " "
-  },
-  {
-    "name": "iwyu",
-    "version": "0.16 1",
-    "maintainer": "git-bruh",
-    "description": " "
-  },
-  {
     "name": "dendrite",
     "version": "git 1",
     "maintainer": "git-bruh",
@@ -16698,12 +16758,6 @@
     "description": " "
   },
   {
-    "name": "gotify-server",
-    "version": "2.0.21 1",
-    "maintainer": "git-bruh",
-    "description": " "
-  },
-  {
     "name": "cantarell-fonts",
     "version": "0.301 1",
     "maintainer": "git-bruh",
@@ -16711,7 +16765,13 @@
   },
   {
     "name": "libolm",
-    "version": "3.2.2 1",
+    "version": "3.2.6 1",
+    "maintainer": "git-bruh",
+    "description": " "
+  },
+  {
+    "name": "glew",
+    "version": "2.2.0 1",
     "maintainer": "git-bruh",
     "description": " "
   },
@@ -16728,8 +16788,8 @@
     "description": " "
   },
   {
-    "name": "alsa-plugins",
-    "version": "1.2.5 1",
+    "name": "rbw",
+    "version": "1.3.0 1",
     "maintainer": "git-bruh",
     "description": " "
   },
@@ -16742,24 +16802,6 @@
   {
     "name": "dracula-gtk-theme",
     "version": "2.0 1",
-    "maintainer": "git-bruh",
-    "description": " "
-  },
-  {
-    "name": "ghc",
-    "version": "9.0.1 1",
-    "maintainer": "git-bruh",
-    "description": " "
-  },
-  {
-    "name": "barnard",
-    "version": "git 1",
-    "maintainer": "git-bruh",
-    "description": " "
-  },
-  {
-    "name": "xdg-desktop-portal-wlr",
-    "version": "0.4.0 1",
     "maintainer": "git-bruh",
     "description": " "
   },
