@@ -3547,7 +3547,7 @@
   },
   {
     "name": "zathura",
-    "version": "0.4.8 1",
+    "version": "0.4.8 2",
     "maintainer": "Cédric",
     "description": " "
   },
@@ -5629,7 +5629,7 @@
   },
   {
     "name": "vala",
-    "version": "0.54.1 1",
+    "version": "0.54.2 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -12619,7 +12619,7 @@
   },
   {
     "name": "pyright",
-    "version": "1.1.173 1",
+    "version": "1.1.174 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13003,7 +13003,7 @@
   },
   {
     "name": "pcre2",
-    "version": "10.37 1",
+    "version": "10.38 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13057,7 +13057,7 @@
   },
   {
     "name": "mesa",
-    "version": "21.2.2 1",
+    "version": "21.2.3 1",
     "maintainer": "Ethan",
     "description": " "
   },
