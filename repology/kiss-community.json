@@ -5815,7 +5815,7 @@
   },
   {
     "name": "links",
-    "version": "2.24 1",
+    "version": "2.25 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -6007,7 +6007,7 @@
   },
   {
     "name": "linux-headers",
-    "version": "5.14.8 1",
+    "version": "5.14.9 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -12739,7 +12739,7 @@
   },
   {
     "name": "openblas",
-    "version": "0.3.17 1",
+    "version": "0.3.18 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -12776,6 +12776,12 @@
   {
     "name": "python",
     "version": "3.7.9 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "gfortran",
+    "version": "11.2.0 1",
     "maintainer": "Ethan",
     "description": " "
   },
