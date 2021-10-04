@@ -3421,7 +3421,7 @@
   },
   {
     "name": "chromium",
-    "version": "93.0.4577.82 1",
+    "version": "94.0.4606.71 1",
     "maintainer": "git-bruh",
     "description": " "
   },
@@ -4147,7 +4147,7 @@
   },
   {
     "name": "poppler",
-    "version": "21.09.0 1",
+    "version": "21.10.0 1",
     "maintainer": "Cédric",
     "description": " "
   },
@@ -20029,12 +20029,6 @@
   },
   {
     "name": "ffmpeg",
-    "version": "symlink",
-    "maintainer": "unknown",
-    "description": " "
-  },
-  {
-    "name": "firefox",
     "version": "symlink",
     "maintainer": "unknown",
     "description": " "
