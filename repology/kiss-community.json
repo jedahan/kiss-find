@@ -12763,7 +12763,7 @@
   },
   {
     "name": "erlang",
-    "version": "24.1.1 1",
+    "version": "24.1.2 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -12938,6 +12938,12 @@
   {
     "name": "grap",
     "version": "1.46 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "msmtp",
+    "version": "1.8.17 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13238,6 +13244,12 @@
   {
     "name": "p11-kit",
     "version": "0.24.0 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "libexif",
+    "version": "0.6.23 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -17965,7 +17977,7 @@
   },
   {
     "name": "llvm",
-    "version": "12.0.1 1",
+    "version": "13.0.0 1",
     "maintainer": "James Davies",
     "description": " "
   },
