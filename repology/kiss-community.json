@@ -4645,7 +4645,7 @@
   },
   {
     "name": "msmtp",
-    "version": "1.8.16 1",
+    "version": "1.8.17 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -13495,7 +13495,7 @@
   },
   {
     "name": "chromium",
-    "version": "93.0.4577.82 1",
+    "version": "94.0.4606.71 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13891,8 +13891,8 @@
   },
   {
     "name": "xkeyboard-config",
-    "version": "2.33 1",
-    "maintainer": "Dylan Araps",
+    "version": "2.34 1",
+    "maintainer": "Ethan",
     "description": " "
   },
   {
