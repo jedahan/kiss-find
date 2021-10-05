@@ -161,7 +161,7 @@
   },
   {
     "name": "firefox",
-    "version": "92.0 1",
+    "version": "93.0 1",
     "maintainer": "Dylan Araps"
   },
   {
@@ -602,11 +602,6 @@
   {
     "name": "kiss",
     "version": "5.5.28 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "firefox",
-    "version": "93.0b7 1",
     "maintainer": "Dylan Araps"
   }
 ]
