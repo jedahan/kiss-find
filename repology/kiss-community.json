@@ -13645,7 +13645,7 @@
   },
   {
     "name": "firefox",
-    "version": "92.0 1",
+    "version": "93.0 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -26623,7 +26623,7 @@
   },
   {
     "name": "sudo",
-    "version": "1.9.8p1 1",
+    "version": "1.9.8p2 1",
     "maintainer": "Daniel M. Matongo",
     "description": " "
   },
@@ -26641,8 +26641,8 @@
   },
   {
     "name": "cmake",
-    "version": "3.21.2 1",
-    "maintainer": "Linux User",
+    "version": "3.21.3 1",
+    "maintainer": "Daniel M. Matongo",
     "description": " "
   },
   {
@@ -26701,7 +26701,7 @@
   },
   {
     "name": "freetype-harfbuzz",
-    "version": "2.11.0+2.9.1 1",
+    "version": "2.11.0+3.0.0 1",
     "maintainer": "Daniel M. Matongo",
     "description": " "
   },
@@ -26719,8 +26719,8 @@
   },
   {
     "name": "meson",
-    "version": "0.59.1 1",
-    "maintainer": "Linux User",
+    "version": "0.59.2 1",
+    "maintainer": "Daniel M. Matongo",
     "description": " "
   },
   {
@@ -26737,8 +26737,8 @@
   },
   {
     "name": "mesa",
-    "version": "21.2.1 2",
-    "maintainer": "Linux User",
+    "version": "21.2.2 2",
+    "maintainer": "Daniel M. Matongo",
     "description": " "
   },
   {
@@ -26851,8 +26851,8 @@
   },
   {
     "name": "openssh",
-    "version": "8.7p1 1",
-    "maintainer": "Linux User",
+    "version": "8.8p1 1",
+    "maintainer": "Daniel M. Matongo",
     "description": " "
   },
   {
@@ -26875,7 +26875,7 @@
   },
   {
     "name": "ccache",
-    "version": "4.4.1 1",
+    "version": "4.4.2 1",
     "maintainer": "Daniel M. Matongo",
     "description": " "
   },
@@ -26911,7 +26911,7 @@
   },
   {
     "name": "libinput",
-    "version": "1.19.0 1",
+    "version": "1.19.1 1",
     "maintainer": "Daniel M. Matongo",
     "description": " "
   },
@@ -26959,7 +26959,7 @@
   },
   {
     "name": "nodejs",
-    "version": "16.9.1 1",
+    "version": "16.10.0 1",
     "maintainer": "Daniel M. Matongo",
     "description": " "
   },
@@ -27097,7 +27097,7 @@
   },
   {
     "name": "acpid",
-    "version": "2.0.32 2",
+    "version": "2.0.33 1",
     "maintainer": "Daniel M. Matongo",
     "description": " "
   },
@@ -27121,7 +27121,7 @@
   },
   {
     "name": "tzdata",
-    "version": "2021a 1",
+    "version": "2021b 1",
     "maintainer": "Daniel M. Matongo",
     "description": " "
   },
@@ -27175,13 +27175,13 @@
   },
   {
     "name": "curl",
-    "version": "7.79.0 1",
+    "version": "7.79.1 1",
     "maintainer": "Daniel M. Matongo",
     "description": " "
   },
   {
     "name": "bison",
-    "version": "3.8.1 1",
+    "version": "3.8.2 1",
     "maintainer": "Daniel M. Matongo",
     "description": " "
   },
