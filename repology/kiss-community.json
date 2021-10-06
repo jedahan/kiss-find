@@ -4633,7 +4633,7 @@
   },
   {
     "name": "syncthing",
-    "version": "1.18.2 1",
+    "version": "1.18.3 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -5208,6 +5208,12 @@
     "description": " "
   },
   {
+    "name": "libgrapheme",
+    "version": "git 1",
+    "maintainer": "Cem Keylan",
+    "description": " "
+  },
+  {
     "name": "iw",
     "version": "5.9 1",
     "maintainer": "Cem Keylan",
@@ -5215,7 +5221,7 @@
   },
   {
     "name": "meson",
-    "version": "0.59.2 1",
+    "version": "0.59.2 2",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -5341,7 +5347,7 @@
   },
   {
     "name": "mercurial",
-    "version": "5.9.1 1",
+    "version": "5.9.2 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -5845,7 +5851,7 @@
   },
   {
     "name": "distcc",
-    "version": "3.4 1",
+    "version": "3.4 2",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -5881,7 +5887,7 @@
   },
   {
     "name": "python",
-    "version": "3.9.7 2",
+    "version": "3.10.0 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -6313,7 +6319,7 @@
   },
   {
     "name": "xcb-proto",
-    "version": "1.14.1 1",
+    "version": "1.14.1 2",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -6403,7 +6409,7 @@
   },
   {
     "name": "xkeyboard-config",
-    "version": "2.33 1",
+    "version": "2.34 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -20040,12 +20046,6 @@
     "description": " "
   },
   {
-    "name": "harfbuzz-icu",
-    "version": "symlink",
-    "maintainer": "unknown",
-    "description": " "
-  },
-  {
     "name": "firefox",
     "version": "symlink",
     "maintainer": "unknown",
@@ -20070,25 +20070,7 @@
     "description": " "
   },
   {
-    "name": "gcc",
-    "version": "symlink",
-    "maintainer": "unknown",
-    "description": " "
-  },
-  {
-    "name": "xorg-server",
-    "version": "symlink",
-    "maintainer": "unknown",
-    "description": " "
-  },
-  {
     "name": "gnupg2",
-    "version": "symlink",
-    "maintainer": "unknown",
-    "description": " "
-  },
-  {
-    "name": "nodejs",
     "version": "symlink",
     "maintainer": "unknown",
     "description": " "
