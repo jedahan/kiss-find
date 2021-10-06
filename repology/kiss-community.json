@@ -5809,7 +5809,7 @@
   },
   {
     "name": "nano",
-    "version": "5.8 1",
+    "version": "5.9 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -7435,7 +7435,7 @@
   },
   {
     "name": "links",
-    "version": "2.24 1",
+    "version": "2.25 1",
     "maintainer": "aabacchus",
     "description": " "
   },
@@ -19776,18 +19776,6 @@
     "description": " "
   },
   {
-    "name": "dbus",
-    "version": "1.13.18 1",
-    "maintainer": "Owen Rafferty",
-    "description": " "
-  },
-  {
-    "name": "dbus-glib",
-    "version": "0.112 1",
-    "maintainer": "Owen Rafferty",
-    "description": " "
-  },
-  {
     "name": "vorbis-tools",
     "version": "1.4.2 1",
     "maintainer": "Owen Rafferty",
@@ -19844,12 +19832,6 @@
   {
     "name": "libmd",
     "version": "1.0.3 1",
-    "maintainer": "Owen Rafferty",
-    "description": " "
-  },
-  {
-    "name": "libde265",
-    "version": "1.0.8 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
@@ -20046,12 +20028,6 @@
     "description": " "
   },
   {
-    "name": "firefox",
-    "version": "symlink",
-    "maintainer": "unknown",
-    "description": " "
-  },
-  {
     "name": "freetype-harfbuzz",
     "version": "symlink",
     "maintainer": "unknown",
@@ -20077,12 +20053,6 @@
   },
   {
     "name": "libdrm",
-    "version": "symlink",
-    "maintainer": "unknown",
-    "description": " "
-  },
-  {
-    "name": "llvm",
     "version": "symlink",
     "maintainer": "unknown",
     "description": " "
@@ -23791,7 +23761,7 @@
   },
   {
     "name": "chromium",
-    "version": "93.0.4577.82 1",
+    "version": "94.0.4606.71 2",
     "maintainer": "Kyryl Melekhin",
     "description": " "
   },
