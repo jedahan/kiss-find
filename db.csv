@@ -1211,7 +1211,7 @@ colorpicker,git 1,https://github.com/aabacchus/kiss-repo,colorpicker,main,"aabac
 fantasque-sans-mono,1.8.0 1,https://github.com/aabacchus/kiss-repo,fantasque-sans-mono,main,"aabacchus"," "
 libstrophe,0.10.1 1,https://github.com/aabacchus/kiss-repo,libstrophe,main,"aabacchus"," "
 gtk+2,2.24.33 1,https://github.com/aabacchus/kiss-repo,gtk+2,main,"aabacchus"," "
-libmd,1.0.3 1,https://github.com/aabacchus/kiss-repo,libmd,main,"aabacchus"," "
+libmd,1.0.4 1,https://github.com/aabacchus/kiss-repo,libmd,main,"aabacchus"," "
 weston,git 1,https://github.com/aabacchus/kiss-repo,weston,main,"aabacchus"," "
 brightnessctl,0.5.1 1,https://github.com/aabacchus/kiss-repo,brightnessctl,main,"aabacchus"," "
 netbsd-curses,0.3.2 1,https://github.com/aabacchus/kiss-repo,netbsd-curses,main,"aabacchus"," "
