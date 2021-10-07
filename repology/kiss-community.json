@@ -12733,7 +12733,7 @@
   },
   {
     "name": "txr",
-    "version": "270 1",
+    "version": "271 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13020,6 +13020,12 @@
     "description": " "
   },
   {
+    "name": "eudev-git",
+    "version": "git 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "diffutils",
     "version": "3.8 1",
     "maintainer": "Ethan",
@@ -13033,7 +13039,7 @@
   },
   {
     "name": "lowdown",
-    "version": "0.9.0 1",
+    "version": "0.9.1 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13086,20 +13092,14 @@
     "description": " "
   },
   {
-    "name": "graphite2",
-    "version": "1.3.14 1",
+    "name": "freetype-harfbuzz",
+    "version": "2.11.0+3.0.0 1",
     "maintainer": "Ethan",
     "description": " "
   },
   {
     "name": "ghostscript",
     "version": "9.55.0 1",
-    "maintainer": "Ethan",
-    "description": " "
-  },
-  {
-    "name": "graphite-harfbuzz",
-    "version": "3.0.0 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13153,7 +13153,7 @@
   },
   {
     "name": "texlive-bin",
-    "version": "20210325 2",
+    "version": "20210325 3",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -19928,12 +19928,6 @@
   {
     "name": "python-cycler",
     "version": "0.10.0 1",
-    "maintainer": "Owen Rafferty",
-    "description": " "
-  },
-  {
-    "name": "pybind11",
-    "version": "2.7.1 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
