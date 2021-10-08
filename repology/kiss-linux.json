@@ -106,7 +106,7 @@
   },
   {
     "name": "rust",
-    "version": "1.55.0 1",
+    "version": "1.55.0 3",
     "maintainer": "Dylan Araps"
   },
   {
@@ -151,7 +151,7 @@
   },
   {
     "name": "firefox-privacy",
-    "version": "1.0 4",
+    "version": "1.0 5",
     "maintainer": "Dylan Araps"
   },
   {
