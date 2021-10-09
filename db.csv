@@ -980,7 +980,7 @@ chezmoi,2.6.1 1,https://github.com/CarbsLinux/repository,community/chezmoi,maste
 autoconf,2.71 2,https://github.com/CarbsLinux/repository,community/autoconf,master,"Cem Keylan"," "
 zathura,0.4.8 1,https://github.com/CarbsLinux/repository,community/zathura,master,"Cem Keylan"," "
 syncthing,1.18.3 1,https://github.com/CarbsLinux/repository,community/syncthing,master,"Cem Keylan"," "
-btrfs-progs,5.14.1 1,https://github.com/CarbsLinux/repository,community/btrfs-progs,master,"Cem Keylan"," "
+btrfs-progs,5.14.2 1,https://github.com/CarbsLinux/repository,community/btrfs-progs,master,"Cem Keylan"," "
 xss-lock,git 1,https://github.com/CarbsLinux/repository,community/xss-lock,master,"Cem Keylan"," "
 xapian,1.4.18 1,https://github.com/CarbsLinux/repository,community/xapian,master,"Cem Keylan"," "
 girara,0.3.6 1,https://github.com/CarbsLinux/repository,community/girara,master,"Cem Keylan"," "
