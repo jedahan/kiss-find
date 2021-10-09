@@ -5683,7 +5683,7 @@
   },
   {
     "name": "go",
-    "version": "1.17.1 1",
+    "version": "1.17.2 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -13292,12 +13292,6 @@
   {
     "name": "gtk+3",
     "version": "3.24.30 1",
-    "maintainer": "Ethan",
-    "description": " "
-  },
-  {
-    "name": "eudev",
-    "version": "3.2.10 1",
     "maintainer": "Ethan",
     "description": " "
   },
