@@ -5293,7 +5293,7 @@
   },
   {
     "name": "nodejs",
-    "version": "16.10.0 1",
+    "version": "16.11.0 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -20022,12 +20022,6 @@
     "description": " "
   },
   {
-    "name": "ffmpeg",
-    "version": "symlink",
-    "maintainer": "unknown",
-    "description": " "
-  },
-  {
     "name": "gnupg2",
     "version": "symlink",
     "maintainer": "unknown",
@@ -20046,7 +20040,7 @@
     "description": " "
   },
   {
-    "name": "libdrm",
+    "name": "vim",
     "version": "symlink",
     "maintainer": "unknown",
     "description": " "
