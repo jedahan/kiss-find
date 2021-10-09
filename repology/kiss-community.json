@@ -7176,12 +7176,6 @@
     "description": " "
   },
   {
-    "name": "neatvi-git",
-    "version": "git 1",
-    "maintainer": "Xeno-Hypster",
-    "description": " "
-  },
-  {
     "name": "labwc",
     "version": "0.3.0 1",
     "maintainer": "Xeno-Hypster",
@@ -21943,7 +21937,7 @@
   },
   {
     "name": "llvm",
-    "version": "12.0.1 1",
+    "version": "13.0.0 1",
     "maintainer": "Muhammad Herdiansyah",
     "description": " "
   },
