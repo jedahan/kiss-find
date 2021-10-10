@@ -4777,7 +4777,7 @@
   },
   {
     "name": "bmake",
-    "version": "20210808 1",
+    "version": "20211001 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -5161,7 +5161,7 @@
   },
   {
     "name": "fossil",
-    "version": "2.16 1",
+    "version": "2.17 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -5556,12 +5556,6 @@
     "description": " "
   },
   {
-    "name": "gawk",
-    "version": "5.1.0 1",
-    "maintainer": "Cem Keylan",
-    "description": " "
-  },
-  {
     "name": "pango",
     "version": "1.48.10 1",
     "maintainer": "Cem Keylan",
@@ -5827,7 +5821,7 @@
   },
   {
     "name": "lf",
-    "version": "24 1",
+    "version": "25 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -5978,6 +5972,12 @@
   {
     "name": "msmtp",
     "version": "1.8.17 1",
+    "maintainer": "Cem Keylan",
+    "description": " "
+  },
+  {
+    "name": "gawk",
+    "version": "5.1.0 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
