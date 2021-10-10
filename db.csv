@@ -2268,7 +2268,7 @@ x11vnc,git 1,https://github.com/ehawkvu/kiss-xorg,community/x11vnc,master,"Ethan
 emacs,27.2 1,https://github.com/ehawkvu/kiss-xorg,community/emacs,master,"Ethan"," "
 slock,1.4 1,https://github.com/ehawkvu/kiss-xorg,community/slock,master,"Ethan"," "
 imlib2,1.7.4 1,https://github.com/ehawkvu/kiss-xorg,community/imlib2,master,"Ethan"," "
-chromium,94.0.4606.71 2,https://github.com/ehawkvu/kiss-xorg,community/chromium,master,"Ethan"," "
+chromium,94.0.4606.81 1,https://github.com/ehawkvu/kiss-xorg,community/chromium,master,"Ethan"," "
 glew,2.2.0 1,https://github.com/ehawkvu/kiss-xorg,community/glew,master,"Ethan"," "
 libXpm,3.5.13 1,https://github.com/ehawkvu/kiss-xorg,community/libXpm,master,"Ethan"," "
 picom,8.2 1,https://github.com/ehawkvu/kiss-xorg,community/picom,master,"Ethan"," "
