@@ -19806,6 +19806,18 @@
     "description": " "
   },
   {
+    "name": "bluez",
+    "version": "5.61 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
+    "name": "dbus",
+    "version": "1.12.20 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
     "name": "tcl",
     "version": "8.6.11 1",
     "maintainer": "Owen Rafferty",

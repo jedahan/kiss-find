@@ -3299,6 +3299,8 @@ flatpak,1.12.1 1,https://github.com/ioraff/kiss-personal,flatpak/flatpak,master,
 gpgme,1.16.0 1,https://github.com/ioraff/kiss-personal,flatpak/gpgme,master,"Owen Rafferty"," "
 appstream-glib,0.7.18 1,https://github.com/ioraff/kiss-personal,flatpak/appstream-glib,master,"Owen Rafferty"," "
 ostree,2021.5 1,https://github.com/ioraff/kiss-personal,flatpak/ostree,master,"Owen Rafferty"," "
+bluez,5.61 1,https://github.com/ioraff/kiss-personal,dbus/bluez,master,"Owen Rafferty"," "
+dbus,1.12.20 1,https://github.com/ioraff/kiss-personal,dbus/dbus,master,"Owen Rafferty"," "
 tcl,8.6.11 1,https://github.com/ioraff/kiss-personal,extra/tcl,master,"Owen Rafferty"," "
 python-pillow,8.3.2 1,https://github.com/ioraff/kiss-personal,extra/python-pillow,master,"Owen Rafferty"," "
 python-dateutil,2.8.2 1,https://github.com/ioraff/kiss-personal,extra/python-dateutil,master,"Owen Rafferty"," "
