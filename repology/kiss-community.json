@@ -5323,7 +5323,7 @@
   },
   {
     "name": "python",
-    "version": "3.10.0 1",
+    "version": "3.10.0 2",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -5455,7 +5455,7 @@
   },
   {
     "name": "imagemagick",
-    "version": "7.1.0-9 1",
+    "version": "7.1.0-10 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -13692,6 +13692,12 @@
     "description": " "
   },
   {
+    "name": "picom-git",
+    "version": "git 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "svkbd",
     "version": "0.4 1",
     "maintainer": "Ethan",
@@ -18464,6 +18470,12 @@
   {
     "name": "9base",
     "version": "git 1 ",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "dropbear",
+    "version": "2020.81 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -24619,7 +24631,7 @@
   },
   {
     "name": "mdevd",
-    "version": "b61ab0373a724d38e059655d561b5fb3dcb2aff6 1",
+    "version": "0.1.5.0 1",
     "maintainer": "Dylan Araps",
     "description": " "
   },
@@ -24657,6 +24669,12 @@
     "name": "giflib",
     "version": "5.2.1 1",
     "maintainer": "Dylan Araps",
+    "description": " "
+  },
+  {
+    "name": "pixman",
+    "version": "0.40.0 1",
+    "maintainer": "Kyryl Melekhin",
     "description": " "
   },
   {
@@ -24744,6 +24762,12 @@
     "description": " "
   },
   {
+    "name": "libpciaccess",
+    "version": "0.16 1",
+    "maintainer": "Kyryl Melekhin",
+    "description": " "
+  },
+  {
     "name": "glib",
     "version": "2.70.0 1",
     "maintainer": "Dylan Araps",
@@ -24763,13 +24787,13 @@
   },
   {
     "name": "llvm",
-    "version": "12.0.1 1",
-    "maintainer": "Dilyn Corner",
+    "version": "13.0.0 1",
+    "maintainer": "Dylan Araps",
     "description": " "
   },
   {
     "name": "libinput",
-    "version": "1.19.0 1",
+    "version": "1.19.1 1",
     "maintainer": "Kyryl Melekhin",
     "description": " "
   },
@@ -24805,7 +24829,7 @@
   },
   {
     "name": "meson",
-    "version": "0.59.1 1",
+    "version": "0.59.2 1",
     "maintainer": "Dylan Araps",
     "description": " "
   },
@@ -24816,6 +24840,12 @@
     "description": " "
   },
   {
+    "name": "libxkbcommon",
+    "version": "1.3.1 1",
+    "maintainer": "Kyryl Melekhin",
+    "description": " "
+  },
+  {
     "name": "gnugrep",
     "version": "3.7 1",
     "maintainer": "Dylan Araps",
@@ -24823,13 +24853,7 @@
   },
   {
     "name": "clang",
-    "version": "12.0.1 1",
-    "maintainer": "Dilyn Corner",
-    "description": " "
-  },
-  {
-    "name": "mutt",
-    "version": "2.1.3 1",
+    "version": "13.0.0 1",
     "maintainer": "Dylan Araps",
     "description": " "
   },
@@ -24847,7 +24871,7 @@
   },
   {
     "name": "ccache",
-    "version": "4.4.1 1",
+    "version": "4.4.2 1",
     "maintainer": "Dylan Araps",
     "description": " "
   },
@@ -24877,8 +24901,8 @@
   },
   {
     "name": "mesa",
-    "version": "21.2.2 1",
-    "maintainer": "Ethan",
+    "version": "21.2.3 1",
+    "maintainer": "Dylan Araps",
     "description": " "
   },
   {
@@ -24919,8 +24943,8 @@
   },
   {
     "name": "libva-utils",
-    "version": "2.12.0 1",
-    "maintainer": "Dilyn Corner",
+    "version": "2.13.0 1",
+    "maintainer": "Dylan Araps",
     "description": " "
   },
   {
@@ -24937,7 +24961,7 @@
   },
   {
     "name": "openssh",
-    "version": "8.7p1 1",
+    "version": "8.8p1 1",
     "maintainer": "Dylan Araps",
     "description": " "
   },
@@ -24997,8 +25021,8 @@
   },
   {
     "name": "tzdata",
-    "version": "2021a 1",
-    "maintainer": "git-bruh",
+    "version": "2021c 1",
+    "maintainer": "Dylan Araps",
     "description": " "
   },
   {
@@ -25110,12 +25134,6 @@
     "description": " "
   },
   {
-    "name": "pixman",
-    "version": "0.40.0 1",
-    "maintainer": "Dylan Araps",
-    "description": " "
-  },
-  {
     "name": "xinput",
     "version": "1.6.3 1",
     "maintainer": "Dylan Araps",
@@ -25170,12 +25188,6 @@
     "description": " "
   },
   {
-    "name": "libpciaccess",
-    "version": "0.16 1",
-    "maintainer": "Dylan Araps",
-    "description": " "
-  },
-  {
     "name": "xkbcomp",
     "version": "1.4.5 1",
     "maintainer": "Dilyn Corner",
@@ -25189,8 +25201,8 @@
   },
   {
     "name": "libXft",
-    "version": "2.3.3 1",
-    "maintainer": "Dylan Araps",
+    "version": "2.3.4 1",
+    "maintainer": "Kyryl Melekhin",
     "description": " "
   },
   {
@@ -25233,12 +25245,6 @@
     "name": "libxcb",
     "version": "1.14 1",
     "maintainer": "Dylan Araps",
-    "description": " "
-  },
-  {
-    "name": "libxkbcommon",
-    "version": "1.3.1 1",
-    "maintainer": "Kyryl Melekhin",
     "description": " "
   },
   {
@@ -25315,8 +25321,8 @@
   },
   {
     "name": "xkeyboard-config",
-    "version": "2.33 1",
-    "maintainer": "Dilyn Corner",
+    "version": "2.34 1",
+    "maintainer": "Kyryl Melekhin",
     "description": " "
   },
   {
@@ -25483,7 +25489,7 @@
   },
   {
     "name": "busybox",
-    "version": "1.34.0 6",
+    "version": "1.34.1 1",
     "maintainer": "Dylan Araps",
     "description": " "
   },
@@ -25495,7 +25501,7 @@
   },
   {
     "name": "bison",
-    "version": "3.8.1 1",
+    "version": "3.8.2 1",
     "maintainer": "Dylan Araps",
     "description": " "
   },
