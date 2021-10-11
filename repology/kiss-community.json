@@ -12667,7 +12667,7 @@
   },
   {
     "name": "texlab",
-    "version": "3.2.0 1",
+    "version": "3.3.0 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -12721,7 +12721,7 @@
   },
   {
     "name": "linux-firmware",
-    "version": "20210818 1",
+    "version": "20210919 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -12998,6 +12998,12 @@
   {
     "name": "ttf-ms-fonts",
     "version": "2.0 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "vimb-git",
+    "version": "git 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13351,7 +13357,7 @@
   },
   {
     "name": "firefox-beta",
-    "version": "93.0b6 1",
+    "version": "94.0b4 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13484,6 +13490,12 @@
   {
     "name": "sx",
     "version": "git 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "slop",
+    "version": "7.6 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -19784,6 +19796,12 @@
   {
     "name": "vorbis-tools",
     "version": "1.4.2 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
+    "name": "iw",
+    "version": "5.9 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
