@@ -18331,7 +18331,7 @@
   },
   {
     "name": "links",
-    "version": "2.24 1",
+    "version": "2.25 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -26701,14 +26701,14 @@
   },
   {
     "name": "nodejs",
-    "version": "16.10.0 1",
+    "version": "16.11.0 1",
     "maintainer": "Daniel M. Matongo",
     "description": " "
   },
   {
     "name": "clang",
-    "version": "12.0.1 1",
-    "maintainer": "Linux User",
+    "version": "13.0.0 1",
+    "maintainer": "Daniel M. Matongo",
     "description": " "
   },
   {
@@ -26755,7 +26755,7 @@
   },
   {
     "name": "mesa",
-    "version": "21.2.2 2",
+    "version": "21.2.3 1",
     "maintainer": "Daniel M. Matongo",
     "description": " "
   },
