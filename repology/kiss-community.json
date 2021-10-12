@@ -12840,6 +12840,12 @@
     "description": " "
   },
   {
+    "name": "go",
+    "version": "1.17.2 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "elixir",
     "version": "1.12.3 1",
     "maintainer": "Ethan",
@@ -12950,6 +12956,12 @@
   {
     "name": "grap",
     "version": "1.46 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "pv",
+    "version": "1.6.20 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13614,6 +13626,12 @@
     "description": " "
   },
   {
+    "name": "xf86-video-qxl",
+    "version": "0.1.5 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "skippy-xd-git",
     "version": "git 1",
     "maintainer": "Ethan",
@@ -13766,6 +13784,12 @@
   {
     "name": "herbe",
     "version": "1.0.0 1 ",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "spice-protocol",
+    "version": "0.14.3 1",
     "maintainer": "Ethan",
     "description": " "
   },
