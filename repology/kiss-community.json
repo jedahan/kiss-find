@@ -2263,7 +2263,7 @@
   },
   {
     "name": "qemu",
-    "version": "6.0.0 1",
+    "version": "6.1.0 1",
     "maintainer": "James Davies",
     "description": " "
   },
@@ -3937,8 +3937,8 @@
   },
   {
     "name": "sdl2",
-    "version": "2.0.16 1 ",
-    "maintainer": "Rio Liu",
+    "version": "2.0.16 2",
+    "maintainer": "Rio6",
     "description": " "
   },
   {
@@ -7213,7 +7213,7 @@
   },
   {
     "name": "bmake",
-    "version": "20210808 1",
+    "version": "20211001 1",
     "maintainer": "aabacchus",
     "description": " "
   },
@@ -7261,7 +7261,7 @@
   },
   {
     "name": "abcmidi",
-    "version": "2021.06.27 1",
+    "version": "2021.09.15 1",
     "maintainer": "aabacchus",
     "description": " "
   },
@@ -7387,7 +7387,7 @@
   },
   {
     "name": "gdbm",
-    "version": "1.20 1",
+    "version": "1.21 1",
     "maintainer": "aabacchus",
     "description": " "
   },
@@ -7555,7 +7555,7 @@
   },
   {
     "name": "log4cxx",
-    "version": "0.12.0 1",
+    "version": "0.12.1 1",
     "maintainer": "aabacchus",
     "description": " "
   },
@@ -12906,6 +12906,12 @@
     "description": " "
   },
   {
+    "name": "ucl",
+    "version": "1.03 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "valgrind",
     "version": "3.17.0 1",
     "maintainer": "Ethan",
@@ -13063,6 +13069,12 @@
   },
   {
     "name": "gocloc-git",
+    "version": "git 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "upx",
     "version": "git 1",
     "maintainer": "Ethan",
     "description": " "
