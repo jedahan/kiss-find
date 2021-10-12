@@ -5365,8 +5365,8 @@
   },
   {
     "name": "info",
-    "version": "symlink",
-    "maintainer": "unknown",
+    "version": "6.8 1",
+    "maintainer": "Cem Keylan",
     "description": " "
   },
   {
@@ -5616,12 +5616,6 @@
     "description": " "
   },
   {
-    "name": "gvim",
-    "version": "symlink",
-    "maintainer": "unknown",
-    "description": " "
-  },
-  {
     "name": "npth",
     "version": "1.6 1",
     "maintainer": "Cem Keylan",
@@ -5803,8 +5797,8 @@
   },
   {
     "name": "emacs-nox",
-    "version": "symlink",
-    "maintainer": "unknown",
+    "version": "27.2 1",
+    "maintainer": "Cem Keylan",
     "description": " "
   },
   {
@@ -6625,7 +6619,7 @@
   },
   {
     "name": "linux-headers",
-    "version": "5.14.10 1",
+    "version": "5.14.11 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
