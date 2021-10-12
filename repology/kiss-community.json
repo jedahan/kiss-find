@@ -5593,7 +5593,7 @@
   },
   {
     "name": "libvpx",
-    "version": "1.10.0 1",
+    "version": "1.11.0 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -26635,8 +26635,8 @@
   },
   {
     "name": "libepoxy",
-    "version": "1.5.9 1",
-    "maintainer": "Linux User",
+    "version": "1.5.9 2",
+    "maintainer": "Daniel M. Matongo",
     "description": " "
   },
   {
