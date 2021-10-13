@@ -336,7 +336,7 @@
   },
   {
     "name": "nodejs",
-    "version": "16.11.0 1",
+    "version": "16.11.1 1",
     "maintainer": "Dylan Araps"
   },
   {
@@ -471,7 +471,7 @@
   },
   {
     "name": "libvpx",
-    "version": "1.10.0 1",
+    "version": "1.11.0 1",
     "maintainer": "Dylan Araps"
   },
   {
@@ -586,7 +586,7 @@
   },
   {
     "name": "git",
-    "version": "2.33.0 1",
+    "version": "2.33.1 1",
     "maintainer": "Dylan Araps"
   },
   {

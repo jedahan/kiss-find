@@ -4129,8 +4129,8 @@
   },
   {
     "name": "extra-cmake-modules",
-    "version": "5.86.0 1",
-    "maintainer": "davidgarland",
+    "version": "5.87.0 1",
+    "maintainer": "David Garland",
     "description": " "
   },
   {
@@ -12691,7 +12691,7 @@
   },
   {
     "name": "typescript-language-server",
-    "version": "0.6.3 1",
+    "version": "0.6.4 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -12751,7 +12751,7 @@
   },
   {
     "name": "typescript",
-    "version": "4.4.3 1",
+    "version": "4.4.4 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -19189,7 +19189,7 @@
   },
   {
     "name": "busybox",
-    "version": "1.34.0 3",
+    "version": "1.34.1 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -19201,7 +19201,7 @@
   },
   {
     "name": "git",
-    "version": "2.33.0 1",
+    "version": "2.33.1 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -19224,38 +19224,26 @@
     "description": " "
   },
   {
-    "name": "make-bin",
-    "version": "4.3 1",
-    "maintainer": "hovercats",
-    "description": " "
-  },
-  {
-    "name": "gcc-bin",
-    "version": "10.2.0 1",
-    "maintainer": "hovercats",
-    "description": " "
-  },
-  {
-    "name": "flex-bin",
-    "version": "2.6.4 1",
-    "maintainer": "hovercats",
-    "description": " "
-  },
-  {
-    "name": "musl-bin",
-    "version": "1.2.2 1",
-    "maintainer": "hovercats",
-    "description": " "
-  },
-  {
-    "name": "binutils-bin",
+    "name": "binutils",
     "version": "2.36.1 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "gcc",
+    "version": "10.2.0 1",
     "maintainer": "hovercats",
     "description": " "
   },
   {
     "name": "libudev-zero",
     "version": "0.5.2 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "ubase",
+    "version": "git 4 ",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -19302,8 +19290,20 @@
     "description": " "
   },
   {
+    "name": "smdev",
+    "version": "git 2",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
     "name": "util-linux",
     "version": "2.37 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "bison",
+    "version": "3.7.6 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -19512,12 +19512,6 @@
     "description": " "
   },
   {
-    "name": "ubase",
-    "version": "git 4 ",
-    "maintainer": "hovercats",
-    "description": " "
-  },
-  {
     "name": "binutils",
     "version": "2.37.1 2",
     "maintainer": "hovercats",
@@ -19526,6 +19520,18 @@
   {
     "name": "libressl",
     "version": "3.3.3 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "byacc",
+    "version": "20210808 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "pigz",
+    "version": "2.6 2",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -19578,32 +19584,14 @@
     "description": " "
   },
   {
-    "name": "smdev",
-    "version": "git 2",
-    "maintainer": "hovercats",
-    "description": " "
-  },
-  {
     "name": "busybox",
-    "version": "1.33.1 1",
-    "maintainer": "hovercats",
-    "description": " "
-  },
-  {
-    "name": "gzip",
-    "version": "1.10 5",
+    "version": "1.34.0 6",
     "maintainer": "hovercats",
     "description": " "
   },
   {
     "name": "baseinit",
     "version": "1.0.2 1",
-    "maintainer": "hovercats",
-    "description": " "
-  },
-  {
-    "name": "bison",
-    "version": "3.7.6 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -19627,7 +19615,7 @@
   },
   {
     "name": "kiss",
-    "version": "5.5.12 1",
+    "version": "5.5.28 1",
     "maintainer": "hovercats",
     "description": " "
   },
