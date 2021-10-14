@@ -13014,12 +13014,6 @@
     "description": " "
   },
   {
-    "name": "vimb-git",
-    "version": "git 1",
-    "maintainer": "Ethan",
-    "description": " "
-  },
-  {
     "name": "htop",
     "version": "3.1.0 1",
     "maintainer": "Ethan",
@@ -13052,12 +13046,6 @@
   {
     "name": "gdb",
     "version": "11.1 1",
-    "maintainer": "Ethan",
-    "description": " "
-  },
-  {
-    "name": "vimb",
-    "version": "3.6.0 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13662,6 +13650,12 @@
     "description": " "
   },
   {
+    "name": "vimb-git",
+    "version": "git 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "chromium",
     "version": "94.0.4606.81 1",
     "maintainer": "Ethan",
@@ -13718,6 +13712,12 @@
   {
     "name": "picom-git",
     "version": "git 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "vimb",
+    "version": "3.6.0 1",
     "maintainer": "Ethan",
     "description": " "
   },
