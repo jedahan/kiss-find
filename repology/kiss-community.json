@@ -26647,7 +26647,7 @@
   },
   {
     "name": "mesa",
-    "version": "21.2.3 1",
+    "version": "21.2.4 1",
     "maintainer": "Daniel M. Matongo",
     "description": " "
   },
@@ -27283,8 +27283,8 @@
   },
   {
     "name": "git",
-    "version": "2.33.0 1",
-    "maintainer": "Linux User",
+    "version": "2.33.1 1",
+    "maintainer": "Daniel M. Matongo",
     "description": " "
   },
   {
