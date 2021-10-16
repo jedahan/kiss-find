@@ -19284,12 +19284,6 @@
     "description": " "
   },
   {
-    "name": "abduco",
-    "version": "0.6 1",
-    "maintainer": "hovercats",
-    "description": " "
-  },
-  {
     "name": "mtm",
     "version": "1.2.0 1",
     "maintainer": "hovercats",
@@ -19298,6 +19292,12 @@
   {
     "name": "dhcpcd",
     "version": "9.4.0 2",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "mandoc",
+    "version": "1.14.6 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -19369,7 +19369,7 @@
   },
   {
     "name": "tzdata",
-    "version": "2021c 1",
+    "version": "2021d 1",
     "maintainer": "hovercats",
     "description": " "
   },
