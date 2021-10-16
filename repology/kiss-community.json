@@ -5160,12 +5160,6 @@
     "description": " "
   },
   {
-    "name": "pinentry-dmenu",
-    "version": "0.1.1 1",
-    "maintainer": "Cem Keylan",
-    "description": " "
-  },
-  {
     "name": "zsh",
     "version": "5.8 2",
     "maintainer": "Cem Keylan",
@@ -5359,7 +5353,7 @@
   },
   {
     "name": "mesa",
-    "version": "21.2.3 2",
+    "version": "21.2.4 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -5809,7 +5803,7 @@
   },
   {
     "name": "fzf",
-    "version": "0.27.2 1",
+    "version": "0.27.3 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -5989,13 +5983,13 @@
   },
   {
     "name": "mpd",
-    "version": "0.22.11 1",
+    "version": "0.23 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
   {
     "name": "neomutt",
-    "version": "20210205 1",
+    "version": "20211015 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -6607,7 +6601,7 @@
   },
   {
     "name": "otools",
-    "version": "1.5.0 1",
+    "version": "1.5.1 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -6619,7 +6613,7 @@
   },
   {
     "name": "linux-headers",
-    "version": "5.14.11 1",
+    "version": "5.14.12 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -7441,7 +7435,7 @@
   },
   {
     "name": "neomutt",
-    "version": "20210205 1",
+    "version": "20211015 1",
     "maintainer": "aabacchus",
     "description": " "
   },
@@ -12792,6 +12786,12 @@
     "description": " "
   },
   {
+    "name": "chez-scheme",
+    "version": "9.5.4 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "libatomic_ops",
     "version": "7.6.12 1",
     "maintainer": "Ethan",
@@ -12961,7 +12961,7 @@
   },
   {
     "name": "pax",
-    "version": "1.5.0 1",
+    "version": "1.5.1 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13094,6 +13094,12 @@
   {
     "name": "wyebadblock-git",
     "version": "git 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "neomutt",
+    "version": "20211015 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13381,7 +13387,7 @@
   },
   {
     "name": "firefox-beta",
-    "version": "94.0b4 1",
+    "version": "94.0b6 1",
     "maintainer": "Ethan",
     "description": " "
   },
