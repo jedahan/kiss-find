@@ -4069,8 +4069,8 @@
   },
   {
     "name": "neomutt",
-    "version": "20210205 1",
-    "maintainer": "phoebos",
+    "version": "20211015 1",
+    "maintainer": "aabacchus",
     "description": " "
   },
   {
@@ -12673,7 +12673,7 @@
   },
   {
     "name": "pyright",
-    "version": "1.1.178 1",
+    "version": "1.1.179 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -12931,7 +12931,7 @@
   },
   {
     "name": "valgrind",
-    "version": "3.17.0 1",
+    "version": "3.18.1 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13094,12 +13094,6 @@
   {
     "name": "wyebadblock-git",
     "version": "git 1",
-    "maintainer": "Ethan",
-    "description": " "
-  },
-  {
-    "name": "neomutt",
-    "version": "20211015 1",
     "maintainer": "Ethan",
     "description": " "
   },
