@@ -12834,6 +12834,12 @@
     "description": " "
   },
   {
+    "name": "gforth",
+    "version": "0.7.3 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "ecl",
     "version": "21.2.1 2",
     "maintainer": "Ethan",
