@@ -13158,6 +13158,12 @@
     "description": " "
   },
   {
+    "name": "torsocks",
+    "version": "2.3.0 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "ergochat",
     "version": "2.7.0 1",
     "maintainer": "Ethan",
@@ -13176,6 +13182,12 @@
     "description": " "
   },
   {
+    "name": "redis",
+    "version": "6.2.6 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "mariadb",
     "version": "10.6.4 1",
     "maintainer": "Ethan",
@@ -13184,6 +13196,18 @@
   {
     "name": "postgresql",
     "version": "14.0 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "i2pd",
+    "version": "2.39.0 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "tor",
+    "version": "0.4.6.7 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13344,6 +13368,12 @@
     "description": " "
   },
   {
+    "name": "icu",
+    "version": "69.1 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "harfbuzz-icu",
     "version": "3.0.0 1",
     "maintainer": "Ethan",
@@ -13351,7 +13381,7 @@
   },
   {
     "name": "ghostscript",
-    "version": "9.55.0 1",
+    "version": "9.55.0 2",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -19321,7 +19351,7 @@
   },
   {
     "name": "oksh",
-    "version": "6.9 1",
+    "version": "7.0 1",
     "maintainer": "hovercats",
     "description": " "
   },
