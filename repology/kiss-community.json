@@ -12612,6 +12612,30 @@
     "description": " "
   },
   {
+    "name": "hol",
+    "version": "kananaskis.14 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "sccache",
+    "version": "0.2.15 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "dmd-bootstrap",
+    "version": "2.069.0 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "cakeml-git",
+    "version": "git 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "stow",
     "version": "2.3.1 1",
     "maintainer": "Ethan",
@@ -12768,12 +12792,6 @@
     "description": " "
   },
   {
-    "name": "python",
-    "version": "3.7.9 1",
-    "maintainer": "Ethan",
-    "description": " "
-  },
-  {
     "name": "sbcl",
     "version": "2.1.9 1",
     "maintainer": "Ethan",
@@ -12824,12 +12842,6 @@
   {
     "name": "r-lang",
     "version": "4.1.1 1",
-    "maintainer": "Ethan",
-    "description": " "
-  },
-  {
-    "name": "python2",
-    "version": "2.7.18 3",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13086,6 +13098,12 @@
     "description": " "
   },
   {
+    "name": "aria2",
+    "version": "1.36.0 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "gocloc-git",
     "version": "git 1",
     "maintainer": "Ethan",
@@ -13136,6 +13154,42 @@
   {
     "name": "keyd-git",
     "version": "git 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "ergochat",
+    "version": "2.7.0 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "geoip",
+    "version": "1.6.12 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "nginx",
+    "version": "1.21.3 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "mariadb",
+    "version": "10.6.4 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "postgresql",
+    "version": "14.0 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "libedit",
+    "version": "20210910-3.1 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13387,7 +13441,7 @@
   },
   {
     "name": "firefox-beta",
-    "version": "94.0b6 1",
+    "version": "94.0b7 1",
     "maintainer": "Ethan",
     "description": " "
   },
