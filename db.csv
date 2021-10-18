@@ -973,7 +973,7 @@ parted,3.4 1,https://github.com/CarbsLinux/repository,community/parted,master,"C
 libevent,2.1.12 1,https://github.com/CarbsLinux/repository,community/libevent,master,"Cem Keylan"," "
 oniguruma,6.9.7 1,https://github.com/CarbsLinux/repository,community/oniguruma,master,"Cem Keylan"," "
 sassc,3.6.2 1,https://github.com/CarbsLinux/repository,community/sassc,master,"Cem Keylan"," "
-chezmoi,2.7.0 1,https://github.com/CarbsLinux/repository,community/chezmoi,master,"Cem Keylan"," "
+chezmoi,2.7.1 1,https://github.com/CarbsLinux/repository,community/chezmoi,master,"Cem Keylan"," "
 autoconf,2.71 2,https://github.com/CarbsLinux/repository,community/autoconf,master,"Cem Keylan"," "
 zathura,0.4.8 1,https://github.com/CarbsLinux/repository,community/zathura,master,"Cem Keylan"," "
 syncthing,1.18.3 1,https://github.com/CarbsLinux/repository,community/syncthing,master,"Cem Keylan"," "
