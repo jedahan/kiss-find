@@ -5617,7 +5617,7 @@
   },
   {
     "name": "tzdata",
-    "version": "2021c 1",
+    "version": "2021d 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -6613,7 +6613,7 @@
   },
   {
     "name": "linux-headers",
-    "version": "5.14.12 1",
+    "version": "5.14.13 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
