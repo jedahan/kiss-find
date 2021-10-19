@@ -2383,7 +2383,7 @@
   },
   {
     "name": "pounce",
-    "version": "2.5 1",
+    "version": "3.0 1",
     "maintainer": "aabacchus",
     "description": " "
   },
@@ -3337,7 +3337,7 @@
   },
   {
     "name": "chromium",
-    "version": "94.0.4606.71 1",
+    "version": "95.0.4638.54 1",
     "maintainer": "git-bruh",
     "description": " "
   },
@@ -4059,6 +4059,12 @@
     "name": "keyutils",
     "version": "1.6.3 1",
     "maintainer": "Dylan Araps",
+    "description": " "
+  },
+  {
+    "name": "bim",
+    "version": "2.7.0 1",
+    "maintainer": "Zola",
     "description": " "
   },
   {
