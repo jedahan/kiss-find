@@ -5707,7 +5707,7 @@
   },
   {
     "name": "file",
-    "version": "5.40 1",
+    "version": "5.41 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -12632,6 +12632,12 @@
   {
     "name": "cakeml-git",
     "version": "git 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "postfix",
+    "version": "3.6.2 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -27783,6 +27789,12 @@
     "name": "libxpm",
     "version": "3.5.13 1",
     "maintainer": "Linux User",
+    "description": " "
+  },
+  {
+    "name": "cmatrix",
+    "version": "2.0 1",
+    "maintainer": "rfaa",
     "description": " "
   },
   {
