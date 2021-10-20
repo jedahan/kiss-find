@@ -2670,6 +2670,12 @@
     "description": " "
   },
   {
+    "name": "dragon",
+    "version": "1.1.1 1",
+    "maintainer": "Zola",
+    "description": " "
+  },
+  {
     "name": "rdrview",
     "version": "git 1",
     "maintainer": "Claudia",
@@ -2731,7 +2737,7 @@
   },
   {
     "name": "libsamplerate",
-    "version": "0.2.1 1",
+    "version": "0.2.2 1",
     "maintainer": "Zola",
     "description": " "
   },
@@ -3529,7 +3535,7 @@
   },
   {
     "name": "tor",
-    "version": "0.4.6.6 1",
+    "version": "0.4.6.7 1",
     "maintainer": "Zola",
     "description": " "
   },
@@ -5989,7 +5995,7 @@
   },
   {
     "name": "mpd",
-    "version": "0.23 1",
+    "version": "0.23.1 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -7255,7 +7261,7 @@
   },
   {
     "name": "abcmidi",
-    "version": "2021.09.15 1",
+    "version": "2021.10.11 1",
     "maintainer": "aabacchus",
     "description": " "
   },
@@ -7376,12 +7382,6 @@
   {
     "name": "gpgme",
     "version": "1.16.0 1",
-    "maintainer": "aabacchus",
-    "description": " "
-  },
-  {
-    "name": "gdbm",
-    "version": "1.21 1",
     "maintainer": "aabacchus",
     "description": " "
   },
@@ -13777,7 +13777,7 @@
   },
   {
     "name": "chromium",
-    "version": "94.0.4606.81 1",
+    "version": "95.0.4638.54 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -19368,6 +19368,12 @@
     "description": " "
   },
   {
+    "name": "sqlite",
+    "version": "3.36.0 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
     "name": "ncurses",
     "version": "6.2 5",
     "maintainer": "hovercats",
@@ -19388,6 +19394,12 @@
   {
     "name": "dhcpcd",
     "version": "9.4.0 2",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "libffi",
+    "version": "3.4.2 2",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -19418,6 +19430,12 @@
   {
     "name": "ssu",
     "version": "0.3.2 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "python",
+    "version": "3.9.6 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -19454,6 +19472,12 @@
   {
     "name": "wpa_supplicant",
     "version": "2.9 4",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "expat",
+    "version": "2.4.1 1",
     "maintainer": "hovercats",
     "description": " "
   },
