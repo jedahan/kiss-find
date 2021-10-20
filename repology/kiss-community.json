@@ -4537,7 +4537,7 @@
   },
   {
     "name": "libnghttp2",
-    "version": "1.45.1 1",
+    "version": "1.46.0 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -5299,7 +5299,7 @@
   },
   {
     "name": "nodejs",
-    "version": "16.11.1 1",
+    "version": "17.0.0 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -5323,7 +5323,7 @@
   },
   {
     "name": "seatd",
-    "version": "0.6.2 2",
+    "version": "0.6.3 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -5863,7 +5863,7 @@
   },
   {
     "name": "chezmoi",
-    "version": "2.7.1 1",
+    "version": "2.7.2 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -6625,7 +6625,7 @@
   },
   {
     "name": "linux-headers",
-    "version": "5.14.13 1",
+    "version": "5.14.14 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -12679,7 +12679,7 @@
   },
   {
     "name": "gopls",
-    "version": "0.7.2 1",
+    "version": "0.7.3 1",
     "maintainer": "Ethan",
     "description": " "
   },
