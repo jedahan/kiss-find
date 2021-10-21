@@ -12900,6 +12900,12 @@
     "description": " "
   },
   {
+    "name": "neomutt-git",
+    "version": "git 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "mutt-wizard-git",
     "version": "git 1",
     "maintainer": "Ethan",
@@ -27795,6 +27801,12 @@
     "name": "libxpm",
     "version": "3.5.13 1",
     "maintainer": "Linux User",
+    "description": " "
+  },
+  {
+    "name": "linux-firmware",
+    "version": "20210919 1",
+    "maintainer": "rfaa",
     "description": " "
   },
   {
