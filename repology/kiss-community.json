@@ -5047,7 +5047,7 @@
   },
   {
     "name": "webkit2gtk",
-    "version": "2.34.0 1",
+    "version": "2.34.1 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -12984,6 +12984,12 @@
     "description": " "
   },
   {
+    "name": "mktorrent",
+    "version": "git 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "ucl",
     "version": "1.03 1",
     "maintainer": "Ethan",
@@ -13004,6 +13010,12 @@
   {
     "name": "smartmontools",
     "version": "7.2 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "btpd",
+    "version": "0.16 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13489,7 +13501,7 @@
   },
   {
     "name": "libinput",
-    "version": "1.19.1 1",
+    "version": "1.19.2 1",
     "maintainer": "Ethan",
     "description": " "
   },
