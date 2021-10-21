@@ -4669,7 +4669,7 @@
   },
   {
     "name": "dunst",
-    "version": "1.6.1 1",
+    "version": "1.7.0 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -5323,7 +5323,7 @@
   },
   {
     "name": "nodejs",
-    "version": "17.0.0 1",
+    "version": "17.0.1 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
