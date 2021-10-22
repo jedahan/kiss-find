@@ -22392,6 +22392,12 @@
     "description": " "
   },
   {
+    "name": "xkill",
+    "version": "1.0.5 1",
+    "maintainer": "Kyryl Melekhin",
+    "description": " "
+  },
+  {
     "name": "bkeymaps",
     "version": "1.13 3",
     "maintainer": "Dylan Araps",
@@ -23539,7 +23545,7 @@
   },
   {
     "name": "chromium",
-    "version": "94.0.4606.71 2",
+    "version": "95.0.4638.54 1",
     "maintainer": "Kyryl Melekhin",
     "description": " "
   },
@@ -24823,8 +24829,8 @@
   },
   {
     "name": "libinput",
-    "version": "1.19.1 1",
-    "maintainer": "Kyryl Melekhin",
+    "version": "1.19.2 1",
+    "maintainer": "Ethan",
     "description": " "
   },
   {
@@ -24931,8 +24937,8 @@
   },
   {
     "name": "mesa",
-    "version": "21.2.3 1",
-    "maintainer": "Dylan Araps",
+    "version": "21.2.4 1",
+    "maintainer": "Ethan",
     "description": " "
   },
   {
