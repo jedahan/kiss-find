@@ -3379,7 +3379,7 @@
   },
   {
     "name": "ntfs-3g",
-    "version": "2021.8.22 1",
+    "version": "2021.8.22 2",
     "maintainer": "FriendlyNeighborhoodShane",
     "description": " "
   },
@@ -13382,6 +13382,12 @@
   {
     "name": "ghostscript",
     "version": "9.55.0 2",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "webkit2gtk",
+    "version": "2.34.1 1",
     "maintainer": "Ethan",
     "description": " "
   },
