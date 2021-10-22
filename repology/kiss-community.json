@@ -5191,7 +5191,7 @@
   },
   {
     "name": "libinput",
-    "version": "1.19.1 1",
+    "version": "1.19.2 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -5599,7 +5599,7 @@
   },
   {
     "name": "tzdata",
-    "version": "2021d 1",
+    "version": "2021e 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -5791,7 +5791,7 @@
   },
   {
     "name": "lf",
-    "version": "25 1",
+    "version": "26 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
