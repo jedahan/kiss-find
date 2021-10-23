@@ -1,5 +1,10 @@
 [
   {
+    "name": "rust",
+    "version": "1.56.0 0",
+    "maintainer": "Dylan Araps"
+  },
+  {
     "name": "wlroots",
     "version": "0.14.1 1",
     "maintainer": "Dylan Araps"
@@ -201,7 +206,7 @@
   },
   {
     "name": "ncurses",
-    "version": "6.2 5",
+    "version": "6.3 1",
     "maintainer": "Dylan Araps"
   },
   {
@@ -476,7 +481,7 @@
   },
   {
     "name": "tzdata",
-    "version": "2021d 1",
+    "version": "2021e 1",
     "maintainer": "Dylan Araps"
   },
   {
