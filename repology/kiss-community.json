@@ -1849,7 +1849,7 @@
   },
   {
     "name": "qt5",
-    "version": "5.15.3 2",
+    "version": "5.15.3 3",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
@@ -2503,7 +2503,7 @@
   },
   {
     "name": "qt5-svg",
-    "version": "5.15.3 2",
+    "version": "5.15.3 3",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
@@ -3601,7 +3601,7 @@
   },
   {
     "name": "qt5-declarative",
-    "version": "5.15.3 2",
+    "version": "5.15.3 3",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
@@ -3624,12 +3624,6 @@
     "description": " "
   },
   {
-    "name": "python2",
-    "version": "2.7.18 3",
-    "maintainer": "Dylan Araps",
-    "description": " "
-  },
-  {
     "name": "lpeg",
     "version": "1.0.2 1 ",
     "maintainer": "git-bruh",
@@ -3643,7 +3637,7 @@
   },
   {
     "name": "qt5-wayland",
-    "version": "5.15.3 1",
+    "version": "5.15.3 2",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
@@ -4051,7 +4045,7 @@
   },
   {
     "name": "neomutt",
-    "version": "20211015 1",
+    "version": "20211022 1",
     "maintainer": "aabacchus",
     "description": " "
   },
@@ -4903,7 +4897,7 @@
   },
   {
     "name": "ncurses",
-    "version": "6.2 4",
+    "version": "6.3 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -5965,13 +5959,13 @@
   },
   {
     "name": "mpd",
-    "version": "0.23.1 1",
+    "version": "0.23.2 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
   {
     "name": "neomutt",
-    "version": "20211015 1",
+    "version": "20211022 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -7411,7 +7405,7 @@
   },
   {
     "name": "neomutt",
-    "version": "20211015 1",
+    "version": "20211022 1",
     "maintainer": "aabacchus",
     "description": " "
   },
@@ -13087,7 +13081,7 @@
   },
   {
     "name": "msmtp",
-    "version": "1.8.17 1",
+    "version": "1.8.18 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13537,7 +13531,7 @@
   },
   {
     "name": "qt5",
-    "version": "5.15.3 1  ",
+    "version": "5.15.3 2",
     "maintainer": "Ethan",
     "description": " "
   },
