@@ -870,7 +870,7 @@ glib-networking,2.70.0 1,https://github.com/CarbsLinux/repository,extra/glib-net
 gnutls,3.6.16 1,https://github.com/CarbsLinux/repository,extra/gnutls,master,"Cem Keylan"," "
 man-pages,5.13 1,https://github.com/CarbsLinux/repository,extra/man-pages,master,"Cem Keylan"," "
 distcc,3.4 2,https://github.com/CarbsLinux/repository,extra/distcc,master,"Cem Keylan"," "
-meson,0.59.2 2,https://github.com/CarbsLinux/repository,extra/meson,master,"Cem Keylan"," "
+meson,0.59.3 1,https://github.com/CarbsLinux/repository,extra/meson,master,"Cem Keylan"," "
 kcgi,0.13.0 1,https://github.com/CarbsLinux/repository,extra/kcgi,master,"Cem Keylan"," "
 m4,1.4.19 3,https://github.com/CarbsLinux/repository,extra/m4,master,"Cem Keylan"," "
 kbd,2.4.0 1,https://github.com/CarbsLinux/repository,extra/kbd,master,"Cem Keylan"," "
