@@ -1933,7 +1933,7 @@
   },
   {
     "name": "dnscrypt-proxy",
-    "version": "2.1.0 1",
+    "version": "2.1.1 1",
     "maintainer": "git-bruh",
     "description": " "
   },
@@ -2131,7 +2131,7 @@
   },
   {
     "name": "libcap",
-    "version": "2.57 1",
+    "version": "2.59 1",
     "maintainer": "git-bruh",
     "description": " "
   },
@@ -2209,7 +2209,7 @@
   },
   {
     "name": "github-cli",
-    "version": "2.0.0 1",
+    "version": "2.1.0 1",
     "maintainer": "git-bruh",
     "description": " "
   },
@@ -2287,7 +2287,7 @@
   },
   {
     "name": "automake",
-    "version": "1.16.4 1",
+    "version": "1.16.5 1",
     "maintainer": "git-bruh",
     "description": " "
   },
@@ -2545,7 +2545,7 @@
   },
   {
     "name": "chroma-bin",
-    "version": "0.8.2 1",
+    "version": "0.9.4 1",
     "maintainer": "git-bruh",
     "description": " "
   },
@@ -3013,7 +3013,7 @@
   },
   {
     "name": "btrfs-progs",
-    "version": "5.14 1",
+    "version": "5.14.2 1",
     "maintainer": "git-bruh",
     "description": " "
   },
@@ -3517,8 +3517,8 @@
   },
   {
     "name": "minisign",
-    "version": "0.9 1",
-    "maintainer": "M. Herdiansyah",
+    "version": "0.10 1",
+    "maintainer": "Muhammad Herdiansyah",
     "description": " "
   },
   {
@@ -3607,7 +3607,7 @@
   },
   {
     "name": "imagemagick",
-    "version": "7.1.0-6 1",
+    "version": "7.1.0-10 1",
     "maintainer": "git-bruh",
     "description": " "
   },
@@ -3865,7 +3865,7 @@
   },
   {
     "name": "libedit",
-    "version": "20210714-3.1 1",
+    "version": "20210910-3.1 1",
     "maintainer": "git-bruh",
     "description": " "
   },
@@ -4195,7 +4195,7 @@
   },
   {
     "name": "file",
-    "version": "5.40 1",
+    "version": "5.41 1",
     "maintainer": "git-bruh",
     "description": " "
   },
@@ -12696,6 +12696,36 @@
     "description": " "
   },
   {
+    "name": "flatpak",
+    "version": "1.12.2 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "python-pyparsing",
+    "version": "2.4.7 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "gpgme",
+    "version": "1.16.0 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "appstream-glib",
+    "version": "0.7.18 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "ostree",
+    "version": "2021.5 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "mesa",
     "version": "21.2.4 1",
     "maintainer": "Ethan",
@@ -13855,8 +13885,14 @@
   },
   {
     "name": "xdotool",
-    "version": "3.20210903.1 1",
+    "version": "3.20211022.1 1",
     "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "autorandr",
+    "version": "1.11 2",
+    "maintainer": "Arthur Williams",
     "description": " "
   },
   {
