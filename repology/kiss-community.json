@@ -7177,7 +7177,7 @@
   },
   {
     "name": "bmake",
-    "version": "20211001 1",
+    "version": "20211020 1",
     "maintainer": "aabacchus",
     "description": " "
   },
@@ -13232,6 +13232,12 @@
   {
     "name": "i2pd",
     "version": "2.39.0 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "db",
+    "version": "5.3.28 1",
     "maintainer": "Ethan",
     "description": " "
   },
