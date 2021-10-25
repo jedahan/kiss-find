@@ -13441,7 +13441,7 @@
   },
   {
     "name": "ffmpeg",
-    "version": "4.4 2",
+    "version": "4.4.1 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -25483,8 +25483,8 @@
   },
   {
     "name": "libressl",
-    "version": "3.3.3 1",
-    "maintainer": "Dilyn Corner",
+    "version": "3.4.1 1",
+    "maintainer": "Kyryl Melekhin",
     "description": " "
   },
   {
