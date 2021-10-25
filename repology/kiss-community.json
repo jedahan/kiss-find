@@ -4495,7 +4495,7 @@
   },
   {
     "name": "libsoup3",
-    "version": "3.0.1 1",
+    "version": "3.0.2 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -4693,7 +4693,7 @@
   },
   {
     "name": "ffmpeg",
-    "version": "4.4 2",
+    "version": "4.4.1 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -4759,7 +4759,7 @@
   },
   {
     "name": "bmake",
-    "version": "20211001 1",
+    "version": "20211020 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -4915,7 +4915,7 @@
   },
   {
     "name": "libsoup",
-    "version": "2.74.0 1",
+    "version": "2.74.1 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -4975,7 +4975,7 @@
   },
   {
     "name": "dhcpcd",
-    "version": "9.4.0 1",
+    "version": "9.4.1 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -5233,7 +5233,7 @@
   },
   {
     "name": "meson",
-    "version": "0.59.3 1",
+    "version": "0.60.0 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -5425,7 +5425,7 @@
   },
   {
     "name": "imagemagick",
-    "version": "7.1.0-10 1",
+    "version": "7.1.0-11 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -6409,7 +6409,7 @@
   },
   {
     "name": "libressl",
-    "version": "3.4.0 1",
+    "version": "3.4.1 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -21284,6 +21284,12 @@
   {
     "name": "siji",
     "version": "git 1",
+    "maintainer": "Justinas Grigas",
+    "description": " "
+  },
+  {
+    "name": "syncthing-sv",
+    "version": " 1 1",
     "maintainer": "Justinas Grigas",
     "description": " "
   },
