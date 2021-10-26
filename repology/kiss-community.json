@@ -19770,8 +19770,20 @@
     "description": " "
   },
   {
+    "name": "python-sympy",
+    "version": "1.9 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
     "name": "python-pillow",
-    "version": "8.3.2 1",
+    "version": "8.4.0 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
+    "name": "python-mpmath",
+    "version": "1.2.1 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
@@ -19831,7 +19843,7 @@
   },
   {
     "name": "ttf-font-awesome",
-    "version": "5.15.3 1",
+    "version": "5.15.4 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
@@ -19897,13 +19909,13 @@
   },
   {
     "name": "python-numpy",
-    "version": "1.21.2 1",
+    "version": "1.21.3 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
   {
     "name": "python-pyparsing",
-    "version": "2.4.7 1",
+    "version": "3.0.1 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
@@ -19933,7 +19945,13 @@
   },
   {
     "name": "android-tools",
-    "version": "31.0.2 1",
+    "version": "31.0.3 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
+    "name": "docx2txt",
+    "version": "1.4 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
@@ -19945,6 +19963,12 @@
   },
   {
     "name": "gnupg2",
+    "version": "symlink",
+    "maintainer": "unknown",
+    "description": " "
+  },
+  {
+    "name": "dhcpcd",
     "version": "symlink",
     "maintainer": "unknown",
     "description": " "
