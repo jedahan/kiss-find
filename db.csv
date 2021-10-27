@@ -2205,7 +2205,7 @@ mariadb,10.6.4 1,https://github.com/ehawkvu/kiss-personal,server/mariadb,master,
 postgresql,14.0 1,https://github.com/ehawkvu/kiss-personal,server/postgresql,master,"Ethan"," "
 i2pd,2.39.0 1,https://github.com/ehawkvu/kiss-personal,server/i2pd,master,"Ethan"," "
 db,5.3.28 1,https://github.com/ehawkvu/kiss-personal,server/db,master,"Ethan"," "
-tor,0.4.6.7 1,https://github.com/ehawkvu/kiss-personal,server/tor,master,"Ethan"," "
+tor,0.4.6.8 1,https://github.com/ehawkvu/kiss-personal,server/tor,master,"Ethan"," "
 libedit,20210910-3.1 1,https://github.com/ehawkvu/kiss-personal,server/libedit,master,"Ethan"," "
 texlive-bin,20210325 3,https://github.com/ehawkvu/kiss-tex,texlive/texlive-bin,master,"Ethan"," "
 texlive-fontsextra,2021.58704 1,https://github.com/ehawkvu/kiss-tex,texlive/texlive-fontsextra,master,"Ethan"," "
