@@ -18384,6 +18384,84 @@
     "description": " "
   },
   {
+    "name": "libudev-zero",
+    "version": "1.0.0 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "wld",
+    "version": "git 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "dmenu",
+    "version": "git 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "wayland",
+    "version": "1.19.0 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "swc",
+    "version": "git 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "wl-clipboard",
+    "version": "d2c32f2b4d469f53070e8c4052dea6f412de3916 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "libinput",
+    "version": "1.19.2 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "libxkbcommon",
+    "version": "1.3.1 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "st",
+    "version": "git 3",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "wayland-protocols",
+    "version": "1.22 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "xkeyboard-config",
+    "version": "2.34 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "velox",
+    "version": "git 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "wbg",
+    "version": "1.0.2 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
     "name": "binutils",
     "version": "2.37 1",
     "maintainer": "hovercats",
@@ -18402,8 +18480,20 @@
     "description": " "
   },
   {
+    "name": "perl",
+    "version": "5.34.0 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
     "name": "oksh",
     "version": "7.0 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "freetype-harfbuzz",
+    "version": "2.11.0+3.0.0 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -18414,8 +18504,14 @@
     "description": " "
   },
   {
+    "name": "fontconfig",
+    "version": "2.13.94 2",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
     "name": "ncurses",
-    "version": "6.2 5",
+    "version": "6.3 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -18428,6 +18524,18 @@
   {
     "name": "mtm",
     "version": "1.2.0 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "pixman",
+    "version": "0.40.0 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "catgirl",
+    "version": "1.9a 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -18468,14 +18576,32 @@
     "description": " "
   },
   {
+    "name": "libpciaccess",
+    "version": "0.16 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
     "name": "zsh",
     "version": "5.8 1",
     "maintainer": "hovercats",
     "description": " "
   },
   {
+    "name": "cmake",
+    "version": "3.21.3 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
     "name": "ssu",
     "version": "0.3.2 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "meson",
+    "version": "0.60.0 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -18488,6 +18614,18 @@
   {
     "name": "libelf",
     "version": "0.185 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "libpng",
+    "version": "1.6.37 2",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "smdev",
+    "version": "git 2",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -18510,6 +18648,12 @@
     "description": " "
   },
   {
+    "name": "liberation-fonts",
+    "version": "2.1.5 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
     "name": "lynx",
     "version": "2.8.9rel.1 1 ",
     "maintainer": "hovercats",
@@ -18522,14 +18666,26 @@
     "description": " "
   },
   {
-    "name": "expat",
-    "version": "2.4.1 1",
+    "name": "tinyalsa",
+    "version": "2.0.0 1",
     "maintainer": "hovercats",
     "description": " "
   },
   {
-    "name": "netbsd-curses",
-    "version": "0.3.2 1",
+    "name": "samurai",
+    "version": "1.2 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "brightnessctl",
+    "version": "0.5.1 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "expat",
+    "version": "2.4.1 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -18540,8 +18696,26 @@
     "description": " "
   },
   {
+    "name": "libdrm",
+    "version": "2.4.107 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "ctags",
+    "version": "5.8 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
     "name": "pkgconf",
     "version": "1.8.0 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "libxml2",
+    "version": "2.9.12 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -18854,6 +19028,12 @@
   {
     "name": "python-matplotlib",
     "version": "3.4.3 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
+    "name": "libfido2",
+    "version": "1.8.0 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
