@@ -4530,6 +4530,12 @@
     "description": " "
   },
   {
+    "name": "xwayland",
+    "version": "21.1.0 1",
+    "maintainer": "Cem Keylan",
+    "description": " "
+  },
+  {
     "name": "swaybg",
     "version": "1.1 1",
     "maintainer": "Cem Keylan",
@@ -6229,7 +6235,7 @@
   },
   {
     "name": "xorg-server",
-    "version": "1.20.13 1",
+    "version": "21.1.0 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -13428,12 +13434,6 @@
     "description": " "
   },
   {
-    "name": "libudev-zero",
-    "version": "1.0.0 1",
-    "maintainer": "Ethan",
-    "description": " "
-  },
-  {
     "name": "mtdev",
     "version": "1.1.6 1",
     "maintainer": "Ethan",
@@ -13513,7 +13513,7 @@
   },
   {
     "name": "firefox-beta",
-    "version": "94.0b8 1",
+    "version": "94.0b9 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -22411,7 +22411,7 @@
   },
   {
     "name": "radare2",
-    "version": "5.4.0 1",
+    "version": "5.4.2 1",
     "maintainer": "Kyryl Melekhin",
     "description": " "
   },
@@ -22509,6 +22509,12 @@
     "name": "slock",
     "version": "1.4 1",
     "maintainer": "Phillip L",
+    "description": " "
+  },
+  {
+    "name": "palemoon",
+    "version": "29.4.0.2 1",
+    "maintainer": "Kyryl Melekhin",
     "description": " "
   },
   {
