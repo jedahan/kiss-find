@@ -19038,12 +19038,6 @@
     "description": " "
   },
   {
-    "name": "iw",
-    "version": "5.9 1",
-    "maintainer": "Owen Rafferty",
-    "description": " "
-  },
-  {
     "name": "python-cycler",
     "version": "0.10.0 1",
     "maintainer": "Owen Rafferty",
@@ -19165,6 +19159,12 @@
   },
   {
     "name": "llvm",
+    "version": "symlink",
+    "maintainer": "unknown",
+    "description": " "
+  },
+  {
+    "name": "iw",
     "version": "symlink",
     "maintainer": "unknown",
     "description": " "
