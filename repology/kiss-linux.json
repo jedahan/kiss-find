@@ -286,7 +286,7 @@
   },
   {
     "name": "glib",
-    "version": "2.70.0 1",
+    "version": "2.70.1 1",
     "maintainer": "Dylan Araps"
   },
   {
@@ -396,7 +396,7 @@
   },
   {
     "name": "mesa",
-    "version": "21.2.4 1",
+    "version": "21.2.5 1",
     "maintainer": "Dylan Araps"
   },
   {

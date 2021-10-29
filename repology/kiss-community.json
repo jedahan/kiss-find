@@ -5119,7 +5119,7 @@
   },
   {
     "name": "glib",
-    "version": "2.70.0 1",
+    "version": "2.70.1 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -5239,7 +5239,7 @@
   },
   {
     "name": "meson",
-    "version": "0.60.0 1",
+    "version": "0.59.3 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -5335,7 +5335,7 @@
   },
   {
     "name": "mesa",
-    "version": "21.2.4 1",
+    "version": "21.2.5 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -12739,7 +12739,7 @@
   },
   {
     "name": "mesa",
-    "version": "21.2.4 1",
+    "version": "21.2.5 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -12817,7 +12817,7 @@
   },
   {
     "name": "sbcl",
-    "version": "2.1.9 1",
+    "version": "2.1.10 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13423,7 +13423,7 @@
   },
   {
     "name": "icu",
-    "version": "69.1 1",
+    "version": "70.1 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13513,7 +13513,7 @@
   },
   {
     "name": "mesa",
-    "version": "21.2.4 1",
+    "version": "21.2.5 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13802,6 +13802,12 @@
   {
     "name": "slock",
     "version": "1.4 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "palemoon",
+    "version": "29.4.0.2 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -18966,6 +18972,12 @@
     "description": " "
   },
   {
+    "name": "python-beniget",
+    "version": "0.4.1 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
     "name": "python-dateutil",
     "version": "2.8.2 1",
     "maintainer": "Owen Rafferty",
@@ -18980,12 +18992,6 @@
   {
     "name": "openblas",
     "version": "0.3.18 1",
-    "maintainer": "Owen Rafferty",
-    "description": " "
-  },
-  {
-    "name": "python-cppy",
-    "version": "1.1.0 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
@@ -19045,7 +19051,7 @@
   },
   {
     "name": "python-cycler",
-    "version": "0.10.0 1",
+    "version": "0.11.0 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
@@ -19068,8 +19074,20 @@
     "description": " "
   },
   {
+    "name": "python-pythran",
+    "version": "0.10.0 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
     "name": "tk",
     "version": "8.6.11.1 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
+    "name": "python-ply",
+    "version": "3.11 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
@@ -19093,7 +19111,7 @@
   },
   {
     "name": "python-scipy",
-    "version": "1.7.1 2",
+    "version": "1.7.1 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
@@ -19112,6 +19130,12 @@
   {
     "name": "eigen",
     "version": "3.4.0 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
+    "name": "python-gast",
+    "version": "0.5.2 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
@@ -19153,6 +19177,12 @@
   },
   {
     "name": "dhcpcd",
+    "version": "symlink",
+    "maintainer": "unknown",
+    "description": " "
+  },
+  {
+    "name": "cmus",
     "version": "symlink",
     "maintainer": "unknown",
     "description": " "
