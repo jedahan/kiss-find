@@ -3283,8 +3283,8 @@
   },
   {
     "name": "htop",
-    "version": "3.0.5 1 ",
-    "maintainer": "Ominitay",
+    "version": "3.1.1 1",
+    "maintainer": "Justinas Grigas",
     "description": " "
   },
   {
@@ -4531,7 +4531,7 @@
   },
   {
     "name": "xwayland",
-    "version": "21.1.0 1",
+    "version": "21.1.2 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -12811,7 +12811,7 @@
   },
   {
     "name": "nim",
-    "version": "1.4.8 1",
+    "version": "1.6.0 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13022,6 +13022,12 @@
   {
     "name": "pax",
     "version": "1.5.1 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "otf-times-newer-roman",
+    "version": "1 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -19147,12 +19153,6 @@
   },
   {
     "name": "dhcpcd",
-    "version": "symlink",
-    "maintainer": "unknown",
-    "description": " "
-  },
-  {
-    "name": "cmus",
     "version": "symlink",
     "maintainer": "unknown",
     "description": " "
