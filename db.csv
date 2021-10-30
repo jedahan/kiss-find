@@ -2303,6 +2303,7 @@ libxaw3d,1.6.3 1,https://github.com/ehawkvu/kiss-xorg,community/libxaw3d,master,
 xdo,0.5.7 1,https://github.com/ehawkvu/kiss-xorg,community/xdo,master,"Ethan"," "
 p11-kit,0.24.0 1,https://github.com/ehawkvu/kiss-xorg,community/p11-kit,master,"Ethan"," "
 xlennart-git,git 1,https://github.com/ehawkvu/kiss-xorg,community/xlennart-git,master,"Ethan"," "
+2bwm,0.3 1,https://github.com/ehawkvu/kiss-xorg,community/2bwm,master,"Ethan"," "
 gnuplot,5.4.2 1 ,https://github.com/ehawkvu/kiss-xorg,community/gnuplot,master,"Ethan"," "
 xf86-video-qxl,0.1.5 1,https://github.com/ehawkvu/kiss-xorg,community/xf86-video-qxl,master,"Ethan"," "
 skippy-xd-git,git 1,https://github.com/ehawkvu/kiss-xorg,community/skippy-xd-git,master,"Ethan"," "
