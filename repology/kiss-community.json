@@ -13680,6 +13680,12 @@
     "description": " "
   },
   {
+    "name": "libexecinfo",
+    "version": "20180201 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "bspwm",
     "version": "0.9.10 1",
     "maintainer": "Ethan",
@@ -14078,6 +14084,12 @@
   {
     "name": "sct",
     "version": "2018.12.18 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "godot",
+    "version": "3.3.4 1",
     "maintainer": "Ethan",
     "description": " "
   },
