@@ -1,10 +1,5 @@
 [
   {
-    "name": "rust",
-    "version": "1.56.0 0",
-    "maintainer": "Dylan Araps"
-  },
-  {
     "name": "wlroots",
     "version": "0.14.1 1",
     "maintainer": "Dylan Araps"
@@ -111,7 +106,7 @@
   },
   {
     "name": "rust",
-    "version": "1.55.0 3",
+    "version": "1.56.0 2",
     "maintainer": "Dylan Araps"
   },
   {
