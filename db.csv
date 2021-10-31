@@ -2122,7 +2122,7 @@ erlang_ls,0.18.0 1,https://github.com/ehawkvu/kiss-personal,lsp/erlang_ls,master
 texlab,3.3.0 1,https://github.com/ehawkvu/kiss-personal,lsp/texlab,master,"Ethan"," "
 vim-language-server,2.2.5 1,https://github.com/ehawkvu/kiss-personal,lsp/vim-language-server,master,"Ethan"," "
 bash-language-server,2.0.0 1,https://github.com/ehawkvu/kiss-personal,lsp/bash-language-server,master,"Ethan"," "
-pyright,1.1.182 1,https://github.com/ehawkvu/kiss-personal,lsp/pyright,master,"Ethan"," "
+pyright,1.1.183 1,https://github.com/ehawkvu/kiss-personal,lsp/pyright,master,"Ethan"," "
 rebar3,3.17.0 1,https://github.com/ehawkvu/kiss-personal,lsp/rebar3,master,"Ethan"," "
 typescript-language-server,0.6.4 1,https://github.com/ehawkvu/kiss-personal,lsp/typescript-language-server,master,"Ethan"," "
 flatpak,1.12.2 1,https://github.com/ehawkvu/kiss-personal,flatpak/flatpak,master,"Ethan"," "
