@@ -13758,6 +13758,12 @@
     "description": " "
   },
   {
+    "name": "grabc",
+    "version": "1.1 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "libsoup",
     "version": "2.74.1 1",
     "maintainer": "Ethan",
@@ -13982,6 +13988,12 @@
   {
     "name": "picom",
     "version": "8.2 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "xwm",
+    "version": "0.1.8 1",
     "maintainer": "Ethan",
     "description": " "
   },
