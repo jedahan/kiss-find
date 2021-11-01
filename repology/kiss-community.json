@@ -12726,6 +12726,12 @@
     "description": " "
   },
   {
+    "name": "ccls",
+    "version": "0.20210330 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "texlab",
     "version": "3.3.0 1",
     "maintainer": "Ethan",
@@ -12811,7 +12817,13 @@
   },
   {
     "name": "linux-firmware",
-    "version": "20210919 1",
+    "version": "20211027 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "tcl",
+    "version": "8.6.11 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -12866,6 +12878,12 @@
   {
     "name": "nim",
     "version": "1.6.0 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "tk",
+    "version": "8.6.11.1 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13260,6 +13278,12 @@
     "description": " "
   },
   {
+    "name": "quark",
+    "version": "git 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "torsocks",
     "version": "2.3.0 1",
     "maintainer": "Ethan",
@@ -13304,6 +13328,12 @@
   {
     "name": "i2pd",
     "version": "2.39.0 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "darkhttpd",
+    "version": "1.13 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13496,12 +13526,6 @@
   {
     "name": "xwayland",
     "version": "21.1.2 1",
-    "maintainer": "Ethan",
-    "description": " "
-  },
-  {
-    "name": "chromium",
-    "version": "95.0.4638.69 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13734,6 +13758,12 @@
     "description": " "
   },
   {
+    "name": "libsoup",
+    "version": "2.74.1 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "sx",
     "version": "git 1",
     "maintainer": "Ethan",
@@ -13874,6 +13904,12 @@
   {
     "name": "x11vnc",
     "version": "git 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "glib-networking",
+    "version": "2.70.0 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -14019,6 +14055,12 @@
     "name": "autorandr",
     "version": "1.11 2",
     "maintainer": "Arthur Williams",
+    "description": " "
+  },
+  {
+    "name": "wyeb",
+    "version": "git 1",
+    "maintainer": "Ethan",
     "description": " "
   },
   {
@@ -18642,6 +18684,12 @@
     "description": " "
   },
   {
+    "name": "libjpeg-turbo",
+    "version": "2.1.1 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
     "name": "ncurses",
     "version": "6.3 1",
     "maintainer": "hovercats",
@@ -18794,6 +18842,12 @@
   {
     "name": "wpa_supplicant",
     "version": "2.9 4",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "nasm",
+    "version": "2.15.05 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -19291,12 +19345,6 @@
   },
   {
     "name": "oksh",
-    "version": "symlink",
-    "maintainer": "unknown",
-    "description": " "
-  },
-  {
-    "name": "freetype-harfbuzz",
     "version": "symlink",
     "maintainer": "unknown",
     "description": " "
@@ -24283,7 +24331,7 @@
   },
   {
     "name": "mesa",
-    "version": "21.2.4 1",
+    "version": "21.2.5 1",
     "maintainer": "Ethan",
     "description": " "
   },
