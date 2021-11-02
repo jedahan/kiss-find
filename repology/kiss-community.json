@@ -4621,7 +4621,7 @@
   },
   {
     "name": "gtk4",
-    "version": "4.4.0 1",
+    "version": "4.4.1 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -4813,7 +4813,7 @@
   },
   {
     "name": "poppler",
-    "version": "21.10.0 1",
+    "version": "21.11.0 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -5048,12 +5048,6 @@
   {
     "name": "shellcheck-bin",
     "version": "0.7.2 1",
-    "maintainer": "Cem Keylan",
-    "description": " "
-  },
-  {
-    "name": "prout",
-    "version": "git 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -5371,7 +5365,7 @@
   },
   {
     "name": "mpv",
-    "version": "0.33.1 1",
+    "version": "0.34.0 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -5821,7 +5815,7 @@
   },
   {
     "name": "chezmoi",
-    "version": "2.7.3 1",
+    "version": "2.7.4 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -13117,7 +13111,7 @@
   },
   {
     "name": "lowdown",
-    "version": "0.9.2 1",
+    "version": "0.10.0 1",
     "maintainer": "Ethan",
     "description": " "
   },
