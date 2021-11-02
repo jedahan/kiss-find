@@ -12751,7 +12751,7 @@
   },
   {
     "name": "pyright",
-    "version": "1.1.183 1",
+    "version": "1.1.184 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13483,7 +13483,7 @@
   },
   {
     "name": "poppler",
-    "version": "21.10.0 1",
+    "version": "21.11.0 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13597,7 +13597,7 @@
   },
   {
     "name": "firefox",
-    "version": "93.0 1",
+    "version": "94.0 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13615,7 +13615,7 @@
   },
   {
     "name": "firefox-beta",
-    "version": "94.0b9 1",
+    "version": "95.0b1 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13627,8 +13627,8 @@
   },
   {
     "name": "mpv",
-    "version": "0.33.1 1",
-    "maintainer": "Dylan Araps",
+    "version": "0.34.0 1",
+    "maintainer": "Ethan",
     "description": " "
   },
   {
@@ -13785,6 +13785,12 @@
     "name": "dzen",
     "version": "git 2",
     "maintainer": "Arthur Williams",
+    "description": " "
+  },
+  {
+    "name": "glmark2",
+    "version": "git 1",
+    "maintainer": "Ethan",
     "description": " "
   },
   {

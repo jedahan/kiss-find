@@ -106,7 +106,7 @@
   },
   {
     "name": "rust",
-    "version": "1.56.0 2",
+    "version": "1.56.1 1",
     "maintainer": "Dylan Araps"
   },
   {
@@ -411,7 +411,7 @@
   },
   {
     "name": "mpv",
-    "version": "0.33.1 1",
+    "version": "0.34.0 1",
     "maintainer": "Dylan Araps"
   },
   {
