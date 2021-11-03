@@ -1,5 +1,10 @@
 [
   {
+    "name": "firefox",
+    "version": "94.0 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
     "name": "wlroots",
     "version": "0.14.1 1",
     "maintainer": "Dylan Araps"
@@ -326,7 +331,7 @@
   },
   {
     "name": "meson",
-    "version": "0.60.0 1",
+    "version": "0.60.1 1",
     "maintainer": "Dylan Araps"
   },
   {
@@ -411,7 +416,7 @@
   },
   {
     "name": "mpv",
-    "version": "0.34.0 1",
+    "version": "git 1",
     "maintainer": "Dylan Araps"
   },
   {
