@@ -5113,7 +5113,7 @@
   },
   {
     "name": "meson",
-    "version": "0.59.3 1",
+    "version": "0.60.1 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -13561,7 +13561,7 @@
   },
   {
     "name": "mpv",
-    "version": "0.34.0 1",
+    "version": "git 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13993,7 +13993,7 @@
   },
   {
     "name": "i3",
-    "version": "4.20 1",
+    "version": "4.20.1 1",
     "maintainer": "Ethan",
     "description": " "
   },
