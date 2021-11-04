@@ -4801,7 +4801,7 @@
   },
   {
     "name": "libgpg-error",
-    "version": "1.42 1",
+    "version": "1.43 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -5659,7 +5659,7 @@
   },
   {
     "name": "fzf",
-    "version": "0.27.3 1",
+    "version": "0.28.0 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -6547,7 +6547,7 @@
   },
   {
     "name": "linux-headers",
-    "version": "5.14.15 1",
+    "version": "5.15.0 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -14112,6 +14112,12 @@
     "description": " "
   },
   {
+    "name": "slock-paranoid-git",
+    "version": "git 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "dosbox",
     "version": "0.74-3 1",
     "maintainer": "Ethan",
@@ -18763,7 +18769,7 @@
   },
   {
     "name": "meson",
-    "version": "0.60.0 1",
+    "version": "0.60.1 1",
     "maintainer": "hovercats",
     "description": " "
   },
