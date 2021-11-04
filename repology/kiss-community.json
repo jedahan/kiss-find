@@ -7393,7 +7393,7 @@
   },
   {
     "name": "bmake",
-    "version": "20211020 1",
+    "version": "20211024 1",
     "maintainer": "aabacchus",
     "description": " "
   },
@@ -7459,13 +7459,19 @@
   },
   {
     "name": "graphite-harfbuzz",
-    "version": "3.0.0 1",
+    "version": "3.1.0 1",
     "maintainer": "aabacchus",
     "description": " "
   },
   {
     "name": "apr",
     "version": "1.7.0 1",
+    "maintainer": "aabacchus",
+    "description": " "
+  },
+  {
+    "name": "fribidi",
+    "version": "1.0.11 1",
     "maintainer": "aabacchus",
     "description": " "
   },
@@ -12997,7 +13003,7 @@
   },
   {
     "name": "typescript-language-server",
-    "version": "0.6.4 1",
+    "version": "0.6.5 1",
     "maintainer": "Ethan",
     "description": " "
   },
