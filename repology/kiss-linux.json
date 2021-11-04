@@ -316,7 +316,7 @@
   },
   {
     "name": "firefox",
-    "version": "93.0 1",
+    "version": "94.0 1",
     "maintainer": "Dylan Araps"
   },
   {
@@ -502,11 +502,6 @@
   {
     "name": "libdrm",
     "version": "2.4.107 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "firefox",
-    "version": "94.0 2",
     "maintainer": "Dylan Araps"
   },
   {
