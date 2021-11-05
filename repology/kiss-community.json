@@ -2449,7 +2449,7 @@
   },
   {
     "name": "sgt-puzzles",
-    "version": "20210526 1",
+    "version": "20211031 1",
     "maintainer": "Jason Eslick",
     "description": " "
   },
@@ -2815,7 +2815,7 @@
   },
   {
     "name": "poppler",
-    "version": "21.10.0 1",
+    "version": "21.11.0 1",
     "maintainer": "Cédric",
     "description": " "
   },
@@ -2965,7 +2965,7 @@
   },
   {
     "name": "pandoc-bin",
-    "version": "2.15 1 ",
+    "version": "2.16 1 ",
     "maintainer": "Cédric",
     "description": " "
   },
@@ -3601,7 +3601,7 @@
   },
   {
     "name": "trash-cli",
-    "version": "0.21.7.24 1",
+    "version": "0.21.10.24 1",
     "maintainer": "Jason Eslick",
     "description": " "
   },
@@ -12715,7 +12715,7 @@
   },
   {
     "name": "notmuch",
-    "version": "0.34 1",
+    "version": "0.34.1 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -12871,7 +12871,7 @@
   },
   {
     "name": "msmtp",
-    "version": "1.8.18 1",
+    "version": "1.8.19 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13045,7 +13045,7 @@
   },
   {
     "name": "go",
-    "version": "1.17.2 1",
+    "version": "1.17.3 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13262,6 +13262,12 @@
   {
     "name": "cakeml-git",
     "version": "git 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "opensmtpd",
+    "version": "6.8.0p2 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -18673,13 +18679,13 @@
   },
   {
     "name": "freetype-harfbuzz",
-    "version": "2.11.0+3.0.0 1",
+    "version": "2.11.0+3.1.0 1",
     "maintainer": "hovercats",
     "description": " "
   },
   {
     "name": "ncurses",
-    "version": "6.3 1",
+    "version": "6.3 2",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -18925,7 +18931,7 @@
   },
   {
     "name": "st",
-    "version": "git 3",
+    "version": "git 4",
     "maintainer": "hovercats",
     "description": " "
   },
