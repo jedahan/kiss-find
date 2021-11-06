@@ -1837,7 +1837,7 @@
   },
   {
     "name": "fzf",
-    "version": "0.27.3 1",
+    "version": "0.28.0 1",
     "maintainer": "Cédric",
     "description": " "
   },
@@ -1945,8 +1945,8 @@
   },
   {
     "name": "kakoune",
-    "version": "2020.09.01 1",
-    "maintainer": "Jack Clarke",
+    "version": "2021.10.28 1",
+    "maintainer": "Riteo",
     "description": " "
   },
   {
@@ -2181,6 +2181,12 @@
     "name": "bash",
     "version": "5.1.p8 1",
     "maintainer": "Nihal Jere",
+    "description": " "
+  },
+  {
+    "name": "yt-dlp",
+    "version": "2021.10.22 1",
+    "maintainer": "Owen Rafferty",
     "description": " "
   },
   {
@@ -2713,7 +2719,7 @@
   },
   {
     "name": "syncthing",
-    "version": "1.18.3 1",
+    "version": "1.18.4 1",
     "maintainer": "Cédric",
     "description": " "
   },
@@ -2965,7 +2971,7 @@
   },
   {
     "name": "pandoc-bin",
-    "version": "2.16 1 ",
+    "version": "2.16.1 1 ",
     "maintainer": "Cédric",
     "description": " "
   },
@@ -3613,7 +3619,7 @@
   },
   {
     "name": "msmtp",
-    "version": "1.8.18 1",
+    "version": "1.8.19 1",
     "maintainer": "Cédric",
     "description": " "
   },
@@ -18684,6 +18690,12 @@
     "description": " "
   },
   {
+    "name": "ffmpeg",
+    "version": "4.4.1 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
     "name": "ncurses",
     "version": "6.3 2",
     "maintainer": "hovercats",
@@ -18872,6 +18884,12 @@
   {
     "name": "libxml2",
     "version": "2.9.12 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "sdl2",
+    "version": "2.0.16 2",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -19249,7 +19267,7 @@
   },
   {
     "name": "tcl",
-    "version": "8.6.11 1",
+    "version": "8.6.12 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
@@ -19297,7 +19315,7 @@
   },
   {
     "name": "tk",
-    "version": "8.6.11.1 1",
+    "version": "8.6.12 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
@@ -19411,7 +19429,7 @@
   },
   {
     "name": "python-numpy",
-    "version": "1.21.3 1",
+    "version": "1.21.4 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
