@@ -3661,8 +3661,8 @@
   },
   {
     "name": "bottom",
-    "version": "0.6.3 1",
-    "maintainer": "Xiaodong Xu",
+    "version": "0.6.4 1",
+    "maintainer": "Jason Eslick",
     "description": " "
   },
   {
@@ -13111,7 +13111,7 @@
   },
   {
     "name": "tcl",
-    "version": "8.6.11 1",
+    "version": "8.6.12 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13165,7 +13165,7 @@
   },
   {
     "name": "tk",
-    "version": "8.6.11.1 1",
+    "version": "8.6.12 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13250,6 +13250,12 @@
   {
     "name": "postfix",
     "version": "3.6.2 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "dovecot",
+    "version": "2.3.17 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -14077,7 +14083,7 @@
   },
   {
     "name": "godot",
-    "version": "3.3.4 1",
+    "version": "3.4 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -19290,6 +19296,12 @@
     "description": " "
   },
   {
+    "name": "python-docutils",
+    "version": "0.18 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
     "name": "ttf-font-awesome",
     "version": "5.15.4 1",
     "maintainer": "Owen Rafferty",
@@ -19309,7 +19321,7 @@
   },
   {
     "name": "python-scipy",
-    "version": "1.7.1 1",
+    "version": "1.7.2 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
