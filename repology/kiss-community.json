@@ -7279,7 +7279,7 @@
   },
   {
     "name": "lld",
-    "version": "12.0.1 1",
+    "version": "13.0.0 1",
     "maintainer": "aabacchus",
     "description": " "
   },
@@ -13806,6 +13806,12 @@
     "description": " "
   },
   {
+    "name": "xrandr-invert-colors",
+    "version": "git 1",
+    "maintainer": "Arthur Williams",
+    "description": " "
+  },
+  {
     "name": "svkbd",
     "version": "0.4 1",
     "maintainer": "Ethan",
@@ -13965,6 +13971,12 @@
     "name": "p11-kit",
     "version": "0.24.0 1",
     "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "xrectsel",
+    "version": "0.3.2 1",
+    "maintainer": "Arthur Williams",
     "description": " "
   },
   {
