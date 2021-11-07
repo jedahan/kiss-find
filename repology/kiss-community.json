@@ -12936,6 +12936,12 @@
     "description": " "
   },
   {
+    "name": "gc",
+    "version": "8.2.0 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "erlang",
     "version": "24.1.4 1",
     "maintainer": "Ethan",
@@ -12992,6 +12998,12 @@
   {
     "name": "openblas",
     "version": "0.3.18 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "mosml",
+    "version": "2.10.1 1",
     "maintainer": "Ethan",
     "description": " "
   },
