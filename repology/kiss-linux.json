@@ -251,7 +251,7 @@
   },
   {
     "name": "cmake",
-    "version": "3.21.3 1",
+    "version": "3.21.4 1",
     "maintainer": "Dylan Araps"
   },
   {
@@ -456,7 +456,7 @@
   },
   {
     "name": "libseat",
-    "version": "0.5.0 2",
+    "version": "0.6.3 1",
     "maintainer": "Dylan Araps"
   },
   {
