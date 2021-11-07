@@ -47,4 +47,8 @@ if [ ! -f "${DB_PATH}" ]; then die "$UPDATE_MESSAGE"; fi
 
 _grep=${KISS_FIND_GREP:-"$(command -v rg || command -v ag || command -v ack || command -v grep)"} || die "no grep found"
 results=$("$_grep" "$@" "${DB_PATH}" | sort)
-if [ -t 0 ]; then echo "$results"; else echo "$results" | column -t -s','; fi
+if [ -t 1 ] && command -v column >/dev/null 2>&1; then
+    echo "$results" | column -t -s',';
+else
+    echo "$results";
+fi
