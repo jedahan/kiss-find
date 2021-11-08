@@ -4357,7 +4357,7 @@
   },
   {
     "name": "go",
-    "version": "1.17.2 1",
+    "version": "1.17.3 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -4573,7 +4573,7 @@
   },
   {
     "name": "shellcheck-bin",
-    "version": "0.7.2 1",
+    "version": "0.8.0 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -5569,7 +5569,7 @@
   },
   {
     "name": "hugo",
-    "version": "0.89.0 1",
+    "version": "0.89.1 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -5731,7 +5731,7 @@
   },
   {
     "name": "msmtp",
-    "version": "1.8.18 1",
+    "version": "1.8.19 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -5815,7 +5815,7 @@
   },
   {
     "name": "btrfs-progs",
-    "version": "5.14.91 1",
+    "version": "5.15 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -6025,7 +6025,7 @@
   },
   {
     "name": "xorg-server",
-    "version": "21.1.0 2",
+    "version": "21.1.1 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -14449,7 +14449,7 @@
   },
   {
     "name": "xorg-server",
-    "version": "21.1.0 1",
+    "version": "21.1.1 1",
     "maintainer": "Ethan",
     "description": " "
   },
