@@ -4651,7 +4651,7 @@
   },
   {
     "name": "freetype-harfbuzz",
-    "version": "2.11.0+3.1.0 1",
+    "version": "2.11.0+3.1.1 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -4814,12 +4814,6 @@
   {
     "name": "libev",
     "version": "4.33 1",
-    "maintainer": "Cem Keylan",
-    "description": " "
-  },
-  {
-    "name": "mpfr",
-    "version": "4.1.0 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -5016,12 +5010,6 @@
     "description": " "
   },
   {
-    "name": "libmpc",
-    "version": "1.2.1 1",
-    "maintainer": "Cem Keylan",
-    "description": " "
-  },
-  {
     "name": "kbd",
     "version": "2.4.0 1",
     "maintainer": "Cem Keylan",
@@ -5071,7 +5059,7 @@
   },
   {
     "name": "harfbuzz-icu",
-    "version": "3.1.0 1",
+    "version": "3.1.1 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -5240,12 +5228,6 @@
   {
     "name": "rc",
     "version": "50b729e65d 1",
-    "maintainer": "Cem Keylan",
-    "description": " "
-  },
-  {
-    "name": "gmp",
-    "version": "6.2.1 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -5803,7 +5785,7 @@
   },
   {
     "name": "gsettings-desktop-schemas",
-    "version": "41.0 1",
+    "version": "41.0 2",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -7333,7 +7315,7 @@
   },
   {
     "name": "graphite-harfbuzz",
-    "version": "3.1.0 1",
+    "version": "3.1.1 1",
     "maintainer": "aabacchus",
     "description": " "
   },

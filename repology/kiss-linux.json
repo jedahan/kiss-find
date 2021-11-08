@@ -121,7 +121,7 @@
   },
   {
     "name": "freetype-harfbuzz",
-    "version": "2.11.0+3.1.0 1",
+    "version": "2.11.0+3.1.1 1",
     "maintainer": "Dylan Araps"
   },
   {
