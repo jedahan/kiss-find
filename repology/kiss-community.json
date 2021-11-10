@@ -18744,6 +18744,12 @@
     "description": " "
   },
   {
+    "name": "xfsprogs",
+    "version": "5.13.0 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
     "name": "mtm",
     "version": "1.2.0 1",
     "maintainer": "hovercats",
@@ -18883,7 +18889,7 @@
   },
   {
     "name": "libdrm",
-    "version": "2.4.107 1",
+    "version": "2.4.108 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -18949,7 +18955,7 @@
   },
   {
     "name": "wl-clipboard",
-    "version": "d2c32f2b4d469f53070e8c4052dea6f412de3916 1",
+    "version": "297ab2a6fdd34c15c5eb3eb427be8daf753bcfd7 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -19182,6 +19188,18 @@
     "description": " "
   },
   {
+    "name": "python-toml",
+    "version": "0.10.2 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
+    "name": "python-pyqt5-sip",
+    "version": "12.9.0 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
     "name": "imv",
     "version": "4.3.0 1",
     "maintainer": "Owen Rafferty",
@@ -19212,8 +19230,20 @@
     "description": " "
   },
   {
+    "name": "python-packaging",
+    "version": "21.2 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
     "name": "python-six",
     "version": "1.16.0 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
+    "name": "wtype",
+    "version": "0.3 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
@@ -19236,6 +19266,12 @@
     "description": " "
   },
   {
+    "name": "python-pyqt5",
+    "version": "5.15.6 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
     "name": "openblas",
     "version": "0.3.18 1",
     "maintainer": "Owen Rafferty",
@@ -19244,6 +19280,12 @@
   {
     "name": "vorbis-tools",
     "version": "1.4.2 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
+    "name": "python-pyqt-builder",
+    "version": "1.12.1 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
@@ -19291,7 +19333,7 @@
   },
   {
     "name": "python-pyparsing",
-    "version": "3.0.4 1",
+    "version": "3.0.5 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
@@ -19404,9 +19446,69 @@
     "description": " "
   },
   {
+    "name": "sip",
+    "version": "6.4.0 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
     "name": "python-sympy",
     "version": "1.9 1",
     "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
+    "name": "mesa",
+    "version": "symlink",
+    "maintainer": "unknown",
+    "description": " "
+  },
+  {
+    "name": "cmus",
+    "version": "symlink",
+    "maintainer": "unknown",
+    "description": " "
+  },
+  {
+    "name": "libglvnd",
+    "version": "symlink",
+    "maintainer": "unknown",
+    "description": " "
+  },
+  {
+    "name": "mutt",
+    "version": "symlink",
+    "maintainer": "unknown",
+    "description": " "
+  },
+  {
+    "name": "llvm",
+    "version": "symlink",
+    "maintainer": "unknown",
+    "description": " "
+  },
+  {
+    "name": "texlive-bin",
+    "version": "symlink",
+    "maintainer": "unknown",
+    "description": " "
+  },
+  {
+    "name": "libseat",
+    "version": "symlink",
+    "maintainer": "unknown",
+    "description": " "
+  },
+  {
+    "name": "gcc",
+    "version": "symlink",
+    "maintainer": "unknown",
+    "description": " "
+  },
+  {
+    "name": "libdrm",
+    "version": "symlink",
+    "maintainer": "unknown",
     "description": " "
   },
   {
