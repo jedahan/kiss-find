@@ -12871,7 +12871,7 @@
   },
   {
     "name": "typescript-language-server",
-    "version": "0.6.5 1",
+    "version": "0.7.0 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -12920,6 +12920,12 @@
   {
     "name": "typescript",
     "version": "4.4.4 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "fsharp",
+    "version": "10.2.3 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13759,7 +13765,7 @@
   },
   {
     "name": "libtasn1",
-    "version": "4.17.0 1",
+    "version": "4.18.0 1",
     "maintainer": "Ethan",
     "description": " "
   },
