@@ -1842,6 +1842,12 @@
     "description": " "
   },
   {
+    "name": "lvm2",
+    "version": "2.03.14 1",
+    "maintainer": "Riteo",
+    "description": " "
+  },
+  {
     "name": "python-psutil",
     "version": "5.8.0 1",
     "maintainer": "Jason Eslick",
@@ -1945,7 +1951,7 @@
   },
   {
     "name": "kakoune",
-    "version": "2021.10.28 1",
+    "version": "2021.11.08 1",
     "maintainer": "Riteo",
     "description": " "
   },
@@ -2173,7 +2179,7 @@
   },
   {
     "name": "yt-dlp",
-    "version": "2021.10.22 1",
+    "version": "2021.11.10.1 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
@@ -13537,7 +13543,7 @@
   },
   {
     "name": "firefox-beta",
-    "version": "95.0b1 1",
+    "version": "95.0b4 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -14012,6 +14018,12 @@
   {
     "name": "godot",
     "version": "3.4 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "jansson",
+    "version": "2.14 1",
     "maintainer": "Ethan",
     "description": " "
   },
