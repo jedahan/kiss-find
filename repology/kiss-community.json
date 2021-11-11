@@ -12871,7 +12871,7 @@
   },
   {
     "name": "typescript-language-server",
-    "version": "0.7.0 1",
+    "version": "0.7.1 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -19392,6 +19392,12 @@
     "description": " "
   },
   {
+    "name": "fcft",
+    "version": "2.4.6 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
     "name": "opus-tools",
     "version": "0.2 1",
     "maintainer": "Owen Rafferty",
@@ -19495,6 +19501,12 @@
   },
   {
     "name": "mutt",
+    "version": "symlink",
+    "maintainer": "unknown",
+    "description": " "
+  },
+  {
+    "name": "9base",
     "version": "symlink",
     "maintainer": "unknown",
     "description": " "
