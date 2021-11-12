@@ -357,7 +357,7 @@ cmus,2.9.1 1,https://github.com/kiss-community/community,community/cmus,main,"Jo
 tokei,12.1.2 1,https://github.com/kiss-community/community,community/tokei,main,"dylanaraps"," "
 lsof,4.94.0 1,https://github.com/kiss-community/community,community/lsof,main,"dm9pZCAq"," "
 oksh,6.9 1,https://github.com/kiss-community/community,community/oksh,main,"Aaron G"," "
-protobuf,3.19.0 1,https://github.com/kiss-community/community,community/protobuf,main,"Jason Eslick"," "
+protobuf,3.19.1 1,https://github.com/kiss-community/community,community/protobuf,main,"Jason Eslick"," "
 libglvnd,1.3.4 1,https://github.com/kiss-community/community,community/libglvnd,main,"Zola"," "
 libisofs,1.5.4 1,https://github.com/kiss-community/community,community/libisofs,main,"git-bruh"," "
 bash,5.1.p8 1,https://github.com/kiss-community/community,community/bash,main,"Nihal Jere"," "
