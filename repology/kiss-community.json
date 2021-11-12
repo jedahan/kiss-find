@@ -4603,7 +4603,7 @@
   },
   {
     "name": "libtasn1",
-    "version": "4.17.0 1",
+    "version": "4.18.0 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -4927,7 +4927,7 @@
   },
   {
     "name": "nodejs",
-    "version": "17.0.1 1",
+    "version": "17.1.0 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -5587,7 +5587,7 @@
   },
   {
     "name": "mpd",
-    "version": "0.23.3 1",
+    "version": "0.23.4 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -6331,7 +6331,7 @@
   },
   {
     "name": "curl",
-    "version": "7.79.1 1",
+    "version": "7.80.0 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -12949,7 +12949,7 @@
   },
   {
     "name": "erlang",
-    "version": "24.1.4 1",
+    "version": "24.1.5 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13088,6 +13088,12 @@
   {
     "name": "wren",
     "version": "git 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "snobol4",
+    "version": "2.2.1 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -14299,7 +14305,7 @@
   },
   {
     "name": "xorg-server",
-    "version": "1.20.13 1",
+    "version": "21.1.1 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -14481,12 +14487,6 @@
     "name": "xcb-proto",
     "version": "1.14.1 1",
     "maintainer": "Dylan Araps",
-    "description": " "
-  },
-  {
-    "name": "xorg-server",
-    "version": "21.1.1 1",
-    "maintainer": "Ethan",
     "description": " "
   },
   {
