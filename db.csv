@@ -2413,7 +2413,7 @@ libXinerama,1.1.4 1,https://github.com/ehawkvu/kiss-xorg,xorg/libXinerama,master
 xcb-util-keysyms,0.4.0 1,https://github.com/ehawkvu/kiss-xorg,xorg/xcb-util-keysyms,master,"Dylan Araps"," "
 xf86-video-ati,19.1.0 2,https://github.com/ehawkvu/kiss-xorg,xorg/xf86-video-ati,master,"Dylan Araps"," "
 xcb-proto,1.14.1 1,https://github.com/ehawkvu/kiss-xorg,xorg/xcb-proto,master,"Dylan Araps"," "
-xwayland,21.1.2 1,https://github.com/ehawkvu/kiss-xorg,testing/xwayland,master,"Ethan"," "
+xwayland,21.1.3 1,https://github.com/ehawkvu/kiss-xorg,testing/xwayland,master,"Ethan"," "
 vala-lint,git 1,https://github.com/eudaldgr/elementaKISS,extra/vala-lint,master,"Eudald Gubert i Roldan"," "
 clutter-gst,3.0.27 1,https://github.com/eudaldgr/elementaKISS,extra/clutter-gst,master,"Eudald Gubert i Roldan"," "
 libhandy,1.0.0 1,https://github.com/eudaldgr/elementaKISS,extra/libhandy,master,"Eudald Gubert i Roldan"," "
