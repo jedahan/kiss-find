@@ -19332,8 +19332,8 @@
     "description": " "
   },
   {
-    "name": "signify",
-    "version": "30 1",
+    "name": "fftw",
+    "version": "3.3.10 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
@@ -19351,7 +19351,7 @@
   },
   {
     "name": "python-pyparsing",
-    "version": "3.0.5 1",
+    "version": "3.0.6 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
@@ -19464,6 +19464,12 @@
     "description": " "
   },
   {
+    "name": "cava",
+    "version": "0.7.4 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
     "name": "python-kiwisolver",
     "version": "1.3.2 1",
     "maintainer": "Owen Rafferty",
@@ -19500,6 +19506,12 @@
     "description": " "
   },
   {
+    "name": "oksh",
+    "version": "symlink",
+    "maintainer": "unknown",
+    "description": " "
+  },
+  {
     "name": "libglvnd",
     "version": "symlink",
     "maintainer": "unknown",
@@ -19531,6 +19543,12 @@
   },
   {
     "name": "libseat",
+    "version": "symlink",
+    "maintainer": "unknown",
+    "description": " "
+  },
+  {
+    "name": "gnupg2",
     "version": "symlink",
     "maintainer": "unknown",
     "description": " "
@@ -28854,26 +28872,8 @@
     "description": " "
   },
   {
-    "name": "autoconf",
-    "version": "2.71 1",
-    "maintainer": "sourtaste000",
-    "description": " "
-  },
-  {
-    "name": "automake",
-    "version": "1.16.4 2",
-    "maintainer": "sussyimpostor",
-    "description": " "
-  },
-  {
     "name": "wget",
     "version": "1.21 1",
-    "maintainer": "sourtaste000",
-    "description": " "
-  },
-  {
-    "name": "htop",
-    "version": "3.0.5 1",
     "maintainer": "sourtaste000",
     "description": " "
   },
