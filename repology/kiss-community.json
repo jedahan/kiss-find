@@ -318,12 +318,6 @@
     "description": " "
   },
   {
-    "name": "vis",
-    "version": "0.7 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
     "name": "e2fsprogs",
     "version": "1.46.2 1",
     "maintainer": "Armaan Bhojwani",
@@ -356,12 +350,6 @@
   {
     "name": "ccache",
     "version": "4.3 2",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "ugrep",
-    "version": "3.3.4 5",
     "maintainer": "Armaan Bhojwani",
     "description": " "
   },
@@ -522,12 +510,6 @@
     "description": " "
   },
   {
-    "name": "dvtm",
-    "version": "0.15.1 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
     "name": "zzz",
     "version": "1 1 ",
     "maintainer": "Armaan Bhojwani",
@@ -654,6 +636,12 @@
     "description": " "
   },
   {
+    "name": "less",
+    "version": "563 1 ",
+    "maintainer": "Armaan Bhojwani",
+    "description": " "
+  },
+  {
     "name": "xvile",
     "version": "9.8 1",
     "maintainer": "Armaan Bhojwani",
@@ -726,6 +714,12 @@
     "description": " "
   },
   {
+    "name": "vis",
+    "version": "0.7 1",
+    "maintainer": "Armaan Bhojwani",
+    "description": " "
+  },
+  {
     "name": "gmni",
     "version": "git 1",
     "maintainer": "Armaan Bhojwani",
@@ -756,8 +750,20 @@
     "description": " "
   },
   {
+    "name": "mutt",
+    "version": "2.1.1 1",
+    "maintainer": "Armaan Bhojwani",
+    "description": " "
+  },
+  {
     "name": "ruby",
     "version": "3.0.2 1",
+    "maintainer": "Armaan Bhojwani",
+    "description": " "
+  },
+  {
+    "name": "axel",
+    "version": "2.17.10 1",
     "maintainer": "Armaan Bhojwani",
     "description": " "
   },
@@ -768,8 +774,26 @@
     "description": " "
   },
   {
+    "name": "ugrep",
+    "version": "3.3.4 5",
+    "maintainer": "Armaan Bhojwani",
+    "description": " "
+  },
+  {
+    "name": "libtermkey",
+    "version": "0.22 1",
+    "maintainer": "Armaan Bhojwani",
+    "description": " "
+  },
+  {
     "name": "lzo",
     "version": "2.10 1  ",
+    "maintainer": "Armaan Bhojwani",
+    "description": " "
+  },
+  {
+    "name": "isync",
+    "version": "1.4.2 1",
     "maintainer": "Armaan Bhojwani",
     "description": " "
   },
@@ -854,6 +878,12 @@
   {
     "name": "gtk+3",
     "version": "3.24.29 2",
+    "maintainer": "Armaan Bhojwani",
+    "description": " "
+  },
+  {
+    "name": "vis-min",
+    "version": "0.7 1",
     "maintainer": "Armaan Bhojwani",
     "description": " "
   },
@@ -1008,6 +1038,12 @@
     "description": " "
   },
   {
+    "name": "dvtm",
+    "version": "0.15.1 1",
+    "maintainer": "Armaan Bhojwani",
+    "description": " "
+  },
+  {
     "name": "gnupg2",
     "version": "2.3.1 1 ",
     "maintainer": "Armaan Bhojwani",
@@ -1022,6 +1058,12 @@
   {
     "name": "harfbuzz-icu",
     "version": "2.8.2 1",
+    "maintainer": "Armaan Bhojwani",
+    "description": " "
+  },
+  {
+    "name": "catgirl",
+    "version": "1.8 1",
     "maintainer": "Armaan Bhojwani",
     "description": " "
   },
@@ -1148,6 +1190,12 @@
   {
     "name": "libvorbis",
     "version": "1.3.7 1",
+    "maintainer": "Armaan Bhojwani",
+    "description": " "
+  },
+  {
+    "name": "cyrus-sasl",
+    "version": "2.1.27 1",
     "maintainer": "Armaan Bhojwani",
     "description": " "
   },
@@ -1470,12 +1518,6 @@
     "description": " "
   },
   {
-    "name": "less",
-    "version": "563 1 ",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
     "name": "libarchive",
     "version": "3.5.1 2",
     "maintainer": "Armaan Bhojwani",
@@ -1524,24 +1566,6 @@
     "description": " "
   },
   {
-    "name": "mutt",
-    "version": "2.1.1 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "axel",
-    "version": "2.17.10 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "libtermkey",
-    "version": "0.22 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
     "name": "llvm",
     "version": "12.0.1 2",
     "maintainer": "Armaan Bhojwani",
@@ -1560,12 +1584,6 @@
     "description": " "
   },
   {
-    "name": "isync",
-    "version": "1.4.2 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
     "name": "sqlite",
     "version": "3.36.0 1",
     "maintainer": "Armaan Bhojwani",
@@ -1574,12 +1592,6 @@
   {
     "name": "ncurses",
     "version": "6.2 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "vis-min",
-    "version": "0.7 1",
     "maintainer": "Armaan Bhojwani",
     "description": " "
   },
@@ -1668,12 +1680,6 @@
     "description": " "
   },
   {
-    "name": "catgirl",
-    "version": "1.8 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
     "name": "pkgconf",
     "version": "1.7.4 1",
     "maintainer": "Armaan Bhojwani",
@@ -1700,12 +1706,6 @@
   {
     "name": "samurai",
     "version": "1.2 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "cyrus-sasl",
-    "version": "2.1.27 1",
     "maintainer": "Armaan Bhojwani",
     "description": " "
   },
