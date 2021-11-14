@@ -12841,7 +12841,7 @@
   },
   {
     "name": "python-pyparsing",
-    "version": "3.0.4 1",
+    "version": "2.4.7 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -12883,7 +12883,7 @@
   },
   {
     "name": "pyright",
-    "version": "1.1.186 1",
+    "version": "1.1.187 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -12938,6 +12938,12 @@
   {
     "name": "gc",
     "version": "8.2.0 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "gdc",
+    "version": "11.2.0 1",
     "maintainer": "Ethan",
     "description": " "
   },
