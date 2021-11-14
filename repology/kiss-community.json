@@ -19381,7 +19381,7 @@
   },
   {
     "name": "python-gast",
-    "version": "0.5.2 1",
+    "version": "0.5.3 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
@@ -19393,7 +19393,7 @@
   },
   {
     "name": "fcft",
-    "version": "2.4.6 1",
+    "version": "2.5.0 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
