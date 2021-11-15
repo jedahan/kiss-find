@@ -18510,6 +18510,12 @@
     "description": " "
   },
   {
+    "name": "file",
+    "version": "5.41 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
     "name": "onetrueawk",
     "version": "git 1",
     "maintainer": "hovercats",
@@ -18529,7 +18535,7 @@
   },
   {
     "name": "linux",
-    "version": "5.15.1 1",
+    "version": "5.15.2 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -18769,7 +18775,7 @@
   },
   {
     "name": "libelf",
-    "version": "0.185 1",
+    "version": "0.186 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -19075,7 +19081,7 @@
   },
   {
     "name": "curl",
-    "version": "7.79.1 1",
+    "version": "7.80.0 1",
     "maintainer": "hovercats",
     "description": " "
   },
