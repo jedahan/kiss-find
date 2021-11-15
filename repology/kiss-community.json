@@ -3378,6 +3378,12 @@
     "description": " "
   },
   {
+    "name": "fuse",
+    "version": "3.10.5 1",
+    "maintainer": "Riteo",
+    "description": " "
+  },
+  {
     "name": "iana-etc",
     "version": "20200910 1",
     "maintainer": "M. Herdiansyah",
@@ -3385,7 +3391,7 @@
   },
   {
     "name": "harfbuzz-icu",
-    "version": "3.1.0 1",
+    "version": "3.1.1 1",
     "maintainer": "Mario Forzanini",
     "description": " "
   },
@@ -12558,6 +12564,12 @@
     "description": " "
   },
   {
+    "name": "sndio",
+    "version": "1.8.1 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "grap",
     "version": "1.46 1",
     "maintainer": "Ethan",
@@ -12638,6 +12650,12 @@
   {
     "name": "cabextract",
     "version": "1.9.1 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "pacman",
+    "version": "6.0.1 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -12758,6 +12776,12 @@
   {
     "name": "coreutils",
     "version": "9.0 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "xbps",
+    "version": "0.59.1 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13016,6 +13040,12 @@
   {
     "name": "openblas",
     "version": "0.3.18 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "hamlet",
+    "version": "git 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -19237,7 +19267,7 @@
   },
   {
     "name": "libfido2",
-    "version": "1.9.0 1",
+    "version": "1.9.0 2",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
@@ -19537,12 +19567,6 @@
   },
   {
     "name": "llvm",
-    "version": "symlink",
-    "maintainer": "unknown",
-    "description": " "
-  },
-  {
-    "name": "texlive-bin",
     "version": "symlink",
     "maintainer": "unknown",
     "description": " "
