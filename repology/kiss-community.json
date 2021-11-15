@@ -4524,6 +4524,12 @@
     "description": " "
   },
   {
+    "name": "libutf8proc",
+    "version": "2.4.0 1",
+    "maintainer": "Cem Keylan",
+    "description": " "
+  },
+  {
     "name": "lame",
     "version": "3.100 2",
     "maintainer": "Cem Keylan",
@@ -4591,7 +4597,7 @@
   },
   {
     "name": "ccache",
-    "version": "4.4.2 1",
+    "version": "4.5 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -4897,7 +4903,7 @@
   },
   {
     "name": "scdoc",
-    "version": "1.11.1 1 ",
+    "version": "1.11.2 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -5131,7 +5137,7 @@
   },
   {
     "name": "imagemagick",
-    "version": "7.1.0-13 1",
+    "version": "7.1.0-14 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -5479,7 +5485,7 @@
   },
   {
     "name": "fcft",
-    "version": "2.4.6 1",
+    "version": "2.5.0 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -5497,7 +5503,7 @@
   },
   {
     "name": "foot",
-    "version": "1.9.2 1",
+    "version": "1.10.0 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -6409,7 +6415,7 @@
   },
   {
     "name": "linux-headers",
-    "version": "5.15.1 1",
+    "version": "5.15.2 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
