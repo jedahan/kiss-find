@@ -2189,7 +2189,7 @@ gprolog,1.5.0 1,https://github.com/ehawkvu/kiss-personal,langs/gprolog,master,"E
 wren,git 1,https://github.com/ehawkvu/kiss-personal,langs/wren,master,"Ethan"," "
 snobol4,2.2.1 1,https://github.com/ehawkvu/kiss-personal,langs/snobol4,master,"Ethan"," "
 ecl,21.2.1 2,https://github.com/ehawkvu/kiss-personal,langs/ecl,master,"Ethan"," "
-txr,271 1,https://github.com/ehawkvu/kiss-personal,langs/txr,master,"Ethan"," "
+txr,272 1,https://github.com/ehawkvu/kiss-personal,langs/txr,master,"Ethan"," "
 chez-scheme,9.5.6 1,https://github.com/ehawkvu/kiss-personal,langs/chez-scheme,master,"Ethan"," "
 polyml,5.8.2 2,https://github.com/ehawkvu/kiss-personal,langs/polyml,master,"Ethan"," "
 mesa,21.2.5 1,https://github.com/ehawkvu/kiss-personal,amd/mesa,master,"Ethan"," "
