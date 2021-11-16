@@ -13243,7 +13243,7 @@
   },
   {
     "name": "mariadb",
-    "version": "10.6.5 1",
+    "version": "10.7.1 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -18672,6 +18672,12 @@
     "description": " "
   },
   {
+    "name": "mdevd",
+    "version": "0.1.5.0 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
     "name": "tzdata",
     "version": "2021e 1",
     "maintainer": "hovercats",
@@ -18734,6 +18740,12 @@
   {
     "name": "ssu",
     "version": "0.3.2 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "lua",
+    "version": "5.4.3 1 ",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -19111,7 +19123,7 @@
   },
   {
     "name": "git",
-    "version": "2.33.1 1",
+    "version": "2.34.0 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -19453,7 +19465,7 @@
   },
   {
     "name": "python-matplotlib",
-    "version": "3.4.3 1",
+    "version": "3.5.0 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
