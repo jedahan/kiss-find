@@ -3252,6 +3252,12 @@
     "description": " "
   },
   {
+    "name": "fftw",
+    "version": "3.3.10 1",
+    "maintainer": "Mederim",
+    "description": " "
+  },
+  {
     "name": "darkhttpd",
     "version": "1.13 1",
     "maintainer": "Xiaodong Xu",
@@ -4029,6 +4035,12 @@
     "name": "ubase",
     "version": "git 4 ",
     "maintainer": "Dylan Araps",
+    "description": " "
+  },
+  {
+    "name": "cava",
+    "version": "0.7.4 1",
+    "maintainer": "Mederim",
     "description": " "
   },
   {
@@ -12588,6 +12600,12 @@
     "description": " "
   },
   {
+    "name": "shellcheck-bin",
+    "version": "0.8.0 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "notmuch",
     "version": "0.34.1 1",
     "maintainer": "Ethan",
@@ -12804,6 +12822,12 @@
     "description": " "
   },
   {
+    "name": "github-cli",
+    "version": "2.2.0 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "talloc",
     "version": "2.3.3 1",
     "maintainer": "Ethan",
@@ -12830,6 +12854,12 @@
   {
     "name": "pax",
     "version": "1.5.1 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "iw",
+    "version": "git 1",
     "maintainer": "Ethan",
     "description": " "
   },
