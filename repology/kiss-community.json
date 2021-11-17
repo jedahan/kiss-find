@@ -7188,6 +7188,12 @@
     "description": " "
   },
   {
+    "name": "signify",
+    "version": "30 1",
+    "maintainer": "aabacchus",
+    "description": " "
+  },
+  {
     "name": "libnsgif",
     "version": "0.2.1a 1",
     "maintainer": "aabacchus",
