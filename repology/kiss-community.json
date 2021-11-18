@@ -18265,20 +18265,20 @@
   },
   {
     "name": "gcc-armnone",
-    "version": "11.2.0 1",
-    "maintainer": "",
+    "version": "symlink",
+    "maintainer": "unknown",
     "description": " "
   },
   {
     "name": "gcc-powerpc64le",
-    "version": "11.2.0 1",
-    "maintainer": "",
+    "version": "symlink",
+    "maintainer": "unknown",
     "description": " "
   },
   {
     "name": "gcc-x86_64",
-    "version": "11.2.0 1",
-    "maintainer": "",
+    "version": "symlink",
+    "maintainer": "unknown",
     "description": " "
   },
   {
@@ -18295,8 +18295,8 @@
   },
   {
     "name": "gcc-or1k",
-    "version": "11.2.0 1",
-    "maintainer": "",
+    "version": "symlink",
+    "maintainer": "unknown",
     "description": " "
   },
   {
@@ -18324,6 +18324,12 @@
     "description": " "
   },
   {
+    "name": "_gcc",
+    "version": "11.2.0 1",
+    "maintainer": "James Davies",
+    "description": " "
+  },
+  {
     "name": "binutils-aarch64",
     "version": "2.37 1",
     "maintainer": "",
@@ -18336,39 +18342,33 @@
     "description": " "
   },
   {
-    "name": "gcc",
-    "version": "11.2.0 1",
-    "maintainer": "James Davies",
-    "description": " "
-  },
-  {
-    "name": "binutils",
-    "version": "2.37 1",
-    "maintainer": "James Davies",
-    "description": " "
-  },
-  {
     "name": "gcc-powerpc64",
-    "version": "11.2.0 1",
-    "maintainer": "",
+    "version": "symlink",
+    "maintainer": "unknown",
     "description": " "
   },
   {
     "name": "gcc-riscv64",
-    "version": "11.2.0 1",
-    "maintainer": "",
+    "version": "symlink",
+    "maintainer": "unknown",
     "description": " "
   },
   {
     "name": "gcc-i686",
-    "version": "11.2.0 1",
-    "maintainer": "",
+    "version": "symlink",
+    "maintainer": "unknown",
     "description": " "
   },
   {
     "name": "gcc-aarch64",
-    "version": "11.2.0 1",
-    "maintainer": "",
+    "version": "symlink",
+    "maintainer": "unknown",
+    "description": " "
+  },
+  {
+    "name": "_binutils",
+    "version": "2.37 1",
+    "maintainer": "James Davies",
     "description": " "
   },
   {
@@ -19369,7 +19369,7 @@
   },
   {
     "name": "python-packaging",
-    "version": "21.2 1",
+    "version": "21.3 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
