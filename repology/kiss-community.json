@@ -1951,7 +1951,7 @@
   },
   {
     "name": "kakoune",
-    "version": "2021.11.08 1",
+    "version": "2021.11.08 2",
     "maintainer": "Riteo",
     "description": " "
   },
@@ -12985,7 +12985,7 @@
   },
   {
     "name": "typescript",
-    "version": "4.4.4 1",
+    "version": "4.5.2 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -17491,19 +17491,13 @@
   },
   {
     "name": "mesa",
-    "version": "21.2.3 1",
+    "version": "21.2.5 1",
     "maintainer": "James Davies",
     "description": " "
   },
   {
     "name": "nvme-cli",
-    "version": "1.15 1",
-    "maintainer": "James Davies",
-    "description": " "
-  },
-  {
-    "name": "libpsl",
-    "version": "0.21.1 1",
+    "version": "1.16 1",
     "maintainer": "James Davies",
     "description": " "
   },
@@ -17538,6 +17532,12 @@
     "description": " "
   },
   {
+    "name": "yt-dlp",
+    "version": "2021.11.10.1 1",
+    "maintainer": "James Davies",
+    "description": " "
+  },
+  {
     "name": "glib",
     "version": "symlink",
     "maintainer": "unknown",
@@ -17556,12 +17556,6 @@
     "description": " "
   },
   {
-    "name": "glib-networking",
-    "version": "2.70.0 1",
-    "maintainer": "James Davies",
-    "description": " "
-  },
-  {
     "name": "mpv",
     "version": "symlink",
     "maintainer": "unknown",
@@ -17571,6 +17565,12 @@
     "name": "fontconfig",
     "version": "2.13.94 1",
     "maintainer": "James Davies",
+    "description": " "
+  },
+  {
+    "name": "mdevd",
+    "version": "symlink",
+    "maintainer": "unknown",
     "description": " "
   },
   {
@@ -17616,12 +17616,6 @@
     "description": " "
   },
   {
-    "name": "youtube-dl",
-    "version": "2021.06.06 1",
-    "maintainer": "James Davies",
-    "description": " "
-  },
-  {
     "name": "lzo",
     "version": "2.10 1  ",
     "maintainer": "James Davies",
@@ -17659,7 +17653,7 @@
   },
   {
     "name": "ffmpeg",
-    "version": "4.4 1",
+    "version": "4.4.1 1",
     "maintainer": "James Davies",
     "description": " "
   },
@@ -17671,7 +17665,7 @@
   },
   {
     "name": "ncurses",
-    "version": "6.2 5",
+    "version": "6.3 1",
     "maintainer": "James Davies",
     "description": " "
   },
@@ -17778,12 +17772,6 @@
     "description": " "
   },
   {
-    "name": "libsoup",
-    "version": "3.0.1 1",
-    "maintainer": "James Davies",
-    "description": " "
-  },
-  {
     "name": "p11-kit",
     "version": "0.24.0 1",
     "maintainer": "James Davies",
@@ -17820,6 +17808,18 @@
     "description": " "
   },
   {
+    "name": "libva-v4l2-request",
+    "version": "git-20190517 1",
+    "maintainer": "James Davies",
+    "description": " "
+  },
+  {
+    "name": "nodejs",
+    "version": "17.1.0 1",
+    "maintainer": "James Davies",
+    "description": " "
+  },
+  {
     "name": "libepoxy",
     "version": "1.5.9 1",
     "maintainer": "James Davies",
@@ -17833,7 +17833,7 @@
   },
   {
     "name": "rust",
-    "version": "1.56.0 1",
+    "version": "1.56.1 1",
     "maintainer": "James Davies",
     "description": " "
   },
@@ -17850,8 +17850,14 @@
     "description": " "
   },
   {
+    "name": "libudev-zero",
+    "version": "symlink",
+    "maintainer": "unknown",
+    "description": " "
+  },
+  {
     "name": "icu",
-    "version": "69.1 1 ",
+    "version": "70.1 1 ",
     "maintainer": "James Davies",
     "description": " "
   },
@@ -17863,7 +17869,7 @@
   },
   {
     "name": "meson",
-    "version": "0.59.2 1",
+    "version": "0.60.1 1",
     "maintainer": "James Davies",
     "description": " "
   },
@@ -17892,6 +17898,12 @@
     "description": " "
   },
   {
+    "name": "bkeymaps",
+    "version": " 1",
+    "maintainer": "James Davies",
+    "description": " "
+  },
+  {
     "name": "tmux",
     "version": "3.2a 1",
     "maintainer": "James Davies",
@@ -17905,7 +17917,7 @@
   },
   {
     "name": "harfbuzz-icu",
-    "version": "3.0.0 1 ",
+    "version": "3.1.1 1 ",
     "maintainer": "James Davies",
     "description": " "
   },
@@ -17934,14 +17946,14 @@
     "description": " "
   },
   {
-    "name": "libgcrypt",
-    "version": "1.9.4 1",
+    "name": "pciutils",
+    "version": "3.7.0 1 ",
     "maintainer": "James Davies",
     "description": " "
   },
   {
-    "name": "pciutils",
-    "version": "3.7.0 1 ",
+    "name": "findutils",
+    "version": "4.8.0 1 ",
     "maintainer": "James Davies",
     "description": " "
   },
@@ -17958,8 +17970,14 @@
     "description": " "
   },
   {
+    "name": "firefox",
+    "version": "94.0 1",
+    "maintainer": "James Davies",
+    "description": " "
+  },
+  {
     "name": "htop",
-    "version": "3.1.0 1",
+    "version": "3.1.1 1",
     "maintainer": "James Davies",
     "description": " "
   },
@@ -17985,12 +18003,6 @@
     "name": "libva-utils",
     "version": "symlink",
     "maintainer": "unknown",
-    "description": " "
-  },
-  {
-    "name": "gnutls",
-    "version": "3.7.2 1 ",
-    "maintainer": "James Davies",
     "description": " "
   },
   {
@@ -18037,13 +18049,19 @@
   },
   {
     "name": "file",
-    "version": "5.40 1",
+    "version": "5.41 1",
     "maintainer": "James Davies",
     "description": " "
   },
   {
     "name": "libxml2",
     "version": "2.9.12 1",
+    "maintainer": "James Davies",
+    "description": " "
+  },
+  {
+    "name": "sdl2",
+    "version": "2.0.16 1 ",
     "maintainer": "James Davies",
     "description": " "
   },
@@ -18091,7 +18109,7 @@
   },
   {
     "name": "btrfs-progs",
-    "version": "5.14.2 1",
+    "version": "5.15 1",
     "maintainer": "James Davies",
     "description": " "
   },
@@ -18168,9 +18186,21 @@
     "description": " "
   },
   {
+    "name": "wvkbd",
+    "version": "1 1",
+    "maintainer": "James Davies",
+    "description": " "
+  },
+  {
     "name": "libseat",
     "version": "symlink",
     "maintainer": "unknown",
+    "description": " "
+  },
+  {
+    "name": "bemenu",
+    "version": "0.6.3 1",
+    "maintainer": "James Davies",
     "description": " "
   },
   {
