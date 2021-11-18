@@ -1963,7 +1963,7 @@
   },
   {
     "name": "exiftool",
-    "version": "12.34 1 ",
+    "version": "12.36 1 ",
     "maintainer": "Cédric",
     "description": " "
   },
@@ -3709,7 +3709,7 @@
   },
   {
     "name": "qpdf",
-    "version": "10.3.2 1 ",
+    "version": "10.4.0 1 ",
     "maintainer": "Cédric",
     "description": " "
   },
@@ -12744,6 +12744,12 @@
     "description": " "
   },
   {
+    "name": "ccl",
+    "version": "1.12.1 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "octave",
     "version": "6.4.0 1",
     "maintainer": "Ethan",
@@ -12752,6 +12758,12 @@
   {
     "name": "quickjs",
     "version": "2021.03.27 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "clisp",
+    "version": "2.49.92 1",
     "maintainer": "Ethan",
     "description": " "
   },
