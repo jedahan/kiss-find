@@ -4393,7 +4393,7 @@
   },
   {
     "name": "cmake",
-    "version": "3.21.3 1",
+    "version": "3.22.0 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -4681,7 +4681,7 @@
   },
   {
     "name": "ccache",
-    "version": "4.5 1",
+    "version": "4.5.1 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -5497,7 +5497,7 @@
   },
   {
     "name": "hugo",
-    "version": "0.89.3 1",
+    "version": "0.89.4 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -5737,7 +5737,7 @@
   },
   {
     "name": "iwd",
-    "version": "1.19 1",
+    "version": "1.20 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -6283,7 +6283,7 @@
   },
   {
     "name": "linux-headers",
-    "version": "5.15.2 1",
+    "version": "5.15.3 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -18722,6 +18722,18 @@
   {
     "name": "no-wm",
     "version": "git 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "velox",
+    "version": "git 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "st",
+    "version": "git 4",
     "maintainer": "hovercats",
     "description": " "
   },
