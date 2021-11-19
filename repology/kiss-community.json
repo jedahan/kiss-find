@@ -12643,7 +12643,7 @@
   },
   {
     "name": "erlang",
-    "version": "24.1.5 1",
+    "version": "24.1.6 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -12853,7 +12853,7 @@
   },
   {
     "name": "pyright",
-    "version": "1.1.187 1",
+    "version": "1.1.188 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -18384,6 +18384,48 @@
     "description": " "
   },
   {
+    "name": "swig",
+    "version": "4.0.2 1",
+    "maintainer": "James Davies",
+    "description": " "
+  },
+  {
+    "name": "dtc",
+    "version": "1.6.1 1",
+    "maintainer": "James Davies",
+    "description": " "
+  },
+  {
+    "name": "uboot-tools",
+    "version": "2021.07 1",
+    "maintainer": "James Davies",
+    "description": " "
+  },
+  {
+    "name": "crust",
+    "version": "0.4 1",
+    "maintainer": "James Davies",
+    "description": " "
+  },
+  {
+    "name": "uboot-pinephone",
+    "version": "2021.07 1",
+    "maintainer": "James Davies",
+    "description": " "
+  },
+  {
+    "name": "linux-pinephone",
+    "version": "5.15.1 1",
+    "maintainer": "James Davies",
+    "description": " "
+  },
+  {
+    "name": "atf",
+    "version": "2.5 1",
+    "maintainer": "James Davies",
+    "description": " "
+  },
+  {
     "name": "curl",
     "version": "symlink",
     "maintainer": "unknown",
@@ -19034,6 +19076,12 @@
   {
     "name": "lame",
     "version": "3.100 2",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "scroll",
+    "version": "git 1",
     "maintainer": "hovercats",
     "description": " "
   },
