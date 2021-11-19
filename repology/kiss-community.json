@@ -13062,8 +13062,20 @@
     "description": " "
   },
   {
+    "name": "yash",
+    "version": "2.52 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "mercurial",
     "version": "5.9.3 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "bash",
+    "version": "5.1.p12 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13693,7 +13705,7 @@
   },
   {
     "name": "firefox-beta",
-    "version": "95.0b4 1",
+    "version": "95.0b9 1",
     "maintainer": "Ethan",
     "description": " "
   },
