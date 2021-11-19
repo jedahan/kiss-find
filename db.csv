@@ -3593,7 +3593,7 @@ flex,2.6.4 4,https://github.com/kiss-server/repo,core/flex,master,"Daniel M. Mat
 git,2.29.2 1,https://github.com/kiss-server/repo,core/git,master,"Daniel M. Matongo"," "
 bzip2,1.0.8 1,https://github.com/kiss-server/repo,core/bzip2,master,"Daniel M. Matongo"," "
 gtk+3,3.24.30 1,https://github.com/kisslinux/repo,extra/gtk+3,master,"Dylan Araps"," "
-cmake,3.21.4 1,https://github.com/kisslinux/repo,extra/cmake,master,"Dylan Araps"," "
+cmake,3.22.0 1,https://github.com/kisslinux/repo,extra/cmake,master,"Dylan Araps"," "
 libogg,1.3.5 1,https://github.com/kisslinux/repo,extra/libogg,master,"Dylan Araps"," "
 ssu,0.3.2 1,https://github.com/kisslinux/repo,extra/ssu,master,"Dylan Araps"," "
 dosfstools,4.2 1,https://github.com/kisslinux/repo,extra/dosfstools,master,"Dylan Araps"," "
