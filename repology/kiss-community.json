@@ -12348,6 +12348,12 @@
     "description": " "
   },
   {
+    "name": "windowmaker",
+    "version": "0.95.9 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "slock-paranoid-git",
     "version": "git 1",
     "maintainer": "Ethan",
@@ -12380,6 +12386,12 @@
   {
     "name": "tiff",
     "version": "4.3.0 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "polybar",
+    "version": "3.5.7 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -12422,6 +12434,12 @@
   {
     "name": "dwm",
     "version": "6.2 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "ctwm",
+    "version": "4.0.3 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -12510,6 +12528,12 @@
     "description": " "
   },
   {
+    "name": "frankenwm",
+    "version": "git 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "maim",
     "version": "5.7.4 1",
     "maintainer": "Ethan",
@@ -12564,6 +12588,12 @@
     "description": " "
   },
   {
+    "name": "fvwm",
+    "version": "git 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "xhost",
     "version": "1.0.8 1",
     "maintainer": "Ethan",
@@ -12582,6 +12612,12 @@
     "description": " "
   },
   {
+    "name": "x11fs",
+    "version": "git 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "xdo",
     "version": "0.5.7 1",
     "maintainer": "Ethan",
@@ -12590,6 +12626,12 @@
   {
     "name": "i3",
     "version": "4.20.1 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "jwm",
+    "version": "2.4.0 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -12668,6 +12710,12 @@
   {
     "name": "dosbox",
     "version": "0.74-3 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "spectrwm",
+    "version": "3.4.1 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -12752,6 +12800,12 @@
   {
     "name": "wine",
     "version": "6.0.2 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "stalonetray",
+    "version": "git 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -17121,12 +17175,6 @@
     "name": "startup-notification",
     "version": "0.12 1",
     "maintainer": "Gyula Nyirfalvi",
-    "description": " "
-  },
-  {
-    "name": "lf",
-    "version": "r24 1",
-    "maintainer": "hovercats",
     "description": " "
   },
   {
