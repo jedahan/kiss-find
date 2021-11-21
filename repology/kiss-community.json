@@ -11550,6 +11550,12 @@
     "description": " "
   },
   {
+    "name": "catbox",
+    "version": "git 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "opensmtpd",
     "version": "6.8.0p2 1",
     "maintainer": "Ethan",
@@ -12145,7 +12151,7 @@
   },
   {
     "name": "firefox",
-    "version": "94.0 1",
+    "version": "94.0.2 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -12546,6 +12552,12 @@
     "description": " "
   },
   {
+    "name": "tinywm",
+    "version": "git 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "skippy-xd-git",
     "version": "git 1",
     "maintainer": "Ethan",
@@ -12734,6 +12746,12 @@
   {
     "name": "glu",
     "version": "9.0.2 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "wine",
+    "version": "6.0.2 1",
     "maintainer": "Ethan",
     "description": " "
   },
