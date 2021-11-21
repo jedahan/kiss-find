@@ -264,1470 +264,6 @@
     "description": " "
   },
   {
-    "name": "m4",
-    "version": "6.7 2",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "slop",
-    "version": "7.5 2",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "zip",
-    "version": "3.0 2",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "lpeg",
-    "version": "1.0.2 1 ",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "libva",
-    "version": "2.12.0 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "rsync",
-    "version": "3.2.3 2",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "youtube-dl",
-    "version": "2021.06.06 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "opus",
-    "version": "1.3.1 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "python2",
-    "version": "2.7.18 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "gnupg1",
-    "version": "1.4.23 2",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "gperf",
-    "version": "3.1 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "libxml2",
-    "version": "2.9.12 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "shellcheck",
-    "version": "0.7.2 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "ncdu",
-    "version": "1.16 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "ccache",
-    "version": "4.3 2",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "testdisk",
-    "version": "7.2 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "perl",
-    "version": "5.34.0 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "mesa",
-    "version": "21.1.5 2",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "fontconfig",
-    "version": "2.13.94 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "libinput",
-    "version": "1.18.0 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "libuuid",
-    "version": "2.37 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "dwm",
-    "version": "6.2 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "dhcpcd",
-    "version": "9.4.0 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "libelf",
-    "version": "0.185 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "pandoc",
-    "version": "2.14.1 1 ",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "efibootmgr",
-    "version": "17 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "nodejs",
-    "version": "16.5.0 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "chromium",
-    "version": "91.0.4472.77 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "alsa-utils",
-    "version": "1.2.5.1 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "nss",
-    "version": "3.68 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "lua",
-    "version": "5.2.4 1 ",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "libpng",
-    "version": "1.6.37 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "maim",
-    "version": "5.6.3 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "sfeed_curses",
-    "version": "0.9.13 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "clac",
-    "version": "0.3.3 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "st",
-    "version": "0.8.4 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "dmenu",
-    "version": "5.0 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "nasm",
-    "version": "2.15.05 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "wpa_supplicant",
-    "version": "2.9 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "zzz",
-    "version": "1 1 ",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "libjpeg-turbo",
-    "version": "2.1.0 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "acpid",
-    "version": "2.0.32 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "libxslt",
-    "version": "1.1.34 1 ",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "alsa-lib",
-    "version": "1.2.5.1 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "openssh",
-    "version": "8.6p1 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "libepoxy",
-    "version": "1.5.8 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "glib",
-    "version": "2.68.3 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "libdrm",
-    "version": "2.4.107 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "jetbrainsmono-nf",
-    "version": "2.1.0 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "sb-hosts",
-    "version": "3.8.0 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "flex",
-    "version": "git 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "meson",
-    "version": "0.59.0 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "libevdev",
-    "version": "1.11.0 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "efivar",
-    "version": "37 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "freetype-harfbuzz",
-    "version": "2.10.4+2.8.2 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "mtdev",
-    "version": "1.1.6 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "sfeed",
-    "version": "0.9.25 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "scdoc",
-    "version": "1.11.1 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "dejavu-ttf",
-    "version": "2.37 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "lame",
-    "version": "3.100 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "e2fsprogs",
-    "version": "1.46.2 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "xmodmap",
-    "version": "1.0.10 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "xsel",
-    "version": "1.2.0 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "brownout",
-    "version": "0.4 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "libXft",
-    "version": "2.3.3 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "libxshmfence",
-    "version": "1.3 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "libXdamage",
-    "version": "1.1.5 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "xorg-util-macros",
-    "version": "1.19.3 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "xauth",
-    "version": "1.1 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "xcb-util",
-    "version": "0.4.0 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "libpciaccess",
-    "version": "0.16 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "pixman",
-    "version": "0.40.0 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "libXt",
-    "version": "1.2.1 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "libxkbfile",
-    "version": "1.1.0 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "xorg-server",
-    "version": "1.20.12 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "libXcursor",
-    "version": "1.2.0 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "libSM",
-    "version": "1.2.3 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "libXext",
-    "version": "1.3.4 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "libXfont2",
-    "version": "2.0.4 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "libXrandr",
-    "version": "1.5.2 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "libfontenc",
-    "version": "1.1.4 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "xkill",
-    "version": "1.0.5 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "libXinerama",
-    "version": "1.1.4 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "libxcb",
-    "version": "1.14 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "libxkbcommon",
-    "version": "1.3.0 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "xcape",
-    "version": "1.2 2",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "xkeyboard-config",
-    "version": "2.33 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "xhost",
-    "version": "1.0.8 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "libXmu",
-    "version": "1.1.3 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "xbitmaps",
-    "version": "1.1.2 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "libXrender",
-    "version": "0.9.10 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "xf86-input-libinput",
-    "version": "1.1.0 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "xsetroot",
-    "version": "1.1.2 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "libXtst",
-    "version": "1.2.3 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "sx",
-    "version": "git 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "libXau",
-    "version": "1.0.9 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "xcb-proto",
-    "version": "1.14.1 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "libICE",
-    "version": "1.0.10 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "xkbcomp",
-    "version": "1.4.5 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "xorgproto",
-    "version": "2021.4.99.2 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "brightnessctl",
-    "version": "0.5.1 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "libXi",
-    "version": "1.7.99.2 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "xbanish",
-    "version": "1.7 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "libXfixes",
-    "version": "6.0.0 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "libXxf86vm",
-    "version": "1.1.4 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "xf86-video-vesa",
-    "version": "2.5.0 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "xtrans",
-    "version": "1.4.0 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "xvidcore",
-    "version": "1.3.7 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "libXcomposite",
-    "version": "0.4.5 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "xorg-fonts-misc",
-    "version": "1.0.3 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "libXScrnSaver",
-    "version": "1.2.3 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "libX11",
-    "version": "1.7.2 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "gtk+3",
-    "version": "3.24.29 2",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "libogg",
-    "version": "1.3.5 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "xvile",
-    "version": "9.8 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "zathura",
-    "version": "0.4.7 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "cairo",
-    "version": "1.16.0 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "mutt",
-    "version": "2.1.1 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "giflib",
-    "version": "5.2.1 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "ruby",
-    "version": "3.0.2 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "chorizo",
-    "version": "1.0.0 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "openjpeg",
-    "version": "2.4.0 1 ",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "gnutls",
-    "version": "3.6.16 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "motif",
-    "version": "2.3.8 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "checkpassword",
-    "version": "0.90 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "isync",
-    "version": "1.4.2 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "libsoup",
-    "version": "2.72.0 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "libgpg-error",
-    "version": "1.42 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "libtermkey",
-    "version": "0.22 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "harfbuzz-icu",
-    "version": "2.8.2 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "x265",
-    "version": "3.5 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "bmake",
-    "version": "20210621 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "npth",
-    "version": "1.6 1 ",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "openconnect",
-    "version": "8.10 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "x264",
-    "version": "20190812-2245 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "patch",
-    "version": "git 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "glib-networking",
-    "version": "2.68.1 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "sbcl",
-    "version": "2.1.5 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "gperf",
-    "version": "3.1 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "webkitgtk",
-    "version": "2.32.1 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "gcc",
-    "version": "0 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "vis-min",
-    "version": "0.7 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "tiff",
-    "version": "4.3.0 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "kineto",
-    "version": "git 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "atk",
-    "version": "2.36.0 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "pkcs11-helper",
-    "version": "1.27.0 1 ",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "perl",
-    "version": "5.34.0 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "libvpx",
-    "version": "1.10.0 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "gstreamer",
-    "version": "1.18.4 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "less",
-    "version": "563 1 ",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "syslinux-bin",
-    "version": "6.0.4 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "nettle",
-    "version": "3.7.3 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "gobject-introspection",
-    "version": "git 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "xapian-core",
-    "version": "1.4.18 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "ugrep",
-    "version": "3.3.4 5",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "zathura-pdf-poppler",
-    "version": "0.3.0 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "poppler",
-    "version": "21.07.0 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "libgcrypt",
-    "version": "1.9.3 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "gdk-pixbuf",
-    "version": "2.42.6 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "skeous-gtk-theme",
-    "version": "20210526 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "libxo",
-    "version": "1.6.0 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "libpsl",
-    "version": "0.21.1 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "libksba",
-    "version": "1.6.0 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "aspell",
-    "version": "0.60.8 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "libass",
-    "version": "0.15.1 2",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "zstd",
-    "version": "1.5.0 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "distcc",
-    "version": "3.4 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "enchant",
-    "version": "2.3.0 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "openvpn",
-    "version": "2.5.3 2",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "lcms",
-    "version": "2.12 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "cyrus-sasl",
-    "version": "2.1.27 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "texinfo",
-    "version": "6.8 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "girara",
-    "version": "0.3.5 1 ",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "zeromq",
-    "version": "4.3.4 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "ecl",
-    "version": "21.2.1 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "pinentry",
-    "version": "1.1.1 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "gmni",
-    "version": "git 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "ffmpeg",
-    "version": "4.4 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "diff",
-    "version": "git 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "sux",
-    "version": "1.0.1 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "json-c",
-    "version": "0.15 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "mini-xdg-utils",
-    "version": "1.1.3 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "pash",
-    "version": "2.3.0 1 ",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "mtm",
-    "version": "1.2.0 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "lzo",
-    "version": "2.10 1  ",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "dvtm",
-    "version": "0.15.1 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "libassuan",
-    "version": "2.5.5 1 ",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "pango",
-    "version": "1.48.7 2",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "file",
-    "version": "5.40 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "gpgme",
-    "version": "1.16.0 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "joe",
-    "version": "4.6 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "libvorbis",
-    "version": "1.3.7 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "beagles",
-    "version": "0.2.0 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "spectrwm",
-    "version": "3.4.1 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "vile",
-    "version": "9.8 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "icu",
-    "version": "69.1 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "gmime",
-    "version": "3.2.7 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "tlp",
-    "version": "1.3.1 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "mu",
-    "version": "1.4.15 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "gnupg2",
-    "version": "2.3.1 1 ",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "colorpicker",
-    "version": "git 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "libwebp",
-    "version": "1.2.0 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "libfixposix",
-    "version": "0.4.3 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "vis",
-    "version": "0.7 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "axel",
-    "version": "2.17.10 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "syncthing",
-    "version": "1.18.0 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "mpv",
-    "version": "0.33.1 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "catgirl",
-    "version": "1.8 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "dtfl",
-    "version": "git 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "curl",
-    "version": "7.77.0 2",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "cmake",
-    "version": "3.20.5 2",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "python",
-    "version": "3.9.6 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "libedit",
-    "version": "20210714-3.1 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "linux-headers",
-    "version": "5.10.1 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "tzdata",
-    "version": "2021a 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "kiss",
-    "version": "5.5.11 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "byacc",
-    "version": "20210619 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "libressl",
-    "version": "3.3.3 2",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "baselayout",
-    "version": "0 4",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "lynx",
-    "version": "2.8.9rel1 1 ",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "sqlite",
-    "version": "3.36.0 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "zlib",
-    "version": "1.2.11 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "samurai",
-    "version": "1.2 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "ncurses",
-    "version": "6.2 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "llvm",
-    "version": "12.0.1 2",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "libarchive",
-    "version": "3.5.1 2",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "oksh",
-    "version": "6.9 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "make",
-    "version": "20210621 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "pigz",
-    "version": "2.6 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "musl",
-    "version": "1.2.2 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "opendoas",
-    "version": "6.9 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "busybox",
-    "version": "1.33.1 7",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "expat",
-    "version": "2.4.1 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "core-meta",
-    "version": "0 4",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "pkgconf",
-    "version": "1.7.4 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "libudev-zero",
-    "version": "0.5.2 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "baseinit",
-    "version": "1.0.2 2",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "xz",
-    "version": "5.2.5 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "man-pages",
-    "version": "5.10 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "git",
-    "version": "2.32.0 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "gmake",
-    "version": "4.3 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "mandoc",
-    "version": "1.14.5 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "libffi",
-    "version": "3.4.2 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
-    "name": "bzip2",
-    "version": "1.0.8 1",
-    "maintainer": "Armaan Bhojwani",
-    "description": " "
-  },
-  {
     "name": "feh",
     "version": "3.7.1 1",
     "maintainer": "Martin Gulliksson",
@@ -14238,6 +12774,12 @@
     "description": " "
   },
   {
+    "name": "chromium",
+    "version": "96.0.4664.45 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "xwayland",
     "version": "21.1.3 1",
     "maintainer": "Ethan",
@@ -17629,7 +16171,7 @@
   },
   {
     "name": "firefox",
-    "version": "94.0 1",
+    "version": "94.0.1 1",
     "maintainer": "James Davies",
     "description": " "
   },
@@ -17683,7 +16225,7 @@
   },
   {
     "name": "mesa",
-    "version": "21.2.5 1",
+    "version": "21.2.5 3",
     "maintainer": "James Davies",
     "description": " "
   },
@@ -18576,6 +17118,12 @@
     "description": " "
   },
   {
+    "name": "shellcheck-bin",
+    "version": "0.7.2 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
     "name": "linux",
     "version": "5.15.2 1",
     "maintainer": "hovercats",
@@ -18642,6 +17190,12 @@
     "description": " "
   },
   {
+    "name": "linux-powersave",
+    "version": "symlink",
+    "maintainer": "unknown",
+    "description": " "
+  },
+  {
     "name": "file",
     "version": "5.41 1",
     "maintainer": "hovercats",
@@ -18662,6 +17216,12 @@
   {
     "name": "sfeed",
     "version": "0.9 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "figlet",
+    "version": "git 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -18757,7 +17317,7 @@
   },
   {
     "name": "cmake",
-    "version": "3.21.4 1",
+    "version": "3.22.0 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -19003,7 +17563,7 @@
   },
   {
     "name": "libjpeg-turbo",
-    "version": "2.1.1 1",
+    "version": "2.1.2 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -19470,7 +18030,7 @@
     "description": " "
   },
   {
-    "name": "python-pyqt5",
+    "name": "python-pyqt6",
     "version": "5.15.6 1",
     "maintainer": "Owen Rafferty",
     "description": " "
@@ -19508,12 +18068,6 @@
   {
     "name": "iw",
     "version": "5.16 1",
-    "maintainer": "Owen Rafferty",
-    "description": " "
-  },
-  {
-    "name": "python-pyqt5-sip",
-    "version": "12.9.0 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
@@ -19572,6 +18126,12 @@
     "description": " "
   },
   {
+    "name": "qt6-wayland",
+    "version": "6.2.1 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
     "name": "python-docutils",
     "version": "0.18 1",
     "maintainer": "Owen Rafferty",
@@ -19586,6 +18146,12 @@
   {
     "name": "python-pythran",
     "version": "0.10.0 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
+    "name": "qt6-base",
+    "version": "6.2.1 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
@@ -19668,6 +18234,12 @@
     "description": " "
   },
   {
+    "name": "python-pyqt6-sip",
+    "version": "12.9.0 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
     "name": "python-pyqt-builder",
     "version": "1.12.1 1",
     "maintainer": "Owen Rafferty",
@@ -19676,6 +18248,12 @@
   {
     "name": "libfido2",
     "version": "1.9.0 2",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
+    "name": "qt6-declarative",
+    "version": "6.2.1 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
@@ -19770,8 +18348,38 @@
     "description": " "
   },
   {
+    "name": "python-pyqt5",
+    "version": "5.15.6 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
+    "name": "gobject-introspection",
+    "version": "1.70.0 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
+    "name": "python-pyqt5-sip",
+    "version": "12.9.0 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
+    "name": "python-cairo",
+    "version": "1.20.1 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
     "name": "android-tools",
     "version": "31.0.3 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
+    "name": "python-gobject",
+    "version": "3.42.0 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
