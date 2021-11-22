@@ -17197,7 +17197,7 @@
   },
   {
     "name": "linux",
-    "version": "5.15.2 1",
+    "version": "5.15.3 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -17259,12 +17259,6 @@
     "name": "devour",
     "version": "git 1",
     "maintainer": "hovercats",
-    "description": " "
-  },
-  {
-    "name": "linux-powersave",
-    "version": "symlink",
-    "maintainer": "unknown",
     "description": " "
   },
   {
