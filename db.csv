@@ -2705,7 +2705,7 @@ pfetch,0.6.0 1,https://github.com/glasnostlinux/glasnost,extra/pfetch,crossbuild
 libxml2,2.9.12 1,https://github.com/glasnostlinux/glasnost,extra/libxml2,crossbuild,"James Davies"," "
 sdl2,2.0.16 1 ,https://github.com/glasnostlinux/glasnost,extra/sdl2,crossbuild,"James Davies"," "
 rtorrent,0.9.8 1,https://github.com/glasnostlinux/glasnost,extra/rtorrent,crossbuild,"James Davies"," "
-firefox,94.0.1 1,https://github.com/glasnostlinux/glasnost,extra/firefox,crossbuild,"James Davies"," "
+firefox,94.0.2 1,https://github.com/glasnostlinux/glasnost,extra/firefox,crossbuild,"James Davies"," "
 libva-v4l2-request,git-20190517 1,https://github.com/glasnostlinux/glasnost,extra/libva-v4l2-request,crossbuild,"James Davies"," "
 atk,symlink,https://github.com/glasnostlinux/glasnost,extra/atk,crossbuild,"unknown"," "
 openresolv,3.12.0 1,https://github.com/glasnostlinux/glasnost,extra/openresolv,crossbuild,"James Davies"," "
