@@ -11179,7 +11179,7 @@
   },
   {
     "name": "erlang",
-    "version": "24.1.6 1",
+    "version": "24.1.7 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -11233,7 +11233,7 @@
   },
   {
     "name": "polyml",
-    "version": "5.8.2 2",
+    "version": "5.9 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -11407,13 +11407,13 @@
   },
   {
     "name": "typescript-language-server",
-    "version": "0.7.1 1",
+    "version": "0.8.0 1",
     "maintainer": "Ethan",
     "description": " "
   },
   {
     "name": "acorn",
-    "version": "8.5.0 1",
+    "version": "8.6.0 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -17742,6 +17742,12 @@
     "description": " "
   },
   {
+    "name": "mpv",
+    "version": "git 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
     "name": "catgirl",
     "version": "1.9a 1",
     "maintainer": "hovercats",
@@ -18120,12 +18126,6 @@
     "description": " "
   },
   {
-    "name": "fftw",
-    "version": "3.3.10 1",
-    "maintainer": "Owen Rafferty",
-    "description": " "
-  },
-  {
     "name": "sip",
     "version": "6.4.0 1",
     "maintainer": "Owen Rafferty",
@@ -18180,6 +18180,12 @@
     "description": " "
   },
   {
+    "name": "bsdfmt",
+    "version": "1.39 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
     "name": "python-gast",
     "version": "0.5.3 1",
     "maintainer": "Owen Rafferty",
@@ -18200,12 +18206,6 @@
   {
     "name": "python-docutils",
     "version": "0.18 1",
-    "maintainer": "Owen Rafferty",
-    "description": " "
-  },
-  {
-    "name": "cava",
-    "version": "0.7.4 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
@@ -18354,7 +18354,25 @@
     "description": " "
   },
   {
+    "name": "lynx",
+    "version": "symlink",
+    "maintainer": "unknown",
+    "description": " "
+  },
+  {
     "name": "mesa",
+    "version": "symlink",
+    "maintainer": "unknown",
+    "description": " "
+  },
+  {
+    "name": "msmtp",
+    "version": "symlink",
+    "maintainer": "unknown",
+    "description": " "
+  },
+  {
+    "name": "nodejs",
     "version": "symlink",
     "maintainer": "unknown",
     "description": " "
@@ -18378,7 +18396,7 @@
     "description": " "
   },
   {
-    "name": "9base",
+    "name": "zathura-pdf-mupdf",
     "version": "symlink",
     "maintainer": "unknown",
     "description": " "
@@ -18402,6 +18420,18 @@
     "description": " "
   },
   {
+    "name": "git",
+    "version": "symlink",
+    "maintainer": "unknown",
+    "description": " "
+  },
+  {
+    "name": "libmupdf",
+    "version": "1.19.0 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
     "name": "gnupg2",
     "version": "symlink",
     "maintainer": "unknown",
@@ -18414,8 +18444,26 @@
     "description": " "
   },
   {
+    "name": "velox",
+    "version": "git 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
     "name": "python-pyqt5",
     "version": "5.15.6 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
+    "name": "wld",
+    "version": "git 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
+    "name": "fftw",
+    "version": "3.3.10 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
@@ -18450,6 +18498,18 @@
     "description": " "
   },
   {
+    "name": "cava",
+    "version": "0.7.4 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
+    "name": "swc",
+    "version": "git 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
     "name": "tcl",
     "version": "8.6.12 1",
     "maintainer": "Owen Rafferty",
@@ -18477,12 +18537,6 @@
     "name": "libressl",
     "version": "3.4.1 1",
     "maintainer": "Owen Rafferty",
-    "description": " "
-  },
-  {
-    "name": "nodejs",
-    "version": "symlink",
-    "maintainer": "unknown",
     "description": " "
   },
   {
