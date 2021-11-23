@@ -3480,7 +3480,7 @@ libpciaccess,0.16 1,https://github.com/kisslinux/repo,wayland/libpciaccess,maste
 pixman,0.40.0 1,https://github.com/kisslinux/repo,wayland/pixman,master,"Dylan Araps"," "
 libinput,1.19.2 1,https://github.com/kisslinux/repo,wayland/libinput,master,"Dylan Araps"," "
 wlroots,0.14.1 1,https://github.com/kisslinux/repo,wayland/wlroots,master,"Dylan Araps"," "
-foot,1.10.0 1,https://github.com/kisslinux/repo,wayland/foot,master,"Dylan Araps"," "
+foot,1.10.1 1,https://github.com/kisslinux/repo,wayland/foot,master,"Dylan Araps"," "
 sway-tiny,c34a4ca6d234177416dc931efd3035f3b803315b 2,https://github.com/kisslinux/repo,wayland/sway-tiny,master,"Dylan Araps"," "
 wbg,1.0.2 1,https://github.com/kisslinux/repo,wayland/wbg,master,"Dylan Araps"," "
 wayland,1.19.0 1,https://github.com/kisslinux/repo,wayland/wayland,master,"Dylan Araps"," "
