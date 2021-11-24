@@ -17473,7 +17473,7 @@
   },
   {
     "name": "sdl2",
-    "version": "2.0.16 3",
+    "version": "2.0.16 4",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -17647,7 +17647,7 @@
   },
   {
     "name": "alsa-lib",
-    "version": "1.2.5.1 1",
+    "version": "1.2.5.1 2",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -17749,7 +17749,7 @@
   },
   {
     "name": "mpv",
-    "version": "git 2",
+    "version": "0.34.0 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -17761,7 +17761,7 @@
   },
   {
     "name": "wayland-protocols",
-    "version": "1.22 1",
+    "version": "1.24 1",
     "maintainer": "hovercats",
     "description": " "
   },
