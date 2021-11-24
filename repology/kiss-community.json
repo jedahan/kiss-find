@@ -18138,6 +18138,12 @@
     "description": " "
   },
   {
+    "name": "intel-media-driver",
+    "version": "21.4.2 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
     "name": "libdav1d",
     "version": "0.9.2 1",
     "maintainer": "Owen Rafferty",
@@ -18174,6 +18180,12 @@
     "description": " "
   },
   {
+    "name": "intel-gmmlib",
+    "version": "21.3.3 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
     "name": "vorbis-tools",
     "version": "1.4.2 1",
     "maintainer": "Owen Rafferty",
@@ -18205,7 +18217,7 @@
   },
   {
     "name": "python-docutils",
-    "version": "0.18 1",
+    "version": "0.18.1 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
