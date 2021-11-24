@@ -5689,7 +5689,7 @@
   },
   {
     "name": "chicken",
-    "version": "5.2.0 1",
+    "version": "5.3.0 1",
     "maintainer": "aabacchus",
     "description": " "
   },
@@ -11389,7 +11389,7 @@
   },
   {
     "name": "pyright",
-    "version": "1.1.188 1",
+    "version": "1.1.189 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -11611,7 +11611,7 @@
   },
   {
     "name": "mercurial",
-    "version": "5.9.3 1",
+    "version": "6.0 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -11935,7 +11935,7 @@
   },
   {
     "name": "ostree",
-    "version": "2021.5 1",
+    "version": "2021.6 1",
     "maintainer": "Ethan",
     "description": " "
   },
