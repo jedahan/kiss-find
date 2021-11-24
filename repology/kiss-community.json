@@ -3133,7 +3133,7 @@
   },
   {
     "name": "mercurial",
-    "version": "5.9.3 1",
+    "version": "6.0 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -3409,7 +3409,7 @@
   },
   {
     "name": "imagemagick",
-    "version": "7.1.0-14 1",
+    "version": "7.1.0-16 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -3589,7 +3589,7 @@
   },
   {
     "name": "libjpeg-turbo",
-    "version": "2.1.1 1",
+    "version": "2.1.2 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -4057,7 +4057,7 @@
   },
   {
     "name": "chezmoi",
-    "version": "2.7.5 1",
+    "version": "2.8.0 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -4093,7 +4093,7 @@
   },
   {
     "name": "btrfs-progs",
-    "version": "5.15 1",
+    "version": "5.15.1 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -4705,7 +4705,7 @@
   },
   {
     "name": "wayland-protocols",
-    "version": "1.23 1",
+    "version": "1.24 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -4723,7 +4723,7 @@
   },
   {
     "name": "foot",
-    "version": "1.10.0 1",
+    "version": "1.10.1 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -17371,7 +17371,7 @@
   },
   {
     "name": "st",
-    "version": "git 4",
+    "version": "git 5",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -17408,6 +17408,12 @@
   {
     "name": "python",
     "version": "3.9.6 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "zip",
+    "version": "3.0 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -17467,7 +17473,7 @@
   },
   {
     "name": "sdl2",
-    "version": "2.0.16 2",
+    "version": "2.0.16 3",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -17545,7 +17551,7 @@
   },
   {
     "name": "ncurses",
-    "version": "6.3 2",
+    "version": "6.3 3",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -17640,14 +17646,14 @@
     "description": " "
   },
   {
-    "name": "ctags",
-    "version": "5.8 1",
+    "name": "alsa-lib",
+    "version": "1.2.5.1 1",
     "maintainer": "hovercats",
     "description": " "
   },
   {
     "name": "mtm",
-    "version": "1.2.0 1",
+    "version": "1.2.1 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -17743,13 +17749,7 @@
   },
   {
     "name": "mpv",
-    "version": "git 1",
-    "maintainer": "hovercats",
-    "description": " "
-  },
-  {
-    "name": "catgirl",
-    "version": "1.9a 1",
+    "version": "git 2",
     "maintainer": "hovercats",
     "description": " "
   },
