@@ -11106,6 +11106,12 @@
     "description": " "
   },
   {
+    "name": "ruby",
+    "version": "3.0.3 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "r-lang",
     "version": "4.1.1 1",
     "maintainer": "Ethan",
@@ -11292,6 +11298,12 @@
     "description": " "
   },
   {
+    "name": "fennel",
+    "version": "1.0.0 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "quickjs",
     "version": "2021.03.27 1",
     "maintainer": "Ethan",
@@ -11329,7 +11341,7 @@
   },
   {
     "name": "radeontop",
-    "version": "1.3 1",
+    "version": "1.4 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -11844,6 +11856,12 @@
     "description": " "
   },
   {
+    "name": "libmupdf",
+    "version": "1.19.0 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "valgrind",
     "version": "3.18.1 1",
     "maintainer": "Ethan",
@@ -12289,7 +12307,7 @@
   },
   {
     "name": "webkit2gtk",
-    "version": "2.34.1 1",
+    "version": "2.34.2 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -12379,7 +12397,7 @@
   },
   {
     "name": "rxvt-unicode",
-    "version": "9.26 1",
+    "version": "9.29 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -12512,6 +12530,12 @@
   {
     "name": "xkill",
     "version": "1.0.5 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "libptytty",
+    "version": "2.0 1",
     "maintainer": "Ethan",
     "description": " "
   },
