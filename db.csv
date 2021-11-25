@@ -2939,7 +2939,7 @@ nasm,2.15.05 1,https://github.com/hovercats/kiss-somethingsomethingstatic,extra/
 wpa_supplicant,2.9 4,https://github.com/hovercats/kiss-somethingsomethingstatic,extra/wpa_supplicant,master,"hovercats"," "
 libjpeg-turbo,2.1.2 1,https://github.com/hovercats/kiss-somethingsomethingstatic,extra/libjpeg-turbo,master,"hovercats"," "
 expat,2.4.1 1,https://github.com/hovercats/kiss-somethingsomethingstatic,extra/expat,master,"hovercats"," "
-alsa-lib,1.2.5.1 2,https://github.com/hovercats/kiss-somethingsomethingstatic,extra/alsa-lib,master,"hovercats"," "
+alsa-lib,1.2.5.1 3,https://github.com/hovercats/kiss-somethingsomethingstatic,extra/alsa-lib,master,"hovercats"," "
 mtm,1.2.1 1,https://github.com/hovercats/kiss-somethingsomethingstatic,extra/mtm,master,"hovercats"," "
 pkgconf,1.8.0 1,https://github.com/hovercats/kiss-somethingsomethingstatic,extra/pkgconf,master,"hovercats"," "
 eiwd,1.19 1,https://github.com/hovercats/kiss-somethingsomethingstatic,extra/eiwd,master,"hovercats"," "
