@@ -11329,7 +11329,7 @@
   },
   {
     "name": "mesa",
-    "version": "21.2.5 1",
+    "version": "21.2.6 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -11395,7 +11395,7 @@
   },
   {
     "name": "pyright",
-    "version": "1.1.189 1",
+    "version": "1.1.190 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -12181,7 +12181,7 @@
   },
   {
     "name": "mesa",
-    "version": "21.2.5 1",
+    "version": "21.2.6 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -12409,7 +12409,7 @@
   },
   {
     "name": "libexif",
-    "version": "0.6.23 1",
+    "version": "0.6.24 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -12722,6 +12722,12 @@
   {
     "name": "cwm",
     "version": "git 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "xf86-video-nouveau",
+    "version": "1.0.17 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -17683,7 +17689,7 @@
   },
   {
     "name": "eiwd",
-    "version": "1.19 1",
+    "version": "1.20 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -17719,7 +17725,7 @@
   },
   {
     "name": "freetype-harfbuzz",
-    "version": "2.11.0+3.1.1 1",
+    "version": "2.11.0+3.1.1 2",
     "maintainer": "hovercats",
     "description": " "
   },
