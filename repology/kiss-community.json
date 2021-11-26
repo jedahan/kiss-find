@@ -3709,7 +3709,7 @@
   },
   {
     "name": "libdrm",
-    "version": "2.4.108 1",
+    "version": "2.4.109 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -4849,7 +4849,7 @@
   },
   {
     "name": "libressl",
-    "version": "3.4.1 1",
+    "version": "3.4.2 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
