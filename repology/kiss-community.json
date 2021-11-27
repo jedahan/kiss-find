@@ -8568,6 +8568,60 @@
     "description": " "
   },
   {
+    "name": "dpkg-sig",
+    "version": "0.13.1 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "xxhash",
+    "version": "0.9.6 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "kapt-keyring",
+    "version": "1 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "perl-config-file",
+    "version": "1.54 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "triehash",
+    "version": "0.3 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "perl-module-build",
+    "version": "0.4231 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "dpkg",
+    "version": "1.20.9 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "apt",
+    "version": "2.3.9 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "berkeley-db",
+    "version": "5.3.28 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
     "name": "alacritty",
     "version": "0.5.0 1",
     "maintainer": "git-bruh",
@@ -11413,7 +11467,7 @@
   },
   {
     "name": "typescript-language-server",
-    "version": "0.8.0 1",
+    "version": "0.8.1 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -11971,7 +12025,7 @@
   },
   {
     "name": "harfbuzz-icu",
-    "version": "3.1.1 1",
+    "version": "3.1.2 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -12001,7 +12055,7 @@
   },
   {
     "name": "freetype-harfbuzz",
-    "version": "2.11.0+3.1.1 1",
+    "version": "2.11.0+3.1.2 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -12223,7 +12277,7 @@
   },
   {
     "name": "libdrm",
-    "version": "2.4.108 1",
+    "version": "2.4.109 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -12247,7 +12301,7 @@
   },
   {
     "name": "freetype-harfbuzz",
-    "version": "2.11.0+3.1.1 1",
+    "version": "2.11.0+3.1.2 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -12396,6 +12450,12 @@
     "description": " "
   },
   {
+    "name": "xf86-video-fbdev",
+    "version": "0.5.0 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "tiff",
     "version": "4.3.0 1",
     "maintainer": "Ethan",
@@ -12506,6 +12566,12 @@
   {
     "name": "picom-git",
     "version": "git 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "xf86-video-vmware",
+    "version": "13.3.0 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -12673,7 +12739,7 @@
   },
   {
     "name": "xf86-video-qxl",
-    "version": "0.1.5 1",
+    "version": "0.1.5 2",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -12722,12 +12788,6 @@
   {
     "name": "cwm",
     "version": "git 1",
-    "maintainer": "Ethan",
-    "description": " "
-  },
-  {
-    "name": "xf86-video-nouveau",
-    "version": "1.0.17 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13213,8 +13273,8 @@
   },
   {
     "name": "xf86-video-ati",
-    "version": "19.1.0 2",
-    "maintainer": "Dylan Araps",
+    "version": "git 1",
+    "maintainer": "Ethan",
     "description": " "
   },
   {
