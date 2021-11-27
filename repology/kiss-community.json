@@ -3067,7 +3067,7 @@
   },
   {
     "name": "harfbuzz-icu",
-    "version": "3.1.1 1",
+    "version": "3.1.2 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -3799,7 +3799,7 @@
   },
   {
     "name": "freetype-harfbuzz",
-    "version": "2.11.0+3.1.1 1",
+    "version": "2.11.0+3.1.2 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -8581,7 +8581,7 @@
   },
   {
     "name": "kapt-keyring",
-    "version": "1 1",
+    "version": "1 2",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
@@ -8611,7 +8611,7 @@
   },
   {
     "name": "apt",
-    "version": "2.3.9 1",
+    "version": "2.3.9 3",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
@@ -17767,7 +17767,7 @@
   },
   {
     "name": "meson",
-    "version": "0.60.1 1",
+    "version": "0.60.2 1",
     "maintainer": "hovercats",
     "description": " "
   },

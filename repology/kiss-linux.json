@@ -346,7 +346,7 @@
   },
   {
     "name": "freetype-harfbuzz",
-    "version": "2.11.0+3.1.1 1",
+    "version": "2.11.0+3.1.2 1",
     "maintainer": "Dylan Araps"
   },
   {
@@ -471,7 +471,7 @@
   },
   {
     "name": "libdrm",
-    "version": "2.4.108 1",
+    "version": "2.4.109 1",
     "maintainer": "Dylan Araps"
   },
   {
