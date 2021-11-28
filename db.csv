@@ -2931,7 +2931,7 @@ libpciaccess,0.16 1,https://github.com/hovercats/kiss-somethingsomethingstatic,e
 pixman,0.40.0 1,https://github.com/hovercats/kiss-somethingsomethingstatic,extra/pixman,master,"hovercats"," "
 xfsprogs,5.13.0 1,https://github.com/hovercats/kiss-somethingsomethingstatic,extra/xfsprogs,master,"hovercats"," "
 lynx,2.8.9rel.1 1 ,https://github.com/hovercats/kiss-somethingsomethingstatic,extra/lynx,master,"hovercats"," "
-sqlite,3.36.0 1,https://github.com/hovercats/kiss-somethingsomethingstatic,extra/sqlite,master,"hovercats"," "
+sqlite,3.37.0 1,https://github.com/hovercats/kiss-somethingsomethingstatic,extra/sqlite,master,"hovercats"," "
 perl,5.34.0 1,https://github.com/hovercats/kiss-somethingsomethingstatic,extra/perl,master,"hovercats"," "
 libvpx,1.11.0 1,https://github.com/hovercats/kiss-somethingsomethingstatic,extra/libvpx,master,"hovercats"," "
 mdevd,0.1.5.0 1,https://github.com/hovercats/kiss-somethingsomethingstatic,extra/mdevd,master,"hovercats"," "
