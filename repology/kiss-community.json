@@ -4051,7 +4051,7 @@
   },
   {
     "name": "chezmoi",
-    "version": "2.8.0 1",
+    "version": "2.9.0 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -5863,7 +5863,7 @@
   },
   {
     "name": "graphite-harfbuzz",
-    "version": "3.1.1 1",
+    "version": "3.1.2 1",
     "maintainer": "aabacchus",
     "description": " "
   },
@@ -11418,6 +11418,12 @@
     "description": " "
   },
   {
+    "name": "terraform-ls",
+    "version": "0.24.0 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "rebar3",
     "version": "3.17.0 1",
     "maintainer": "Ethan",
@@ -11876,6 +11882,12 @@
   {
     "name": "github-cli",
     "version": "2.2.0 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "entr",
+    "version": "5.0 1",
     "maintainer": "Ethan",
     "description": " "
   },
