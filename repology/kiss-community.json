@@ -5688,6 +5688,12 @@
     "description": " "
   },
   {
+    "name": "abook",
+    "version": "0.5.6 1",
+    "maintainer": "aabacchus",
+    "description": " "
+  },
+  {
     "name": "gomuks",
     "version": "git 1",
     "maintainer": "aabacchus",
@@ -11197,7 +11203,7 @@
   },
   {
     "name": "vala",
-    "version": "0.54.3 1",
+    "version": "0.54.4 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -11624,6 +11630,12 @@
   {
     "name": "opensmtpd",
     "version": "6.8.0p2 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "inetutils",
+    "version": "2.2 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13027,8 +13039,8 @@
   },
   {
     "name": "xauth",
-    "version": "1.1 1",
-    "maintainer": "Dylan Araps",
+    "version": "1.1.1 1",
+    "maintainer": "Ethan",
     "description": " "
   },
   {
