@@ -16075,7 +16075,7 @@
   },
   {
     "name": "wlroots",
-    "version": "69909f72615ce529f1b9bbd4f73f4a50c6b07a30 1",
+    "version": "27b96c9308882ccf96ae5b936f9e5fe22e5cfb72 1",
     "maintainer": "git-bruh",
     "description": " "
   },
@@ -16093,7 +16093,7 @@
   },
   {
     "name": "sway",
-    "version": "fc25e4944efdc5bc7e33a81180908927dba93ee6 1",
+    "version": "02b412a3d4e930237a1d16554af6e1e7d1855c89 1",
     "maintainer": "git-bruh",
     "description": " "
   },
