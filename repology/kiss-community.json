@@ -11461,7 +11461,7 @@
   },
   {
     "name": "pyright",
-    "version": "1.1.190 1",
+    "version": "1.1.191 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -18438,6 +18438,12 @@
     "description": " "
   },
   {
+    "name": "minisign",
+    "version": "0.10 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
     "name": "python-cycler",
     "version": "0.11.0 1",
     "maintainer": "Owen Rafferty",
@@ -18522,21 +18528,9 @@
     "description": " "
   },
   {
-    "name": "libtermkey",
-    "version": "0.22 2",
-    "maintainer": "Owen Rafferty",
-    "description": " "
-  },
-  {
     "name": "gcc",
     "version": "symlink",
     "maintainer": "unknown",
-    "description": " "
-  },
-  {
-    "name": "tmux",
-    "version": "3.2a 1",
-    "maintainer": "Owen Rafferty",
     "description": " "
   },
   {
@@ -18553,8 +18547,8 @@
   },
   {
     "name": "htop",
-    "version": "3.1.1 1",
-    "maintainer": "Owen Rafferty",
+    "version": "symlink",
+    "maintainer": "unknown",
     "description": " "
   },
   {
@@ -18601,8 +18595,8 @@
   },
   {
     "name": "sfeed_curses",
-    "version": "1.0 1",
-    "maintainer": "Owen Rafferty",
+    "version": "symlink",
+    "maintainer": "unknown",
     "description": " "
   },
   {
@@ -18675,12 +18669,6 @@
     "name": "vis",
     "version": "symlink",
     "maintainer": "unknown",
-    "description": " "
-  },
-  {
-    "name": "nnn",
-    "version": "4.3 1",
-    "maintainer": "Owen Rafferty",
     "description": " "
   },
   {
