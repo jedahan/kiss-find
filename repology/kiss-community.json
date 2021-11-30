@@ -11743,7 +11743,7 @@
   },
   {
     "name": "htop",
-    "version": "3.1.1 1",
+    "version": "3.1.2 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -11774,6 +11774,12 @@
   {
     "name": "neovim-git",
     "version": "git 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "shfmt",
+    "version": "3.4.1 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -18240,6 +18246,12 @@
     "description": " "
   },
   {
+    "name": "netbsd-curses",
+    "version": "0.3.2 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
     "name": "python-pyqt6",
     "version": "5.15.6 1",
     "maintainer": "Owen Rafferty",
@@ -18510,9 +18522,21 @@
     "description": " "
   },
   {
+    "name": "libtermkey",
+    "version": "0.22 2",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
     "name": "gcc",
     "version": "symlink",
     "maintainer": "unknown",
+    "description": " "
+  },
+  {
+    "name": "tmux",
+    "version": "3.2a 1",
+    "maintainer": "Owen Rafferty",
     "description": " "
   },
   {
@@ -18528,13 +18552,31 @@
     "description": " "
   },
   {
+    "name": "htop",
+    "version": "3.1.1 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
     "name": "msmtp",
     "version": "symlink",
     "maintainer": "unknown",
     "description": " "
   },
   {
+    "name": "foot",
+    "version": "symlink",
+    "maintainer": "unknown",
+    "description": " "
+  },
+  {
     "name": "nodejs",
+    "version": "symlink",
+    "maintainer": "unknown",
+    "description": " "
+  },
+  {
+    "name": "alsa-utils",
     "version": "symlink",
     "maintainer": "unknown",
     "description": " "
@@ -18558,6 +18600,12 @@
     "description": " "
   },
   {
+    "name": "sfeed_curses",
+    "version": "1.0 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
     "name": "oksh",
     "version": "symlink",
     "maintainer": "unknown",
@@ -18565,6 +18613,12 @@
   },
   {
     "name": "ffmpeg",
+    "version": "symlink",
+    "maintainer": "unknown",
+    "description": " "
+  },
+  {
+    "name": "cava",
     "version": "symlink",
     "maintainer": "unknown",
     "description": " "
@@ -18615,6 +18669,18 @@
     "name": "gnupg2",
     "version": "symlink",
     "maintainer": "unknown",
+    "description": " "
+  },
+  {
+    "name": "vis",
+    "version": "symlink",
+    "maintainer": "unknown",
+    "description": " "
+  },
+  {
+    "name": "nnn",
+    "version": "4.3 1",
+    "maintainer": "Owen Rafferty",
     "description": " "
   },
   {
