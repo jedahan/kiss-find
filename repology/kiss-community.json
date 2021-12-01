@@ -11179,7 +11179,7 @@
   },
   {
     "name": "sbcl",
-    "version": "2.1.10 1",
+    "version": "2.1.11 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -11220,6 +11220,12 @@
     "description": " "
   },
   {
+    "name": "nqp",
+    "version": "2021.10 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "wren",
     "version": "git 1",
     "maintainer": "Ethan",
@@ -11240,6 +11246,12 @@
   {
     "name": "erlang",
     "version": "24.1.7 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "kona",
+    "version": "git 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -11298,6 +11310,12 @@
     "description": " "
   },
   {
+    "name": "moarvm",
+    "version": "2021.10 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "openblas",
     "version": "0.3.18 1",
     "maintainer": "Ethan",
@@ -11330,6 +11348,12 @@
   {
     "name": "tcl",
     "version": "8.6.12 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "rakudo",
+    "version": "2021.10 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -11372,6 +11396,12 @@
   {
     "name": "racket-minimal",
     "version": "8.3 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "gnu-apl",
+    "version": "1.8 1",
     "maintainer": "Ethan",
     "description": " "
   },
