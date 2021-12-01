@@ -16266,12 +16266,6 @@
     "description": " "
   },
   {
-    "name": "ruby",
-    "version": "3.0.2 1",
-    "maintainer": "James Davies",
-    "description": " "
-  },
-  {
     "name": "libva",
     "version": "symlink",
     "maintainer": "unknown",
@@ -16291,7 +16285,7 @@
   },
   {
     "name": "harfbuzz-icu",
-    "version": "3.1.1 1 ",
+    "version": "3.1.2 1 ",
     "maintainer": "James Davies",
     "description": " "
   },
@@ -16357,7 +16351,7 @@
   },
   {
     "name": "sdl2",
-    "version": "2.0.16 1 ",
+    "version": "2.0.18 1 ",
     "maintainer": "James Davies",
     "description": " "
   },
@@ -16435,7 +16429,7 @@
   },
   {
     "name": "htop",
-    "version": "3.1.1 1",
+    "version": "3.1.2 1",
     "maintainer": "James Davies",
     "description": " "
   },
@@ -16507,7 +16501,7 @@
   },
   {
     "name": "nodejs",
-    "version": "17.1.0 1",
+    "version": "17.2.0 1",
     "maintainer": "James Davies",
     "description": " "
   },
@@ -18589,6 +18583,12 @@
   },
   {
     "name": "libglvnd",
+    "version": "symlink",
+    "maintainer": "unknown",
+    "description": " "
+  },
+  {
+    "name": "cyrus-sasl",
     "version": "symlink",
     "maintainer": "unknown",
     "description": " "
