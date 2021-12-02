@@ -2892,7 +2892,7 @@ i3,4.18.1 1,https://github.com/gyula-ny/kiss-i3wm,kiss-i3wm/i3,master,"Gyula Nyi
 startup-notification,0.12 1,https://github.com/gyula-ny/kiss-i3wm,kiss-i3wm/startup-notification,master,"Gyula Nyirfalvi"," "
 sinit,1.1 1 ,https://github.com/hovercats/kiss-dumpsterfire,extra/sinit,main,"hovercats"," "
 shellcheck-bin,0.7.2 1,https://github.com/hovercats/kiss-dumpsterfire,extra/shellcheck-bin,main,"hovercats"," "
-linux,5.15.4 1,https://github.com/hovercats/kiss-dumpsterfire,extra/linux,main,"hovercats"," "
+linux,5.15.5 1,https://github.com/hovercats/kiss-dumpsterfire,extra/linux,main,"hovercats"," "
 firmware,20211027 1,https://github.com/hovercats/kiss-dumpsterfire,extra/firmware,main,"hovercats"," "
 sdhcp,git 1,https://github.com/hovercats/kiss-dumpsterfire,extra/sdhcp,main,"hovercats"," "
 sbase,git 2,https://github.com/hovercats/kiss-dumpsterfire,extra/sbase,main,"hovercats"," "
