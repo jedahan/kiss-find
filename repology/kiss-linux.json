@@ -121,7 +121,7 @@
   },
   {
     "name": "mesa",
-    "version": "21.2.5 1",
+    "version": "21.3.1 1",
     "maintainer": "Dylan Araps"
   },
   {
@@ -166,7 +166,7 @@
   },
   {
     "name": "strace",
-    "version": "5.14 1",
+    "version": "5.15 1",
     "maintainer": "Dylan Araps"
   },
   {

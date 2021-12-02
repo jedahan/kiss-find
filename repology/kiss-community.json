@@ -66,12 +66,6 @@
     "description": " "
   },
   {
-    "name": "wayland-protocols",
-    "version": "1.20 1",
-    "maintainer": "Nihal Jere",
-    "description": " "
-  },
-  {
     "name": "dwl",
     "version": "git 2",
     "maintainer": "Nihal Jere",
@@ -138,6 +132,12 @@
     "description": " "
   },
   {
+    "name": "ffmpeg",
+    "version": "symlink",
+    "maintainer": "unknown",
+    "description": " "
+  },
+  {
     "name": "units",
     "version": "2.21 1",
     "maintainer": "Nihal Jere",
@@ -193,7 +193,7 @@
   },
   {
     "name": "libtls-bearssl",
-    "version": "0.5 1",
+    "version": "git 1",
     "maintainer": "Nihal Jere",
     "description": " "
   },
@@ -3217,7 +3217,7 @@
   },
   {
     "name": "vala",
-    "version": "0.54.3 1",
+    "version": "0.54.4 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -3295,7 +3295,7 @@
   },
   {
     "name": "mesa",
-    "version": "21.2.6 1",
+    "version": "21.3.1 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -3391,13 +3391,13 @@
   },
   {
     "name": "nodejs",
-    "version": "17.1.0 1",
+    "version": "17.2.0 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
   {
     "name": "poppler",
-    "version": "21.11.0 1",
+    "version": "21.12.0 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -3895,7 +3895,7 @@
   },
   {
     "name": "libcups",
-    "version": "2.3.3op2 1",
+    "version": "2.4.0 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -4051,7 +4051,7 @@
   },
   {
     "name": "chezmoi",
-    "version": "2.9.0 1",
+    "version": "2.9.1 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -4171,7 +4171,7 @@
   },
   {
     "name": "mpd",
-    "version": "0.23.4 1",
+    "version": "0.23.5 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -4195,7 +4195,7 @@
   },
   {
     "name": "mpc",
-    "version": "0.33 1",
+    "version": "0.34 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -4255,7 +4255,7 @@
   },
   {
     "name": "dunst",
-    "version": "1.7.1 1",
+    "version": "1.7.2 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -4351,7 +4351,7 @@
   },
   {
     "name": "xauth",
-    "version": "1.1 1",
+    "version": "1.1.1 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -4813,7 +4813,7 @@
   },
   {
     "name": "linux-headers",
-    "version": "5.15.5 1",
+    "version": "5.15.6 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -4861,7 +4861,7 @@
   },
   {
     "name": "neatvi",
-    "version": "09 1",
+    "version": "10 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -11419,7 +11419,7 @@
   },
   {
     "name": "mesa",
-    "version": "21.2.6 1",
+    "version": "21.3.1 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -12103,7 +12103,7 @@
   },
   {
     "name": "poppler",
-    "version": "21.11.0 1",
+    "version": "21.12.0 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -12307,7 +12307,7 @@
   },
   {
     "name": "mesa",
-    "version": "21.2.6 1",
+    "version": "21.3.1 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -18385,7 +18385,7 @@
   },
   {
     "name": "qt6-wayland",
-    "version": "6.2.1 1",
+    "version": "6.2.2 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
@@ -18403,7 +18403,7 @@
   },
   {
     "name": "qt6-base",
-    "version": "6.2.1 1",
+    "version": "6.2.2 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
@@ -18511,7 +18511,7 @@
   },
   {
     "name": "qt6-declarative",
-    "version": "6.2.1 1",
+    "version": "6.2.2 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
@@ -18553,6 +18553,12 @@
   },
   {
     "name": "gcc",
+    "version": "symlink",
+    "maintainer": "unknown",
+    "description": " "
+  },
+  {
+    "name": "firefox",
     "version": "symlink",
     "maintainer": "unknown",
     "description": " "
@@ -18624,13 +18630,13 @@
     "description": " "
   },
   {
-    "name": "sfeed_curses",
+    "name": "oksh",
     "version": "symlink",
     "maintainer": "unknown",
     "description": " "
   },
   {
-    "name": "oksh",
+    "name": "pinentry",
     "version": "symlink",
     "maintainer": "unknown",
     "description": " "
@@ -18687,6 +18693,12 @@
     "name": "libmupdf",
     "version": "1.19.0 1",
     "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
+    "name": "sfeed",
+    "version": "symlink",
+    "maintainer": "unknown",
     "description": " "
   },
   {
