@@ -5718,6 +5718,12 @@
     "description": "a fancy terminal browser for the gemini protocol"
   },
   {
+    "name": "tinyscheme",
+    "version": "1.42 1",
+    "maintainer": "aabacchus",
+    "description": " "
+  },
+  {
     "name": "xmenu",
     "version": "4.5.5 1",
     "maintainer": "aabacchus",
@@ -11413,7 +11419,7 @@
   },
   {
     "name": "github-cli",
-    "version": "2.2.0 1",
+    "version": "2.3.0 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -12079,7 +12085,7 @@
   },
   {
     "name": "terraform-ls",
-    "version": "0.24.0 1",
+    "version": "0.25.0 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -18414,12 +18420,6 @@
     "description": " "
   },
   {
-    "name": "rust",
-    "version": "symlink",
-    "maintainer": "unknown",
-    "description": " "
-  },
-  {
     "name": "libtls-bearssl",
     "version": "0.5 1",
     "maintainer": "Owen Rafferty",
@@ -18583,7 +18583,7 @@
   },
   {
     "name": "python-pyqt6-sip",
-    "version": "12.9.0 1",
+    "version": "13.2.0 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
@@ -18643,7 +18643,7 @@
   },
   {
     "name": "python-pyqt6",
-    "version": "5.15.6 1",
+    "version": "6.2.2 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
@@ -18799,7 +18799,7 @@
   },
   {
     "name": "sip",
-    "version": "6.4.0 1",
+    "version": "6.5.0 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
