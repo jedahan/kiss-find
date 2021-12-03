@@ -3415,7 +3415,7 @@
   },
   {
     "name": "isync",
-    "version": "1.4.3 1",
+    "version": "1.4.4 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -3499,7 +3499,7 @@
   },
   {
     "name": "chezmoi",
-    "version": "2.9.1 1",
+    "version": "2.9.2 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -3877,7 +3877,7 @@
   },
   {
     "name": "foot",
-    "version": "1.10.1 1",
+    "version": "1.10.2 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -4171,7 +4171,7 @@
   },
   {
     "name": "go",
-    "version": "1.17.3 1",
+    "version": "1.17.4 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -15852,12 +15852,6 @@
     "description": " "
   },
   {
-    "name": "util-linux",
-    "version": "symlink",
-    "maintainer": "unknown",
-    "description": " "
-  },
-  {
     "name": "compiler-rt",
     "version": "13.0.0 1",
     "maintainer": "git-bruh",
@@ -15876,26 +15870,20 @@
     "description": " "
   },
   {
-    "name": "musl",
-    "version": "symlink",
-    "maintainer": "unknown",
-    "description": " "
-  },
-  {
     "name": "containerd",
     "version": "1.5.5 1",
     "maintainer": "git-bruh",
     "description": " "
   },
   {
-    "name": "pipewire",
-    "version": "0.3.36 1",
+    "name": "barnard",
+    "version": "git 1",
     "maintainer": "git-bruh",
     "description": " "
   },
   {
-    "name": "jdk8-bin",
-    "version": "8.292.10.1 1",
+    "name": "pipewire",
+    "version": "0.3.40 1",
     "maintainer": "git-bruh",
     "description": " "
   },
@@ -15908,12 +15896,6 @@
   {
     "name": "ttf-jetbrains-mono",
     "version": "2.242 1",
-    "maintainer": "git-bruh",
-    "description": " "
-  },
-  {
-    "name": "glew",
-    "version": "2.2.0 1",
     "maintainer": "git-bruh",
     "description": " "
   },
@@ -15948,12 +15930,6 @@
     "description": " "
   },
   {
-    "name": "btop",
-    "version": "1.0.13 1",
-    "maintainer": "git-bruh",
-    "description": " "
-  },
-  {
     "name": "libolm",
     "version": "3.2.6 1",
     "maintainer": "git-bruh",
@@ -15978,26 +15954,14 @@
     "description": " "
   },
   {
-    "name": "gcompat",
-    "version": "git 1",
-    "maintainer": "git-bruh",
-    "description": " "
-  },
-  {
-    "name": "slstatus",
-    "version": "git 1",
-    "maintainer": "git-bruh",
-    "description": " "
-  },
-  {
     "name": "rbw",
-    "version": "1.3.0 1",
+    "version": "1.4.1 1",
     "maintainer": "git-bruh",
     "description": " "
   },
   {
-    "name": "glu",
-    "version": "9.0.2 1",
+    "name": "cJSON",
+    "version": "1.7.15 1",
     "maintainer": "git-bruh",
     "description": " "
   },
@@ -16020,12 +15984,6 @@
     "description": " "
   },
   {
-    "name": "glfw",
-    "version": "3.3.4 1",
-    "maintainer": "git-bruh",
-    "description": " "
-  },
-  {
     "name": "docker",
     "version": "19.03.14 1",
     "maintainer": "git-bruh",
@@ -16038,14 +15996,14 @@
     "description": " "
   },
   {
-    "name": "barnard",
-    "version": "git 1",
+    "name": "ghc",
+    "version": "9.0.1 1",
     "maintainer": "git-bruh",
     "description": " "
   },
   {
-    "name": "ghc",
-    "version": "9.0.1 1",
+    "name": "jdk8-bin",
+    "version": "8.292.10.1 1",
     "maintainer": "git-bruh",
     "description": " "
   },
@@ -16056,8 +16014,32 @@
     "description": " "
   },
   {
+    "name": "glew",
+    "version": "2.2.0 1",
+    "maintainer": "git-bruh",
+    "description": " "
+  },
+  {
+    "name": "btop",
+    "version": "1.0.13 1",
+    "maintainer": "git-bruh",
+    "description": " "
+  },
+  {
     "name": "libsndfile",
     "version": "1.0.31 1",
+    "maintainer": "git-bruh",
+    "description": " "
+  },
+  {
+    "name": "gcompat",
+    "version": "git 1",
+    "maintainer": "git-bruh",
+    "description": " "
+  },
+  {
+    "name": "slstatus",
+    "version": "git 1",
     "maintainer": "git-bruh",
     "description": " "
   },
@@ -16070,6 +16052,12 @@
   {
     "name": "xdg-desktop-portal-wlr",
     "version": "0.4.0 1",
+    "maintainer": "git-bruh",
+    "description": " "
+  },
+  {
+    "name": "glu",
+    "version": "9.0.2 1",
     "maintainer": "git-bruh",
     "description": " "
   },
@@ -16100,6 +16088,12 @@
   {
     "name": "alsa-plugins",
     "version": "1.2.5 1",
+    "maintainer": "git-bruh",
+    "description": " "
+  },
+  {
+    "name": "glfw",
+    "version": "3.3.4 1",
     "maintainer": "git-bruh",
     "description": " "
   },
