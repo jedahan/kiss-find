@@ -787,7 +787,7 @@
   },
   {
     "name": "pandoc-bin",
-    "version": "2.16.1 1 ",
+    "version": "2.16.2 1 ",
     "maintainer": "Cédric",
     "description": " "
   },
@@ -901,7 +901,7 @@
   },
   {
     "name": "chromium",
-    "version": "95.0.4638.54 1",
+    "version": "96.0.4664.45 1",
     "maintainer": "git-bruh",
     "description": " "
   },
@@ -1129,7 +1129,7 @@
   },
   {
     "name": "icu",
-    "version": "69.1 1",
+    "version": "70.1 1",
     "maintainer": "git-bruh",
     "description": " "
   },
@@ -1225,7 +1225,7 @@
   },
   {
     "name": "poppler",
-    "version": "21.11.0 1",
+    "version": "21.12.0 1",
     "maintainer": "Cédric",
     "description": " "
   },
@@ -1627,7 +1627,7 @@
   },
   {
     "name": "cups",
-    "version": "2.3.3op2 1 ",
+    "version": "2.4.0 1 ",
     "maintainer": "Cédric",
     "description": " "
   },
@@ -1639,7 +1639,7 @@
   },
   {
     "name": "yt-dlp",
-    "version": "2021.11.10.1 1",
+    "version": "2021.12.01 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
@@ -2527,7 +2527,7 @@
   },
   {
     "name": "htop",
-    "version": "3.1.1 1",
+    "version": "3.1.2 1",
     "maintainer": "Justinas Grigas",
     "description": " "
   },
@@ -17335,7 +17335,7 @@
   },
   {
     "name": "rust",
-    "version": "1.56.1 1",
+    "version": "1.57.0 1",
     "maintainer": "James Davies",
     "description": " "
   },
