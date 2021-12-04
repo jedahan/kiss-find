@@ -361,12 +361,12 @@
   },
   {
     "name": "pango",
-    "version": "1.48.10 1",
+    "version": "1.50.0 1",
     "maintainer": "Dylan Araps"
   },
   {
     "name": "glib",
-    "version": "2.70.1 1",
+    "version": "2.70.2 1",
     "maintainer": "Dylan Araps"
   },
   {
