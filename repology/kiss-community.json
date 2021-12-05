@@ -13002,6 +13002,12 @@
     "description": " "
   },
   {
+    "name": "emacs-alpha",
+    "version": "28.0.90 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "sent",
     "version": "1 1",
     "maintainer": "Ethan",
@@ -13303,7 +13309,7 @@
   },
   {
     "name": "pango",
-    "version": "1.48.10 1",
+    "version": "1.50.0 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -18414,7 +18420,7 @@
     "description": " "
   },
   {
-    "name": "htop",
+    "name": "rust",
     "version": "symlink",
     "maintainer": "unknown",
     "description": " "
