@@ -830,7 +830,7 @@ glib-networking,2.70.0 1,https://github.com/CarbsLinux/repository,extra/glib-net
 fontconfig,2.13.94 1,https://github.com/CarbsLinux/repository,extra/fontconfig,master,"Cem Keylan"," "
 nettle,3.7.3 1,https://github.com/CarbsLinux/repository,extra/nettle,master,"Cem Keylan"," "
 nginx,1.21.4 1,https://github.com/CarbsLinux/repository,extra/nginx,master,"Cem Keylan"," "
-imagemagick,7.1.0-16 1,https://github.com/CarbsLinux/repository,extra/imagemagick,master,"Cem Keylan"," "
+imagemagick,7.1.0-17 1,https://github.com/CarbsLinux/repository,extra/imagemagick,master,"Cem Keylan"," "
 distcc,3.4 2,https://github.com/CarbsLinux/repository,extra/distcc,master,"Cem Keylan"," "
 gstreamer,1.18.5 1,https://github.com/CarbsLinux/repository,extra/gstreamer,master,"Cem Keylan"," "
 smu,1.5 1,https://github.com/CarbsLinux/repository,extra/smu,master,"Cem Keylan"," "
