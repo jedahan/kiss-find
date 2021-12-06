@@ -200,6 +200,11 @@
     "maintainer": "Dylan Araps"
   },
   {
+    "name": "firefox",
+    "version": "95.0b12 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
     "name": "pcre",
     "version": "8.45 1",
     "maintainer": "Dylan Araps"
