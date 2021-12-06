@@ -11659,7 +11659,7 @@
   },
   {
     "name": "r-lang",
-    "version": "4.1.1 1",
+    "version": "4.1.2 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -11833,7 +11833,7 @@
   },
   {
     "name": "janet",
-    "version": "1.15.4 1",
+    "version": "1.18.1 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -25027,8 +25027,8 @@
   },
   {
     "name": "r-lang",
-    "version": "4.1.1 1",
-    "maintainer": "Linux User",
+    "version": "4.1.2 1",
+    "maintainer": "Daniel M. Matongo",
     "description": " "
   },
   {
@@ -25063,7 +25063,7 @@
   },
   {
     "name": "ocaml",
-    "version": " 4.12.0 1",
+    "version": " 4.13.0 1",
     "maintainer": "Daniel M. Matongo",
     "description": " "
   },
