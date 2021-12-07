@@ -1147,8 +1147,8 @@
   },
   {
     "name": "gsl",
-    "version": "2.7 1",
-    "maintainer": "Liam Warden",
+    "version": "2.7.1 1",
+    "maintainer": "Xeno-Hypster",
     "description": " "
   },
   {
@@ -3361,7 +3361,7 @@
   },
   {
     "name": "syncthing",
-    "version": "1.18.4 1",
+    "version": "1.18.5 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -3613,7 +3613,7 @@
   },
   {
     "name": "dbus",
-    "version": "1.12.20 1",
+    "version": "1.12.20 2",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -4399,7 +4399,7 @@
   },
   {
     "name": "alsa-utils",
-    "version": "1.2.5.1 1",
+    "version": "1.2.6 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -4543,7 +4543,7 @@
   },
   {
     "name": "python",
-    "version": "3.10.0 2",
+    "version": "3.10.1 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -4591,7 +4591,7 @@
   },
   {
     "name": "alsa-lib",
-    "version": "1.2.5.1 1",
+    "version": "1.2.6 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -4975,7 +4975,7 @@
   },
   {
     "name": "glib-networking",
-    "version": "2.70.0 1",
+    "version": "2.70.1 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -11899,7 +11899,7 @@
   },
   {
     "name": "dovecot",
-    "version": "2.3.17 1",
+    "version": "2.3.17.1 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -12103,7 +12103,7 @@
   },
   {
     "name": "pyright",
-    "version": "1.1.192 1",
+    "version": "1.1.193 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13225,7 +13225,7 @@
   },
   {
     "name": "glib-networking",
-    "version": "2.70.0 1",
+    "version": "2.70.1 1",
     "maintainer": "Ethan",
     "description": " "
   },
