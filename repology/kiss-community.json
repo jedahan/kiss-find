@@ -12589,8 +12589,8 @@
   },
   {
     "name": "libX11",
-    "version": "1.7.2 2",
-    "maintainer": "Dylan Araps",
+    "version": "1.7.3 1",
+    "maintainer": "Ethan",
     "description": " "
   },
   {
@@ -13381,7 +13381,7 @@
   },
   {
     "name": "firefox-beta",
-    "version": "95.0b9 1",
+    "version": "96.0b1 1",
     "maintainer": "Ethan",
     "description": " "
   },
