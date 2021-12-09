@@ -792,6 +792,12 @@
     "description": " "
   },
   {
+    "name": "pipewire",
+    "version": "0.3.40 1",
+    "maintainer": "git-bruh",
+    "description": " "
+  },
+  {
     "name": "pandoc-bin",
     "version": "2.16.2 1 ",
     "maintainer": "Cédric",
@@ -3277,7 +3283,7 @@
   },
   {
     "name": "libX11",
-    "version": "1.7.2 1",
+    "version": "1.7.3 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -3337,7 +3343,7 @@
   },
   {
     "name": "hugo",
-    "version": "0.89.4 1",
+    "version": "0.90.0 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -3877,7 +3883,7 @@
   },
   {
     "name": "imv",
-    "version": "4.3.0 1",
+    "version": "4.3.0 2",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -12793,7 +12799,7 @@
   },
   {
     "name": "imlib2",
-    "version": "1.7.4 1",
+    "version": "1.7.5 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -17515,7 +17521,7 @@
   },
   {
     "name": "linux",
-    "version": "5.15.6 1",
+    "version": "5.15.7 1",
     "maintainer": "hovercats",
     "description": " "
   },
