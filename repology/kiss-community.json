@@ -3883,7 +3883,7 @@
   },
   {
     "name": "foot",
-    "version": "1.10.2 1",
+    "version": "1.10.3 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -3967,7 +3967,7 @@
   },
   {
     "name": "fcft",
-    "version": "2.5.0 1",
+    "version": "2.5.1 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -5719,7 +5719,7 @@
   },
   {
     "name": "amfora",
-    "version": "1.9.0 1",
+    "version": "1.9.1 1",
     "maintainer": "aabacchus",
     "description": "a fancy terminal browser for the gemini protocol"
   },
