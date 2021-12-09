@@ -18342,7 +18342,25 @@
     "description": " "
   },
   {
+    "name": "kiss",
+    "version": "symlink",
+    "maintainer": "unknown",
+    "description": " "
+  },
+  {
+    "name": "alsa-utils",
+    "version": "symlink",
+    "maintainer": "unknown",
+    "description": " "
+  },
+  {
     "name": "cava",
+    "version": "symlink",
+    "maintainer": "unknown",
+    "description": " "
+  },
+  {
+    "name": "tmux",
     "version": "symlink",
     "maintainer": "unknown",
     "description": " "
@@ -18390,6 +18408,12 @@
     "description": " "
   },
   {
+    "name": "libtermkey",
+    "version": "symlink",
+    "maintainer": "unknown",
+    "description": " "
+  },
+  {
     "name": "lynx",
     "version": "symlink",
     "maintainer": "unknown",
@@ -18414,6 +18438,12 @@
     "description": " "
   },
   {
+    "name": "nnn",
+    "version": "symlink",
+    "maintainer": "unknown",
+    "description": " "
+  },
+  {
     "name": "oksh",
     "version": "symlink",
     "maintainer": "unknown",
@@ -18421,8 +18451,14 @@
   },
   {
     "name": "libmupdf",
-    "version": "1.19.0 1",
-    "maintainer": "Owen Rafferty",
+    "version": "symlink",
+    "maintainer": "unknown",
+    "description": " "
+  },
+  {
+    "name": "htop",
+    "version": "symlink",
+    "maintainer": "unknown",
     "description": " "
   },
   {
@@ -18601,7 +18637,7 @@
   },
   {
     "name": "xsimd",
-    "version": "8.0.3 1",
+    "version": "8.0.5 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
@@ -18614,12 +18650,6 @@
   {
     "name": "python-numpy",
     "version": "1.21.4 1",
-    "maintainer": "Owen Rafferty",
-    "description": " "
-  },
-  {
-    "name": "minisign",
-    "version": "0.10 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
@@ -18733,7 +18763,7 @@
   },
   {
     "name": "intel-gmmlib",
-    "version": "21.3.3 1",
+    "version": "21.3.4 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
@@ -18841,7 +18871,7 @@
   },
   {
     "name": "fcft",
-    "version": "2.5.0 1",
+    "version": "2.5.1 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
