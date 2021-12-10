@@ -11532,6 +11532,12 @@
     "description": " "
   },
   {
+    "name": "python-gprof2dot",
+    "version": "git 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "shopen-git",
     "version": "git 1",
     "maintainer": "Ethan",
@@ -11611,7 +11617,7 @@
   },
   {
     "name": "go",
-    "version": "1.17.4 1",
+    "version": "1.17.5 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -11834,6 +11840,12 @@
   {
     "name": "gforth",
     "version": "0.7.3 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "python2",
+    "version": "2.7.18 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -12115,7 +12127,7 @@
   },
   {
     "name": "pyright",
-    "version": "1.1.193 1",
+    "version": "1.1.194 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -12692,6 +12704,12 @@
   {
     "name": "berry",
     "version": "git 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "graphviz",
+    "version": "2.50.0 1",
     "maintainer": "Ethan",
     "description": " "
   },
