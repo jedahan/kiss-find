@@ -166,7 +166,7 @@
   },
   {
     "name": "wayland",
-    "version": "1.19.0 1",
+    "version": "1.20.0 1",
     "maintainer": "Dylan Araps"
   },
   {
@@ -416,7 +416,7 @@
   },
   {
     "name": "alsa-lib",
-    "version": "1.2.6 1",
+    "version": "1.2.6.1 1",
     "maintainer": "Dylan Araps"
   },
   {
