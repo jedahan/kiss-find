@@ -11413,7 +11413,7 @@
   },
   {
     "name": "notmuch",
-    "version": "0.34.1 1",
+    "version": "0.34.2 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -12607,7 +12607,7 @@
   },
   {
     "name": "libX11",
-    "version": "1.7.3 1",
+    "version": "1.7.3.1 1",
     "maintainer": "Ethan",
     "description": " "
   },
