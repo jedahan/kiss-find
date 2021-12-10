@@ -16717,7 +16717,7 @@
   },
   {
     "name": "visurf",
-    "version": "20211129 1",
+    "version": "20211207 1",
     "maintainer": "James Davies",
     "description": " "
   },
@@ -17023,7 +17023,7 @@
   },
   {
     "name": "yt-dlp",
-    "version": "2021.11.10.1 1",
+    "version": "2021.12.01 2",
     "maintainer": "James Davies",
     "description": " "
   },
