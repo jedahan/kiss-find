@@ -3283,7 +3283,7 @@
   },
   {
     "name": "libX11",
-    "version": "1.7.3 1",
+    "version": "1.7.3.1 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -4453,7 +4453,7 @@
   },
   {
     "name": "pango",
-    "version": "1.50.0 1",
+    "version": "1.50.1 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -17478,12 +17478,6 @@
     "description": " "
   },
   {
-    "name": "openssh",
-    "version": "8.8p1 1",
-    "maintainer": "hovercats",
-    "description": " "
-  },
-  {
     "name": "fzf",
     "version": "0.28.0 1",
     "maintainer": "hovercats",
@@ -17828,6 +17822,12 @@
   {
     "name": "xvidcore",
     "version": "1.3.7 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "openssh",
+    "version": "8.8p1 1",
     "maintainer": "hovercats",
     "description": " "
   },
