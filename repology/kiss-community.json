@@ -3343,7 +3343,7 @@
   },
   {
     "name": "hugo",
-    "version": "0.90.0 1",
+    "version": "0.90.1 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -5725,7 +5725,7 @@
   },
   {
     "name": "amfora",
-    "version": "1.9.1 1",
+    "version": "1.9.2 1",
     "maintainer": "aabacchus",
     "description": "a fancy terminal browser for the gemini protocol"
   },
@@ -5887,7 +5887,7 @@
   },
   {
     "name": "miktex",
-    "version": "21.10 1",
+    "version": "21.12 1",
     "maintainer": "aabacchus",
     "description": " "
   },
@@ -18710,6 +18710,12 @@
   {
     "name": "python-pyqt6",
     "version": "6.2.2 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
+    "name": "python-fonttools",
+    "version": "4.28.3 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
