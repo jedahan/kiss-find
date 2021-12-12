@@ -13261,7 +13261,7 @@
   },
   {
     "name": "azpainter",
-    "version": "3.0.3 1",
+    "version": "3.0.4 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -16290,6 +16290,18 @@
     "description": " "
   },
   {
+    "name": "gcc-armv7",
+    "version": "11.2.0 1",
+    "maintainer": "",
+    "description": " "
+  },
+  {
+    "name": "binutils-armv7",
+    "version": "2.37 1",
+    "maintainer": "",
+    "description": " "
+  },
+  {
     "name": "binutils-x86_64",
     "version": "2.37 1",
     "maintainer": "",
@@ -16759,13 +16771,7 @@
   },
   {
     "name": "go",
-    "version": "1.17.3 1",
-    "maintainer": "James Davies",
-    "description": " "
-  },
-  {
-    "name": "rtorrent",
-    "version": "0.9.8 1",
+    "version": "1.17.5 1",
     "maintainer": "James Davies",
     "description": " "
   },
@@ -16830,6 +16836,12 @@
     "description": " "
   },
   {
+    "name": "f2fs-tools",
+    "version": "1.14.0 1",
+    "maintainer": "James Davies",
+    "description": " "
+  },
+  {
     "name": "baseinit",
     "version": "1.0.4 1",
     "maintainer": "James Davies",
@@ -16861,7 +16873,7 @@
   },
   {
     "name": "mesa",
-    "version": "21.2.6 1",
+    "version": "21.3.1 1",
     "maintainer": "James Davies",
     "description": " "
   },
@@ -17047,7 +17059,7 @@
   },
   {
     "name": "libsixel",
-    "version": "1.8.6 1",
+    "version": "20211017 1",
     "maintainer": "James Davies",
     "description": " "
   },
@@ -17149,7 +17161,7 @@
   },
   {
     "name": "cmake",
-    "version": "3.22.0 1",
+    "version": "3.22.1 1",
     "maintainer": "James Davies",
     "description": " "
   },
@@ -17179,7 +17191,7 @@
   },
   {
     "name": "strace",
-    "version": "5.14 1",
+    "version": "5.15 1",
     "maintainer": "James Davies",
     "description": " "
   },
@@ -17238,18 +17250,6 @@
     "description": " "
   },
   {
-    "name": "libtorrent",
-    "version": "0.13.8 1",
-    "maintainer": "James Davies",
-    "description": " "
-  },
-  {
-    "name": "bkeymaps",
-    "version": " 1",
-    "maintainer": "James Davies",
-    "description": " "
-  },
-  {
     "name": "tzdata",
     "version": "symlink",
     "maintainer": "unknown",
@@ -17259,12 +17259,6 @@
     "name": "libwebp",
     "version": "symlink",
     "maintainer": "unknown",
-    "description": " "
-  },
-  {
-    "name": "mesa-demos",
-    "version": "8.4.0 1",
-    "maintainer": "James Davies",
     "description": " "
   },
   {
@@ -17367,6 +17361,12 @@
     "name": "e2fsprogs",
     "version": "symlink",
     "maintainer": "unknown",
+    "description": " "
+  },
+  {
+    "name": "aria2",
+    "version": "1.36.0 1",
+    "maintainer": "James Davies",
     "description": " "
   },
   {
@@ -18751,7 +18751,7 @@
   },
   {
     "name": "python-matplotlib",
-    "version": "3.5.0 1",
+    "version": "3.5.1 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
