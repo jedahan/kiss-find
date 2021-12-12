@@ -16165,13 +16165,13 @@
   },
   {
     "name": "sway",
-    "version": "02b412a3d4e930237a1d16554af6e1e7d1855c89 1",
+    "version": "f7725011efd3bc2762a0d1002ea5071470962213 1",
     "maintainer": "git-bruh",
     "description": " "
   },
   {
     "name": "wlroots",
-    "version": "27b96c9308882ccf96ae5b936f9e5fe22e5cfb72 1",
+    "version": "7660c54541d548ce631ab2839234e24a626a24cb 1",
     "maintainer": "git-bruh",
     "description": " "
   },
@@ -17587,7 +17587,7 @@
   },
   {
     "name": "gcc",
-    "version": "11.2.0 2",
+    "version": "11.2.0 3",
     "maintainer": "hovercats",
     "description": " "
   },
