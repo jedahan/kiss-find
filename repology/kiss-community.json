@@ -1123,7 +1123,7 @@
   },
   {
     "name": "isync",
-    "version": "1.4.3 1",
+    "version": "1.4.4 1",
     "maintainer": "Nihal Jere",
     "description": " "
   },
@@ -2443,8 +2443,8 @@
   },
   {
     "name": "libmupdf",
-    "version": "1.18.0 2",
-    "maintainer": "Nihal",
+    "version": "1.19.0 1",
+    "maintainer": "Nihal Jere",
     "description": " "
   },
   {
@@ -5917,7 +5917,7 @@
   },
   {
     "name": "graphite-harfbuzz",
-    "version": "3.1.2 1",
+    "version": "3.2.0 1",
     "maintainer": "aabacchus",
     "description": " "
   },
