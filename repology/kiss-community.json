@@ -4501,7 +4501,7 @@
   },
   {
     "name": "catgirl",
-    "version": "1.9a 1",
+    "version": "2.0 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -11598,6 +11598,12 @@
     "description": " "
   },
   {
+    "name": "opam-bin",
+    "version": "2.1.2 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "typescript",
     "version": "4.5.3 1",
     "maintainer": "Ethan",
@@ -11696,6 +11702,12 @@
   {
     "name": "mercury",
     "version": "20.06.1 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "crystal",
+    "version": "1.2.2 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -12253,7 +12265,7 @@
   },
   {
     "name": "freetype-harfbuzz",
-    "version": "2.11.0+3.2.0 1",
+    "version": "2.11.1+3.2.0 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13297,7 +13309,7 @@
   },
   {
     "name": "freetype-harfbuzz",
-    "version": "2.11.0+3.2.0 1",
+    "version": "2.11.1+3.2.0 1",
     "maintainer": "Ethan",
     "description": " "
   },
