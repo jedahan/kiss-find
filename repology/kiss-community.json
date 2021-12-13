@@ -1063,7 +1063,7 @@
   },
   {
     "name": "catgirl",
-    "version": "1.9a 2",
+    "version": "2.0 1",
     "maintainer": "aabacchus",
     "description": " "
   },
@@ -12445,7 +12445,7 @@
   },
   {
     "name": "libinput",
-    "version": "1.19.2 1",
+    "version": "1.19.3 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -16303,7 +16303,7 @@
   },
   {
     "name": "atf",
-    "version": "2.5 1",
+    "version": "2.6 1",
     "maintainer": "James Davies",
     "description": " "
   },
@@ -16327,13 +16327,13 @@
   },
   {
     "name": "crust",
-    "version": "0.4 1",
+    "version": "0.5 1",
     "maintainer": "James Davies",
     "description": " "
   },
   {
     "name": "uboot-pinephone",
-    "version": "2021.07 1",
+    "version": "2021.10 1",
     "maintainer": "James Davies",
     "description": " "
   },
