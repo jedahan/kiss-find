@@ -666,6 +666,12 @@
     "description": " "
   },
   {
+    "name": "chicken",
+    "version": "5.3.0 1",
+    "maintainer": "aabacchus",
+    "description": " "
+  },
+  {
     "name": "libnghttp2",
     "version": "1.43.0 1",
     "maintainer": "git-bruh",
@@ -1399,8 +1405,8 @@
   },
   {
     "name": "oksh",
-    "version": "6.9 1",
-    "maintainer": "Aaron G",
+    "version": "7.0 1",
+    "maintainer": "Owen Rafferty",
     "description": " "
   },
   {
@@ -1423,7 +1429,7 @@
   },
   {
     "name": "exiftool",
-    "version": "12.36 1 ",
+    "version": "12.37 1 ",
     "maintainer": "Cédric",
     "description": " "
   },
@@ -1711,7 +1717,7 @@
   },
   {
     "name": "syncthing",
-    "version": "1.18.4 1",
+    "version": "1.18.5 1",
     "maintainer": "Cédric",
     "description": " "
   },
@@ -1789,13 +1795,13 @@
   },
   {
     "name": "bemenu",
-    "version": "0.6.3 1",
+    "version": "0.6.4 1",
     "maintainer": "git-bruh",
     "description": " "
   },
   {
     "name": "sccache",
-    "version": "0.2.15 1",
+    "version": "0.2.15 2",
     "maintainer": "Jason Eslick",
     "description": " "
   },
