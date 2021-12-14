@@ -11227,7 +11227,7 @@
   },
   {
     "name": "typescript",
-    "version": "4.5.3 1",
+    "version": "4.5.4 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -18312,14 +18312,14 @@
     "description": " "
   },
   {
-    "name": "qt6-declarative",
-    "version": "6.2.2 1",
+    "name": "iw",
+    "version": "5.16 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
   {
-    "name": "iw",
-    "version": "5.16 1",
+    "name": "tk",
+    "version": "8.6.12 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
@@ -18366,8 +18366,8 @@
     "description": " "
   },
   {
-    "name": "python-toml",
-    "version": "0.10.2 1",
+    "name": "redshift",
+    "version": "1.12 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
@@ -18390,8 +18390,8 @@
     "description": " "
   },
   {
-    "name": "python-pyqt-builder",
-    "version": "1.12.1 1",
+    "name": "compiler-rt",
+    "version": "13.0.0 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
@@ -18414,44 +18414,14 @@
     "description": " "
   },
   {
-    "name": "sip",
-    "version": "6.5.0 1",
-    "maintainer": "Owen Rafferty",
-    "description": " "
-  },
-  {
-    "name": "wtype",
-    "version": "0.3 1",
-    "maintainer": "Owen Rafferty",
-    "description": " "
-  },
-  {
     "name": "python-numpy",
     "version": "1.21.4 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
   {
-    "name": "fcft",
-    "version": "2.5.1 1",
-    "maintainer": "Owen Rafferty",
-    "description": " "
-  },
-  {
     "name": "python-mpmath",
     "version": "1.2.1 1",
-    "maintainer": "Owen Rafferty",
-    "description": " "
-  },
-  {
-    "name": "qt6-base",
-    "version": "6.2.2 1",
-    "maintainer": "Owen Rafferty",
-    "description": " "
-  },
-  {
-    "name": "qt6-wayland",
-    "version": "6.2.2 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
@@ -18492,6 +18462,12 @@
     "description": " "
   },
   {
+    "name": "tcl",
+    "version": "8.6.12 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
     "name": "ttf-font-awesome",
     "version": "5.15.4 1",
     "maintainer": "Owen Rafferty",
@@ -18524,12 +18500,6 @@
   {
     "name": "python-pythran",
     "version": "0.10.0 1",
-    "maintainer": "Owen Rafferty",
-    "description": " "
-  },
-  {
-    "name": "python-pyqt6",
-    "version": "6.2.2 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
@@ -18572,12 +18542,6 @@
   {
     "name": "python-pillow",
     "version": "8.4.0 1",
-    "maintainer": "Owen Rafferty",
-    "description": " "
-  },
-  {
-    "name": "python-pyqt6-sip",
-    "version": "13.2.0 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
@@ -18648,7 +18612,7 @@
     "description": " "
   },
   {
-    "name": "libseat",
+    "name": "xorg-server",
     "version": "symlink",
     "maintainer": "unknown",
     "description": " "
@@ -18666,12 +18630,6 @@
     "description": " "
   },
   {
-    "name": "nnn",
-    "version": "symlink",
-    "maintainer": "unknown",
-    "description": " "
-  },
-  {
     "name": "libmupdf",
     "version": "symlink",
     "maintainer": "unknown",
@@ -18679,12 +18637,6 @@
   },
   {
     "name": "firefox",
-    "version": "symlink",
-    "maintainer": "unknown",
-    "description": " "
-  },
-  {
-    "name": "libglvnd",
     "version": "symlink",
     "maintainer": "unknown",
     "description": " "
@@ -18762,12 +18714,6 @@
     "description": " "
   },
   {
-    "name": "foot-pgo",
-    "version": "symlink",
-    "maintainer": "unknown",
-    "description": " "
-  },
-  {
     "name": "alsa-utils",
     "version": "symlink",
     "maintainer": "unknown",
@@ -18828,8 +18774,8 @@
     "description": " "
   },
   {
-    "name": "tk",
-    "version": "8.6.12 1",
+    "name": "qt6-declarative",
+    "version": "6.2.2 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
@@ -18858,14 +18804,14 @@
     "description": " "
   },
   {
-    "name": "redshift",
-    "version": "1.12 1",
+    "name": "tinyalsa",
+    "version": "2.0.0 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
   {
-    "name": "tinyalsa",
-    "version": "2.0.0 1",
+    "name": "python-toml",
+    "version": "0.10.2 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
@@ -18876,8 +18822,44 @@
     "description": " "
   },
   {
+    "name": "python-pyqt-builder",
+    "version": "1.12.1 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
+    "name": "sip",
+    "version": "6.5.0 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
     "name": "python-pyqt5",
     "version": "5.15.6 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
+    "name": "wtype",
+    "version": "0.3 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
+    "name": "fcft",
+    "version": "2.5.1 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
+    "name": "qt6-base",
+    "version": "6.2.2 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
+    "name": "qt6-wayland",
+    "version": "6.2.2 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
@@ -18906,14 +18888,14 @@
     "description": " "
   },
   {
-    "name": "tcl",
-    "version": "8.6.12 1",
+    "name": "sndio",
+    "version": "1.8.1 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
   {
-    "name": "sndio",
-    "version": "1.8.1 1",
+    "name": "python-pyqt6",
+    "version": "6.2.2 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
@@ -18932,6 +18914,12 @@
   {
     "name": "gobject-introspection",
     "version": "1.70.0 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
+    "name": "python-pyqt6-sip",
+    "version": "13.2.0 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
