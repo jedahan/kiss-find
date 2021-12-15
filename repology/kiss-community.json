@@ -36,6 +36,12 @@
     "description": " "
   },
   {
+    "name": "mpop",
+    "version": "1.4.13 2",
+    "maintainer": "Nihal Jere",
+    "description": " "
+  },
+  {
     "name": "units",
     "version": "2.21 1",
     "maintainer": "Nihal Jere",
@@ -12900,6 +12906,12 @@
     "description": " "
   },
   {
+    "name": "tk",
+    "version": "8.6.12 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
     "name": "slop",
     "version": "7.6 1",
     "maintainer": "Ethan",
@@ -12913,7 +12925,7 @@
   },
   {
     "name": "palemoon",
-    "version": "29.4.2.1 1",
+    "version": "29.4.3 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13275,6 +13287,12 @@
     "name": "qt5",
     "version": "5.15.3 2",
     "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "tcl",
+    "version": "8.6.12 1",
+    "maintainer": "Owen Rafferty",
     "description": " "
   },
   {
@@ -18505,7 +18523,7 @@
   },
   {
     "name": "python-pythran",
-    "version": "0.10.0 1",
+    "version": "0.11.0 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
