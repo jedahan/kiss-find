@@ -11226,14 +11226,8 @@
     "description": " "
   },
   {
-    "name": "tk",
-    "version": "8.6.12 1",
-    "maintainer": "Ethan",
-    "description": " "
-  },
-  {
     "name": "elixir",
-    "version": "1.13.0 1",
+    "version": "1.13.1 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -11390,12 +11384,6 @@
   {
     "name": "nqp",
     "version": "2021.10 1",
-    "maintainer": "Ethan",
-    "description": " "
-  },
-  {
-    "name": "tcl",
-    "version": "8.6.12 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -11881,7 +11869,7 @@
   },
   {
     "name": "qemu",
-    "version": "6.1.0 1",
+    "version": "6.2.0 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -18342,12 +18330,6 @@
     "description": " "
   },
   {
-    "name": "tk",
-    "version": "8.6.12 1",
-    "maintainer": "Owen Rafferty",
-    "description": " "
-  },
-  {
     "name": "intel-media-driver",
     "version": "21.4.3 1",
     "maintainer": "Owen Rafferty",
@@ -18482,12 +18464,6 @@
   {
     "name": "libopusenc",
     "version": "0.2.1 1",
-    "maintainer": "Owen Rafferty",
-    "description": " "
-  },
-  {
-    "name": "tcl",
-    "version": "8.6.12 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
