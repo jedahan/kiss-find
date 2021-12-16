@@ -12349,7 +12349,7 @@
   },
   {
     "name": "firefox",
-    "version": "95.0 1",
+    "version": "94.0.2 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -17468,6 +17468,12 @@
   {
     "name": "fzf",
     "version": "0.28.0 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "kiss-find",
+    "version": "git 1",
     "maintainer": "hovercats",
     "description": " "
   },
