@@ -2188,6 +2188,7 @@ spice-protocol,0.14.3 1,https://github.com/ehawkvu/kiss-xorg,community/spice-pro
 sx,git 1,https://github.com/ehawkvu/kiss-xorg,community/sx,master,"Ethan"," "
 surf,2.1 1,https://github.com/ehawkvu/kiss-xorg,community/surf,master,"Ethan"," "
 goffice,0.10.50 1,https://github.com/ehawkvu/kiss-xorg,community/goffice,master,"Ethan"," "
+librewolf,95.0 1,https://github.com/ehawkvu/kiss-xorg,community/librewolf,master,"Ethan"," "
 xhost,1.0.8 1,https://github.com/ehawkvu/kiss-xorg,community/xhost,master,"Ethan"," "
 stalonetray,git 1,https://github.com/ehawkvu/kiss-xorg,community/stalonetray,master,"Ethan"," "
 cwm,git 1,https://github.com/ehawkvu/kiss-xorg,community/cwm,master,"Ethan"," "

@@ -13140,6 +13140,12 @@
     "description": " "
   },
   {
+    "name": "librewolf",
+    "version": "95.0 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "xhost",
     "version": "1.0.8 1",
     "maintainer": "Ethan",
