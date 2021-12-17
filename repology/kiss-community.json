@@ -12361,7 +12361,7 @@
   },
   {
     "name": "firefox-beta",
-    "version": "96.0b1 1",
+    "version": "96.0b6 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -12409,7 +12409,7 @@
   },
   {
     "name": "pango",
-    "version": "1.50.1 1",
+    "version": "1.50.2 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -18702,6 +18702,12 @@
     "description": " "
   },
   {
+    "name": "poppler",
+    "version": "symlink",
+    "maintainer": "unknown",
+    "description": " "
+  },
+  {
     "name": "oksh",
     "version": "symlink",
     "maintainer": "unknown",
@@ -18811,6 +18817,12 @@
   },
   {
     "name": "cyrus-sasl",
+    "version": "symlink",
+    "maintainer": "unknown",
+    "description": " "
+  },
+  {
+    "name": "texlive-bin",
     "version": "symlink",
     "maintainer": "unknown",
     "description": " "
