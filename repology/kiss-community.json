@@ -11533,7 +11533,7 @@
   },
   {
     "name": "tor",
-    "version": "0.4.6.8 1",
+    "version": "0.4.6.9 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -12349,7 +12349,7 @@
   },
   {
     "name": "firefox",
-    "version": "94.0.2 1",
+    "version": "95.0.1 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -12458,6 +12458,12 @@
   {
     "name": "chromium",
     "version": "96.0.4664.45 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "gnumeric",
+    "version": "1.12.50 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -12816,6 +12822,12 @@
     "description": " "
   },
   {
+    "name": "doxygen",
+    "version": "1.9.2 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "xrandr-invert-colors",
     "version": "git 1",
     "maintainer": "Arthur Williams",
@@ -13122,6 +13134,12 @@
     "description": " "
   },
   {
+    "name": "goffice",
+    "version": "0.10.50 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "xhost",
     "version": "1.0.8 1",
     "maintainer": "Ethan",
@@ -13218,6 +13236,12 @@
     "description": " "
   },
   {
+    "name": "lemonbar",
+    "version": "1.4 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "glew",
     "version": "2.2.0 1",
     "maintainer": "Ethan",
@@ -13278,6 +13302,12 @@
     "description": " "
   },
   {
+    "name": "fribidi",
+    "version": "1.0.11 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "tcl",
     "version": "8.6.12 1",
     "maintainer": "Owen Rafferty",
@@ -13314,8 +13344,20 @@
     "description": " "
   },
   {
+    "name": "libgsf",
+    "version": "1.14.47 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "xlennart-git",
     "version": "git 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "librsvg",
+    "version": "2.52.4 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13370,6 +13412,12 @@
   {
     "name": "webkit2gtk",
     "version": "2.34.2 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "abiword",
+    "version": "3.0.5 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13430,6 +13478,12 @@
   {
     "name": "imlib2",
     "version": "1.7.5 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "wv",
+    "version": "1.2.9 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -18061,7 +18115,7 @@
   },
   {
     "name": "brightnessctl",
-    "version": "0.5.1 1",
+    "version": "0.5.1 2",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -18319,7 +18373,7 @@
   },
   {
     "name": "imv",
-    "version": "4.3.0 1",
+    "version": "4.3.1 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
@@ -18343,7 +18397,7 @@
   },
   {
     "name": "python-fonttools",
-    "version": "4.28.3 1",
+    "version": "4.28.4 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
@@ -18481,7 +18535,7 @@
   },
   {
     "name": "intel-gmmlib",
-    "version": "21.3.4 1",
+    "version": "22.0.0 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
@@ -18493,7 +18547,7 @@
   },
   {
     "name": "cython",
-    "version": "0.29.25 1",
+    "version": "0.29.26 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
