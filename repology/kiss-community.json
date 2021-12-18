@@ -11269,7 +11269,7 @@
   },
   {
     "name": "nim",
-    "version": "1.6.0 1",
+    "version": "1.6.2 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -12091,7 +12091,7 @@
   },
   {
     "name": "pyright",
-    "version": "1.1.196 1",
+    "version": "1.1.197 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -12985,7 +12985,7 @@
   },
   {
     "name": "godot",
-    "version": "3.4 1",
+    "version": "3.4.1 1",
     "maintainer": "Ethan",
     "description": " "
   },
