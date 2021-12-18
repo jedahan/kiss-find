@@ -12385,7 +12385,7 @@
   },
   {
     "name": "mesa",
-    "version": "21.3.1 1",
+    "version": "21.3.2 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -12457,7 +12457,7 @@
   },
   {
     "name": "chromium",
-    "version": "96.0.4664.45 1",
+    "version": "96.0.4664.110 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13152,6 +13152,12 @@
     "description": " "
   },
   {
+    "name": "adwaita-icon-theme",
+    "version": "40.1.1 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "stalonetray",
     "version": "git 1",
     "maintainer": "Ethan",
@@ -13267,7 +13273,7 @@
   },
   {
     "name": "chromium",
-    "version": "95.0.4638.69 1",
+    "version": "96.0.4664.110 1",
     "maintainer": "Ethan",
     "description": " "
   },
