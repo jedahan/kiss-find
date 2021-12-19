@@ -13153,7 +13153,7 @@
   },
   {
     "name": "adwaita-icon-theme",
-    "version": "40.1.1 1",
+    "version": "41.0 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -16399,7 +16399,7 @@
   },
   {
     "name": "linux-pinephone",
-    "version": "5.15.1 1",
+    "version": "5.15.6 1",
     "maintainer": "James Davies",
     "description": " "
   },
@@ -16789,7 +16789,7 @@
   },
   {
     "name": "nano",
-    "version": "5.9 1 ",
+    "version": "6.0 1 ",
     "maintainer": "James Davies",
     "description": " "
   },
@@ -17347,7 +17347,7 @@
   },
   {
     "name": "wvkbd",
-    "version": "1 1",
+    "version": "0.5 1",
     "maintainer": "James Davies",
     "description": " "
   },
@@ -17425,7 +17425,7 @@
   },
   {
     "name": "bemenu",
-    "version": "0.6.3 1",
+    "version": "0.6.4 1",
     "maintainer": "James Davies",
     "description": " "
   },
