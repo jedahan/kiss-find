@@ -2926,7 +2926,7 @@ vimb,3.6.0 1,https://github.com/hovercats/kiss-dumpsterfire,extra/vimb,main,"hov
 ubase,git 4 ,https://github.com/hovercats/kiss-dumpsterfire,extra/ubase,main,"hovercats"," "
 onetrueawk,git 1,https://github.com/hovercats/kiss-dumpsterfire,extra/onetrueawk,main,"hovercats"," "
 9base,git 1 ,https://github.com/hovercats/kiss-dumpsterfire,extra/9base,main,"hovercats"," "
-linux,5.15.8 1,https://github.com/hovercats/kiss-dumpsterfire,extra/linux,main,"hovercats"," "
+linux,5.15.10 1,https://github.com/hovercats/kiss-dumpsterfire,extra/linux,main,"hovercats"," "
 fzf,0.28.0 1,https://github.com/hovercats/kiss-dumpsterfire,extra/fzf,main,"hovercats"," "
 kiss-find,git 1,https://github.com/hovercats/kiss-dumpsterfire,extra/kiss-find,main,"hovercats"," "
 figlet,git 1,https://github.com/hovercats/kiss-dumpsterfire,extra/figlet,main,"hovercats"," "
