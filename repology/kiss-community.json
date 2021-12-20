@@ -1038,6 +1038,12 @@
     "description": " "
   },
   {
+    "name": "oguri",
+    "version": "1.0 1",
+    "maintainer": "Mederim",
+    "description": " "
+  },
+  {
     "name": "libmupdf",
     "version": "1.19.0 1",
     "maintainer": "Nihal Jere",
@@ -11497,7 +11503,7 @@
   },
   {
     "name": "openblas",
-    "version": "0.3.18 1",
+    "version": "0.3.19 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -12391,7 +12397,7 @@
   },
   {
     "name": "firefox",
-    "version": "95.0.1 1",
+    "version": "95.0.2 1",
     "maintainer": "Ethan",
     "description": " "
   },
