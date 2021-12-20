@@ -2985,7 +2985,7 @@ figlet,git 1,https://github.com/hovercats/kiss-dumpsterfire,extra/figlet,main,"h
 dropbear,2020.81 1,https://github.com/hovercats/kiss-dumpsterfire,extra/dropbear,main,"hovercats"," "
 sm,git 1,https://github.com/hovercats/kiss-dumpsterfire,extra/sm,main,"hovercats"," "
 shellcheck-bin,0.7.2 1,https://github.com/hovercats/kiss-dumpsterfire,extra/shellcheck-bin,main,"hovercats"," "
-firmware,20211027 1,https://github.com/hovercats/kiss-dumpsterfire,extra/firmware,main,"hovercats"," "
+firmware,20211216 1,https://github.com/hovercats/kiss-dumpsterfire,extra/firmware,main,"hovercats"," "
 sbase,git 2,https://github.com/hovercats/kiss-dumpsterfire,extra/sbase,main,"hovercats"," "
 sdhcp,git 1,https://github.com/hovercats/kiss-dumpsterfire,extra/sdhcp,main,"hovercats"," "
 devour,git 1,https://github.com/hovercats/kiss-dumpsterfire,extra/devour,main,"hovercats"," "
