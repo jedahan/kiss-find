@@ -822,6 +822,12 @@
     "description": " "
   },
   {
+    "name": "wlr-randr",
+    "version": "2.0 1",
+    "maintainer": "Mederim",
+    "description": " "
+  },
+  {
     "name": "s6-rc",
     "version": "0.5.2.3 1",
     "maintainer": "Rio Liu",
@@ -3283,7 +3289,7 @@
   },
   {
     "name": "expat",
-    "version": "2.4.1 1",
+    "version": "2.4.2 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -3349,7 +3355,7 @@
   },
   {
     "name": "imagemagick",
-    "version": "7.1.0-17 1",
+    "version": "7.1.0-18 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -4075,7 +4081,7 @@
   },
   {
     "name": "webkit2gtk",
-    "version": "2.34.2 1",
+    "version": "2.34.3 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -4255,7 +4261,7 @@
   },
   {
     "name": "wlroots",
-    "version": "0.15.0 1",
+    "version": "0.14.1 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -4987,7 +4993,7 @@
   },
   {
     "name": "chezmoi",
-    "version": "2.9.3 1",
+    "version": "2.9.4 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
