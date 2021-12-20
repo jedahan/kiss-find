@@ -1477,7 +1477,7 @@
   },
   {
     "name": "nss",
-    "version": "3.71 1",
+    "version": "3.73.1 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
@@ -7087,415 +7087,415 @@
   },
   {
     "name": "syntax-highlighting",
-    "version": "5.83.0 1",
+    "version": "5.89.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "kconfig",
-    "version": "5.83.0 1",
+    "version": "5.89.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "kglobalaccel",
-    "version": "5.83.0 1",
+    "version": "5.89.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "kitemviews",
-    "version": "5.83.0 1",
+    "version": "5.89.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "kdelibs4support",
-    "version": "5.83.0 1",
+    "version": "5.89.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "kidletime",
-    "version": "5.83.0 1",
+    "version": "5.89.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "krunner",
-    "version": "5.83.0 1",
+    "version": "5.89.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "kiconthemes",
-    "version": "5.83.0 1",
+    "version": "5.89.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "kwidgetsaddons",
-    "version": "5.83.0 1",
+    "version": "5.89.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "kpackage",
-    "version": "5.83.0 1",
+    "version": "5.89.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "kemoticons",
-    "version": "5.83.0 1",
+    "version": "5.89.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "kcodecs",
-    "version": "5.83.0 1",
+    "version": "5.89.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "kwayland",
-    "version": "5.83.0 1",
+    "version": "5.89.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "qqc2-desktop-style",
-    "version": "5.83.0 1",
+    "version": "5.89.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "kross",
-    "version": "5.83.0 1",
+    "version": "5.89.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "kactivities",
-    "version": "5.83.0 1",
+    "version": "5.89.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "kwindowsystem",
-    "version": "5.83.0 1",
+    "version": "5.89.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "karchive",
-    "version": "5.83.0 1",
+    "version": "5.89.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "kpty",
-    "version": "5.83.0 1",
+    "version": "5.89.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "kcoreaddons",
-    "version": "5.83.0 1",
+    "version": "5.89.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "prison",
-    "version": "5.83.0 1",
+    "version": "5.89.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "kfilemetadata",
-    "version": "5.83.0 1",
+    "version": "5.89.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "kcompletion",
-    "version": "5.83.0 1",
+    "version": "5.89.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "attica",
-    "version": "5.83.0 1",
+    "version": "5.89.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "kparts",
-    "version": "5.83.0 1",
+    "version": "5.89.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "bluez-qt",
-    "version": "5.83.0 1",
+    "version": "5.89.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "sonnet",
-    "version": "5.83.0 1",
+    "version": "5.89.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "kdesu",
-    "version": "5.83.0 1",
+    "version": "5.89.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "solid",
-    "version": "5.83.0 1",
+    "version": "5.89.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "kdesignerplugin",
-    "version": "5.83.0 1",
+    "version": "5.89.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "purpose",
-    "version": "5.83.0 1",
+    "version": "5.89.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "kguiaddons",
-    "version": "5.83.0 1",
+    "version": "5.89.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "kded",
-    "version": "5.83.0 1",
+    "version": "5.89.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "kirigami2",
-    "version": "5.83.0 1",
+    "version": "5.89.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "kholidays",
-    "version": "5.83.0 1",
+    "version": "5.89.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "threadweaver",
-    "version": "5.83.0 1",
+    "version": "5.89.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "kjobwidgets",
-    "version": "5.83.0 1",
+    "version": "5.89.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "knewstuff",
-    "version": "5.83.0 1",
+    "version": "5.89.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "kio",
-    "version": "5.83.0 1",
+    "version": "5.89.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "kdbusaddons",
-    "version": "5.83.0 1",
+    "version": "5.89.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "kcmutils",
-    "version": "5.83.0 1",
+    "version": "5.89.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "ki18n",
-    "version": "5.83.0 1",
+    "version": "5.89.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "plasma-framework",
-    "version": "5.83.0 1",
+    "version": "5.89.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "kconfigwidgets",
-    "version": "5.83.0 1",
+    "version": "5.89.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "knotifications",
-    "version": "5.83.0 1",
+    "version": "5.89.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "kwallet",
-    "version": "5.83.0 1",
+    "version": "5.89.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "kinit",
-    "version": "5.83.0 1",
+    "version": "5.89.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "kcrash",
-    "version": "5.83.0 1",
+    "version": "5.89.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "kservice",
-    "version": "5.83.0 1",
+    "version": "5.89.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "kbookmarks",
-    "version": "5.83.0 1",
+    "version": "5.89.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "breeze-icons",
-    "version": "5.83.0 1",
+    "version": "5.89.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "knotifyconfig",
-    "version": "5.83.0 1",
+    "version": "5.89.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "ktexteditor",
-    "version": "5.83.0 1",
+    "version": "5.89.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "kauth",
-    "version": "5.83.0 1",
+    "version": "5.89.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "ktextwidgets",
-    "version": "5.83.0 1",
+    "version": "5.89.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "kquickcharts",
-    "version": "5.83.0 1",
+    "version": "5.89.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "kdeclarative",
-    "version": "5.83.0 1",
+    "version": "5.89.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "kitemmodels",
-    "version": "5.83.0 1",
+    "version": "5.89.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "kpeople",
-    "version": "5.83.0 1",
+    "version": "5.89.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "kunitconversion",
-    "version": "5.83.0 1",
+    "version": "5.89.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "kactivities-stats",
-    "version": "5.83.0 1",
+    "version": "5.89.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "kxmlgui",
-    "version": "5.83.0 1",
+    "version": "5.89.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "kdenlive",
-    "version": "21.04.2 1",
+    "version": "21.12.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "konversation",
-    "version": "21.04.2 1",
+    "version": "21.12.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "konsole",
-    "version": "21.04.2 1",
+    "version": "21.12.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "krita",
-    "version": "4.4.5 1",
+    "version": "4.4.8 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "dragon",
-    "version": "21.04.2 1",
+    "version": "21.12.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "filelight",
-    "version": "21.04.2 1",
+    "version": "21.12.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "gwenview",
-    "version": "21.04.2 1",
+    "version": "21.12.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
@@ -7513,25 +7513,25 @@
   },
   {
     "name": "kate",
-    "version": "21.04.2 1",
+    "version": "21.12.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "libktorrent",
-    "version": "21.04.2 1",
+    "version": "21.12.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "kvantum",
-    "version": "0.20.0 1",
+    "version": "0.20.2 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "libkomparediff2",
-    "version": "21.04.2 1",
+    "version": "21.12.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
@@ -7543,25 +7543,25 @@
   },
   {
     "name": "dolphin",
-    "version": "20.04.1 1",
+    "version": "21.12.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "kget",
-    "version": "21.04.2 1",
+    "version": "21.12.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "networkmanager",
-    "version": "1.30.4 1",
+    "version": "1.33.4 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "ktorrent",
-    "version": "21.04.2 1",
+    "version": "21.12.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
@@ -7573,13 +7573,13 @@
   },
   {
     "name": "elisa",
-    "version": "21.04.2 1",
+    "version": "21.12.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "ark",
-    "version": "21.04.2 1",
+    "version": "21.12.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
@@ -7591,25 +7591,19 @@
   },
   {
     "name": "latte-dock",
-    "version": "0.9.12 1",
+    "version": "0.10.4 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "kdevelop",
-    "version": "5.6.2 1",
+    "version": "21.12.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "gavl",
     "version": "1.4.0 1",
-    "maintainer": "Dilyn Corner",
-    "description": " "
-  },
-  {
-    "name": "py-sip",
-    "version": "4.19.24 2",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
@@ -7639,13 +7633,7 @@
   },
   {
     "name": "exiv2",
-    "version": "0.27.4 1",
-    "maintainer": "Dilyn Corner",
-    "description": " "
-  },
-  {
-    "name": "linux-pam",
-    "version": "1.5.1 1",
+    "version": "0.27.5 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
@@ -7657,7 +7645,7 @@
   },
   {
     "name": "qt5-x11extras",
-    "version": "5.15.3 1  ",
+    "version": "5.15.3 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
@@ -7668,20 +7656,32 @@
     "description": " "
   },
   {
-    "name": "libblockdev",
-    "version": "2.25 1",
+    "name": "libyaml",
+    "version": "0.2.5 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
-    "name": "phonon",
-    "version": "4.11.1 1",
+    "name": "libblockdev",
+    "version": "2.26 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "libgudev",
-    "version": "236 1",
+    "version": "237 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "phonon-qt5-vlc",
+    "version": "0.11.2 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "qt5-location",
+    "version": "5.15.2 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
@@ -7693,19 +7693,19 @@
   },
   {
     "name": "extra-cmake-modules",
-    "version": "5.83.0 1 ",
+    "version": "5.89.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "gpgme",
-    "version": "1.15.1 1",
+    "version": "1.16.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
-    "name": "fts-standalone",
-    "version": "1.2.7 1",
+    "name": "polkit-qt5",
+    "version": "0.114.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
@@ -7716,44 +7716,38 @@
     "description": " "
   },
   {
-    "name": "libbytesize",
-    "version": "2.5 1",
+    "name": "libpcap",
+    "version": "1.10.1 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
-    "name": "pyqt5",
-    "version": "5.15.1 2",
+    "name": "libbytesize",
+    "version": "2.6 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "qt5-declarative",
-    "version": "5.15.3 1  ",
+    "version": "5.15.3 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
-    "name": "xorg-server",
-    "version": "1.20.11 1",
-    "maintainer": "Dilyn Corner",
-    "description": " "
-  },
-  {
-    "name": "dmraid",
-    "version": "1.0.0.rc16-3 1",
+    "name": "phonon-qt5-gstreamer",
+    "version": "4.10.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "boost",
-    "version": "1.76.0 1 ",
+    "version": "1.76.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "sdl2",
-    "version": "2.0.14 1",
+    "version": "2.0.18 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
@@ -7770,8 +7764,8 @@
     "description": " "
   },
   {
-    "name": "wayland-protocols",
-    "version": "1.21 1",
+    "name": "cryptsetup",
+    "version": "2.4.2 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
@@ -7783,13 +7777,13 @@
   },
   {
     "name": "qt5-webchannel",
-    "version": "5.15.3 1  ",
+    "version": "5.15.3 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "mlt",
-    "version": "6.26.1 1",
+    "version": "7.0.1 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
@@ -7807,37 +7801,31 @@
   },
   {
     "name": "qca",
-    "version": "2.3.3 1",
+    "version": "2.3.4 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
-    "name": "gstreamer-plugins-ugly",
-    "version": " 1.18.3 1",
+    "name": "libxslt",
+    "version": "1.1.34 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "qt5-webengine",
-    "version": "5.15.2 1  ",
+    "version": "5.15.3 2",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
-    "name": "dracut",
-    "version": "git 1",
-    "maintainer": "Dilyn Corner",
-    "description": " "
-  },
-  {
-    "name": "phonon-backend-gstreamer",
-    "version": " 4.10.0 1",
+    "name": "ppp",
+    "version": "2.4.9 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "libgcrypt",
-    "version": "1.9.3 1",
+    "version": "1.9.4 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
@@ -7848,14 +7836,14 @@
     "description": " "
   },
   {
-    "name": "wayland",
-    "version": "1.19.0 1",
+    "name": "coreutils",
+    "version": "8.32 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
-    "name": "vc",
-    "version": "1.4.1 2",
+    "name": "phonon-qt5",
+    "version": "4.11.1 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
@@ -7866,26 +7854,50 @@
     "description": " "
   },
   {
+    "name": "sudo",
+    "version": "1.9.7p1 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
     "name": "dbus",
     "version": "1.13.18 2",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
-    "name": "libdbusmenu-qt",
-    "version": "0.9.3+16.04.20160218 1",
+    "name": "qt5-webkit",
+    "version": "5.212.0 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "ruby",
+    "version": "3.0.3 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "libical",
-    "version": "3.0.10 1",
+    "version": "3.0.12 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "cairo",
+    "version": "1.16.0 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "libdbusmenu-qt5",
+    "version": "0.9.3+16.04.20160218 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "qt5-networkauth",
-    "version": " 5.15.3 1",
+    "version": "5.15.3 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
@@ -7896,8 +7908,14 @@
     "description": " "
   },
   {
+    "name": "pam",
+    "version": "1.5.1 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
     "name": "mesa",
-    "version": "21.1.3 1",
+    "version": "21.3.1 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
@@ -7908,8 +7926,20 @@
     "description": " "
   },
   {
+    "name": "gperf",
+    "version": "3.1 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
     "name": "fftw",
-    "version": " 3.3.9 1",
+    "version": "3.3.10 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "pcre2",
+    "version": "10.39 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
@@ -7920,26 +7950,20 @@
     "description": " "
   },
   {
-    "name": "phonon-backend-vlc",
-    "version": "0.11.2 1",
-    "maintainer": "Dilyn Corner",
-    "description": " "
-  },
-  {
-    "name": "libXslt",
-    "version": "1.1.34 1 ",
+    "name": "gtk+3",
+    "version": "3.24.30 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "qt5",
-    "version": "5.15.3 1  ",
+    "version": "5.15.3 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "noto-fonts",
-    "version": " 20201226 1",
+    "version": "20211101 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
@@ -7969,13 +7993,13 @@
   },
   {
     "name": "polkit",
-    "version": "0.119 1",
+    "version": "0.120 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "wrapland",
-    "version": "0.522.0 1",
+    "version": "0.523.1 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
@@ -7987,7 +8011,7 @@
   },
   {
     "name": "bluez",
-    "version": "5.59 1",
+    "version": "5.62 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
@@ -7999,7 +8023,7 @@
   },
   {
     "name": "libgpg-error",
-    "version": "1.42 1 ",
+    "version": "1.43 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
@@ -8010,8 +8034,8 @@
     "description": " "
   },
   {
-    "name": "yaml",
-    "version": "0.2.5 1",
+    "name": "libepoxy",
+    "version": "1.5.8 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
@@ -8028,6 +8052,12 @@
     "description": " "
   },
   {
+    "name": "hyphen",
+    "version": "2.8.8 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
     "name": "qt5-multimedia",
     "version": "5.15.3 1",
     "maintainer": "Dilyn Corner",
@@ -8040,8 +8070,8 @@
     "description": " "
   },
   {
-    "name": "polkit-qt-1",
-    "version": "0.114.0 1",
+    "name": "gst-plugins-ugly",
+    "version": "1.18.3 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
@@ -8053,7 +8083,7 @@
   },
   {
     "name": "plasma-wayland-protocols",
-    "version": "1.3.0 1",
+    "version": "1.5.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
@@ -8072,6 +8102,18 @@
   {
     "name": "libsamplerate",
     "version": "0.2.1 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "wayland-protocols",
+    "version": "1.21 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "wayland",
+    "version": "1.19.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
@@ -8107,79 +8149,73 @@
   },
   {
     "name": "kmenuedit",
-    "version": "5.22.1 1",
+    "version": "5.23.4 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "kdeplasma-addons",
-    "version": "5.22.1 1",
+    "version": "5.23.4 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "powerdevil",
-    "version": "5.22.1 1",
+    "version": "5.23.4 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "plasma-workspace-wallpapers",
-    "version": "5.22.1 1",
+    "version": "5.23.4 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "kscreen",
-    "version": "5.22.1 1",
+    "version": "5.23.4 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "kwallet-pam",
-    "version": "5.22.1 1",
+    "version": "5.23.4 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "bluedevil",
-    "version": "5.22.1 1",
+    "version": "5.23.4 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "kde-cli-tools",
-    "version": "5.22.1 1",
-    "maintainer": "Dilyn Corner",
-    "description": " "
-  },
-  {
-    "name": "polkit-kde-agent-1",
-    "version": "5.22.1 1",
+    "version": "5.23.4 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "libkscreen",
-    "version": "5.22.1 1",
+    "version": "5.23.4 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "kinfocenter",
-    "version": "5.22.1 1",
+    "version": "5.23.4 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "kdecoration",
-    "version": "5.22.1 1",
+    "version": "5.23.4 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "kscreenlocker",
-    "version": "5.22.1 1",
+    "version": "5.23.4 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
@@ -8191,103 +8227,337 @@
   },
   {
     "name": "khotkeys",
-    "version": "5.22.1 1",
+    "version": "5.23.4 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "polkit-kde-agent",
+    "version": "5.23.4 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "ksysguard",
-    "version": "5.21.90 1",
+    "version": "5.22.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "ksshaskpass",
-    "version": "5.22.1 1",
+    "version": "5.23.4 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "plasma-workspace",
-    "version": "5.22.1 1",
+    "version": "5.23.4 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "libksysguard",
-    "version": "5.22.1 1",
+    "version": "5.23.4 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "plasma-integration",
-    "version": "5.22.1 1",
+    "version": "5.23.4 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "kwayland-integration",
-    "version": "5.22.1 1",
+    "version": "5.23.4 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "kwayland-server",
-    "version": "5.22.1 1",
+    "version": "5.23.4 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "systemsettings",
-    "version": "5.22.1 1",
+    "version": "5.23.4 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "plasma-desktop",
-    "version": "5.22.1 1",
+    "version": "5.23.4 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "plasma-browser-integration",
-    "version": "5.22.1 1",
+    "version": "5.23.4 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "kgamma5",
-    "version": "5.22.1 1",
+    "version": "5.23.4 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "kwin",
-    "version": "5.22.1 1",
+    "version": "5.23.4 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "drkonqi",
-    "version": "5.22.1 1",
+    "version": "5.23.4 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "breeze",
-    "version": "5.22.1 1",
+    "version": "5.23.4 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "layer-shell-qt",
-    "version": "5.22.1 1",
+    "version": "5.23.4 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "sddm-kcm",
-    "version": "5.22.1 1",
+    "version": "5.23.4 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "libxcb",
+    "version": "1.14 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "libXfixes",
+    "version": "6.0.0 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "libSM",
+    "version": "1.2.3 2",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "xcb-util-keysyms",
+    "version": "0.4.0 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "libXft",
+    "version": "2.3.3 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "libXdamage",
+    "version": "1.1.5 2",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "xcb-proto",
+    "version": "1.14.1 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "xcb-util-cursor",
+    "version": "0.1.3 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "libX11",
+    "version": "1.7.2 2",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "libxkbcommon",
+    "version": "1.3.0 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "libXrandr",
+    "version": "1.5.2 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "xorg-server",
+    "version": "1.20.11 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "libXtst",
+    "version": "1.2.3 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "xtrans",
+    "version": "1.4.0 2",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "libXau",
+    "version": "1.0.9 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "xcb-util-renderutil",
+    "version": "0.3.9 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "libXext",
+    "version": "1.3.4 2",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "libXScrnSaver",
+    "version": "1.2.3 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "libxshmfence",
+    "version": "1.3 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "libXcomposite",
+    "version": "0.4.5 2",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "libXcursor",
+    "version": "1.2.0 2",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "libICE",
+    "version": "1.0.10 2",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "xcb-util",
+    "version": "0.4.0 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "xkeyboard-config",
+    "version": "2.34 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "xorg-util-macros",
+    "version": "1.19.3 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "libXcvt",
+    "version": "0.1.1 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "libxkbfile",
+    "version": "1.1.0 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "libXt",
+    "version": "1.2.1 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "xcb-util-wm",
+    "version": "0.4.1 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "libXxf86vm",
+    "version": "1.1.4 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "libXfont2",
+    "version": "2.0.4 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "libXmu",
+    "version": "1.1.3 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "libfontenc",
+    "version": "1.1.4 2",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "libXi",
+    "version": "1.7.99.2 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "xorgproto",
+    "version": "2021.4.99.2 2",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "xcb-util-image",
+    "version": "0.4.0 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "xauth",
+    "version": "1.1 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "libXrender",
+    "version": "0.9.10 2",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
@@ -11862,6 +12132,12 @@
     "description": " "
   },
   {
+    "name": "boost",
+    "version": "1.77.0 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "grap",
     "version": "1.46 1",
     "maintainer": "Ethan",
@@ -11910,6 +12186,12 @@
     "description": " "
   },
   {
+    "name": "sc-im",
+    "version": "git 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "ttf-jetbrains-mono",
     "version": "2.221 1",
     "maintainer": "Ethan",
@@ -11934,8 +12216,26 @@
     "description": " "
   },
   {
+    "name": "libxls",
+    "version": "1.6.2 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "eudev-git",
     "version": "git 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "weechat",
+    "version": "3.4 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "libxlsxwriter",
+    "version": "1.1.4 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -11972,6 +12272,12 @@
   {
     "name": "pcre2",
     "version": "10.39 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "libzip",
+    "version": "1.8.0 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -18457,7 +18763,7 @@
   },
   {
     "name": "python-fonttools",
-    "version": "4.28.4 1",
+    "version": "4.28.5 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
@@ -18541,7 +18847,7 @@
   },
   {
     "name": "python-numpy",
-    "version": "1.21.4 1",
+    "version": "1.21.5 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
@@ -18655,7 +18961,7 @@
   },
   {
     "name": "openblas",
-    "version": "0.3.18 1",
+    "version": "0.3.19 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
