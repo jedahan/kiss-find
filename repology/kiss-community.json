@@ -12018,6 +12018,12 @@
     "description": " "
   },
   {
+    "name": "mpop",
+    "version": "1.4.16 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "upx",
     "version": "git 1",
     "maintainer": "Ethan",
@@ -13783,7 +13789,7 @@
   },
   {
     "name": "webkit2gtk",
-    "version": "2.34.2 1",
+    "version": "2.34.3 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13795,7 +13801,7 @@
   },
   {
     "name": "mplayer",
-    "version": "1.4 1",
+    "version": "1.4 2",
     "maintainer": "Ethan",
     "description": " "
   },
