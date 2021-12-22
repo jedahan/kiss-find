@@ -11605,7 +11605,7 @@
   },
   {
     "name": "gc",
-    "version": "8.2.0 1",
+    "version": "8.2.0 2",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -11797,7 +11797,7 @@
   },
   {
     "name": "snobol4",
-    "version": "2.2.1 1",
+    "version": "2.2.2 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -12457,7 +12457,7 @@
   },
   {
     "name": "pyright",
-    "version": "1.1.197 1",
+    "version": "1.1.198 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -12529,7 +12529,7 @@
   },
   {
     "name": "poppler",
-    "version": "21.12.0 1",
+    "version": "21.12.0 2",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -12816,14 +12816,14 @@
     "description": " "
   },
   {
-    "name": "xwayland",
-    "version": "21.1.4 1",
+    "name": "inkscape",
+    "version": "1.1.1 1",
     "maintainer": "Ethan",
     "description": " "
   },
   {
-    "name": "chromium",
-    "version": "96.0.4664.110 1",
+    "name": "xwayland",
+    "version": "21.1.4 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13302,6 +13302,12 @@
     "description": " "
   },
   {
+    "name": "double-conversion",
+    "version": "3.1.6 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "palemoon",
     "version": "29.4.3 1",
     "maintainer": "Ethan",
@@ -13556,6 +13562,12 @@
   {
     "name": "adwaita-icon-theme",
     "version": "41.0 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "potrace",
+    "version": "1.16 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13886,6 +13898,12 @@
   {
     "name": "sent",
     "version": "1 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "gobject-introspection",
+    "version": "1.70.0 1",
     "maintainer": "Ethan",
     "description": " "
   },
