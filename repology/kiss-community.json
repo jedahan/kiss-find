@@ -12775,7 +12775,7 @@
   },
   {
     "name": "pango",
-    "version": "1.50.2 1",
+    "version": "1.50.3 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13236,6 +13236,12 @@
     "description": " "
   },
   {
+    "name": "exiv2",
+    "version": "0.27.5 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "nsxiv",
     "version": "28 1",
     "maintainer": "Ethan",
@@ -13386,6 +13392,12 @@
     "description": " "
   },
   {
+    "name": "libmypaint",
+    "version": "1.6.1 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "gnuplot",
     "version": "5.4.2 1 ",
     "maintainer": "Ethan",
@@ -13512,6 +13524,12 @@
     "description": " "
   },
   {
+    "name": "mypaint-brushes",
+    "version": "2.0.2 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "libtasn1",
     "version": "4.18.0 1",
     "maintainer": "Ethan",
@@ -13632,6 +13650,12 @@
     "description": " "
   },
   {
+    "name": "gegl",
+    "version": "0.4.34 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "emacs",
     "version": "27.2 1",
     "maintainer": "Ethan",
@@ -13704,6 +13728,12 @@
     "description": " "
   },
   {
+    "name": "gimp",
+    "version": "2.99.8 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "libexif",
     "version": "0.6.24 1",
     "maintainer": "Ethan",
@@ -13748,6 +13778,12 @@
   {
     "name": "tinywm",
     "version": "git 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "poppler-data",
+    "version": "0.4.11 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13812,6 +13848,12 @@
     "description": " "
   },
   {
+    "name": "babl",
+    "version": "0.1.88 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "herbe",
     "version": "1.0.0 1 ",
     "maintainer": "Ethan",
@@ -13820,6 +13862,12 @@
   {
     "name": "polybar",
     "version": "3.5.7 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "gexiv2",
+    "version": "0.12.3 1",
     "maintainer": "Ethan",
     "description": " "
   },
