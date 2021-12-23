@@ -4111,7 +4111,7 @@
   },
   {
     "name": "meson",
-    "version": "0.60.2 1",
+    "version": "0.60.3 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -4183,7 +4183,7 @@
   },
   {
     "name": "libgrapheme",
-    "version": "git 1",
+    "version": "1 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -4237,7 +4237,7 @@
   },
   {
     "name": "imv",
-    "version": "4.3.1 1",
+    "version": "4.3.1 2",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -8478,6 +8478,12 @@
     "description": " "
   },
   {
+    "name": "xf86-input-libinput",
+    "version": "1.1.0 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
     "name": "xkeyboard-config",
     "version": "2.34 1",
     "maintainer": "Dilyn Corner",
@@ -12457,7 +12463,7 @@
   },
   {
     "name": "pyright",
-    "version": "1.1.198 1",
+    "version": "1.1.199 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -12763,7 +12769,7 @@
   },
   {
     "name": "gtk+3",
-    "version": "3.24.30 1",
+    "version": "3.24.31 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13387,7 +13393,7 @@
   },
   {
     "name": "godot",
-    "version": "3.4.1 1",
+    "version": "3.4.2 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -19021,7 +19027,7 @@
   },
   {
     "name": "intel-gmmlib",
-    "version": "22.0.0 1",
+    "version": "22.0.1 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
