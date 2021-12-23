@@ -12114,6 +12114,12 @@
     "description": " "
   },
   {
+    "name": "imagemagick",
+    "version": "7.1.0-18 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "lowdown",
     "version": "0.10.0 1",
     "maintainer": "Ethan",
@@ -12355,7 +12361,7 @@
   },
   {
     "name": "github-cli",
-    "version": "2.3.0 1",
+    "version": "2.4.0 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -12368,6 +12374,12 @@
   {
     "name": "fzy",
     "version": "1.0 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "sfeed",
+    "version": "1.1 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -12404,6 +12416,12 @@
   {
     "name": "pax",
     "version": "1.5.1 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "youtube-dl",
+    "version": "2021.12.17 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13315,7 +13333,7 @@
   },
   {
     "name": "double-conversion",
-    "version": "3.1.6 1",
+    "version": "3.1.7 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13964,6 +13982,12 @@
   {
     "name": "xnotify",
     "version": "0.8.1 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "schismtracker",
+    "version": "git 1",
     "maintainer": "Ethan",
     "description": " "
   },
