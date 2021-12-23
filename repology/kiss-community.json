@@ -17130,12 +17130,6 @@
     "description": " "
   },
   {
-    "name": "harfbuzz-icu",
-    "version": "3.1.2 1 ",
-    "maintainer": "James Davies",
-    "description": " "
-  },
-  {
     "name": "gnugrep",
     "version": "symlink",
     "maintainer": "unknown",
@@ -17299,7 +17293,7 @@
   },
   {
     "name": "patchelf",
-    "version": "0.13 1",
+    "version": "0.14.3 1",
     "maintainer": "James Davies",
     "description": " "
   },
@@ -17340,6 +17334,12 @@
     "description": " "
   },
   {
+    "name": "qemu",
+    "version": "6.2.0 1",
+    "maintainer": "James Davies",
+    "description": " "
+  },
+  {
     "name": "libelf",
     "version": "symlink",
     "maintainer": "unknown",
@@ -17377,7 +17377,13 @@
   },
   {
     "name": "nodejs",
-    "version": "17.2.0 1",
+    "version": "17.3.0 1",
+    "maintainer": "James Davies",
+    "description": " "
+  },
+  {
+    "name": "picocom",
+    "version": "3.2a 1",
     "maintainer": "James Davies",
     "description": " "
   },
@@ -17437,7 +17443,7 @@
   },
   {
     "name": "mesa",
-    "version": "21.3.1 1",
+    "version": "21.3.2 1",
     "maintainer": "James Davies",
     "description": " "
   },
@@ -17647,7 +17653,7 @@
   },
   {
     "name": "meson",
-    "version": "0.60.2 1",
+    "version": "0.60.3 1",
     "maintainer": "James Davies",
     "description": " "
   },
