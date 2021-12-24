@@ -1925,6 +1925,7 @@ libgccjit,11.2.0 1,https://github.com/ehawkvu/kiss-personal,langs/libgccjit,mast
 sbcl,2.1.11 1,https://github.com/ehawkvu/kiss-personal,langs/sbcl,master,"Ethan"," "
 mosml,2.10.1 1,https://github.com/ehawkvu/kiss-personal,langs/mosml,master,"Ethan"," "
 elixir,1.13.1 1,https://github.com/ehawkvu/kiss-personal,langs/elixir,master,"Ethan"," "
+stklos,1.70 1,https://github.com/ehawkvu/kiss-personal,langs/stklos,master,"Ethan"," "
 cyclone-scheme,git 1,https://github.com/ehawkvu/kiss-personal,langs/cyclone-scheme,master,"Ethan"," "
 typescript,4.5.4 1,https://github.com/ehawkvu/kiss-personal,langs/typescript,master,"Ethan"," "
 fsharp,10.2.3 1,https://github.com/ehawkvu/kiss-personal,langs/fsharp,master,"Ethan"," "
