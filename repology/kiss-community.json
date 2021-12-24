@@ -12000,6 +12000,12 @@
     "description": " "
   },
   {
+    "name": "ttf-vista-fonts",
+    "version": "1 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "notmuch",
     "version": "0.34.2 1",
     "maintainer": "Ethan",
@@ -12115,7 +12121,7 @@
   },
   {
     "name": "imagemagick",
-    "version": "7.1.0-18 1",
+    "version": "7.1.0-19 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -18582,6 +18588,12 @@
     "description": " "
   },
   {
+    "name": "yt-dlp",
+    "version": "2021.12.01 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
     "name": "vim",
     "version": "git 1",
     "maintainer": "hovercats",
@@ -18692,12 +18704,6 @@
   {
     "name": "lame",
     "version": "3.100 2",
-    "maintainer": "hovercats",
-    "description": " "
-  },
-  {
-    "name": "youtube-dl",
-    "version": "2021.06.06 1",
     "maintainer": "hovercats",
     "description": " "
   },
