@@ -11670,6 +11670,12 @@
     "description": " "
   },
   {
+    "name": "R",
+    "version": "4.1.2 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "ocaml",
     "version": "4.13.1 1",
     "maintainer": "Ethan",
@@ -11784,12 +11790,6 @@
     "description": " "
   },
   {
-    "name": "r-lang",
-    "version": "4.1.2 1",
-    "maintainer": "Ethan",
-    "description": " "
-  },
-  {
     "name": "libck",
     "version": "0.7.1 1",
     "maintainer": "Ethan",
@@ -11816,6 +11816,12 @@
   {
     "name": "erlang",
     "version": "24.2 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "racket",
+    "version": "8.3 1",
     "maintainer": "Ethan",
     "description": " "
   },
