@@ -11683,7 +11683,7 @@
   },
   {
     "name": "ruby",
-    "version": "3.0.3 1",
+    "version": "3.1.0 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -12517,7 +12517,7 @@
   },
   {
     "name": "pyright",
-    "version": "1.1.199 1",
+    "version": "1.1.200 1",
     "maintainer": "Ethan",
     "description": " "
   },
