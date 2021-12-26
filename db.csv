@@ -619,7 +619,7 @@ libwebp,1.2.1 1,https://github.com/CarbsLinux/repository,extra/libwebp,master,"C
 nodejs,17.3.0 1,https://github.com/CarbsLinux/repository,extra/nodejs,master,"Cem Keylan"," "
 nginx,1.21.4 1,https://github.com/CarbsLinux/repository,extra/nginx,master,"Cem Keylan"," "
 shellcheck-bin,0.8.0 1,https://github.com/CarbsLinux/repository,extra/shellcheck-bin,master,"Cem Keylan"," "
-ruby,3.0.3 1,https://github.com/CarbsLinux/repository,extra/ruby,master,"Cem Keylan"," "
+ruby,3.1.0 1,https://github.com/CarbsLinux/repository,extra/ruby,master,"Cem Keylan"," "
 bkeymaps,1.13 1,https://github.com/CarbsLinux/repository,extra/bkeymaps,master,"Cem Keylan"," "
 x265,3.5 2,https://github.com/CarbsLinux/repository,extra/x265,master,"Cem Keylan"," "
 libsoup,2.74.2 1,https://github.com/CarbsLinux/repository,extra/libsoup,master,"Cem Keylan"," "
