@@ -3091,7 +3091,7 @@
   },
   {
     "name": "byacc",
-    "version": "20210808 1",
+    "version": "20211224 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -3355,7 +3355,7 @@
   },
   {
     "name": "imagemagick",
-    "version": "7.1.0-18 1",
+    "version": "7.1.0-19 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -4855,7 +4855,7 @@
   },
   {
     "name": "fzf",
-    "version": "0.28.0 1",
+    "version": "0.29.0 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -5047,7 +5047,7 @@
   },
   {
     "name": "hugo",
-    "version": "0.91.0 1",
+    "version": "0.91.2 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
