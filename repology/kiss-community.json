@@ -5851,7 +5851,7 @@
   },
   {
     "name": "bmake",
-    "version": "20211024 1",
+    "version": "20211221 1",
     "maintainer": "aabacchus",
     "description": " "
   },
@@ -11538,6 +11538,12 @@
     "description": " "
   },
   {
+    "name": "yasm",
+    "version": "1.3.0 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "libgccjit",
     "version": "11.2.0 1",
     "maintainer": "Ethan",
@@ -11546,6 +11552,12 @@
   {
     "name": "sbcl",
     "version": "2.1.11 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "swi-prolog",
+    "version": "8.5.4 1",
     "maintainer": "Ethan",
     "description": " "
   },
