@@ -11586,6 +11586,12 @@
     "description": " "
   },
   {
+    "name": "maxima",
+    "version": "5.45.1 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "typescript",
     "version": "4.5.4 1",
     "maintainer": "Ethan",
@@ -12464,6 +12470,12 @@
   {
     "name": "pax",
     "version": "1.5.1 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "texinfo",
+    "version": "6.8 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13536,6 +13548,12 @@
     "description": " "
   },
   {
+    "name": "tkdiff",
+    "version": "5.3 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "jwm",
     "version": "2.4.0 1",
     "maintainer": "Ethan",
@@ -13885,7 +13903,7 @@
   },
   {
     "name": "libgsf",
-    "version": "1.14.47 1",
+    "version": "1.14.48 1",
     "maintainer": "Ethan",
     "description": " "
   },
