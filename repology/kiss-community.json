@@ -12631,25 +12631,25 @@
   },
   {
     "name": "texlive-pstricks",
-    "version": "2021.58293 1",
+    "version": "2021.61407 1",
     "maintainer": "Ethan",
     "description": " "
   },
   {
     "name": "texmf-dist",
-    "version": "2021.58710 2",
-    "maintainer": "Owen Rafferty",
+    "version": "2021.61403 1",
+    "maintainer": "Ethan",
     "description": " "
   },
   {
     "name": "texlive-humanities",
-    "version": "2021.58589 1",
+    "version": "2021.60935 1",
     "maintainer": "Ethan",
     "description": " "
   },
   {
     "name": "texlive-langkorean",
-    "version": "2021.58468 1",
+    "version": "2021.61183 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -12661,13 +12661,13 @@
   },
   {
     "name": "texlive-games",
-    "version": "2021.56833 1",
+    "version": "2021.60973 1",
     "maintainer": "Ethan",
     "description": " "
   },
   {
     "name": "texlive-publishers",
-    "version": "2021.58683 1",
+    "version": "2021.61397 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -12685,43 +12685,43 @@
   },
   {
     "name": "texlive-pictures",
-    "version": "2021.58558 1",
+    "version": "2021.61392 1",
     "maintainer": "Ethan",
     "description": " "
   },
   {
     "name": "texlive-langchinese",
-    "version": "2021.58583 1",
+    "version": "2021.61285 1",
     "maintainer": "Ethan",
     "description": " "
   },
   {
     "name": "texlive-music",
-    "version": "2021.58331 1",
+    "version": "2021.60382 1",
     "maintainer": "Ethan",
     "description": " "
   },
   {
     "name": "texlive-bibtexextra",
-    "version": "2021.58697 1",
+    "version": "2021.61406 1",
     "maintainer": "Ethan",
     "description": " "
   },
   {
     "name": "texlive-langjapanese",
-    "version": "2021.58632 1",
+    "version": "2021.61273 1",
     "maintainer": "Ethan",
     "description": " "
   },
   {
     "name": "texlive-langcyrillic",
-    "version": "2021.58426 1",
+    "version": "2021.60630 1",
     "maintainer": "Ethan",
     "description": " "
   },
   {
     "name": "texlive-science",
-    "version": "2021.58667 1",
+    "version": "2021.61383 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -12733,19 +12733,19 @@
   },
   {
     "name": "texlive-latexextra",
-    "version": "2021.58668 1",
+    "version": "2021.61405 1",
     "maintainer": "Ethan",
     "description": " "
   },
   {
     "name": "texlive-langextra",
-    "version": "2021.58019 1",
+    "version": "2021.60975 1",
     "maintainer": "Ethan",
     "description": " "
   },
   {
     "name": "texlive-fontsextra",
-    "version": "2021.58704 1",
+    "version": "2021.61408 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -18102,6 +18102,12 @@
     "description": " "
   },
   {
+    "name": "ccache",
+    "version": "4.5.1 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
     "name": "figlet",
     "version": "git 1",
     "maintainer": "hovercats",
@@ -18146,6 +18152,12 @@
   {
     "name": "devour",
     "version": "git 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "zstd",
+    "version": "1.5.0 1",
     "maintainer": "hovercats",
     "description": " "
   },
