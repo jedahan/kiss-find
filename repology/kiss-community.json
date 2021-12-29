@@ -378,6 +378,12 @@
     "description": " "
   },
   {
+    "name": "elinks",
+    "version": "0.15.0 1",
+    "maintainer": "TAAPArthur",
+    "description": " "
+  },
+  {
     "name": "mtr",
     "version": "0.94 1",
     "maintainer": "Xiaodong Xu",
@@ -757,7 +763,7 @@
   },
   {
     "name": "qpdf",
-    "version": "10.4.0 1 ",
+    "version": "10.5.0 1 ",
     "maintainer": "Cédric",
     "description": " "
   },
@@ -1447,7 +1453,7 @@
   },
   {
     "name": "exiftool",
-    "version": "12.37 1 ",
+    "version": "12.38 1 ",
     "maintainer": "Cédric",
     "description": " "
   },
@@ -1921,7 +1927,7 @@
   },
   {
     "name": "yt-dlp",
-    "version": "2021.12.01 1",
+    "version": "2021.12.27 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
@@ -1941,6 +1947,12 @@
     "name": "exfatprogs",
     "version": "1.1.2 1",
     "maintainer": "Zola",
+    "description": " "
+  },
+  {
+    "name": "cmatrix",
+    "version": "2.0 1",
+    "maintainer": "Mederim",
     "description": " "
   },
   {
@@ -2661,12 +2673,6 @@
     "name": "libmad",
     "version": "0.15.1b 1",
     "maintainer": "Jonathan Dahan",
-    "description": " "
-  },
-  {
-    "name": "libtorrent",
-    "version": "0.13.8 1",
-    "maintainer": "James Davies",
     "description": " "
   },
   {
@@ -11929,7 +11935,7 @@
   },
   {
     "name": "nginx",
-    "version": "1.21.4 1",
+    "version": "1.21.5 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13957,7 +13963,7 @@
   },
   {
     "name": "gexiv2",
-    "version": "0.12.3 1",
+    "version": "0.14.0 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -18102,6 +18108,12 @@
     "description": " "
   },
   {
+    "name": "axel",
+    "version": "2.17.10 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
     "name": "linux",
     "version": "5.15.11 1",
     "maintainer": "hovercats",
@@ -18420,6 +18432,12 @@
     "description": " "
   },
   {
+    "name": "jq",
+    "version": "1.6 2 ",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
     "name": "lua",
     "version": "5.4.3 1 ",
     "maintainer": "hovercats",
@@ -18450,6 +18468,12 @@
     "description": " "
   },
   {
+    "name": "go",
+    "version": "1.17.2 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
     "name": "freetype-harfbuzz",
     "version": "2.11.1+3.2.0 1",
     "maintainer": "hovercats",
@@ -18458,6 +18482,12 @@
   {
     "name": "x264",
     "version": "20190812-2245 4",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "ytfzf",
+    "version": "1.2.0 3 ",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -18512,6 +18542,12 @@
   {
     "name": "links",
     "version": "2.25 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "fzf",
+    "version": "0.28.0 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -18656,6 +18692,12 @@
   {
     "name": "e2fsprogs",
     "version": "1.46.4 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "luajit",
+    "version": "2.0.5 2 ",
     "maintainer": "hovercats",
     "description": " "
   },
