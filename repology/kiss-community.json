@@ -378,12 +378,6 @@
     "description": " "
   },
   {
-    "name": "elinks",
-    "version": "0.15.0 1",
-    "maintainer": "TAAPArthur",
-    "description": " "
-  },
-  {
     "name": "mtr",
     "version": "0.94 1",
     "maintainer": "Xiaodong Xu",
@@ -501,6 +495,12 @@
     "name": "iw",
     "version": "5.9 1",
     "maintainer": "Zola",
+    "description": " "
+  },
+  {
+    "name": "elinks",
+    "version": "0.15.0 1",
+    "maintainer": "Arthur Williams",
     "description": " "
   },
   {
