@@ -690,6 +690,12 @@
     "description": " "
   },
   {
+    "name": "yaml-cpp",
+    "version": "0.7.0 1",
+    "maintainer": "Mederim",
+    "description": " "
+  },
+  {
     "name": "libnghttp2",
     "version": "1.43.0 1",
     "maintainer": "git-bruh",
@@ -823,7 +829,7 @@
   },
   {
     "name": "go",
-    "version": "1.17.2 1",
+    "version": "1.17.5 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
@@ -1567,7 +1573,7 @@
   },
   {
     "name": "qemu",
-    "version": "6.1.0 1",
+    "version": "6.2.0 1",
     "maintainer": "James Davies",
     "description": " "
   },
@@ -2311,7 +2317,7 @@
   },
   {
     "name": "caddy",
-    "version": "2.4.5 1",
+    "version": "2.4.6 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
@@ -11785,7 +11791,7 @@
   },
   {
     "name": "txr",
-    "version": "272 1",
+    "version": "273 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -18534,6 +18540,12 @@
     "description": " "
   },
   {
+    "name": "axel",
+    "version": "2.17.10 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
     "name": "pixman",
     "version": "0.40.0 1",
     "maintainer": "hovercats",
@@ -18770,6 +18782,12 @@
   {
     "name": "ffmpeg",
     "version": "4.4.1 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "sdhcp",
+    "version": "0.1 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -20964,12 +20982,6 @@
     "description": " "
   },
   {
-    "name": "pybind11",
-    "version": "2.6.1 1",
-    "maintainer": "git-bruh",
-    "description": " "
-  },
-  {
     "name": "dolphin-emu",
     "version": "5.0.12247 1",
     "maintainer": "git-bruh",
@@ -21126,12 +21138,6 @@
     "description": " "
   },
   {
-    "name": "spotifyd",
-    "version": "0.3.0 7",
-    "maintainer": "Dilyn Corner",
-    "description": " "
-  },
-  {
     "name": "svkbd",
     "version": "0.2.2 1",
     "maintainer": "Dilyn Corner",
@@ -21158,12 +21164,6 @@
   {
     "name": "catclock-git",
     "version": "git 1",
-    "maintainer": "git-bruh",
-    "description": " "
-  },
-  {
-    "name": "openexr",
-    "version": "2.5.4 1",
     "maintainer": "git-bruh",
     "description": " "
   },
