@@ -5706,6 +5706,12 @@
     "description": " "
   },
   {
+    "name": "libolm",
+    "version": "3.2.8 1",
+    "maintainer": "aabacchus",
+    "description": " "
+  },
+  {
     "name": "loudmouth",
     "version": "1.5.4 1",
     "maintainer": "aabacchus",
@@ -5785,7 +5791,7 @@
   },
   {
     "name": "gomuks",
-    "version": "git 1",
+    "version": "0.2.4 1",
     "maintainer": "aabacchus",
     "description": " "
   },
