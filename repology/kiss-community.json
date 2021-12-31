@@ -2257,7 +2257,7 @@
   },
   {
     "name": "radare2",
-    "version": "5.4.2 1",
+    "version": "5.5.4 1",
     "maintainer": "Kyryl Melekhin",
     "description": " "
   },
@@ -2587,7 +2587,7 @@
   },
   {
     "name": "bottom",
-    "version": "0.6.4 1",
+    "version": "0.6.6 1",
     "maintainer": "Jason Eslick",
     "description": " "
   },
