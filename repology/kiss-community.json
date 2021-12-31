@@ -8616,6 +8616,540 @@
     "description": " "
   },
   {
+    "name": "llvm",
+    "version": "13.0.0 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "m4",
+    "version": "6.7 2",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "otools",
+    "version": "git 2",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "zlib-ng",
+    "version": "2.0.6 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "cmake",
+    "version": "3.22.1 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "zfs",
+    "version": "2.1.2 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "nawk",
+    "version": "git 2",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "oksh",
+    "version": "7.0 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "toybox",
+    "version": "281f30dde58cc16229690a522a0db5b61802220f 3",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "kiss",
+    "version": "5.5.27 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "flex",
+    "version": "2.6.4 4",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "sm",
+    "version": "0.1.1 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "libressl",
+    "version": "3.4.2 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "xz",
+    "version": "5.2.5 2",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "fossil",
+    "version": "2.17 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "byacc",
+    "version": "20211224 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "baseinit",
+    "version": "1.0.3 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "make",
+    "version": "20211221 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "b3sum",
+    "version": "b1de822a36b012f419b6e894896e33a1e34c0bd7 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "baselayout",
+    "version": "1 7",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "openntpd",
+    "version": "6.8p1 4",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "zstd",
+    "version": "1.5.1 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "curl",
+    "version": "7.80.0 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "smdev",
+    "version": "0.2.3 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "samurai",
+    "version": "1.2 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "musl",
+    "version": "1.2.2 2",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "bzip2",
+    "version": "1.0.8 2",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "libxml2",
+    "version": "2.9.12 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "dhcpcd",
+    "version": "9.4.1 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "elftoolchain",
+    "version": "f7e9afc6f9ad0d84ea73b4659c5d6d13275d2306 2",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "expat",
+    "version": "2.4.2 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "aerc",
+    "version": "1687e558d3fae4d5622677c031bb9365a8c3e261 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "go",
+    "version": "1.17.5 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "freetype-harfbuzz",
+    "version": "2.11.1+3.2.0 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "fontconfig",
+    "version": "2.13.94 2",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "rust",
+    "version": "1.55.0 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "pixman",
+    "version": "0.40.0 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "libpng",
+    "version": "1.6.37 2",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "libpciaccess",
+    "version": "0.16 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "opus",
+    "version": "git 2",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "pkgconf",
+    "version": "1.8.0 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "nss",
+    "version": "3.73.1 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "netbsd-curses",
+    "version": "0.3.2 3",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "perl",
+    "version": "5.34.0 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "dbus",
+    "version": "1.13.20 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "libwebp",
+    "version": "1.2.1 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "nodejs",
+    "version": "17.3.0 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "iosevka-nerd-font",
+    "version": "2.1.0 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "cairo",
+    "version": "1.17.4 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "libdrm",
+    "version": "2.4.109 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "sqlite",
+    "version": "3.37.0 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "libudev-zero",
+    "version": "1.0.0 2",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "wpa_supplicant",
+    "version": "2.9 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "libffi",
+    "version": "3.4.2 2",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "mesa",
+    "version": "21.3.2 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "chromium",
+    "version": "96.0.4664.45 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "npm",
+    "version": "0.1 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "iana-etc",
+    "version": "20200910 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "vim",
+    "version": "8.2.3598 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "python",
+    "version": "3.10.1 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "tzdata",
+    "version": "2021e 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "pipewire",
+    "version": "0.3.42 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "libva",
+    "version": "2.13.0 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "cozette-font",
+    "version": "1.9.0 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "meson",
+    "version": "0.60.3 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "libinput",
+    "version": "1.19.3 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "openssh",
+    "version": "8.8p1 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "bottom",
+    "version": "0.6.4 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "seatd",
+    "version": "0.6.3 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "libxkbcommon",
+    "version": "1.3.1 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "wlroots",
+    "version": "0.14.1 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "wayland-protocols",
+    "version": "1.24 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "wayland",
+    "version": "1.20.0 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "xkeyboard-config",
+    "version": "2.34 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "grim",
+    "version": "1.3.2 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "foot",
+    "version": "1.10.3 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "wayfire",
+    "version": "0.7.2 2",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "wev",
+    "version": "1.0.0 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "xdp-wlr",
+    "version": "9ef1d6aa2b611fdc2b6146d705dec44aacc92893 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "wl-clipboard-rs",
+    "version": "0.4.1 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "slurp",
+    "version": "1.3.2 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "wbg",
+    "version": "cd6b39257050df2ed1def9d868547fe9742c16d5 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "glib",
+    "version": "2.70.2 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "basu",
+    "version": "34471140993750d4af0da3f8feef77801276db36 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "alsa-lib",
+    "version": "1.2.6.1 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "qemu",
+    "version": "6.2.0 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "xdp",
+    "version": "1.10.1 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "alsa-utils",
+    "version": "1.2.6 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "linux-headers",
+    "version": "5.12 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
     "name": "gcc-bin",
     "version": "10.2.0 1",
     "maintainer": "Dilyn Corner",
