@@ -12127,7 +12127,7 @@
   },
   {
     "name": "sbcl",
-    "version": "2.1.11 1",
+    "version": "2.2.0 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13855,7 +13855,7 @@
   },
   {
     "name": "doxygen",
-    "version": "1.9.2 1",
+    "version": "1.9.3 1",
     "maintainer": "Ethan",
     "description": " "
   },
