@@ -3133,7 +3133,7 @@
   },
   {
     "name": "e2fsprogs",
-    "version": "1.46.4 1",
+    "version": "1.46.5 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -3409,7 +3409,7 @@
   },
   {
     "name": "entr",
-    "version": "5.0 1",
+    "version": "5.1 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -3751,7 +3751,7 @@
   },
   {
     "name": "nginx",
-    "version": "1.21.4 1",
+    "version": "1.21.5 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -3811,7 +3811,7 @@
   },
   {
     "name": "sqlite",
-    "version": "3.37.0 1",
+    "version": "3.37.1 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -3835,7 +3835,7 @@
   },
   {
     "name": "mesa",
-    "version": "21.3.2 1",
+    "version": "21.3.3 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -3937,7 +3937,7 @@
   },
   {
     "name": "bmake",
-    "version": "20211212 1",
+    "version": "20211221 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -3967,7 +3967,7 @@
   },
   {
     "name": "gtk4",
-    "version": "4.4.1 1",
+    "version": "4.6.0 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
