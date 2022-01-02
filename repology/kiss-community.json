@@ -3169,7 +3169,7 @@
   },
   {
     "name": "linux-headers",
-    "version": "5.15.11 1",
+    "version": "5.15.12 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -4831,7 +4831,7 @@
   },
   {
     "name": "xapian",
-    "version": "1.4.18 1",
+    "version": "1.4.19 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -18697,7 +18697,7 @@
   },
   {
     "name": "linux",
-    "version": "5.15.11 1",
+    "version": "5.15.12 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -18770,6 +18770,12 @@
   {
     "name": "tabbed",
     "version": "0.6 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "elfkickers",
+    "version": "3.2 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -18991,7 +18997,7 @@
   },
   {
     "name": "libxml2",
-    "version": "2.9.12 1",
+    "version": "2.9.12 2",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -19045,7 +19051,7 @@
   },
   {
     "name": "go",
-    "version": "1.17.2 1",
+    "version": "1.17.5 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -19069,7 +19075,7 @@
   },
   {
     "name": "fontconfig",
-    "version": "2.13.94 2",
+    "version": "2.13.94 3",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -19087,7 +19093,7 @@
   },
   {
     "name": "pixman",
-    "version": "0.40.0 1",
+    "version": "0.40.0 2",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -19117,7 +19123,7 @@
   },
   {
     "name": "libpng",
-    "version": "1.6.37 2",
+    "version": "1.6.37 3",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -19267,7 +19273,7 @@
   },
   {
     "name": "libffi",
-    "version": "3.4.2 2",
+    "version": "3.4.2 3",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -19459,7 +19465,7 @@
   },
   {
     "name": "wld",
-    "version": "git 1",
+    "version": "git 2",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -19471,13 +19477,13 @@
   },
   {
     "name": "velox",
-    "version": "git 1",
+    "version": "git 2",
     "maintainer": "hovercats",
     "description": " "
   },
   {
     "name": "swc",
-    "version": "git 1",
+    "version": "git 2",
     "maintainer": "hovercats",
     "description": " "
   },
