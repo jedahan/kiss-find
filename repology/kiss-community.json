@@ -19470,12 +19470,6 @@
     "description": " "
   },
   {
-    "name": "wl-clipboard",
-    "version": "297ab2a6fdd34c15c5eb3eb427be8daf753bcfd7 1",
-    "maintainer": "hovercats",
-    "description": " "
-  },
-  {
     "name": "velox",
     "version": "git 2",
     "maintainer": "hovercats",

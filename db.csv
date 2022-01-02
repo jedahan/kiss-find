@@ -3243,7 +3243,6 @@ dmenu,git 1,https://github.com/hovercats/kiss-somethingsomethingstatic,wayland/d
 xkeyboard-config,2.34 1,https://github.com/hovercats/kiss-somethingsomethingstatic,wayland/xkeyboard-config,master,"hovercats"," "
 libudev-zero,1.0.0 1,https://github.com/hovercats/kiss-somethingsomethingstatic,wayland/libudev-zero,master,"hovercats"," "
 wld,git 2,https://github.com/hovercats/kiss-somethingsomethingstatic,wayland/wld,master,"hovercats"," "
-wl-clipboard,297ab2a6fdd34c15c5eb3eb427be8daf753bcfd7 1,https://github.com/hovercats/kiss-somethingsomethingstatic,wayland/wl-clipboard,master,"hovercats"," "
 velox,git 2,https://github.com/hovercats/kiss-somethingsomethingstatic,wayland/velox,master,"hovercats"," "
 swc,git 2,https://github.com/hovercats/kiss-somethingsomethingstatic,wayland/swc,master,"hovercats"," "
 libinput,1.19.3 1,https://github.com/hovercats/kiss-somethingsomethingstatic,wayland/libinput,master,"hovercats"," "
