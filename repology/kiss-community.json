@@ -4765,7 +4765,7 @@
   },
   {
     "name": "feh",
-    "version": "3.7.2 1",
+    "version": "3.8 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -18763,7 +18763,7 @@
   },
   {
     "name": "zstd",
-    "version": "1.5.0 2",
+    "version": "1.5.0 1",
     "maintainer": "hovercats",
     "description": " "
   },
