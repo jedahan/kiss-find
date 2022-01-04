@@ -3907,7 +3907,7 @@
   },
   {
     "name": "mpv",
-    "version": "0.34.0 1",
+    "version": "0.34.1 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -13153,7 +13153,7 @@
   },
   {
     "name": "rebar3",
-    "version": "3.17.0 1",
+    "version": "3.18.0 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -19135,7 +19135,7 @@
   },
   {
     "name": "fzf",
-    "version": "0.28.0 1",
+    "version": "0.29.0 1",
     "maintainer": "hovercats",
     "description": " "
   },
