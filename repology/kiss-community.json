@@ -8713,7 +8713,7 @@
   },
   {
     "name": "byacc",
-    "version": "20211224 1",
+    "version": "20220101 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
@@ -8802,6 +8802,12 @@
     "description": " "
   },
   {
+    "name": "gopls",
+    "version": "0.7.4 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
     "name": "expat",
     "version": "2.4.2 1",
     "maintainer": "Dilyn Corner",
@@ -8852,6 +8858,12 @@
   {
     "name": "libpciaccess",
     "version": "0.16 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "exercism",
+    "version": "3.0.13 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
@@ -8923,7 +8935,7 @@
   },
   {
     "name": "sqlite",
-    "version": "3.37.0 1",
+    "version": "3.37.1 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
@@ -8947,7 +8959,7 @@
   },
   {
     "name": "mesa",
-    "version": "21.3.2 1",
+    "version": "21.3.3 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
@@ -8989,7 +9001,7 @@
   },
   {
     "name": "pipewire",
-    "version": "0.3.42 1",
+    "version": "0.3.42 2",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
@@ -9013,7 +9025,7 @@
   },
   {
     "name": "libinput",
-    "version": "1.19.3 1",
+    "version": "1.19.3 2",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
@@ -12805,7 +12817,7 @@
   },
   {
     "name": "bash",
-    "version": "5.1.p12 1",
+    "version": "5.1.p16 1",
     "maintainer": "Ethan",
     "description": " "
   },
