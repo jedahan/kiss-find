@@ -1758,6 +1758,12 @@
     "description": " "
   },
   {
+    "name": "tre",
+    "version": "0.8.0 1",
+    "maintainer": "Arthur Williams",
+    "description": " "
+  },
+  {
     "name": "tea",
     "version": "0.7.0 1",
     "maintainer": "Daniel M. Matongo",
@@ -12073,7 +12079,7 @@
   },
   {
     "name": "libunistring",
-    "version": "0.9.10 1",
+    "version": "1.0 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -12936,6 +12942,12 @@
     "description": " "
   },
   {
+    "name": "slime",
+    "version": "git 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "wyebadblock-git",
     "version": "git 1",
     "maintainer": "Ethan",
@@ -13393,7 +13405,7 @@
   },
   {
     "name": "firefox-beta",
-    "version": "96.0b6 1",
+    "version": "96.0b10 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -14071,7 +14083,7 @@
   },
   {
     "name": "gnuplot",
-    "version": "5.4.2 1 ",
+    "version": "5.4.3 1",
     "maintainer": "Ethan",
     "description": " "
   },
