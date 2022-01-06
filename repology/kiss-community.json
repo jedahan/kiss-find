@@ -3175,7 +3175,7 @@
   },
   {
     "name": "linux-headers",
-    "version": "5.15.12 1",
+    "version": "5.15.13 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -3817,7 +3817,7 @@
   },
   {
     "name": "sqlite",
-    "version": "3.37.1 1",
+    "version": "3.37.2 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -4381,7 +4381,7 @@
   },
   {
     "name": "iwd",
-    "version": "1.20 1",
+    "version": "1.21 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
