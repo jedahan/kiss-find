@@ -5724,12 +5724,6 @@
     "description": " "
   },
   {
-    "name": "libXft",
-    "version": "2.3.3-d385aa3e 1",
-    "maintainer": "aabacchus",
-    "description": " "
-  },
-  {
     "name": "stfl",
     "version": "0.24 1",
     "maintainer": "aabacchus",
@@ -12583,7 +12577,7 @@
   },
   {
     "name": "ostree",
-    "version": "2021.6 1",
+    "version": "2022.1 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -12739,7 +12733,7 @@
   },
   {
     "name": "mercurial",
-    "version": "6.0 1",
+    "version": "6.0.1 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13147,7 +13141,7 @@
   },
   {
     "name": "pyright",
-    "version": "1.1.203 1",
+    "version": "1.1.204 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -19140,12 +19134,6 @@
     "description": " "
   },
   {
-    "name": "sdl2",
-    "version": "2.0.16 4",
-    "maintainer": "hovercats",
-    "description": " "
-  },
-  {
     "name": "libpng",
     "version": "1.6.37 3",
     "maintainer": "hovercats",
@@ -19327,7 +19315,7 @@
   },
   {
     "name": "mpv",
-    "version": "0.34.0 1",
+    "version": "git 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -19508,12 +19496,6 @@
   {
     "name": "wbg",
     "version": "1.0.2 1",
-    "maintainer": "hovercats",
-    "description": " "
-  },
-  {
-    "name": "mpv",
-    "version": "git 1",
     "maintainer": "hovercats",
     "description": " "
   },
