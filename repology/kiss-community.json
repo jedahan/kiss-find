@@ -12942,6 +12942,12 @@
     "description": " "
   },
   {
+    "name": "readline",
+    "version": "8.1.p2 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "libzip",
     "version": "1.8.0 1",
     "maintainer": "Ethan",
@@ -13086,6 +13092,12 @@
     "description": " "
   },
   {
+    "name": "xlsx2csv",
+    "version": "git 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "radeontop",
     "version": "1.4 1",
     "maintainer": "Ethan",
@@ -13213,7 +13225,7 @@
   },
   {
     "name": "poppler",
-    "version": "21.12.0 2",
+    "version": "22.01.0 1",
     "maintainer": "Ethan",
     "description": " "
   },
