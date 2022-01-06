@@ -3193,7 +3193,7 @@
   },
   {
     "name": "curl",
-    "version": "7.80.0 1",
+    "version": "7.81.0 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -3379,7 +3379,7 @@
   },
   {
     "name": "mercurial",
-    "version": "6.0 1",
+    "version": "6.0.1 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -3637,7 +3637,7 @@
   },
   {
     "name": "poppler",
-    "version": "21.12.0 1",
+    "version": "22.01.0 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -3883,7 +3883,7 @@
   },
   {
     "name": "readline",
-    "version": "8.1p1 1",
+    "version": "8.1p2 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -4411,7 +4411,7 @@
   },
   {
     "name": "libsoup3",
-    "version": "3.0.3 1",
+    "version": "3.0.4 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -5035,7 +5035,7 @@
   },
   {
     "name": "chezmoi",
-    "version": "2.9.4 1",
+    "version": "2.9.5 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
