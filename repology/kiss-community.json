@@ -5718,6 +5718,12 @@
     "description": " "
   },
   {
+    "name": "ltrace",
+    "version": "0.7.3 1",
+    "maintainer": "aabacchus",
+    "description": " "
+  },
+  {
     "name": "loudmouth",
     "version": "1.5.4 1",
     "maintainer": "aabacchus",
@@ -5743,7 +5749,7 @@
   },
   {
     "name": "abcmidi",
-    "version": "2021.11.25 1",
+    "version": "2021.12.12 1",
     "maintainer": "aabacchus",
     "description": " "
   },
@@ -12348,6 +12354,12 @@
     "description": " "
   },
   {
+    "name": "gdbm",
+    "version": "1.22 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "quickjs",
     "version": "2021.03.27 1",
     "maintainer": "Ethan",
@@ -12386,6 +12398,12 @@
   {
     "name": "rakudo",
     "version": "2021.12 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "pypy3",
+    "version": "7.3.7 1",
     "maintainer": "Ethan",
     "description": " "
   },
