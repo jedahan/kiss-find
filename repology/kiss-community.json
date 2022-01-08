@@ -13573,8 +13573,8 @@
   },
   {
     "name": "st",
-    "version": "0.8.4 1",
-    "maintainer": "Dylan Araps",
+    "version": "0.8.5 1",
+    "maintainer": "Ethan",
     "description": " "
   },
   {
@@ -14539,7 +14539,7 @@
   },
   {
     "name": "svkbd",
-    "version": "0.4 1",
+    "version": "0.4.1 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -14725,7 +14725,7 @@
   },
   {
     "name": "dwm",
-    "version": "6.2 1",
+    "version": "6.3 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -25833,6 +25833,18 @@
     "name": "vulkan-loader",
     "version": "1.2.188 1",
     "maintainer": "Kyryl Melekhin",
+    "description": " "
+  },
+  {
+    "name": "mpd",
+    "version": "0.23.5",
+    "maintainer": "mayinz",
+    "description": " "
+  },
+  {
+    "name": "elogind",
+    "version": "246.10 1",
+    "maintainer": "mayinz",
     "description": " "
   },
   {
