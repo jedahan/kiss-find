@@ -829,7 +829,7 @@
   },
   {
     "name": "go",
-    "version": "1.17.5 1",
+    "version": "1.17.6 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
@@ -1501,7 +1501,7 @@
   },
   {
     "name": "nss",
-    "version": "3.73.1 1",
+    "version": "3.74 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
@@ -8755,7 +8755,7 @@
   },
   {
     "name": "curl",
-    "version": "7.80.0 1",
+    "version": "7.81.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
@@ -8821,7 +8821,7 @@
   },
   {
     "name": "go",
-    "version": "1.17.5 1",
+    "version": "1.17.6 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
@@ -8881,7 +8881,7 @@
   },
   {
     "name": "nss",
-    "version": "3.73.1 1",
+    "version": "3.74 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
@@ -8935,7 +8935,7 @@
   },
   {
     "name": "sqlite",
-    "version": "3.37.1 1",
+    "version": "3.37.2 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
@@ -8983,7 +8983,7 @@
   },
   {
     "name": "vim",
-    "version": "8.2.3598 1",
+    "version": "8.2.4018 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
@@ -9001,7 +9001,7 @@
   },
   {
     "name": "pipewire",
-    "version": "0.3.42 2",
+    "version": "0.3.43 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
@@ -13544,6 +13544,12 @@
   {
     "name": "xwayland",
     "version": "21.1.4 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "chromium",
+    "version": "97.0.4692.71 1",
     "maintainer": "Ethan",
     "description": " "
   },
