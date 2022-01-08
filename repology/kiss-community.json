@@ -541,8 +541,8 @@
   },
   {
     "name": "lld",
-    "version": "12.0.1 2",
-    "maintainer": "ominitay",
+    "version": "13.0.0 1",
+    "maintainer": "tslil clingman",
     "description": " "
   },
   {
@@ -19074,18 +19074,6 @@
     "description": " "
   },
   {
-    "name": "jq",
-    "version": "1.6 2 ",
-    "maintainer": "hovercats",
-    "description": " "
-  },
-  {
-    "name": "lua",
-    "version": "5.4.3 1 ",
-    "maintainer": "hovercats",
-    "description": " "
-  },
-  {
     "name": "dhcpcd",
     "version": "9.4.1 1",
     "maintainer": "hovercats",
@@ -19104,26 +19092,8 @@
     "description": " "
   },
   {
-    "name": "xfsprogs",
-    "version": "5.13.0 1",
-    "maintainer": "hovercats",
-    "description": " "
-  },
-  {
-    "name": "go",
-    "version": "1.17.5 1",
-    "maintainer": "hovercats",
-    "description": " "
-  },
-  {
     "name": "freetype-harfbuzz",
     "version": "2.11.1+3.2.0 1",
-    "maintainer": "hovercats",
-    "description": " "
-  },
-  {
-    "name": "ytfzf",
-    "version": "1.2.0 3 ",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -19136,12 +19106,6 @@
   {
     "name": "tinyalsa",
     "version": "2.0.0 1",
-    "maintainer": "hovercats",
-    "description": " "
-  },
-  {
-    "name": "axel",
-    "version": "2.17.10 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -19182,12 +19146,6 @@
     "description": " "
   },
   {
-    "name": "fzf",
-    "version": "0.29.0 1",
-    "maintainer": "hovercats",
-    "description": " "
-  },
-  {
     "name": "xvidcore",
     "version": "1.3.7 1",
     "maintainer": "hovercats",
@@ -19196,12 +19154,6 @@
   {
     "name": "libpciaccess",
     "version": "0.16 1",
-    "maintainer": "hovercats",
-    "description": " "
-  },
-  {
-    "name": "scroll",
-    "version": "git 2",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -19218,26 +19170,8 @@
     "description": " "
   },
   {
-    "name": "zip",
-    "version": "3.0 1",
-    "maintainer": "hovercats",
-    "description": " "
-  },
-  {
     "name": "opus",
     "version": "1.3.1 1",
-    "maintainer": "hovercats",
-    "description": " "
-  },
-  {
-    "name": "oksh",
-    "version": "7.0 1",
-    "maintainer": "hovercats",
-    "description": " "
-  },
-  {
-    "name": "pfetch",
-    "version": "0.6.0 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -19326,26 +19260,8 @@
     "description": " "
   },
   {
-    "name": "luajit",
-    "version": "2.0.5 2 ",
-    "maintainer": "hovercats",
-    "description": " "
-  },
-  {
-    "name": "yt-dlp",
-    "version": "2021.12.01 1",
-    "maintainer": "hovercats",
-    "description": " "
-  },
-  {
     "name": "vim",
     "version": "git 1",
-    "maintainer": "hovercats",
-    "description": " "
-  },
-  {
-    "name": "dash",
-    "version": "0.5.11.5 1 ",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -19392,12 +19308,6 @@
     "description": " "
   },
   {
-    "name": "mksh",
-    "version": "59c 1 ",
-    "maintainer": "hovercats",
-    "description": " "
-  },
-  {
     "name": "brightnessctl",
     "version": "0.5.1 2",
     "maintainer": "hovercats",
@@ -19416,12 +19326,6 @@
     "description": " "
   },
   {
-    "name": "smdev",
-    "version": "git 2",
-    "maintainer": "hovercats",
-    "description": " "
-  },
-  {
     "name": "util-linux",
     "version": "2.37.2 1",
     "maintainer": "hovercats",
@@ -19436,12 +19340,6 @@
   {
     "name": "ncurses",
     "version": "6.3 3",
-    "maintainer": "hovercats",
-    "description": " "
-  },
-  {
-    "name": "mtm",
-    "version": "1.2.1 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -19532,6 +19430,108 @@
   {
     "name": "wbg",
     "version": "1.0.2 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "jq",
+    "version": "1.6 2 ",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "lua",
+    "version": "5.4.3 1 ",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "xfsprogs",
+    "version": "5.13.0 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "go",
+    "version": "1.17.5 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "ytfzf",
+    "version": "1.2.0 3 ",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "axel",
+    "version": "2.17.10 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "fzf",
+    "version": "0.29.0 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "scroll",
+    "version": "git 2",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "zip",
+    "version": "3.0 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "oksh",
+    "version": "7.0 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "pfetch",
+    "version": "0.6.0 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "luajit",
+    "version": "2.0.5 2 ",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "yt-dlp",
+    "version": "2021.12.01 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "dash",
+    "version": "0.5.11.5 1 ",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "mksh",
+    "version": "59c 1 ",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "smdev",
+    "version": "git 2",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "mtm",
+    "version": "1.2.1 1",
     "maintainer": "hovercats",
     "description": " "
   },
