@@ -13548,12 +13548,6 @@
     "description": " "
   },
   {
-    "name": "chromium",
-    "version": "97.0.4692.71 1",
-    "maintainer": "Ethan",
-    "description": " "
-  },
-  {
     "name": "gnumeric",
     "version": "1.12.50 1",
     "maintainer": "Ethan",
@@ -14461,7 +14455,7 @@
   },
   {
     "name": "chromium",
-    "version": "96.0.4664.110 1",
+    "version": "97.0.4692.71 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -19015,7 +19009,7 @@
   },
   {
     "name": "byacc",
-    "version": "20210808 1",
+    "version": "20220101 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -19045,7 +19039,7 @@
   },
   {
     "name": "curl",
-    "version": "7.80.0 1",
+    "version": "7.81.0 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -19237,7 +19231,7 @@
   },
   {
     "name": "sqlite",
-    "version": "3.37.0 1",
+    "version": "3.37.2 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -19261,7 +19255,7 @@
   },
   {
     "name": "e2fsprogs",
-    "version": "1.46.4 1",
+    "version": "1.46.5 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -19440,6 +19434,18 @@
     "description": " "
   },
   {
+    "name": "yash",
+    "version": "2.52 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "elinks",
+    "version": "0.15.0 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
     "name": "jq",
     "version": "1.6 2 ",
     "maintainer": "hovercats",
@@ -19459,7 +19465,7 @@
   },
   {
     "name": "go",
-    "version": "1.17.5 1",
+    "version": "1.17.6 1",
     "maintainer": "hovercats",
     "description": " "
   },
