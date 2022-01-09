@@ -2034,7 +2034,7 @@ fsharp,10.2.3 1,https://github.com/ehawkvu/kiss-personal,langs/fsharp,master,"Et
 janet,1.18.1 1,https://github.com/ehawkvu/kiss-personal,langs/janet,master,"Ethan"," "
 go,1.17.6 1,https://github.com/ehawkvu/kiss-personal,langs/go,master,"Ethan"," "
 gforth,0.7.3 1,https://github.com/ehawkvu/kiss-personal,langs/gforth,master,"Ethan"," "
-vala,0.54.5 1,https://github.com/ehawkvu/kiss-personal,langs/vala,master,"Ethan"," "
+vala,0.54.6 1,https://github.com/ehawkvu/kiss-personal,langs/vala,master,"Ethan"," "
 nim,1.6.2 1,https://github.com/ehawkvu/kiss-personal,langs/nim,master,"Ethan"," "
 polyml,5.9 1,https://github.com/ehawkvu/kiss-personal,langs/polyml,master,"Ethan"," "
 gc,8.2.0 2,https://github.com/ehawkvu/kiss-personal,langs/gc,master,"Ethan"," "
