@@ -12661,7 +12661,7 @@
   },
   {
     "name": "notmuch",
-    "version": "0.34.2 1",
+    "version": "0.34.3 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13177,7 +13177,7 @@
   },
   {
     "name": "pyright",
-    "version": "1.1.205 1",
+    "version": "1.1.206 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -18877,7 +18877,7 @@
   },
   {
     "name": "st",
-    "version": "0.8.4 1",
+    "version": "0.8.5 1",
     "maintainer": "hovercats",
     "description": " "
   },
