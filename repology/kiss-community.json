@@ -3421,7 +3421,7 @@
   },
   {
     "name": "vala",
-    "version": "0.54.5 1",
+    "version": "0.54.6 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -4447,7 +4447,7 @@
   },
   {
     "name": "st",
-    "version": "0.8.4 1",
+    "version": "0.8.5 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -18757,7 +18757,7 @@
   },
   {
     "name": "linux",
-    "version": "5.15.12 1",
+    "version": "5.15.13 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -18919,7 +18919,7 @@
   },
   {
     "name": "dwm",
-    "version": "6.2 1",
+    "version": "6.3 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -19471,7 +19471,7 @@
   },
   {
     "name": "ytfzf",
-    "version": "1.2.0 3 ",
+    "version": "1.2.0 2 ",
     "maintainer": "hovercats",
     "description": " "
   },
