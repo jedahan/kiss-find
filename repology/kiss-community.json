@@ -13554,6 +13554,12 @@
     "description": " "
   },
   {
+    "name": "libreoffice",
+    "version": "7.2.5.2 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "gnumeric",
     "version": "1.12.50 1",
     "maintainer": "Ethan",
@@ -14312,6 +14318,12 @@
   {
     "name": "librewolf",
     "version": "95.0.2 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "neon",
+    "version": "0.32.1 1",
     "maintainer": "Ethan",
     "description": " "
   },
