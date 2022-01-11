@@ -5868,6 +5868,18 @@
     "description": " "
   },
   {
+    "name": "astronaut",
+    "version": "git 1",
+    "maintainer": "aabacchus",
+    "description": " "
+  },
+  {
+    "name": "acme-client",
+    "version": "git 1",
+    "maintainer": "aabacchus",
+    "description": " "
+  },
+  {
     "name": "nilfs-utils",
     "version": "2.2.8 1",
     "maintainer": "aabacchus",
@@ -12151,7 +12163,7 @@
   },
   {
     "name": "swi-prolog",
-    "version": "8.5.4 1",
+    "version": "8.5.5 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -19357,7 +19369,7 @@
   },
   {
     "name": "eiwd",
-    "version": "1.20 1",
+    "version": "1.21 1",
     "maintainer": "hovercats",
     "description": " "
   },
