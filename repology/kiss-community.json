@@ -12625,7 +12625,7 @@
   },
   {
     "name": "hdparm",
-    "version": "9.62 1",
+    "version": "9.63 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13447,7 +13447,7 @@
   },
   {
     "name": "firefox",
-    "version": "95.0.2 1",
+    "version": "96.0 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13459,7 +13459,7 @@
   },
   {
     "name": "firefox-beta",
-    "version": "96.0b10 1",
+    "version": "97.0b1 1",
     "maintainer": "Ethan",
     "description": " "
   },
