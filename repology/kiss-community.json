@@ -3757,7 +3757,7 @@
   },
   {
     "name": "nodejs",
-    "version": "17.3.0 1",
+    "version": "17.3.1 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -4159,7 +4159,7 @@
   },
   {
     "name": "meson",
-    "version": "0.60.3 1",
+    "version": "0.61.0 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
