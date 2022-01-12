@@ -409,8 +409,8 @@
   },
   {
     "name": "sinit",
-    "version": "1.1 1 ",
-    "maintainer": "Dylan Araps",
+    "version": "1.1 1",
+    "maintainer": "Owen Rafferty",
     "description": " "
   },
   {
@@ -871,8 +871,8 @@
   },
   {
     "name": "gmp",
-    "version": "6.2.1 1",
-    "maintainer": "Dylan Araps",
+    "version": "6.2.1 1 ",
+    "maintainer": "Owen Rafferty",
     "description": " "
   },
   {
@@ -961,7 +961,7 @@
   },
   {
     "name": "sgt-puzzles",
-    "version": "20211212 1",
+    "version": "20220109 1",
     "maintainer": "Jason Eslick",
     "description": " "
   },
@@ -979,8 +979,8 @@
   },
   {
     "name": "boost",
-    "version": "1.77.0 1",
-    "maintainer": "Dilyn Corner",
+    "version": "1.77.0 1 ",
+    "maintainer": "Owen Rafferty",
     "description": " "
   },
   {
@@ -1255,7 +1255,7 @@
   },
   {
     "name": "python-psutil",
-    "version": "5.8.0 1",
+    "version": "5.9.0 1",
     "maintainer": "Jason Eslick",
     "description": " "
   },
@@ -1447,8 +1447,14 @@
   },
   {
     "name": "pfetch",
-    "version": "0.6.0 1",
-    "maintainer": "Dylan Araps",
+    "version": "0.6.0 1 ",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
+    "name": "freeglut",
+    "version": "3.2.1 1",
+    "maintainer": "Mederim",
     "description": " "
   },
   {
@@ -1501,8 +1507,8 @@
   },
   {
     "name": "nss",
-    "version": "3.74 1",
-    "maintainer": "Dilyn Corner",
+    "version": "3.74 1 ",
+    "maintainer": "Owen Rafferty",
     "description": " "
   },
   {
@@ -1771,8 +1777,8 @@
   },
   {
     "name": "mpfr",
-    "version": "4.1.0 1",
-    "maintainer": "Dylan Araps",
+    "version": "4.1.0 1 ",
+    "maintainer": "Owen Rafferty",
     "description": " "
   },
   {
@@ -2083,8 +2089,8 @@
   },
   {
     "name": "nawk-git",
-    "version": "git 1",
-    "maintainer": "Dilyn Corner",
+    "version": "git 1 ",
+    "maintainer": "Owen Rafferty",
     "description": " "
   },
   {
@@ -2443,8 +2449,8 @@
   },
   {
     "name": "rsync",
-    "version": "3.2.3 1",
-    "maintainer": "Dilyn Corner",
+    "version": "3.2.3 1 ",
+    "maintainer": "Owen Rafferty",
     "description": " "
   },
   {
@@ -2533,7 +2539,7 @@
   },
   {
     "name": "bat",
-    "version": "0.18.3 1",
+    "version": "0.19.0 1",
     "maintainer": "Jason Eslick",
     "description": " "
   },
@@ -18924,6 +18930,12 @@
     "description": " "
   },
   {
+    "name": "surf",
+    "version": "2.1 2",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
     "name": "dmenu",
     "version": "5.0 1",
     "maintainer": "hovercats",
@@ -18938,6 +18950,12 @@
   {
     "name": "glazier",
     "version": "0.1 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "bgs",
+    "version": "git 1",
     "maintainer": "hovercats",
     "description": " "
   },
