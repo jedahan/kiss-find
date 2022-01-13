@@ -1,47 +1,7 @@
 [
   {
-    "name": "m4",
-    "version": "1.4.19 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "git",
-    "version": "2.34.1 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "openssl",
-    "version": "3.0.0 2",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "zlib",
-    "version": "1.2.11 3",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "pigz",
-    "version": "2.6 2",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "kiss",
-    "version": "5.5.28 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "grub",
-    "version": "2.06 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "busybox",
-    "version": "1.34.1 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "flex",
-    "version": "2.6.4 4",
+    "name": "bzip2",
+    "version": "1.0.8 1",
     "maintainer": "Dylan Araps"
   },
   {
@@ -50,33 +10,8 @@
     "maintainer": "Dylan Araps"
   },
   {
-    "name": "binutils",
-    "version": "2.37 2",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "xz",
-    "version": "5.2.5 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "baseinit",
-    "version": "1.0.3 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "make",
-    "version": "4.3 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "baselayout",
-    "version": "1 8",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "linux-headers",
-    "version": "5.10.54 1",
+    "name": "pigz",
+    "version": "2.6 2",
     "maintainer": "Dylan Araps"
   },
   {
@@ -85,8 +20,78 @@
     "maintainer": "Dylan Araps"
   },
   {
+    "name": "zlib",
+    "version": "1.2.11 3",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "flex",
+    "version": "2.6.4 4",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "xz",
+    "version": "5.2.5 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "busybox",
+    "version": "1.34.1 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "linux-headers",
+    "version": "5.10.54 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "openssl",
+    "version": "3.0.0 2",
+    "maintainer": "Dylan Araps"
+  },
+  {
     "name": "bison",
     "version": "3.8.2 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "make",
+    "version": "4.3 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "grub",
+    "version": "2.06 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "baseinit",
+    "version": "1.0.3 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "m4",
+    "version": "1.4.19 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "kiss",
+    "version": "5.5.28 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "binutils",
+    "version": "2.37 2",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "baselayout",
+    "version": "1 8",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "git",
+    "version": "2.34.1 1",
     "maintainer": "Dylan Araps"
   },
   {
@@ -95,413 +100,8 @@
     "maintainer": "Dylan Araps"
   },
   {
-    "name": "bzip2",
-    "version": "1.0.8 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "hicolor-icon-theme",
-    "version": "0.17 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "ttf-croscore",
-    "version": "1.31.0 2",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "strace",
-    "version": "5.15 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "libjpeg-turbo",
-    "version": "2.1.2 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "libogg",
-    "version": "1.3.5 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "glib",
-    "version": "2.70.2 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "dhcpcd",
-    "version": "9.4.1 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "dosfstools",
-    "version": "4.2 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "kirc",
-    "version": "0.2.9 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "expat",
-    "version": "2.4.1 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "llvm",
-    "version": "13.0.0 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "gnugrep",
-    "version": "3.7 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "openresolv",
-    "version": "3.12.0 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "firefox-privacy",
-    "version": "1.0 5",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "freetype-harfbuzz",
-    "version": "2.11.1+3.2.0 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "x264",
-    "version": "20190812-2245 4",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "clang",
-    "version": "13.0.0 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "scdoc",
-    "version": "1.11.2 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "fontconfig",
-    "version": "2.13.94 2",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "rust",
-    "version": "1.57.0 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "cmake",
-    "version": "3.22.1 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "ssu",
-    "version": "0.3.2 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "libpng",
-    "version": "1.6.37 2",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "xvidcore",
-    "version": "1.3.7 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
     "name": "firefox",
-    "version": "94.0 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "mdevd",
-    "version": "0.1.5.0 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "efibootmgr",
-    "version": "b9fedd6b6f57055164bc361bc5cf16a602843c6e 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "gnupg1",
-    "version": "1.4.23 2",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "ccache",
-    "version": "4.5.1 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "opus",
-    "version": "1.3.1 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "alsa-lib",
-    "version": "1.2.6.1 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "pkgconf",
-    "version": "1.8.0 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "atk",
-    "version": "2.36.0 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "adwaita-icon-theme",
-    "version": "41.0 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "libelf",
-    "version": "0.186 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "libass",
-    "version": "0.15.2 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "perl",
-    "version": "5.34.0 3",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "libwebp",
-    "version": "1.2.1 2",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "nodejs",
-    "version": "17.2.0 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "bkeymaps",
-    "version": "1.13 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "x265",
-    "version": "3.5 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "cairo",
-    "version": "1.16.0 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "gdk-pixbuf",
-    "version": "2.42.6 2",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "sqlite",
-    "version": "3.37.0 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "libudev-zero",
-    "version": "1.0.0 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "libvpx",
-    "version": "1.11.0 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "mold",
-    "version": "0.9.6 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "wpa_supplicant",
-    "version": "2.9 4",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "libffi",
-    "version": "3.4.2 2",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "e2fsprogs",
-    "version": "1.46.4 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "mesa",
-    "version": "21.3.1 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "mutt",
-    "version": "2.1.4 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "gtk+3",
-    "version": "3.24.30 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "vim",
-    "version": "git 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "mpv",
-    "version": "git 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "json-c",
-    "version": "0.15 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "python",
-    "version": "3.10.1 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "tzdata",
-    "version": "2021e 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "pango",
-    "version": "1.50.1 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "alsa-utils",
-    "version": "1.2.6 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "libva",
-    "version": "2.13.0 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "ffmpeg",
-    "version": "4.4.1 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "man-pages",
-    "version": "5.13 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "mandoc",
-    "version": "1.14.6 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "nasm",
-    "version": "2.15.05 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "zstd",
-    "version": "1.5.0 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "pcre",
-    "version": "8.45 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "opendoas",
-    "version": "6.8.1 2",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "libvorbis",
-    "version": "1.3.7 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "libtheora",
-    "version": "1.1.1 2",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "libva-utils",
-    "version": "2.13.0 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "meson",
-    "version": "0.60.2 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "util-linux",
-    "version": "2.37.2 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "intel-vaapi-driver",
-    "version": "2.4.1 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "openssh",
-    "version": "8.8p1 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "ncurses",
-    "version": "6.3 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "samurai",
-    "version": "1.2 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "lame",
-    "version": "3.100 2",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "efivar",
-    "version": "e830c0fc0dc658bf3d5b6184682317f2b8a3cf92 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "cbindgen",
-    "version": "0.20.0 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "eiwd",
-    "version": "1.20 1",
+    "version": "95.0 1",
     "maintainer": "Dylan Araps"
   },
   {
@@ -510,58 +110,13 @@
     "maintainer": "Dylan Araps"
   },
   {
-    "name": "libseat",
-    "version": "0.6.3 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "pixman",
-    "version": "0.40.0 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "wlroots",
-    "version": "0.14.1 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "libpciaccess",
-    "version": "0.16 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "wayland-protocols",
-    "version": "1.24 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "sway-no-seat",
-    "version": "6ffa4b1f7000cd90d63213820039ee432803e66a 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
     "name": "sway",
     "version": "1.6.1 2",
     "maintainer": "Dylan Araps"
   },
   {
-    "name": "wayland",
-    "version": "1.20.0 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "xkeyboard-config",
-    "version": "2.34 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "libdrm",
-    "version": "2.4.109 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "wlsunset",
-    "version": "0.2.0 1",
+    "name": "libseat",
+    "version": "0.6.3 1",
     "maintainer": "Dylan Araps"
   },
   {
@@ -570,13 +125,68 @@
     "maintainer": "Dylan Araps"
   },
   {
-    "name": "wl-clipboard",
-    "version": "297ab2a6fdd34c15c5eb3eb427be8daf753bcfd7 1",
+    "name": "wlroots",
+    "version": "0.14.1 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "wayland-protocols",
+    "version": "1.24 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "libdrm",
+    "version": "2.4.109 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "xkeyboard-config",
+    "version": "2.34 1",
     "maintainer": "Dylan Araps"
   },
   {
     "name": "foot",
     "version": "1.10.3 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "sway-no-seat",
+    "version": "6ffa4b1f7000cd90d63213820039ee432803e66a 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "libinput",
+    "version": "1.19.3 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "libpciaccess",
+    "version": "0.16 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "pixman",
+    "version": "0.40.0 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "slurp",
+    "version": "1.3.2 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "wayland",
+    "version": "1.20.0 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "wl-clipboard",
+    "version": "297ab2a6fdd34c15c5eb3eb427be8daf753bcfd7 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "wlsunset",
+    "version": "0.2.0 1",
     "maintainer": "Dylan Araps"
   },
   {
@@ -590,23 +200,413 @@
     "maintainer": "unknown"
   },
   {
-    "name": "slurp",
-    "version": "1.3.2 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
-    "name": "libinput",
-    "version": "1.19.3 1",
-    "maintainer": "Dylan Araps"
-  },
-  {
     "name": "wbg",
     "version": "1.0.2 1",
     "maintainer": "Dylan Araps"
   },
   {
+    "name": "mandoc",
+    "version": "1.14.6 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "cmake",
+    "version": "3.22.1 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "dhcpcd",
+    "version": "9.4.1 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "efivar",
+    "version": "e830c0fc0dc658bf3d5b6184682317f2b8a3cf92 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "cbindgen",
+    "version": "0.20.0 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "ffmpeg",
+    "version": "4.4.1 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "cairo",
+    "version": "1.16.0 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "alsa-utils",
+    "version": "1.2.6 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "libudev-zero",
+    "version": "1.0.0 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "libjpeg-turbo",
+    "version": "2.1.2 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "json-c",
+    "version": "0.15 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "kirc",
+    "version": "0.2.9 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "zstd",
+    "version": "1.5.0 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "expat",
+    "version": "2.4.1 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "x265",
+    "version": "3.5 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "gnupg1",
+    "version": "1.4.23 2",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "nasm",
+    "version": "2.15.05 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "opendoas",
+    "version": "6.8.1 2",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "rust",
+    "version": "1.57.0 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "mpv",
+    "version": "git 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "nodejs",
+    "version": "17.2.0 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "ccache",
+    "version": "4.5.1 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "mold",
+    "version": "0.9.6 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "openresolv",
+    "version": "3.12.0 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "meson",
+    "version": "0.60.2 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "ttf-croscore",
+    "version": "1.31.0 2",
+    "maintainer": "Dylan Araps"
+  },
+  {
     "name": "firefox",
-    "version": "95.0 1",
+    "version": "94.0 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "sqlite",
+    "version": "3.37.0 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "freetype-harfbuzz",
+    "version": "2.11.1+3.2.0 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "fontconfig",
+    "version": "2.13.94 2",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "mesa",
+    "version": "21.3.1 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "pcre",
+    "version": "8.45 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "pango",
+    "version": "1.50.1 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "xvidcore",
+    "version": "1.3.7 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "adwaita-icon-theme",
+    "version": "41.0 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "opus",
+    "version": "1.3.1 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "gtk+3",
+    "version": "3.24.30 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "samurai",
+    "version": "1.2 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "wpa_supplicant",
+    "version": "2.9 4",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "mdevd",
+    "version": "0.1.5.0 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "mutt",
+    "version": "2.1.4 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "libffi",
+    "version": "3.4.2 2",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "dosfstools",
+    "version": "4.2 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "alsa-lib",
+    "version": "1.2.6.1 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "lame",
+    "version": "3.100 2",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "libelf",
+    "version": "0.186 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "libass",
+    "version": "0.15.2 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "eiwd",
+    "version": "1.20 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "util-linux",
+    "version": "2.37.2 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "glib",
+    "version": "2.70.2 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "libvpx",
+    "version": "1.11.0 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "python",
+    "version": "3.10.1 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "firefox-privacy",
+    "version": "1.0 5",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "gdk-pixbuf",
+    "version": "2.42.6 2",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "llvm",
+    "version": "13.0.0 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "strace",
+    "version": "5.15 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "perl",
+    "version": "5.34.0 3",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "atk",
+    "version": "2.36.0 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "libvorbis",
+    "version": "1.3.7 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "libogg",
+    "version": "1.3.5 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "efibootmgr",
+    "version": "b9fedd6b6f57055164bc361bc5cf16a602843c6e 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "ssu",
+    "version": "0.3.2 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "pkgconf",
+    "version": "1.8.0 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "libva-utils",
+    "version": "2.13.0 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "intel-vaapi-driver",
+    "version": "2.4.1 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "hicolor-icon-theme",
+    "version": "0.17 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "ncurses",
+    "version": "6.3 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "man-pages",
+    "version": "5.13 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "bkeymaps",
+    "version": "1.13 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "libpng",
+    "version": "1.6.37 2",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "openssh",
+    "version": "8.8p1 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "x264",
+    "version": "20190812-2245 4",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "scdoc",
+    "version": "1.11.2 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "e2fsprogs",
+    "version": "1.46.4 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "tzdata",
+    "version": "2021e 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "libtheora",
+    "version": "1.1.1 2",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "libva",
+    "version": "2.13.0 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "clang",
+    "version": "13.0.0 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "libwebp",
+    "version": "1.2.1 2",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "gnugrep",
+    "version": "3.7 1",
+    "maintainer": "Dylan Araps"
+  },
+  {
+    "name": "vim",
+    "version": "git 1",
     "maintainer": "Dylan Araps"
   }
 ]
