@@ -12601,7 +12601,7 @@
   },
   {
     "name": "flatpak",
-    "version": "1.12.2 1",
+    "version": "1.12.3 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13201,7 +13201,7 @@
   },
   {
     "name": "pyright",
-    "version": "1.1.206 1",
+    "version": "1.1.208 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -14335,7 +14335,7 @@
   },
   {
     "name": "neon",
-    "version": "0.32.1 1",
+    "version": "0.32.2 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -19519,13 +19519,13 @@
   },
   {
     "name": "ytfzf",
-    "version": "1.2.0 2 ",
+    "version": "2.0 1 ",
     "maintainer": "hovercats",
     "description": " "
   },
   {
     "name": "axel",
-    "version": "2.17.10 1",
+    "version": "2.17.11 1",
     "maintainer": "hovercats",
     "description": " "
   },
