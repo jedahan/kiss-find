@@ -973,7 +973,7 @@
   },
   {
     "name": "ruby",
-    "version": "3.0.2 1",
+    "version": "3.0.3 1",
     "maintainer": "git-bruh",
     "description": " "
   },
@@ -19147,7 +19147,7 @@
   },
   {
     "name": "st",
-    "version": "git 4",
+    "version": "git 5",
     "maintainer": "hovercats",
     "description": " "
   },
