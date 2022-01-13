@@ -8731,7 +8731,7 @@
   },
   {
     "name": "byacc",
-    "version": "20220101 1",
+    "version": "20220109 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
@@ -8874,6 +8874,12 @@
     "description": " "
   },
   {
+    "name": "fantasque-nerd-font",
+    "version": "git 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
     "name": "libpciaccess",
     "version": "0.16 1",
     "maintainer": "Dilyn Corner",
@@ -8929,13 +8935,13 @@
   },
   {
     "name": "nodejs",
-    "version": "17.3.0 1",
+    "version": "17.3.1 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "iosevka-nerd-font",
-    "version": "2.1.0 1",
+    "version": "git 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
@@ -9037,7 +9043,7 @@
   },
   {
     "name": "meson",
-    "version": "0.60.3 1",
+    "version": "0.61.0 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
@@ -18787,7 +18793,7 @@
   },
   {
     "name": "linux",
-    "version": "5.15.13 1",
+    "version": "5.15.14 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -19717,7 +19723,7 @@
   },
   {
     "name": "intel-media-driver",
-    "version": "22.1.0 1",
+    "version": "22.1.1 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
@@ -19778,6 +19784,12 @@
   {
     "name": "python-six",
     "version": "1.16.0 1",
+    "maintainer": "Owen Rafferty",
+    "description": " "
+  },
+  {
+    "name": "nspr",
+    "version": "4.33 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
@@ -19963,14 +19975,8 @@
   },
   {
     "name": "bluez",
-    "version": "5.62 1",
+    "version": "5.63 1",
     "maintainer": "Owen Rafferty",
-    "description": " "
-  },
-  {
-    "name": "libtermkey",
-    "version": "symlink",
-    "maintainer": "unknown",
     "description": " "
   },
   {
@@ -19992,12 +19998,6 @@
     "description": " "
   },
   {
-    "name": "htop",
-    "version": "symlink",
-    "maintainer": "unknown",
-    "description": " "
-  },
-  {
     "name": "xorg-server",
     "version": "symlink",
     "maintainer": "unknown",
@@ -20005,12 +20005,6 @@
   },
   {
     "name": "rust",
-    "version": "symlink",
-    "maintainer": "unknown",
-    "description": " "
-  },
-  {
-    "name": "cava",
     "version": "symlink",
     "maintainer": "unknown",
     "description": " "
@@ -20076,12 +20070,6 @@
     "description": " "
   },
   {
-    "name": "tmux",
-    "version": "symlink",
-    "maintainer": "unknown",
-    "description": " "
-  },
-  {
     "name": "sccache",
     "version": "symlink",
     "maintainer": "unknown",
@@ -20101,12 +20089,6 @@
   },
   {
     "name": "python",
-    "version": "symlink",
-    "maintainer": "unknown",
-    "description": " "
-  },
-  {
-    "name": "alsa-utils",
     "version": "symlink",
     "maintainer": "unknown",
     "description": " "
