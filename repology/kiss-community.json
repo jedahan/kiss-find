@@ -1105,7 +1105,7 @@
   },
   {
     "name": "boost",
-    "version": "1.77.0 1 ",
+    "version": "1.78.0 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
@@ -12121,7 +12121,7 @@
   },
   {
     "name": "mesa",
-    "version": "21.3.3 1",
+    "version": "21.3.4 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -12241,7 +12241,7 @@
   },
   {
     "name": "elixir",
-    "version": "1.13.1 1",
+    "version": "1.13.2 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13855,7 +13855,7 @@
   },
   {
     "name": "mesa",
-    "version": "21.3.3 1",
+    "version": "21.3.4 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -18835,7 +18835,7 @@
   },
   {
     "name": "st",
-    "version": "git 5",
+    "version": "git 6",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -18919,7 +18919,7 @@
   },
   {
     "name": "linux",
-    "version": "5.15.14 1",
+    "version": "5.16 1",
     "maintainer": "hovercats",
     "description": " "
   },
