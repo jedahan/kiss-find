@@ -541,7 +541,7 @@
   },
   {
     "name": "pandoc-bin",
-    "version": "2.16.2 1 ",
+    "version": "2.17 1 ",
     "maintainer": "Cédric",
     "description": " "
   },
@@ -619,7 +619,7 @@
   },
   {
     "name": "chromium",
-    "version": "96.0.4664.45 1",
+    "version": "97.0.4692.71 1",
     "maintainer": "git-bruh",
     "description": " "
   },
@@ -685,7 +685,7 @@
   },
   {
     "name": "pipewire",
-    "version": "0.3.40 1",
+    "version": "0.3.43 1",
     "maintainer": "git-bruh",
     "description": " "
   },
@@ -1015,13 +1015,13 @@
   },
   {
     "name": "poppler",
-    "version": "21.12.0 1",
+    "version": "22.01.0 1",
     "maintainer": "Cédric",
     "description": " "
   },
   {
     "name": "exiftool",
-    "version": "12.38 1 ",
+    "version": "12.39 1 ",
     "maintainer": "Cédric",
     "description": " "
   },
@@ -2641,7 +2641,7 @@
   },
   {
     "name": "syncthing",
-    "version": "1.18.5 1",
+    "version": "1.18.6 1",
     "maintainer": "Cédric",
     "description": " "
   },
@@ -12702,12 +12702,6 @@
     "description": " "
   },
   {
-    "name": "boost",
-    "version": "1.77.0 1",
-    "maintainer": "Ethan",
-    "description": " "
-  },
-  {
     "name": "xapian",
     "version": "1.4.18 1",
     "maintainer": "Ethan",
@@ -17238,12 +17232,6 @@
     "description": " "
   },
   {
-    "name": "pipewire",
-    "version": "0.3.40 1",
-    "maintainer": "git-bruh",
-    "description": " "
-  },
-  {
     "name": "dracula-gtk-theme",
     "version": "2.0 1",
     "maintainer": "git-bruh",
@@ -18780,6 +18768,12 @@
     "description": " "
   },
   {
+    "name": "mesa",
+    "version": "21.3.4 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
     "name": "wmutils",
     "version": "git 1",
     "maintainer": "hovercats",
@@ -19104,6 +19098,18 @@
     "description": " "
   },
   {
+    "name": "userspace-rcu",
+    "version": "0.13.1 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "xfsprogs",
+    "version": "5.14.2 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
     "name": "libxkbcommon",
     "version": "1.3.1 1",
     "maintainer": "hovercats",
@@ -19243,7 +19249,7 @@
   },
   {
     "name": "meson",
-    "version": "0.60.2 1",
+    "version": "0.61.0 1",
     "maintainer": "hovercats",
     "description": " "
   },
