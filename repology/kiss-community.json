@@ -378,6 +378,12 @@
     "description": " "
   },
   {
+    "name": "zig",
+    "version": "0.9.0 1",
+    "maintainer": "tslil clingman",
+    "description": " "
+  },
+  {
     "name": "cmus",
     "version": "2.9.1 1",
     "maintainer": "Jonathan Dahan",
@@ -2541,6 +2547,12 @@
     "name": "links",
     "version": "2.25 1",
     "maintainer": "aabacchus",
+    "description": " "
+  },
+  {
+    "name": "btop",
+    "version": "1.1.4 1",
+    "maintainer": "tslil clingman",
     "description": " "
   },
   {
