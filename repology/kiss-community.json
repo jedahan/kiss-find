@@ -5797,7 +5797,7 @@
   },
   {
     "name": "abcmidi",
-    "version": "2021.12.12 1",
+    "version": "2022.01.13 1",
     "maintainer": "aabacchus",
     "description": " "
   },
@@ -19098,12 +19098,6 @@
     "description": " "
   },
   {
-    "name": "userspace-rcu",
-    "version": "0.13.1 1",
-    "maintainer": "hovercats",
-    "description": " "
-  },
-  {
     "name": "xfsprogs",
     "version": "5.14.2 1",
     "maintainer": "hovercats",
@@ -19903,7 +19897,7 @@
   },
   {
     "name": "python-numpy",
-    "version": "1.22.0 1",
+    "version": "1.22.1 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
