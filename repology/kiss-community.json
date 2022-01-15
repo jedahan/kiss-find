@@ -378,12 +378,6 @@
     "description": " "
   },
   {
-    "name": "zig",
-    "version": "0.9.0 1",
-    "maintainer": "tslil clingman",
-    "description": " "
-  },
-  {
     "name": "cmus",
     "version": "2.9.1 1",
     "maintainer": "Jonathan Dahan",
@@ -816,6 +810,12 @@
     "description": " "
   },
   {
+    "name": "zig",
+    "version": "0.9.0 1",
+    "maintainer": "tslil clingman",
+    "description": " "
+  },
+  {
     "name": "libxml2",
     "version": "2.9.12 1",
     "maintainer": "Claudia",
@@ -871,7 +871,7 @@
   },
   {
     "name": "btrfs-progs",
-    "version": "5.14.2 1",
+    "version": "5.16 1",
     "maintainer": "git-bruh",
     "description": " "
   },
@@ -1074,6 +1074,12 @@
     "description": " "
   },
   {
+    "name": "rbw",
+    "version": "1.4.1 1",
+    "maintainer": "Wolf Gupta",
+    "description": " "
+  },
+  {
     "name": "poppler-data",
     "version": "0.4.11 1",
     "maintainer": "Xiaodong Xu",
@@ -1227,12 +1233,6 @@
     "name": "yaml-cpp",
     "version": "0.7.0 1",
     "maintainer": "Mederim",
-    "description": " "
-  },
-  {
-    "name": "rbw-bin",
-    "version": "1.3.0 1",
-    "maintainer": "git-bruh",
     "description": " "
   },
   {
@@ -1495,7 +1495,7 @@
   },
   {
     "name": "shellcheck-bin",
-    "version": "0.7.2 1",
+    "version": "0.8.0 1",
     "maintainer": "git-bruh",
     "description": " "
   },
@@ -1747,7 +1747,7 @@
   },
   {
     "name": "github-cli",
-    "version": "2.1.0 1",
+    "version": "2.4.0 1",
     "maintainer": "git-bruh",
     "description": " "
   },
@@ -1933,7 +1933,7 @@
   },
   {
     "name": "imagemagick",
-    "version": "7.1.0-10 1",
+    "version": "7.1.0-19 1",
     "maintainer": "git-bruh",
     "description": " "
   },
@@ -1993,7 +1993,7 @@
   },
   {
     "name": "gawk",
-    "version": "5.1.0 1 ",
+    "version": "5.1.1 1 ",
     "maintainer": "git-bruh",
     "description": " "
   },
@@ -2017,7 +2017,7 @@
   },
   {
     "name": "libcap",
-    "version": "2.59 1",
+    "version": "2.62 1",
     "maintainer": "git-bruh",
     "description": " "
   },
@@ -2137,7 +2137,7 @@
   },
   {
     "name": "axel",
-    "version": "2.17.10 1",
+    "version": "2.17.11 1",
     "maintainer": "git-bruh",
     "description": " "
   },
@@ -2293,7 +2293,7 @@
   },
   {
     "name": "libgpg-error",
-    "version": "1.42 1",
+    "version": "1.43 1",
     "maintainer": "git-bruh",
     "description": " "
   },
