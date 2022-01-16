@@ -13081,7 +13081,7 @@
   },
   {
     "name": "pyright",
-    "version": "1.1.208 1",
+    "version": "1.1.209 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13105,7 +13105,7 @@
   },
   {
     "name": "typescript-language-server",
-    "version": "0.9.1 1",
+    "version": "0.9.2 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -19110,12 +19110,6 @@
     "description": " "
   },
   {
-    "name": "xfsprogs",
-    "version": "5.14.2 1",
-    "maintainer": "hovercats",
-    "description": " "
-  },
-  {
     "name": "libxkbcommon",
     "version": "1.3.1 1",
     "maintainer": "hovercats",
@@ -19585,7 +19579,7 @@
   },
   {
     "name": "xfsprogs",
-    "version": "5.13.0 1",
+    "version": "5.14.2 1",
     "maintainer": "hovercats",
     "description": " "
   },
