@@ -5059,7 +5059,7 @@
   },
   {
     "name": "chezmoi",
-    "version": "2.9.5 1",
+    "version": "2.10.0 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -18937,7 +18937,7 @@
   },
   {
     "name": "linux",
-    "version": "5.16 1",
+    "version": "5.16.1 1",
     "maintainer": "hovercats",
     "description": " "
   },
