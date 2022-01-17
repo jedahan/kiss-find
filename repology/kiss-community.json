@@ -3037,7 +3037,7 @@
   },
   {
     "name": "pigz",
-    "version": "2.6 1",
+    "version": "2.7 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -3133,7 +3133,7 @@
   },
   {
     "name": "byacc",
-    "version": "20220109 1",
+    "version": "20220114 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -3907,7 +3907,7 @@
   },
   {
     "name": "expat",
-    "version": "2.4.2 1",
+    "version": "2.4.3 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -3925,7 +3925,7 @@
   },
   {
     "name": "bmake",
-    "version": "20211221 1",
+    "version": "20220112 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -18890,6 +18890,12 @@
   {
     "name": "ubase",
     "version": "git 4 ",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "scroll",
+    "version": "git 1",
     "maintainer": "hovercats",
     "description": " "
   },
