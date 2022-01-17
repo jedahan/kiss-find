@@ -445,7 +445,7 @@
   },
   {
     "name": "swayidle",
-    "version": "1.7 1",
+    "version": "1.7.1 1",
     "maintainer": "FriendlyNeighborhoodShane",
     "description": " "
   },
@@ -14443,7 +14443,7 @@
   },
   {
     "name": "p11-kit",
-    "version": "0.24.0 1",
+    "version": "0.24.1 1",
     "maintainer": "Ethan",
     "description": " "
   },
