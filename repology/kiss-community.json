@@ -18937,7 +18937,7 @@
   },
   {
     "name": "shellcheck-bin",
-    "version": "0.7.2 1",
+    "version": "0.8.0 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -18973,7 +18973,7 @@
   },
   {
     "name": "github-cli",
-    "version": "2.1.0 1",
+    "version": "2.4.0 1",
     "maintainer": "hovercats",
     "description": " "
   },
