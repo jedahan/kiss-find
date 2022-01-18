@@ -13105,7 +13105,7 @@
   },
   {
     "name": "typescript-language-server",
-    "version": "0.9.2 1",
+    "version": "0.9.3 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -18906,6 +18906,12 @@
     "description": " "
   },
   {
+    "name": "libdrm",
+    "version": "2.4.109 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
     "name": "devour",
     "version": "git 1",
     "maintainer": "hovercats",
@@ -19003,7 +19009,7 @@
   },
   {
     "name": "pigz",
-    "version": "2.6 2",
+    "version": "2.7 1",
     "maintainer": "hovercats",
     "description": " "
   },
