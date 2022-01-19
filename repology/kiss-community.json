@@ -3925,7 +3925,7 @@
   },
   {
     "name": "bmake",
-    "version": "20220112 1",
+    "version": "20220116 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -4003,7 +4003,7 @@
   },
   {
     "name": "mpv",
-    "version": "0.34.1 1",
+    "version": "0.34.1 2",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -4819,7 +4819,7 @@
   },
   {
     "name": "gst-plugins",
-    "version": "1.18.5 2",
+    "version": "1.18.5 3",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -4909,7 +4909,7 @@
   },
   {
     "name": "mpd",
-    "version": "0.23.5 1",
+    "version": "0.23.5 2",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -13081,7 +13081,7 @@
   },
   {
     "name": "pyright",
-    "version": "1.1.210 1",
+    "version": "1.1.211 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -25875,6 +25875,3852 @@
     "name": "mpd",
     "version": "0.23.5",
     "maintainer": "mayinz",
+    "description": " "
+  },
+  {
+    "name": "mandoc",
+    "version": "1.14.6 4",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "cmake",
+    "version": "3.22.1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "dhcpcd",
+    "version": "9.4.1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "efivar",
+    "version": "37 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "elogind",
+    "version": "246.10 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "attr",
+    "version": "2.5.1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libidn2",
+    "version": "2.3.2 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "bzip2",
+    "version": "1.0.8 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "unibilium",
+    "version": "2.1.1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libtool",
+    "version": "2.4.6 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "readline",
+    "version": "8.1001 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "lzip",
+    "version": "1.22 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "gcc",
+    "version": "11.2.0 3",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "mkissconfig",
+    "version": "git 2",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libnghttp2",
+    "version": "1.46.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "runit",
+    "version": "2.1.2 4",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "pigz",
+    "version": "2.6 2",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libmpack",
+    "version": "1.0.5 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "json-c",
+    "version": "0.15-20200726 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "zstd",
+    "version": "1.5.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "expat",
+    "version": "2.4.2 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "curl",
+    "version": "7.80.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "gdbm",
+    "version": "1.22 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "patch",
+    "version": "2.7.6 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "coreutils",
+    "version": "9.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libevdev",
+    "version": "1.12.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "pciutils",
+    "version": "3.7.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "nasm",
+    "version": "2.15.05 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "procps-ng",
+    "version": "3.3.17 2",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "python-anytree",
+    "version": "2.8.0 2",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "gtk-doc",
+    "version": "1.33.2 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "rsync",
+    "version": "3.2.3 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "iucode-tool",
+    "version": "2.3.1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libxml2",
+    "version": "2.9.12 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "mtdev",
+    "version": "1.1.6 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "zlib",
+    "version": "1.2.11 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "flex",
+    "version": "2.6.4 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "rust",
+    "version": "1.57.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libsndfile",
+    "version": "1.0.31 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "python-pygments",
+    "version": "2.10.0 2",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "swig",
+    "version": "4.0.2 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "which",
+    "version": "2.21 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "nodejs",
+    "version": "17.1.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "openresolv",
+    "version": "3.12.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "iwd",
+    "version": "1.20 2",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "meson",
+    "version": "0.60.2 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "gmp",
+    "version": "6.2.1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "rhash",
+    "version": "1.4.2 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "audit",
+    "version": "3.0.6 2",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "mpfr",
+    "version": "4.1.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "linux-firmware",
+    "version": "git 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "mpc",
+    "version": "1.1.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "xz",
+    "version": "5.2.5 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "sqlite",
+    "version": "3.37.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "automake",
+    "version": "1.16.5 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "texinfo",
+    "version": "6.7 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "python2",
+    "version": "2.7.18 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "intel-ucode",
+    "version": "20210608 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "pcre",
+    "version": "8.45 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libtermkey",
+    "version": "0.22 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "spdlog",
+    "version": "1.9.2 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "doxygen",
+    "version": "1.9.2 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "liburcu",
+    "version": "0.13.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "popt",
+    "version": "1.18 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "lpeg",
+    "version": "1.0.2 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libinput",
+    "version": "1.19.3 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "gdb",
+    "version": "11.1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "gobject-introspection",
+    "version": "1.70.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libnl",
+    "version": "3.5.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libarchive",
+    "version": "3.5.2 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "tdb",
+    "version": "1.4.5 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "json-glib",
+    "version": "1.6.6 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "zsh",
+    "version": "5.8 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "python-lxml",
+    "version": "4.6.4 2",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "tar",
+    "version": "1.34 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "cython",
+    "version": "0.29.26 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "less",
+    "version": "590 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "elfutils",
+    "version": "0.186 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "linux-kernel",
+    "version": "5.16-rc7 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "diffutils",
+    "version": "3.8 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "tree",
+    "version": "1.8.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "flac",
+    "version": "1.3.3 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libuv",
+    "version": "1.42.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libgcrypt",
+    "version": "1.9.4 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "linux-headers",
+    "version": "5.16-rc7 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libunwind",
+    "version": "1.5.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libffi",
+    "version": "3.4.2 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "ghostscript",
+    "version": "9.55.0 1 ",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libtirpc",
+    "version": "1.3.2 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "c-ares",
+    "version": "1_18_1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "npth",
+    "version": "1.6 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "gnu-efi",
+    "version": "3.0.14 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libksba",
+    "version": "1.6.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libxslt",
+    "version": "1.1.34 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "icu",
+    "version": "70.1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "perl-xml-parser",
+    "version": "2.46 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "psmisc",
+    "version": "23.4 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "dbus",
+    "version": "1.13.18 2",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "util-linux",
+    "version": "2.37.2 2",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "gnupg",
+    "version": "2.2.33 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "shadow",
+    "version": "4.9 2",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "file",
+    "version": "5.41 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "python",
+    "version": "3.10.1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "sudo",
+    "version": "1.9.8p2 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "llvm",
+    "version": "13.0.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "autoconf",
+    "version": "2.71 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "iproute2",
+    "version": "5.15.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "perl",
+    "version": "5.34.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libusb",
+    "version": "1.0.24 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libogg",
+    "version": "1.3.5 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libbpf",
+    "version": "0.6.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "openssl",
+    "version": "1.1.1l 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "bison",
+    "version": "3.8.2 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "ed",
+    "version": "1.17 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "efibootmgr",
+    "version": "17 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "tig",
+    "version": "2.5.4 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "fuse2",
+    "version": "2.9.9 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "ncpamixer",
+    "version": "1.3.3.1 2",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "gawk",
+    "version": "5.1.1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libevent",
+    "version": "2.1.12 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libcap",
+    "version": "2.62 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libnsl",
+    "version": "2.0.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "ninja",
+    "version": "1.10.2 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "pkgconf",
+    "version": "1.8.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "bc",
+    "version": "1.07.1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "fribidi",
+    "version": "1.0.11 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "ncurses",
+    "version": "6.2 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "make",
+    "version": "4.3 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libassuan",
+    "version": "2.5.5 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "grep",
+    "version": "3.7 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "groff",
+    "version": "1.22.4 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "grub",
+    "version": "2.06 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "jsoncpp",
+    "version": "1.9.5 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libsigc++",
+    "version": "2.10.7 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "systemd",
+    "version": "250 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "pinentry",
+    "version": "1.2.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "msgpack-c",
+    "version": "4.0.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "kmod",
+    "version": "29 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "help2man",
+    "version": "1.48.5 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "syslog-ng",
+    "version": "3.33.2 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "lz4",
+    "version": "1.9.3 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "openssh",
+    "version": "8.8p1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "tmux",
+    "version": "3.2a 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "m4",
+    "version": "1.4.19 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "xfsprogs",
+    "version": "5.14.2 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "openldap",
+    "version": "2.6.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "gettext",
+    "version": "0.21 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libgpg-error",
+    "version": "1.43 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "linux-pam",
+    "version": "1.5.0 2",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "kiss",
+    "version": "5.5.28 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "krb5",
+    "version": "1.19.2 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "intltool",
+    "version": "0.51.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "findutils",
+    "version": "4.8.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "brotli",
+    "version": "1.0.9 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libisl",
+    "version": "0.24 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "binutils",
+    "version": "2.37 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "e2fsprogs",
+    "version": "1.46.5 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "glibc",
+    "version": "2.34 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "baselayout",
+    "version": "1 6",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "git",
+    "version": "2.34.1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "tzdata",
+    "version": "2021a 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "valgrind",
+    "version": "3.17.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "acl",
+    "version": "2.3.1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "lzo",
+    "version": "2.10 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "sed",
+    "version": "4.8 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libvterm",
+    "version": "git 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "htop",
+    "version": "3.1.2 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libxcrypt",
+    "version": "4.4.26 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "vim",
+    "version": "git 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "pahole",
+    "version": "1.22 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "gperf",
+    "version": "3.1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "bash",
+    "version": "5.1.p12 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "graphite",
+    "version": "1.3.14 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libxkbcommon",
+    "version": "1.3.1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "chromium-widevine",
+    "version": "96.0.4664.110 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "noto-fonts-emoji",
+    "version": "2.034 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "cairo",
+    "version": "1.17.4 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "gtk3",
+    "version": "3.24.31 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libmanette",
+    "version": "0.2.6 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "radeontop",
+    "version": "1.4 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "gsettings-desktop-schemas",
+    "version": "41.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libxres",
+    "version": "1.2.1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "xdg-user-dirs",
+    "version": "0.17 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "sway",
+    "version": "git 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "extra-cmake-modules",
+    "version": "5.89.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "glslang",
+    "version": "11.7.1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "telegram-desktop",
+    "version": "3.3.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libxau",
+    "version": "1.0.9 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "noto-fonts",
+    "version": "20201206 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libxshmfence",
+    "version": "1.3 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libjpeg-turbo",
+    "version": "2.1.2 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "pyqt-builder",
+    "version": "1.12.1 2",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "xdg-desktop-portal",
+    "version": "1.10.1 2",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "xf86-video-amdgpu",
+    "version": "21.0.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "plasma-wayland-protocols",
+    "version": "1.5.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libxtst",
+    "version": "1.2.3 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "xorgproto",
+    "version": "2021.5 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "gtkmm3",
+    "version": "3.24.5 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libxcvt",
+    "version": "0.1.1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "pangomm",
+    "version": "2.46.2 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "kwayland",
+    "version": "5.89.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "gdk-pixbuf2",
+    "version": "2.42.6 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "atkmm",
+    "version": "2.28.2 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libxcursor",
+    "version": "1.2.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "freetype2",
+    "version": "2.11.1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "wpebackend-fdo",
+    "version": "1.12.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "xcb-util-keysyms",
+    "version": "0.4.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libxfont2",
+    "version": "2.0.5 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "grim",
+    "version": "1.3.2 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "icon-naming-utils",
+    "version": "0.8.90 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libxrandr",
+    "version": "1.5.2 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libdbusmenu",
+    "version": "16.04.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "wlroots",
+    "version": "git 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libxft",
+    "version": "2.3.4 2",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "wayland-protocols",
+    "version": "1.24 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "nettle",
+    "version": "3.7.3 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "qt5-svg",
+    "version": "5.15.2 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "qt5-tools",
+    "version": "5.15.2 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "waybar",
+    "version": "0.9.8 2",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "yofi",
+    "version": "999916d77ccb6046abecadc3833cbd4032a7f93a 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "qt5-location",
+    "version": "5.15.2 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "xorg-util-macros",
+    "version": "1.19.3 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libportal",
+    "version": "0.5 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libxss",
+    "version": "1.2.3 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "polkit-gnome",
+    "version": "0.105 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "fritzing",
+    "version": "f0af53a9077f7cdecef31d231b85d8307de415d4 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libxdmcp",
+    "version": "1.1.3 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libdrm",
+    "version": "2.4.109 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "firefox",
+    "version": "95.0.1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "glfw",
+    "version": "3.3.6 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libxxf86vm",
+    "version": "1.1.4 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "cairomm",
+    "version": "1.14.3 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "xkeyboard-config",
+    "version": "2.34 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "qutebrowser",
+    "version": "2.4.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libxinerama",
+    "version": "1.1.4 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "fontconfig",
+    "version": "2.13.94 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "gstreamer",
+    "version": "1.19.2 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "mesa",
+    "version": "21.3.1 2",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "xorg-server",
+    "version": "21.1.2 2",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "pango",
+    "version": "1.50.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "xcb-util-wm",
+    "version": "0.4.1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "xcb-util",
+    "version": "0.4.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libxv",
+    "version": "1.0.11 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "xorg-font-util",
+    "version": "1.3.2 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "mm-common",
+    "version": "1.0.3 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "qt5-wayland",
+    "version": "5.15.2 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libxi",
+    "version": "1.8 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "adwaita-icon-theme",
+    "version": "41.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "hyphen",
+    "version": "2.8.8 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "at-spi2-atk",
+    "version": "2.38.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "pyqt5-sip",
+    "version": "12.9.0 2",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libpciaccess",
+    "version": "0.16 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "qt5-x11extras",
+    "version": "5.15.2 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "xcb-proto",
+    "version": "1.14.1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "openal",
+    "version": "1.21.1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "xorg-xhost",
+    "version": "1.0.8 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libxmu",
+    "version": "1.1.3 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "glibmm",
+    "version": "2.66.2 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "qt5-webengine",
+    "version": "5.15.6 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "webkit2gtk",
+    "version": "2.34.3 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "pixman",
+    "version": "0.40.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "harfbuzz",
+    "version": "3.2.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "xorg-xkbcomp",
+    "version": "1.4.5 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "graphviz",
+    "version": "2.50.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "alacritty",
+    "version": "git 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libxaw",
+    "version": "1.0.14 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libice",
+    "version": "1.0.10 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "shared-mime-info",
+    "version": "1-15 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "spirv-tools",
+    "version": "2021.3 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "xclip",
+    "version": "0.13 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "qt5-base",
+    "version": "5.15.2 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libepoxy",
+    "version": "1.5.9 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "python-mako",
+    "version": "1.1.6 2",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "qt5-serialport",
+    "version": "5.15.2 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "xdg-dbus-proxy",
+    "version": "0.1.2 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "hicolor",
+    "version": "0.17 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libclc",
+    "version": "13.0.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "chafa",
+    "version": "1.8.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "xorg-xrdb",
+    "version": "1.2.1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "swaybg",
+    "version": "1.1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "gtk-layer-shell",
+    "version": "0.6.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "xorg-xauth",
+    "version": "1.1.1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "xcb-util-errors",
+    "version": "1.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "vulkan-icd-loader",
+    "version": "1.2.199 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "slurp",
+    "version": "1.3.2 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "spirv-llvm-translator",
+    "version": "13.0.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libxext",
+    "version": "1.3.4 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "atk",
+    "version": "2.36.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "gst-plugins-base",
+    "version": "1.19.2 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "imagemagick",
+    "version": "7.1.0-19 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libwpe",
+    "version": "1.12.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "wayland",
+    "version": "1.20.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "seatd",
+    "version": "0.6.3 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "wl-clipboard",
+    "version": "2.0.0 2",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libvdpau",
+    "version": "1.4 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "xcb-util-image",
+    "version": "0.4.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "kanshi",
+    "version": "1.2.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libdbusmenu-qt5",
+    "version": "0.9.3+16.04.20160218 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "xf86-input-libinput",
+    "version": "1.2.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "qt5-declarative",
+    "version": "5.15.2 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "xdg-desktop-portal-wlr",
+    "version": "0.5.0 2",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libxfixes",
+    "version": "6.0.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "xtrans",
+    "version": "1.4.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "at-spi2-core",
+    "version": "2.42.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "vulkan-headers",
+    "version": "1.2.202 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "pyqt5-webengine",
+    "version": "5.15.5 2",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libxdamage",
+    "version": "1.1.5 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "pyqt5",
+    "version": "5.15.6 2",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libpng",
+    "version": "1.6.37 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "swaylock",
+    "version": "1.5 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "xcb-util-renderutil",
+    "version": "0.3.9 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "exempi",
+    "version": "2.5.2 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "mako",
+    "version": "1.6 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "vscodium",
+    "version": "1.63.2 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libfontenc",
+    "version": "1.1.4 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "qt5-webchannel",
+    "version": "5.15.2 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "qt5-imageformats",
+    "version": "5.15.2 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libxcb",
+    "version": "1.14 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libxpm",
+    "version": "3.5.13 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libxt",
+    "version": "1.2.1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "spotify",
+    "version": "1.1.72.439.gc253025e 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "xvfb-run",
+    "version": "21.1.3 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libmpdclient",
+    "version": "2.20 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "wyeb",
+    "version": "git 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libxcomposite",
+    "version": "0.4.5 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libomxil-bellagio",
+    "version": "0.9.3 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "xorg-xwayland",
+    "version": "21.1.4 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libexif",
+    "version": "0.6.24 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libx11",
+    "version": "1.7.2 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libva",
+    "version": "2.13.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libsm",
+    "version": "1.2.3 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libxkbfile",
+    "version": "1.1.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "gst-plugins",
+    "version": "1.19.2 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "woff2",
+    "version": "1.0.2 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "multimc",
+    "version": "1.6.1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libxrender",
+    "version": "0.9.10 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "glib2",
+    "version": "2.70.2 2",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "docbook2x",
+    "version": "0.8.8 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "go",
+    "version": "1.17.5 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "android-tools",
+    "version": "31.0.3 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "cbindgen",
+    "version": "0.20.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "sip",
+    "version": "6.5.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "ffmpeg",
+    "version": "4.4.1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "cyrus-sasl",
+    "version": "2.1.27 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "freetds",
+    "version": "1.3.6 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "openjdk-17-bin",
+    "version": "17.35 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libbytesize",
+    "version": "2.6 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "mariadb",
+    "version": "10.6.5 1 ",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "alsa-utils",
+    "version": "1.2.6 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "xmlto",
+    "version": "0.0.28 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libpsl",
+    "version": "0.21.1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "sbc",
+    "version": "1.5 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "sane",
+    "version": "1.0.32 2",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libndp",
+    "version": "1.8 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libmnl",
+    "version": "1.0.4 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "ostree",
+    "version": "2022.1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "gtest",
+    "version": "1.11.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "sndio",
+    "version": "1.8.1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libgphoto2",
+    "version": "2.5.28 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "docbook-xml",
+    "version": "4.5 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "enchant",
+    "version": "2.3.2 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libical",
+    "version": "3.0.12 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "v4l-utils",
+    "version": "1.22.1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "python-requests",
+    "version": "2.26.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "perl-xml-sax-base",
+    "version": "1.09 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "pipewire",
+    "version": "0.3.40 3",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libthai",
+    "version": "0.1.28 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libluv",
+    "version": "1.42.0-1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libcurl",
+    "version": "7.81.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "apache",
+    "version": "2.4.52 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "lvm2",
+    "version": "2.03.14 2",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libzip",
+    "version": "1.8.0 4",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "starship",
+    "version": "1.0.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "exa",
+    "version": "0.10.1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "ripgrep",
+    "version": "13.0.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "btrfs-progs",
+    "version": "5.15.1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libuninameslist",
+    "version": "20211114 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "tree-sitter",
+    "version": "0.20.1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "ccache",
+    "version": "4.4.2 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "sysprof",
+    "version": "3.42.1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "ruby",
+    "version": "3.0.3 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libmtp",
+    "version": "1.1.19 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "cryptsetup",
+    "version": "2.4.2 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "poppler",
+    "version": "21.11.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "ppp",
+    "version": "2.4.9 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "python-docutils",
+    "version": "0.16 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "perl-yaml",
+    "version": "1.30 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "mdadm",
+    "version": "4.1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "perl-xml-namespacesupport",
+    "version": "1.12 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "boost",
+    "version": "1.78.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "jq",
+    "version": "1.6 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "yarn",
+    "version": "1.22.17 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libnftnl",
+    "version": "1.2.1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "keyutils",
+    "version": "1.6.3 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "ttf-liberation",
+    "version": "2.1.5 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "python-pyparsing",
+    "version": "2.4.7 2",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "avahi",
+    "version": "fd482a74625b8db8547b8cfca3ee3d3c6c721423 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "android-udev",
+    "version": "20210501 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "jmtpfs",
+    "version": "0.5 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "python-yaml",
+    "version": "5.4.1.1 2",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "apr",
+    "version": "1.7.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "nvm",
+    "version": "0.39.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libspiro",
+    "version": "20200505 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "p7zip",
+    "version": "17.04 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "ncspot",
+    "version": "0.9.3 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libtg_owt",
+    "version": "d5c3d43b959c7e9e7d8004b9b7fdadd12ce7d589 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "gpgme",
+    "version": "1.16.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "moreutils",
+    "version": "0.66 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "db",
+    "version": "5.3.28 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "opus",
+    "version": "1.3.1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "argon2",
+    "version": "20190702 2",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "python-toml",
+    "version": "0.10.2 2",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "webrtc-audio-processing",
+    "version": "0.3.1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "gd",
+    "version": "2.3.3 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "pass",
+    "version": "1.7.4 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "asciidoc",
+    "version": "10.1.1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "wpa_supplicant",
+    "version": "2.9 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "sdl2",
+    "version": "2.0.18 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "maturin",
+    "version": "0.11.4 2",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "parted",
+    "version": "3.4 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "python-cairo",
+    "version": "1.20.1 2",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "dosfstools",
+    "version": "4.2 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "alsa-lib",
+    "version": "1.2.6.1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "pdfjs",
+    "version": "2.10.377 2",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libnewt",
+    "version": "0.52.21 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "python-six",
+    "version": "1.16.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "lua51-mpack",
+    "version": "1.0.8 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "unixodbc",
+    "version": "2.3.9 2",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "neovim",
+    "version": "0.6.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "mtpfs",
+    "version": "1.1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "i2c-tools",
+    "version": "4.3 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "cups",
+    "version": "2.4.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "lame",
+    "version": "3.100 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "fuse3",
+    "version": "3.10.5 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libass",
+    "version": "0.15.2 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "fontforge",
+    "version": "20201107 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "inetutils",
+    "version": "2.2 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "perl-xml-sax",
+    "version": "1.02 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "re2",
+    "version": "2021-11-01 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "xdg-utils",
+    "version": "9816ebb3e6fd9f23e993b8b7fcbd56f92d9c9197 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "nss",
+    "version": "3.73.1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libpipewire02",
+    "version": "0.2.7 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libinih",
+    "version": "53 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libvpx",
+    "version": "1.11.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "gptfdisk",
+    "version": "1.0.8 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "bash-completion",
+    "version": "2.11 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "iptables",
+    "version": "1.8.7 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "slang",
+    "version": "2.3.2 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "python-packaging",
+    "version": "20.9 2",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "networkmanager",
+    "version": "1.32.12 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "openjdk-8-bin",
+    "version": "8.u312.b07 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "iso-codes",
+    "version": "4.8.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "python-jinja",
+    "version": "3.0.3 2",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "hiredis",
+    "version": "1.0.2 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libgit2",
+    "version": "1.3.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "lynx",
+    "version": "2.8.9 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "strace",
+    "version": "5.15 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "range-v3",
+    "version": "0.11.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "iniparser",
+    "version": "4.1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libvorbis",
+    "version": "1.3.7 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "microsoft-gsl",
+    "version": "3.1.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "itstool",
+    "version": "2.0.7 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libaio",
+    "version": "0.3.112 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "bluez",
+    "version": "5.62 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "dav1d",
+    "version": "0.9.2 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "imap",
+    "version": "2007f 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "dmraid",
+    "version": "1.0.0.rc16-3 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "librsvg",
+    "version": "2.52.4 2",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "unzip",
+    "version": "6.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libvdpau",
+    "version": "1.4 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "zip",
+    "version": "30 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "php",
+    "version": "8.0.13 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "yasm",
+    "version": "1.3.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libcap-ng",
+    "version": "0.8.2 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "abseil-cpp",
+    "version": "20211102.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "gnutls",
+    "version": "3.7.2 2",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "tl-expected",
+    "version": "1.0.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libdatrie",
+    "version": "0.2.13 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "jansson",
+    "version": "2.14 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "fakeroot",
+    "version": "1.26 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "rnnoise",
+    "version": "1cbdbcf1283499bbb2230a6b0f126eb9b236defd 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "http-parser",
+    "version": "2.9.4 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "protobuf",
+    "version": "3.17.3 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "playerctl",
+    "version": "2.4.1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "publicsuffix-list",
+    "version": "43f08e178fea1bb2fe329f83c20ca351417c0d52 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "x264",
+    "version": "5db6aa6cab1b146e07b60cc1736a01f21da01154 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libpulse",
+    "version": "15.0 2",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "python-libevdev",
+    "version": "0.9 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "dhcp",
+    "version": "4.4.2 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "chrpath",
+    "version": "0.16 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "minicom",
+    "version": "2.8 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "python-fonttools",
+    "version": "4.28.5 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libpcap",
+    "version": "1.10.1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libsodium",
+    "version": "1.0.18 2",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "fmt",
+    "version": "8.0.1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "scdoc",
+    "version": "1.11.2 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "tidy",
+    "version": "5.8.0 2",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libdaemon",
+    "version": "0.14 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "brightnessctl",
+    "version": "0.5.1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libyaml",
+    "version": "0.2.5 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "volume_key",
+    "version": "0.3.12 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "flatpak",
+    "version": "1.12.2 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "luajit",
+    "version": "2.0.5 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "pcre2",
+    "version": "10.39 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "pyadblock",
+    "version": "0.5.0 2",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "ladspa",
+    "version": "1.17 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "openjpeg2",
+    "version": "2.4.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "perl-xml-simple",
+    "version": "2.25 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "docbook-xsl",
+    "version": "1.79.2 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "svt-av1",
+    "version": "0.8.7 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "alsa-plugins",
+    "version": "1.2.6 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "pygobject",
+    "version": "3.42.0 2",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "ndctl",
+    "version": "72 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "python-markupsafe",
+    "version": "2.0.1 2",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "phpmyadmin",
+    "version": "5.1.1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "pamixer",
+    "version": "1.5 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libwebp",
+    "version": "1.2.1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libsecret",
+    "version": "0.20.4 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "oniguruma",
+    "version": "6.9.7.1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "apr-util",
+    "version": "1.6.1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "dbus-python",
+    "version": "1.2.18 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "autoconf-archive",
+    "version": "2021.02.19 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "bolt",
+    "version": "0.9.1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "gnome-keyring",
+    "version": "40.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libappindicator",
+    "version": "12.10.0r296 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "dbus-glib",
+    "version": "0.112 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "vala",
+    "version": "0.54.5 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "gnome-disk-utility",
+    "version": "41.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "gnome-session",
+    "version": "40.1.1 2",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "network-manager-applet",
+    "version": "1.24.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "startup-notification",
+    "version": "0.12 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "blueprint-compiler",
+    "version": "85150d397b0b31ed4449a971d28b82324300b435 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "gnome-shell-extensions",
+    "version": "41.1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libsoup",
+    "version": "2.74.2 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "yelp-tools",
+    "version": "41.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "gnome-themes-extra",
+    "version": "45b1d457c63b1c7f6c8dcb7fe29b23ec7cd63a14 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libblockdev",
+    "version": "2.26 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "gtk4",
+    "version": "4.6.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "bubblewrap",
+    "version": "0.5.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libatasmart",
+    "version": "0.19 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libdbusmenu",
+    "version": "16.04.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "tracker3",
+    "version": "3.2.1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libgusb",
+    "version": "0.3.8 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "desktop-file-utils",
+    "version": "0.26 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "ibus",
+    "version": "1.5.25 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "exiv2",
+    "version": "0.27.5 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libgnomekbd",
+    "version": "8d02ebd17b75ff3be59d9d57674d50e069bb551b 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "power-profiles-daemon",
+    "version": "0.10.1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "umockdev",
+    "version": "0.17.1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "gnome-bluetooth",
+    "version": "3.34.5 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "gnome-power-manager",
+    "version": "3.32.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libnma",
+    "version": "1.8.32 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "uhttpmock",
+    "version": "0.5.3 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "gtk2",
+    "version": "2.24.33 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "gnome-calendar",
+    "version": "41.2 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "gvfs",
+    "version": "1.48.1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libwacom",
+    "version": "1.12 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "gnome-shell",
+    "version": "41.2 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "cantarell-fonts",
+    "version": "0.303.1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "rest",
+    "version": "0.8.1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "gtksourceview5",
+    "version": "5.3.2 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libnotify",
+    "version": "0.7.9 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "geocode-glib",
+    "version": "3.26.2 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "gnome-screenshot",
+    "version": "41.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "js78",
+    "version": "78.15.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "snowball",
+    "version": "48a67a2831005f49c48ec29a5837640e23e54e6b 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "unicode-character-database",
+    "version": "14.0.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libsoup3",
+    "version": "3.0.3 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libgdata",
+    "version": "0.18.1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libgexiv2",
+    "version": "0.14.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "polkit",
+    "version": "0.120 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "adwaita-qt",
+    "version": "1.4.1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "eog",
+    "version": "41.1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "chrome-gnome-shell",
+    "version": "10.1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "gnome-tweaks",
+    "version": "40.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "autoconf2.13",
+    "version": "2.13 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "mutter",
+    "version": "41.3 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libdazzle",
+    "version": "3.42.0.1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libtasn1",
+    "version": "4.18.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libhandy",
+    "version": "1.4.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "lcms2",
+    "version": "2.12 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libseccomp",
+    "version": "2.5.3 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "gnome-desktop",
+    "version": "41.2 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libxklavier",
+    "version": "5.4 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "rtkit",
+    "version": "0.13 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libindicator",
+    "version": "12.10.1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "gnome-control-center",
+    "version": "41.2 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "perl-sgmls",
+    "version": "1.1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libgudev",
+    "version": "237 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libadwaita",
+    "version": "1.0.1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "sound-theme-freedesktop",
+    "version": "0.8 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libpwquality",
+    "version": "1.4.4 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "gnome-settings-daemon",
+    "version": "41.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "extension-manager",
+    "version": "0.1.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "p11-kit",
+    "version": "0.24.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "nautilus",
+    "version": "41.1 2",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "hotdoc",
+    "version": "0.13.7 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "mallard-ducktype",
+    "version": "1.0.2 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "glib-networking",
+    "version": "2.70.1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "yelp-xsl",
+    "version": "41.1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "gnome-color-manager",
+    "version": "3.36.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libdvdcss",
+    "version": "1.4.3 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "unicode-emoji",
+    "version": "14.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libsass",
+    "version": "3.6.5 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "usbguard",
+    "version": "1.0.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "gnome-text-editor",
+    "version": "41.1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "gsound",
+    "version": "1.0.3 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "python-psutil",
+    "version": "5.8.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "cracklib",
+    "version": "2.9.7 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "zenity",
+    "version": "3.41.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libproxy",
+    "version": "0.4.17 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "geoclue",
+    "version": "2.5.7 2",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "gnome-autoar",
+    "version": "0.4.1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libcanberra",
+    "version": "0.30 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "colord",
+    "version": "1.4.5 2",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libgweather",
+    "version": "40.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "gnome-online-accounts",
+    "version": "3.40.1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "glade",
+    "version": "3.38.2 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "qgnomeplatform",
+    "version": "0.8.3 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "gjs",
+    "version": "1.70.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "pygobject2",
+    "version": "2.28.7 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "gdm",
+    "version": "eb6d39a2473f4d58431cd599d9e8480c44aaebbc 2",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libpeas",
+    "version": "1.30.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "sassc",
+    "version": "3.6.2 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libdvdread",
+    "version": "6.1.2 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libqb",
+    "version": "2.0.3 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "gnome-common",
+    "version": "3.18.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libgtop",
+    "version": "31db82efced79d1ceee465d9b50da2fe6fd16482 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libtiff",
+    "version": "4.3.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "cups-pk-helper",
+    "version": "0.2.6 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "dconf",
+    "version": "0.40.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "unicode-cldr",
+    "version": "38.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "colord-gtk",
+    "version": "0.2.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "accountsservice",
+    "version": "0.6.55 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "evolution-data-server",
+    "version": "3.42.2 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "appstream-glib",
+    "version": "0.7.18 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "gcr",
+    "version": "3.41.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "shared-color-targets",
+    "version": "0.1.7 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "upower",
+    "version": "0.99.13 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "udisks2",
+    "version": "2.9.4 2",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "docbook-sgml",
+    "version": "4.5 1",
+    "maintainer": "Mae Dartmann",
     "description": " "
   },
   {
