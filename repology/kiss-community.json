@@ -13069,7 +13069,7 @@
   },
   {
     "name": "flatpak",
-    "version": "1.12.3 1",
+    "version": "1.12.4 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -14569,7 +14569,7 @@
   },
   {
     "name": "palemoon",
-    "version": "29.4.3 1",
+    "version": "29.4.4 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -18841,7 +18841,7 @@
   },
   {
     "name": "mesa",
-    "version": "21.3.1 1",
+    "version": "21.3.4 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -18871,7 +18871,7 @@
   },
   {
     "name": "zstd",
-    "version": "1.5.0 1",
+    "version": "1.5.1 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -18919,7 +18919,7 @@
   },
   {
     "name": "fzf",
-    "version": "0.28.0 1",
+    "version": "0.29.0 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -18931,7 +18931,7 @@
   },
   {
     "name": "sfeed",
-    "version": "0.9 1",
+    "version": "1.1 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -19057,7 +19057,7 @@
   },
   {
     "name": "byacc",
-    "version": "20220101 1",
+    "version": "20220114 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -19219,7 +19219,7 @@
   },
   {
     "name": "ffmpeg",
-    "version": "4.4.1 1",
+    "version": "5.0 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -19237,7 +19237,7 @@
   },
   {
     "name": "expat",
-    "version": "2.4.1 1",
+    "version": "2.4.3 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -19267,7 +19267,7 @@
   },
   {
     "name": "meson",
-    "version": "0.61.0 1",
+    "version": "0.61.1 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -19333,13 +19333,13 @@
   },
   {
     "name": "wpa_supplicant",
-    "version": "2.9 4",
+    "version": "2.10 1",
     "maintainer": "hovercats",
     "description": " "
   },
   {
     "name": "mdevd",
-    "version": "0.1.5.0 1",
+    "version": "0.1.5.1 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -19502,12 +19502,6 @@
   {
     "name": "go",
     "version": "1.17.6 1",
-    "maintainer": "hovercats",
-    "description": " "
-  },
-  {
-    "name": "yash",
-    "version": "2.52 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -27307,7 +27301,7 @@
   },
   {
     "name": "xorg-server",
-    "version": "21.1.2 2",
+    "version": "21.1.3 2",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -27374,6 +27368,12 @@
   {
     "name": "at-spi2-atk",
     "version": "2.38.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "xorg-xinit",
+    "version": "1.4.1 4",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -28447,7 +28447,7 @@
   },
   {
     "name": "neovim",
-    "version": "0.6.0 1",
+    "version": "0.6.1 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
