@@ -25897,7 +25897,7 @@
   },
   {
     "name": "efivar",
-    "version": "37 1",
+    "version": "38 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -25999,13 +25999,13 @@
   },
   {
     "name": "expat",
-    "version": "2.4.2 1",
+    "version": "2.4.3 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
   {
     "name": "curl",
-    "version": "7.80.0 1",
+    "version": "7.81.0 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -26143,13 +26143,13 @@
   },
   {
     "name": "iwd",
-    "version": "1.20 2",
+    "version": "1.21 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
   {
     "name": "meson",
-    "version": "0.60.2 1",
+    "version": "0.61.1 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -26173,7 +26173,7 @@
   },
   {
     "name": "mpfr",
-    "version": "4.1.0 1",
+    "version": "4.1.0.p13 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -26245,13 +26245,13 @@
   },
   {
     "name": "doxygen",
-    "version": "1.9.2 1",
+    "version": "1.9.3 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
   {
     "name": "liburcu",
-    "version": "0.13.0 1",
+    "version": "0.13.1 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -26371,7 +26371,7 @@
   },
   {
     "name": "libuv",
-    "version": "1.42.0 1",
+    "version": "1.43.0 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -26389,7 +26389,7 @@
   },
   {
     "name": "libunwind",
-    "version": "1.5.0 1",
+    "version": "1.6.2 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -26515,7 +26515,7 @@
   },
   {
     "name": "iproute2",
-    "version": "5.15.0 1",
+    "version": "5.16.0 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -26539,7 +26539,7 @@
   },
   {
     "name": "libbpf",
-    "version": "0.6.0 1",
+    "version": "0.6.1 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -26635,7 +26635,7 @@
   },
   {
     "name": "ncurses",
-    "version": "6.2 1",
+    "version": "6.3 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -26881,7 +26881,7 @@
   },
   {
     "name": "libxcrypt",
-    "version": "4.4.26 1",
+    "version": "4.4.27 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -26905,7 +26905,7 @@
   },
   {
     "name": "bash",
-    "version": "5.1.p12 1",
+    "version": "5.1.p16 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -26983,7 +26983,7 @@
   },
   {
     "name": "extra-cmake-modules",
-    "version": "5.89.0 1",
+    "version": "5.90.0 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -27079,7 +27079,7 @@
   },
   {
     "name": "kwayland",
-    "version": "5.89.0 1",
+    "version": "5.90.0 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -27847,7 +27847,7 @@
   },
   {
     "name": "libx11",
-    "version": "1.7.2 1",
+    "version": "1.7.3.1 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -27907,7 +27907,7 @@
   },
   {
     "name": "go",
-    "version": "1.17.5 1",
+    "version": "1.17.6 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -28045,7 +28045,7 @@
   },
   {
     "name": "libical",
-    "version": "3.0.12 1",
+    "version": "3.0.13 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -28075,7 +28075,7 @@
   },
   {
     "name": "libthai",
-    "version": "0.1.28 1",
+    "version": "0.1.29 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -28129,7 +28129,7 @@
   },
   {
     "name": "btrfs-progs",
-    "version": "5.15.1 1",
+    "version": "5.16 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -28147,7 +28147,7 @@
   },
   {
     "name": "ccache",
-    "version": "4.4.2 1",
+    "version": "4.5.1 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -28201,7 +28201,7 @@
   },
   {
     "name": "mdadm",
-    "version": "4.1 1",
+    "version": "4.2 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -28261,7 +28261,7 @@
   },
   {
     "name": "android-udev",
-    "version": "20210501 1",
+    "version": "20220102 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -28321,7 +28321,7 @@
   },
   {
     "name": "moreutils",
-    "version": "0.66 1",
+    "version": "0.67 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -28387,7 +28387,7 @@
   },
   {
     "name": "maturin",
-    "version": "0.11.4 2",
+    "version": "0.12.6 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -28585,7 +28585,7 @@
   },
   {
     "name": "iso-codes",
-    "version": "4.8.0 1",
+    "version": "4.9.0 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -28657,7 +28657,7 @@
   },
   {
     "name": "bluez",
-    "version": "5.62 1",
+    "version": "5.63 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -28681,7 +28681,7 @@
   },
   {
     "name": "librsvg",
-    "version": "2.52.4 2",
+    "version": "2.52.5 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -28729,7 +28729,7 @@
   },
   {
     "name": "gnutls",
-    "version": "3.7.2 2",
+    "version": "3.7.3 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -28753,7 +28753,7 @@
   },
   {
     "name": "fakeroot",
-    "version": "1.26 1",
+    "version": "1.27 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -28843,7 +28843,7 @@
   },
   {
     "name": "fmt",
-    "version": "8.0.1 1",
+    "version": "8.1.1 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -28885,7 +28885,7 @@
   },
   {
     "name": "flatpak",
-    "version": "1.12.2 1",
+    "version": "1.12.3 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -29047,7 +29047,7 @@
   },
   {
     "name": "gnome-session",
-    "version": "40.1.1 2",
+    "version": "41.3 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -29125,13 +29125,13 @@
   },
   {
     "name": "tracker3",
-    "version": "3.2.1 1",
+    "version": "3.2.1 2",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
   {
     "name": "libgusb",
-    "version": "0.3.8 1",
+    "version": "0.3.10 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -29215,13 +29215,13 @@
   },
   {
     "name": "libwacom",
-    "version": "1.12 1",
+    "version": "2.0.0 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
   {
     "name": "gnome-shell",
-    "version": "41.2 1",
+    "version": "41.3 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -29281,7 +29281,7 @@
   },
   {
     "name": "libsoup3",
-    "version": "3.0.3 1",
+    "version": "3.0.4 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -29371,7 +29371,7 @@
   },
   {
     "name": "gnome-desktop",
-    "version": "41.2 1",
+    "version": "41.3 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -29449,7 +29449,7 @@
   },
   {
     "name": "nautilus",
-    "version": "41.1 2",
+    "version": "41.2 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -29551,7 +29551,7 @@
   },
   {
     "name": "gnome-autoar",
-    "version": "0.4.1 1",
+    "version": "0.4.2 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -29605,7 +29605,7 @@
   },
   {
     "name": "gdm",
-    "version": "eb6d39a2473f4d58431cd599d9e8480c44aaebbc 2",
+    "version": "41.3 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -29676,6 +29676,12 @@
     "description": " "
   },
   {
+    "name": "file-roller",
+    "version": "3.40.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
     "name": "accountsservice",
     "version": "0.6.55 1",
     "maintainer": "Mae Dartmann",
@@ -29683,7 +29689,7 @@
   },
   {
     "name": "evolution-data-server",
-    "version": "3.42.2 1",
+    "version": "3.42.3 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
