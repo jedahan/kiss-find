@@ -28951,7 +28951,7 @@
   },
   {
     "name": "ndctl",
-    "version": "72 1",
+    "version": "72.1 1 ",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -29215,7 +29215,7 @@
   },
   {
     "name": "libwacom",
-    "version": "2.0.0 1",
+    "version": "1.12 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
