@@ -13849,7 +13849,7 @@
   },
   {
     "name": "firefox",
-    "version": "96.0 1",
+    "version": "96.0.1 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -14095,7 +14095,7 @@
   },
   {
     "name": "librewolf",
-    "version": "96.0 1",
+    "version": "96.0.1 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -14719,7 +14719,7 @@
   },
   {
     "name": "wine",
-    "version": "6.0.2 1",
+    "version": "7.0 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -28573,7 +28573,7 @@
   },
   {
     "name": "networkmanager",
-    "version": "1.32.12 1",
+    "version": "1.34.0 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
