@@ -2053,6 +2053,7 @@ maxima,5.45.1 1,https://github.com/ehawkvu/kiss-personal,langs/maxima,master,"Et
 python2,2.7.18 1,https://github.com/ehawkvu/kiss-personal,langs/python2,master,"Ethan"," "
 mosml,2.10.1 1,https://github.com/ehawkvu/kiss-personal,langs/mosml,master,"Ethan"," "
 nqp,2021.12 1,https://github.com/ehawkvu/kiss-personal,langs/nqp,master,"Ethan"," "
+fasm,1.73.29 1,https://github.com/ehawkvu/kiss-personal,langs/fasm,master,"Ethan"," "
 openblas,0.3.19 1,https://github.com/ehawkvu/kiss-personal,langs/openblas,master,"Ethan"," "
 crystal,1.2.2 1,https://github.com/ehawkvu/kiss-personal,langs/crystal,master,"Ethan"," "
 stklos,1.70 1,https://github.com/ehawkvu/kiss-personal,langs/stklos,master,"Ethan"," "

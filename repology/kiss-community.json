@@ -12330,6 +12330,12 @@
     "description": " "
   },
   {
+    "name": "fasm",
+    "version": "1.73.29 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "openblas",
     "version": "0.3.19 1",
     "maintainer": "Ethan",
