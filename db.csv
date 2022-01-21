@@ -4749,7 +4749,7 @@ swaylock,1.5 1,https://github.com/mdartmann/mkiss,gui/swaylock,main,"Mae Dartman
 xcb-util-renderutil,0.3.9 1,https://github.com/mdartmann/mkiss,gui/xcb-util-renderutil,main,"Mae Dartmann"," "
 exempi,2.5.2 1,https://github.com/mdartmann/mkiss,gui/exempi,main,"Mae Dartmann"," "
 mako,1.6 1,https://github.com/mdartmann/mkiss,gui/mako,main,"Mae Dartmann"," "
-vscodium,1.63.2 1,https://github.com/mdartmann/mkiss,gui/vscodium,main,"Mae Dartmann"," "
+vscodium,1.63.2 2,https://github.com/mdartmann/mkiss,gui/vscodium,main,"Mae Dartmann"," "
 libfontenc,1.1.4 1,https://github.com/mdartmann/mkiss,gui/libfontenc,main,"Mae Dartmann"," "
 qt5-webchannel,5.15.2 1,https://github.com/mdartmann/mkiss,gui/qt5-webchannel,main,"Mae Dartmann"," "
 qt5-imageformats,5.15.2 1,https://github.com/mdartmann/mkiss,gui/qt5-imageformats,main,"Mae Dartmann"," "
