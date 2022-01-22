@@ -9025,7 +9025,7 @@
   },
   {
     "name": "gopls",
-    "version": "0.7.4 1",
+    "version": "0.7.5 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
@@ -26143,7 +26143,7 @@
   },
   {
     "name": "nodejs",
-    "version": "17.1.0 1",
+    "version": "17.4.0 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -26436,6 +26436,12 @@
     "description": " "
   },
   {
+    "name": "ca-certificates",
+    "version": "20210603 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
     "name": "gnu-efi",
     "version": "3.0.14 1",
     "maintainer": "Mae Dartmann",
@@ -26575,7 +26581,7 @@
   },
   {
     "name": "efibootmgr",
-    "version": "17 1",
+    "version": "17 2",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -26935,7 +26941,7 @@
   },
   {
     "name": "chromium-widevine",
-    "version": "96.0.4664.110 1",
+    "version": "97.0.4692.99 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -28399,13 +28405,13 @@
   },
   {
     "name": "asciidoc",
-    "version": "10.1.1 1",
+    "version": "10.1.1 2",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
   {
     "name": "wpa_supplicant",
-    "version": "2.9 1",
+    "version": "2.9 2",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -28927,7 +28933,7 @@
   },
   {
     "name": "flatpak",
-    "version": "1.12.3 1",
+    "version": "1.12.3 2",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -29605,7 +29611,7 @@
   },
   {
     "name": "colord",
-    "version": "1.4.5 2",
+    "version": "1.4.5 3",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
