@@ -949,7 +949,7 @@
   },
   {
     "name": "yt-dlp",
-    "version": "2021.12.27 1",
+    "version": "2022.01.21 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
@@ -8689,7 +8689,7 @@
   },
   {
     "name": "zstd",
-    "version": "1.5.1 2",
+    "version": "1.5.2 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
@@ -9127,13 +9127,13 @@
   },
   {
     "name": "nss",
-    "version": "3.74 1",
+    "version": "3.74 2",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "python",
-    "version": "3.10.1 1",
+    "version": "3.10.2 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
@@ -9193,13 +9193,13 @@
   },
   {
     "name": "vim",
-    "version": "8.2.4018 1",
+    "version": "8.2.4173 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
   {
     "name": "aerc",
-    "version": "1687e558d3fae4d5622677c031bb9365a8c3e261 1",
+    "version": "44f81c87e47f80d7f29018ac0f7254dbb233e429 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
@@ -13111,7 +13111,7 @@
   },
   {
     "name": "gopls",
-    "version": "0.7.4 1",
+    "version": "0.7.5 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -14341,7 +14341,7 @@
   },
   {
     "name": "webkit2gtk",
-    "version": "2.34.3 1",
+    "version": "2.34.4 1",
     "maintainer": "Ethan",
     "description": " "
   },
