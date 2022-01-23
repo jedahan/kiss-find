@@ -3697,7 +3697,7 @@
   },
   {
     "name": "sway",
-    "version": "1.6.1 1",
+    "version": "1.7 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -3709,7 +3709,7 @@
   },
   {
     "name": "wlroots",
-    "version": "0.14.1 1",
+    "version": "0.15.0 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -3745,7 +3745,7 @@
   },
   {
     "name": "cage",
-    "version": "0.1.4 1",
+    "version": "0.1.4 2",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -4141,7 +4141,7 @@
   },
   {
     "name": "libbsd",
-    "version": "0.11.3 2",
+    "version": "0.11.4 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -4507,7 +4507,7 @@
   },
   {
     "name": "imagemagick",
-    "version": "7.1.0-19 1",
+    "version": "7.1.0-20 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -13105,7 +13105,7 @@
   },
   {
     "name": "pyright",
-    "version": "1.1.212 1",
+    "version": "1.1.214 1",
     "maintainer": "Ethan",
     "description": " "
   },
