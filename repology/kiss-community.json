@@ -2436,6 +2436,12 @@
     "description": " "
   },
   {
+    "name": "numactl",
+    "version": "2.0.14 1",
+    "maintainer": "Arthur Williams",
+    "description": " "
+  },
+  {
     "name": "mblaze",
     "version": "1.1 1",
     "maintainer": "ectlunya",
@@ -8952,12 +8958,6 @@
     "description": " "
   },
   {
-    "name": "bottom",
-    "version": "0.6.4 1",
-    "maintainer": "Dilyn Corner",
-    "description": " "
-  },
-  {
     "name": "fantasque-nerd-font",
     "version": "git 1",
     "maintainer": "Dilyn Corner",
@@ -8984,6 +8984,12 @@
   {
     "name": "cozette-font",
     "version": "1.9.0 1",
+    "maintainer": "Dilyn Corner",
+    "description": " "
+  },
+  {
+    "name": "gotop",
+    "version": "4.1.2 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
@@ -12913,7 +12919,7 @@
   },
   {
     "name": "imagemagick",
-    "version": "7.1.0-19 1",
+    "version": "7.1.0-20 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -18961,7 +18967,7 @@
   },
   {
     "name": "linux",
-    "version": "5.16.1 1",
+    "version": "5.16.2 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -19507,7 +19513,7 @@
   },
   {
     "name": "libwebp",
-    "version": "1.2.1 2",
+    "version": "1.2.2 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -19567,7 +19573,7 @@
   },
   {
     "name": "ytfzf",
-    "version": "2.0 1 ",
+    "version": "2.1 1 ",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -26293,7 +26299,7 @@
   },
   {
     "name": "gobject-introspection",
-    "version": "1.70.0 1",
+    "version": "1.70.0 2",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -27103,7 +27109,7 @@
   },
   {
     "name": "gdk-pixbuf2",
-    "version": "2.42.6 1",
+    "version": "2.42.6 2",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -27356,6 +27362,12 @@
   {
     "name": "xorg-font-util",
     "version": "1.3.2 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "graphene",
+    "version": "1.10.6 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -28009,7 +28021,7 @@
   },
   {
     "name": "libpsl",
-    "version": "0.21.1 1",
+    "version": "0.21.1 2",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -28112,6 +28124,12 @@
   {
     "name": "libthai",
     "version": "0.1.29 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libunistring",
+    "version": "0.9.10 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -28579,7 +28597,7 @@
   },
   {
     "name": "gptfdisk",
-    "version": "1.0.8 1",
+    "version": "1.0.8 2",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -29257,7 +29275,7 @@
   },
   {
     "name": "gvfs",
-    "version": "1.48.1 1",
+    "version": "1.48.1 2",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -29269,7 +29287,7 @@
   },
   {
     "name": "gnome-shell",
-    "version": "41.3 1",
+    "version": "41.3 2",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -29383,7 +29401,7 @@
   },
   {
     "name": "mutter",
-    "version": "41.3 1",
+    "version": "41.3 2",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -29629,7 +29647,7 @@
   },
   {
     "name": "glade",
-    "version": "3.38.2 1",
+    "version": "3.38.2 2",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -29749,7 +29767,7 @@
   },
   {
     "name": "gcr",
-    "version": "3.41.0 1",
+    "version": "3.41.0 2",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -30349,8 +30367,8 @@
   },
   {
     "name": "go",
-    "version": "1.16.7 1",
-    "maintainer": "Linux User",
+    "version": "1.17.6 1",
+    "maintainer": "Daniel M. Matongo",
     "description": " "
   },
   {
