@@ -5737,7 +5737,7 @@
   },
   {
     "name": "libbsd",
-    "version": "0.11.3 1",
+    "version": "0.11.4 1",
     "maintainer": "aabacchus",
     "description": " "
   },
@@ -5893,7 +5893,7 @@
   },
   {
     "name": "bmake",
-    "version": "20211221 1",
+    "version": "20220116 1",
     "maintainer": "aabacchus",
     "description": " "
   },
@@ -13639,7 +13639,7 @@
   },
   {
     "name": "xf86-input-libinput",
-    "version": "1.2.0 1",
+    "version": "1.2.1 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -19536,6 +19536,12 @@
     "description": " "
   },
   {
+    "name": "python",
+    "version": "3.9.9 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
     "name": "scroll",
     "version": "git 2",
     "maintainer": "hovercats",
@@ -19567,7 +19573,7 @@
   },
   {
     "name": "yt-dlp",
-    "version": "2021.12.01 1",
+    "version": "2022.01.21 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -26688,6 +26694,12 @@
     "description": " "
   },
   {
+    "name": "usbutils",
+    "version": "014 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
     "name": "htop",
     "version": "3.1.2 1",
     "maintainer": "Mae Dartmann",
@@ -29268,6 +29280,12 @@
     "description": " "
   },
   {
+    "name": "ffnvcodec-headers",
+    "version": "11.1.5.1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
     "name": "appstream-glib",
     "version": "0.7.18 1",
     "maintainer": "Mae Dartmann",
@@ -29330,6 +29348,12 @@
   {
     "name": "libproxy",
     "version": "0.4.17 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libvncserver",
+    "version": "0.9.13 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -29462,6 +29486,12 @@
   {
     "name": "libhandy",
     "version": "1.4.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "gnome-remote-desktop",
+    "version": "41.2 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -29708,6 +29738,12 @@
   {
     "name": "libpwquality",
     "version": "1.4.4 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "freerdp",
+    "version": "2.5.0 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -30691,19 +30727,25 @@
   },
   {
     "name": "sway-no-seat",
-    "version": "4832fc937fae5a5e2af8828a7092c9026bd300e0 1",
-    "maintainer": "Linux User",
+    "version": "6ffa4b1f7000cd90d63213820039ee432803e66a 1",
+    "maintainer": "Daniel M. Matongo",
     "description": " "
   },
   {
     "name": "grim",
     "version": "1.3.2 1",
-    "maintainer": "Linux User",
+    "maintainer": "Daniel M. Matongo",
     "description": " "
   },
   {
     "name": "sway",
     "version": "1.6.1 2",
+    "maintainer": "Daniel M. Matongo",
+    "description": " "
+  },
+  {
+    "name": "libpciaccess",
+    "version": "0.16 1",
     "maintainer": "Daniel M. Matongo",
     "description": " "
   },
@@ -30716,13 +30758,19 @@
   {
     "name": "wlroots",
     "version": "0.14.1 1",
-    "maintainer": "Linux User",
+    "maintainer": "Daniel M. Matongo",
     "description": " "
   },
   {
     "name": "wbg",
     "version": "1.0.2 1",
-    "maintainer": "Linux User",
+    "maintainer": "Daniel M. Matongo",
+    "description": " "
+  },
+  {
+    "name": "libdrm",
+    "version": "2.4.109 1",
+    "maintainer": "Daniel M. Matongo",
     "description": " "
   },
   {
@@ -30739,8 +30787,8 @@
   },
   {
     "name": "sway-tiny",
-    "version": "8f838008e798a7297ae59caccd84aa6fca03a94e 1",
-    "maintainer": "Linux User",
+    "version": "c34a4ca6d234177416dc931efd3035f3b803315b 2",
+    "maintainer": "Daniel M. Matongo",
     "description": " "
   },
   {
@@ -30750,27 +30798,33 @@
     "description": " "
   },
   {
+    "name": "pixman",
+    "version": "0.40.0 1",
+    "maintainer": "Daniel M. Matongo",
+    "description": " "
+  },
+  {
     "name": "wl-clipboard",
-    "version": "d2c32f2b4d469f53070e8c4052dea6f412de3916 1",
-    "maintainer": "Linux User",
+    "version": "297ab2a6fdd34c15c5eb3eb427be8daf753bcfd7 1",
+    "maintainer": "Daniel M. Matongo",
     "description": " "
   },
   {
     "name": "slurp",
     "version": "1.3.2 1",
-    "maintainer": "Linux User",
+    "maintainer": "Daniel M. Matongo",
     "description": " "
   },
   {
     "name": "wlsunset",
     "version": "0.2.0 1",
-    "maintainer": "Linux User",
+    "maintainer": "Daniel M. Matongo",
     "description": " "
   },
   {
     "name": "libxkbcommon",
-    "version": "1.3.0 1",
-    "maintainer": "Linux User",
+    "version": "1.3.1 1",
+    "maintainer": "Daniel M. Matongo",
     "description": " "
   },
   {
@@ -30780,9 +30834,15 @@
     "description": " "
   },
   {
+    "name": "xkeyboard-config",
+    "version": "2.34 1",
+    "maintainer": "Daniel M. Matongo",
+    "description": " "
+  },
+  {
     "name": "libinput",
-    "version": "1.18.0 1",
-    "maintainer": "Linux User",
+    "version": "1.19.3 1",
+    "maintainer": "Daniel M. Matongo",
     "description": " "
   },
   {
@@ -30798,14 +30858,14 @@
     "description": " "
   },
   {
-    "name": "libepoxy",
-    "version": "1.5.9 2",
+    "name": "alsa-utils",
+    "version": "1.2.6 1",
     "maintainer": "Daniel M. Matongo",
     "description": " "
   },
   {
-    "name": "alsa-utils",
-    "version": "1.2.6 1",
+    "name": "mold",
+    "version": "0.9.6 1",
     "maintainer": "Daniel M. Matongo",
     "description": " "
   },
@@ -30816,20 +30876,14 @@
     "description": " "
   },
   {
-    "name": "fribidi",
-    "version": "1.0.11 1",
+    "name": "gnugrep",
+    "version": "3.7 1",
     "maintainer": "Daniel M. Matongo",
     "description": " "
   },
   {
     "name": "gtk+3",
-    "version": "3.24.29 1",
-    "maintainer": "Linux User",
-    "description": " "
-  },
-  {
-    "name": "gperf",
-    "version": "3.1 3",
+    "version": "3.24.30 1",
     "maintainer": "Daniel M. Matongo",
     "description": " "
   },
@@ -30847,14 +30901,14 @@
   },
   {
     "name": "wpa_supplicant",
-    "version": "2.9 5",
+    "version": "2.9 4",
     "maintainer": "Daniel M. Matongo",
     "description": " "
   },
   {
     "name": "e2fsprogs",
     "version": "1.46.4 1",
-    "maintainer": "Linux User",
+    "maintainer": "Daniel M. Matongo",
     "description": " "
   },
   {
@@ -30864,20 +30918,8 @@
     "description": " "
   },
   {
-    "name": "tiff",
-    "version": "4.3.0 1",
-    "maintainer": "Daniel M. Matongo",
-    "description": " "
-  },
-  {
     "name": "libass",
     "version": "0.15.2 1",
-    "maintainer": "Daniel M. Matongo",
-    "description": " "
-  },
-  {
-    "name": "giflib",
-    "version": "5.2.1 1",
     "maintainer": "Daniel M. Matongo",
     "description": " "
   },
@@ -30907,26 +30949,26 @@
   },
   {
     "name": "efivar",
-    "version": "cff88dd96b9d43e2c5875a24ba6180b196890ded 1",
-    "maintainer": "Linux User",
+    "version": "e830c0fc0dc658bf3d5b6184682317f2b8a3cf92 1",
+    "maintainer": "Daniel M. Matongo",
     "description": " "
   },
   {
     "name": "util-linux",
     "version": "2.37.2 1",
-    "maintainer": "Linux User",
+    "maintainer": "Daniel M. Matongo",
     "description": " "
   },
   {
     "name": "libwebp",
-    "version": "1.2.1 1",
-    "maintainer": "Linux User",
+    "version": "1.2.1 2",
+    "maintainer": "Daniel M. Matongo",
     "description": " "
   },
   {
     "name": "fontconfig",
-    "version": "2.13.94 1",
-    "maintainer": "Linux User",
+    "version": "2.13.94 2",
+    "maintainer": "Daniel M. Matongo",
     "description": " "
   },
   {
@@ -30942,9 +30984,15 @@
     "description": " "
   },
   {
-    "name": "libpciaccess",
-    "version": "0.16 1",
-    "maintainer": "Linux User",
+    "name": "bkeymaps",
+    "version": "1.13 1",
+    "maintainer": "Daniel M. Matongo",
+    "description": " "
+  },
+  {
+    "name": "firefox",
+    "version": "94.0 1",
+    "maintainer": "Daniel M. Matongo",
     "description": " "
   },
   {
@@ -30954,20 +31002,14 @@
     "description": " "
   },
   {
-    "name": "libdrm",
-    "version": "2.4.109 1",
+    "name": "ssu",
+    "version": "0.3.2 1",
     "maintainer": "Daniel M. Matongo",
     "description": " "
   },
   {
     "name": "clang",
     "version": "13.0.0 1",
-    "maintainer": "Daniel M. Matongo",
-    "description": " "
-  },
-  {
-    "name": "acpid",
-    "version": "2.0.33 1",
     "maintainer": "Daniel M. Matongo",
     "description": " "
   },
@@ -30986,12 +31028,6 @@
   {
     "name": "pkgconf",
     "version": "1.8.0 1",
-    "maintainer": "Linux User",
-    "description": " "
-  },
-  {
-    "name": "zip",
-    "version": "3.0 2",
     "maintainer": "Daniel M. Matongo",
     "description": " "
   },
@@ -31014,14 +31050,20 @@
     "description": " "
   },
   {
-    "name": "patchelf",
-    "version": "0.13 1",
-    "maintainer": "Linux User",
+    "name": "rust",
+    "version": "1.57.0 1",
+    "maintainer": "Daniel M. Matongo",
     "description": " "
   },
   {
     "name": "libudev-zero",
     "version": "1.0.0 1",
+    "maintainer": "Daniel M. Matongo",
+    "description": " "
+  },
+  {
+    "name": "firefox-privacy",
+    "version": "1.0 5",
     "maintainer": "Daniel M. Matongo",
     "description": " "
   },
@@ -31034,6 +31076,18 @@
   {
     "name": "hicolor-icon-theme",
     "version": "0.17 1",
+    "maintainer": "Daniel M. Matongo",
+    "description": " "
+  },
+  {
+    "name": "pcre",
+    "version": "8.45 1",
+    "maintainer": "Daniel M. Matongo",
+    "description": " "
+  },
+  {
+    "name": "mutt",
+    "version": "2.1.4 1",
     "maintainer": "Daniel M. Matongo",
     "description": " "
   },
@@ -31062,14 +31116,20 @@
     "description": " "
   },
   {
-    "name": "lzip",
-    "version": "1.22 1",
+    "name": "scdoc",
+    "version": "1.11.2 1",
+    "maintainer": "Daniel M. Matongo",
+    "description": " "
+  },
+  {
+    "name": "mdevd",
+    "version": "0.1.5.0 1",
     "maintainer": "Daniel M. Matongo",
     "description": " "
   },
   {
     "name": "gdk-pixbuf",
-    "version": "2.42.6 1",
+    "version": "2.42.6 2",
     "maintainer": "Daniel M. Matongo",
     "description": " "
   },
@@ -31082,13 +31142,7 @@
   {
     "name": "opendoas",
     "version": "6.8.1 2",
-    "maintainer": "Linux User",
-    "description": " "
-  },
-  {
-    "name": "pixman",
-    "version": "0.40.0 1",
-    "maintainer": "Linux User",
+    "maintainer": "Daniel M. Matongo",
     "description": " "
   },
   {
@@ -31122,6 +31176,12 @@
     "description": " "
   },
   {
+    "name": "kirc",
+    "version": "0.2.9 1",
+    "maintainer": "Daniel M. Matongo",
+    "description": " "
+  },
+  {
     "name": "atk",
     "version": "2.36.0 1",
     "maintainer": "Daniel M. Matongo",
@@ -31134,15 +31194,9 @@
     "description": " "
   },
   {
-    "name": "rsync",
-    "version": "3.2.3 1",
-    "maintainer": "Daniel M. Matongo",
-    "description": " "
-  },
-  {
     "name": "libtheora",
-    "version": "1.1.1 3",
-    "maintainer": "Linux User",
+    "version": "1.1.1 2",
+    "maintainer": "Daniel M. Matongo",
     "description": " "
   },
   {
@@ -31158,15 +31212,15 @@
     "description": " "
   },
   {
-    "name": "gcompat",
-    "version": "1.0.0 1",
+    "name": "efibootmgr",
+    "version": "b9fedd6b6f57055164bc361bc5cf16a602843c6e 1",
     "maintainer": "Daniel M. Matongo",
     "description": " "
   },
   {
-    "name": "efibootmgr",
-    "version": "4069341e184471dccf407ca8410daa4c4fd634f5 1",
-    "maintainer": "Linux User",
+    "name": "ttf-croscore",
+    "version": "1.31.0 2",
+    "maintainer": "Daniel M. Matongo",
     "description": " "
   },
   {
@@ -31177,7 +31231,7 @@
   },
   {
     "name": "mpv",
-    "version": "0.34.0 1",
+    "version": "git 1",
     "maintainer": "Daniel M. Matongo",
     "description": " "
   },
@@ -31190,19 +31244,13 @@
   {
     "name": "json-c",
     "version": "0.15 1",
-    "maintainer": "Linux User",
+    "maintainer": "Daniel M. Matongo",
     "description": " "
   },
   {
     "name": "lame",
     "version": "3.100 2",
     "maintainer": "Daniel M. Matongo",
-    "description": " "
-  },
-  {
-    "name": "sx",
-    "version": "2.1.7 1",
-    "maintainer": "Linux User",
     "description": " "
   },
   {
@@ -31230,18 +31278,6 @@
     "description": " "
   },
   {
-    "name": "libevdev",
-    "version": "1.12.0 1",
-    "maintainer": "Daniel M. Matongo",
-    "description": " "
-  },
-  {
-    "name": "eudev",
-    "version": "3.2.10 1",
-    "maintainer": "Daniel M. Matongo",
-    "description": " "
-  },
-  {
     "name": "libpng",
     "version": "1.6.37 2",
     "maintainer": "Daniel M. Matongo",
@@ -31250,6 +31286,12 @@
   {
     "name": "x264",
     "version": "20190812-2245 4",
+    "maintainer": "Daniel M. Matongo",
+    "description": " "
+  },
+  {
+    "name": "man-pages",
+    "version": "5.13 1",
     "maintainer": "Daniel M. Matongo",
     "description": " "
   },
@@ -31266,26 +31308,8 @@
     "description": " "
   },
   {
-    "name": "plzip",
-    "version": "1.9 1",
-    "maintainer": "Daniel M. Matongo",
-    "description": " "
-  },
-  {
     "name": "cbindgen",
     "version": "0.20.0 1",
-    "maintainer": "Linux User",
-    "description": " "
-  },
-  {
-    "name": "mtdev",
-    "version": "1.1.6 1",
-    "maintainer": "Daniel M. Matongo",
-    "description": " "
-  },
-  {
-    "name": "liberation-fonts",
-    "version": "2.1.5 1",
     "maintainer": "Daniel M. Matongo",
     "description": " "
   },
@@ -31296,32 +31320,20 @@
     "description": " "
   },
   {
-    "name": "libinput",
-    "version": "1.19.2 1",
+    "name": "libffi",
+    "version": "3.4.2 2",
     "maintainer": "Daniel M. Matongo",
     "description": " "
   },
   {
-    "name": "libffi",
-    "version": "3.4.2 1",
-    "maintainer": "Linux User",
-    "description": " "
-  },
-  {
     "name": "eiwd",
-    "version": "1.19 1",
+    "version": "1.20 1",
     "maintainer": "Daniel M. Matongo",
     "description": " "
   },
   {
     "name": "perl",
-    "version": "5.34.0 1",
-    "maintainer": "Daniel M. Matongo",
-    "description": " "
-  },
-  {
-    "name": "bash",
-    "version": "5.1.p12 1",
+    "version": "5.34.0 3",
     "maintainer": "Daniel M. Matongo",
     "description": " "
   },
