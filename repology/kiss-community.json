@@ -541,7 +541,7 @@
   },
   {
     "name": "pandoc-bin",
-    "version": "2.17 1 ",
+    "version": "2.17.0.1 1 ",
     "maintainer": "Cédric",
     "description": " "
   },
@@ -1057,7 +1057,7 @@
   },
   {
     "name": "catgirl",
-    "version": "2.0 1",
+    "version": "2.0a 1",
     "maintainer": "aabacchus",
     "description": " "
   },
@@ -19075,7 +19075,7 @@
   },
   {
     "name": "linux-headers",
-    "version": "5.10.54 1",
+    "version": "5.16.2 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -19987,7 +19987,7 @@
   },
   {
     "name": "python-pyparsing",
-    "version": "3.0.6 1",
+    "version": "3.0.7 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
@@ -20095,7 +20095,7 @@
   },
   {
     "name": "libfido2",
-    "version": "1.9.0 2",
+    "version": "1.10.0 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
