@@ -14118,6 +14118,12 @@
     "description": " "
   },
   {
+    "name": "dillo",
+    "version": "3.0.5 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "librewolf",
     "version": "96.0.1 1",
     "maintainer": "Ethan",
@@ -14401,7 +14407,7 @@
   },
   {
     "name": "alacritty",
-    "version": "0.9.0 1",
+    "version": "0.10.0 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -14780,6 +14786,12 @@
   {
     "name": "tiff",
     "version": "4.3.0 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "9wm",
+    "version": "git 1",
     "maintainer": "Ethan",
     "description": " "
   },
