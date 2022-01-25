@@ -2539,7 +2539,7 @@
   },
   {
     "name": "ytfzf",
-    "version": "1.2.0 3 ",
+    "version": "2.1 1 ",
     "maintainer": "Cédric",
     "description": " "
   },
@@ -3049,7 +3049,7 @@
   },
   {
     "name": "git",
-    "version": "2.34.1 1",
+    "version": "2.35.0 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -3067,7 +3067,7 @@
   },
   {
     "name": "util-linux",
-    "version": "2.37.2 1",
+    "version": "2.37.3 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -3271,7 +3271,7 @@
   },
   {
     "name": "iwd",
-    "version": "1.21 1",
+    "version": "1.22 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -3529,7 +3529,7 @@
   },
   {
     "name": "libbsd",
-    "version": "0.11.4 1",
+    "version": "0.11.5 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -4033,7 +4033,7 @@
   },
   {
     "name": "catgirl",
-    "version": "2.0 1",
+    "version": "2.0a 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -4477,7 +4477,7 @@
   },
   {
     "name": "xf86-input-libinput",
-    "version": "1.2.0 1",
+    "version": "1.2.1 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -5011,7 +5011,7 @@
   },
   {
     "name": "chezmoi",
-    "version": "2.10.0 1",
+    "version": "2.10.1 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -12942,6 +12942,12 @@
     "description": " "
   },
   {
+    "name": "mit-scheme",
+    "version": "10.1.11 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "snobol4",
     "version": "2.2.2 1",
     "maintainer": "Ethan",
@@ -14095,7 +14101,7 @@
   },
   {
     "name": "libexecinfo",
-    "version": "20180201 1",
+    "version": "1.1 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -14462,6 +14468,12 @@
   {
     "name": "brownout",
     "version": "0.4 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
+    "name": "freeglut",
+    "version": "3.2.1 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -19051,7 +19063,7 @@
   },
   {
     "name": "git",
-    "version": "2.34.1 1",
+    "version": "2.35.0 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -19297,7 +19309,7 @@
   },
   {
     "name": "util-linux",
-    "version": "2.37.2 1",
+    "version": "2.37.3 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -19423,7 +19435,7 @@
   },
   {
     "name": "python",
-    "version": "3.9.6 1",
+    "version": "3.10.2 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -19453,7 +19465,7 @@
   },
   {
     "name": "cmake",
-    "version": "3.22.1 1",
+    "version": "3.22.2 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -19532,12 +19544,6 @@
   {
     "name": "libxml2",
     "version": "2.9.12 2",
-    "maintainer": "hovercats",
-    "description": " "
-  },
-  {
-    "name": "python",
-    "version": "3.9.9 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -26653,7 +26659,7 @@
   },
   {
     "name": "systemd",
-    "version": "250 1",
+    "version": "250.3 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -27613,7 +27619,7 @@
   },
   {
     "name": "gsettings-desktop-schemas",
-    "version": "41.0 1",
+    "version": "42.alpha 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -29173,7 +29179,7 @@
   },
   {
     "name": "gnome-desktop",
-    "version": "41.3 1",
+    "version": "42.alpha.1 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -29239,7 +29245,7 @@
   },
   {
     "name": "gnome-disk-utility",
-    "version": "41.0 1",
+    "version": "42.alpha 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -29335,7 +29341,7 @@
   },
   {
     "name": "colord-gtk",
-    "version": "0.2.0 1",
+    "version": "09bd8d4c99df1d6eea6665e40c182fc944b2ef71 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -29395,7 +29401,7 @@
   },
   {
     "name": "libnma",
-    "version": "1.8.32 1",
+    "version": "1.8.34 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -29437,19 +29443,19 @@
   },
   {
     "name": "libgweather",
-    "version": "40.0 1",
+    "version": "3.91.0 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
   {
     "name": "gnome-bluetooth",
-    "version": "3.34.5 1",
+    "version": "42.alpha.2 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
   {
     "name": "evolution-data-server",
-    "version": "3.42.3 1",
+    "version": "3.43.1.1 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -29485,7 +29491,7 @@
   },
   {
     "name": "libhandy",
-    "version": "1.4.0 1",
+    "version": "1.5.0 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -29503,7 +29509,7 @@
   },
   {
     "name": "gnome-shell-extensions",
-    "version": "41.1 1",
+    "version": "42.alpha 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -29545,7 +29551,7 @@
   },
   {
     "name": "mutter",
-    "version": "41.3 2",
+    "version": "42.alpha 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -29599,13 +29605,13 @@
   },
   {
     "name": "gnome-shell",
-    "version": "41.3 2",
+    "version": "42.alpha 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
   {
     "name": "gnome-settings-daemon",
-    "version": "41.0 1",
+    "version": "42.alpha 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -29623,7 +29629,7 @@
   },
   {
     "name": "gvfs",
-    "version": "1.48.1 2",
+    "version": "1.49.1 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -29695,7 +29701,7 @@
   },
   {
     "name": "eog",
-    "version": "41.1 1",
+    "version": "42.alpha 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -29773,7 +29779,7 @@
   },
   {
     "name": "gnome-text-editor",
-    "version": "41.1 1",
+    "version": "42.alpha2 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -29821,7 +29827,7 @@
   },
   {
     "name": "nautilus",
-    "version": "41.2 1",
+    "version": "42.alpha 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
