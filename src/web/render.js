@@ -1,12 +1,12 @@
 async function readFile(filename = '/dev/stdin') {
-  const buffer = new ArrayBuffer(1024)
+  const buffer = new Uint8Array(1024)
 
   const handle = await tjs.fs.open(filename, 'r')
   let csv = ''
-  let data = await handle.read(buffer.length)
-  while (data.length) {
-    csv += new TextDecoder().decode(data)
-    data = await handle.read(buffer.length)
+  let length = await handle.read(buffer)
+  while (length) {
+    csv += new TextDecoder().decode(buffer)
+    length = await handle.read(buffer)
   }
   return csv
 }
@@ -40,7 +40,7 @@ function html(pieces) {
         return url
       }
 
-      const unquote = (string) => string.slice(1).slice(0, -1)
+      const unquote = (string) => string?.slice(1)?.slice(0, -1)
 
       const a = (url, name) =>
         `<a href=${url} class=url>${name ?? url?.replace('https://', '')}</a>`
