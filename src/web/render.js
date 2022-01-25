@@ -51,7 +51,7 @@ function html(pieces) {
         `<tr>`,
         [
           '  ' + td('name', a(href(uri ?? ''), name)),
-          td('version', version.split(' ')[0]),
+          td('version', version?.split(' ')[0]),
           td('uri', a(uri)),
           td('maintainer', unquote(maintainer)),
           td('description', unquote(description)),
