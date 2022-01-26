@@ -1711,8 +1711,8 @@
   },
   {
     "name": "gdb",
-    "version": "11.1 1",
-    "maintainer": "Xeno-Hypster",
+    "version": "11.2 1",
+    "maintainer": "Ethan",
     "description": " "
   },
   {
@@ -12390,12 +12390,6 @@
     "description": " "
   },
   {
-    "name": "gdb",
-    "version": "11.2 1",
-    "maintainer": "Ethan",
-    "description": " "
-  },
-  {
     "name": "imapfilter",
     "version": "2.7.5 2",
     "maintainer": "Ethan",
@@ -13147,7 +13141,7 @@
   },
   {
     "name": "pyright",
-    "version": "1.1.214 1",
+    "version": "1.1.215 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -20053,7 +20047,7 @@
   },
   {
     "name": "intel-gmmlib",
-    "version": "22.0.1 1",
+    "version": "22.0.2 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
@@ -27145,7 +27139,7 @@
   },
   {
     "name": "glib2",
-    "version": "2.70.2 2",
+    "version": "2.71.0 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -27320,6 +27314,12 @@
   {
     "name": "libxcvt",
     "version": "0.1.1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "xorg-xinput",
+    "version": "1.6.3 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -27990,6 +27990,12 @@
     "description": " "
   },
   {
+    "name": "python-dnspython",
+    "version": "2.1.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
     "name": "ruby",
     "version": "3.0.3 1",
     "maintainer": "Mae Dartmann",
@@ -28022,6 +28028,12 @@
   {
     "name": "mtpfs",
     "version": "1.1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libqrtr-glib",
+    "version": "1.2.0 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -28074,6 +28086,12 @@
     "description": " "
   },
   {
+    "name": "rpcsvc-proto",
+    "version": "1.4.3 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
     "name": "volume_key",
     "version": "0.3.12 1",
     "maintainer": "Mae Dartmann",
@@ -28088,6 +28106,12 @@
   {
     "name": "xmlto",
     "version": "0.0.28 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "modemmanager",
+    "version": "git 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -28212,6 +28236,12 @@
     "description": " "
   },
   {
+    "name": "lmdb",
+    "version": "0.9.29 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
     "name": "flatpak",
     "version": "1.12.3 2",
     "maintainer": "Mae Dartmann",
@@ -28326,8 +28356,20 @@
     "description": " "
   },
   {
+    "name": "libmbim",
+    "version": "d2bee5753e660632ddca403f82f53422a675ffbe 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
     "name": "libsodium",
     "version": "1.0.18 2",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "samba",
+    "version": "4.15.4 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -28458,6 +28500,12 @@
     "description": " "
   },
   {
+    "name": "cmocka",
+    "version": "1.1.5 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
     "name": "jansson",
     "version": "2.14 1",
     "maintainer": "Mae Dartmann",
@@ -28542,6 +28590,18 @@
     "description": " "
   },
   {
+    "name": "perl-parse-yapp",
+    "version": "1.21 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "talloc",
+    "version": "2.3.3 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
     "name": "ncspot",
     "version": "0.9.3 1",
     "maintainer": "Mae Dartmann",
@@ -28566,6 +28626,12 @@
     "description": " "
   },
   {
+    "name": "tevent",
+    "version": "0.11.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
     "name": "pygobject",
     "version": "3.42.0 2",
     "maintainer": "Mae Dartmann",
@@ -28586,6 +28652,12 @@
   {
     "name": "sndio",
     "version": "1.8.1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "libqmi",
+    "version": "6dc0caf8c768f203134b55f61fd7cc9ae2573a95 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -28784,6 +28856,12 @@
   {
     "name": "pcre2",
     "version": "10.39 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "python-markdown",
+    "version": "3.3.6 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -29076,6 +29154,12 @@
     "description": " "
   },
   {
+    "name": "ldb",
+    "version": "2.4.1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
     "name": "apr-util",
     "version": "1.6.1 1",
     "maintainer": "Mae Dartmann",
@@ -29203,7 +29287,7 @@
   },
   {
     "name": "gnome-control-center",
-    "version": "41.2 1",
+    "version": "21862c3e4814b30b64179dd0b0dc6e54f8cfa172 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -29234,6 +29318,12 @@
   {
     "name": "network-manager-applet",
     "version": "1.24.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "epiphany",
+    "version": "42.alpha 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -29448,6 +29538,12 @@
     "description": " "
   },
   {
+    "name": "vte3",
+    "version": "0.66.2 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
     "name": "bolt",
     "version": "0.9.1 1",
     "maintainer": "Mae Dartmann",
@@ -29629,7 +29725,13 @@
   },
   {
     "name": "extension-manager",
-    "version": "0.1.0 1",
+    "version": "0.2.1 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "gnome-terminal",
+    "version": "3.42.2 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -29839,7 +29941,7 @@
   },
   {
     "name": "nautilus",
-    "version": "42.alpha 1",
+    "version": "29e06f841e90f4c80a6b6f79c1df21405b4a3f9e 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
