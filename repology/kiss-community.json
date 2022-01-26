@@ -4195,7 +4195,7 @@
   },
   {
     "name": "nginx",
-    "version": "1.21.5 1",
+    "version": "1.21.6 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -4225,7 +4225,7 @@
   },
   {
     "name": "cmake",
-    "version": "3.22.1 1",
+    "version": "3.22.2 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -4896,6 +4896,12 @@
     "description": " "
   },
   {
+    "name": "neofetch",
+    "version": "7.1.0 1",
+    "maintainer": "Cem Keylan",
+    "description": " "
+  },
+  {
     "name": "mpc",
     "version": "0.34 1",
     "maintainer": "Cem Keylan",
@@ -4934,6 +4940,12 @@
   {
     "name": "gpgme",
     "version": "1.16.0 1",
+    "maintainer": "Cem Keylan",
+    "description": " "
+  },
+  {
+    "name": "lz4",
+    "version": "1.9.3 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -20095,7 +20107,7 @@
   },
   {
     "name": "python-fonttools",
-    "version": "4.28.5 1",
+    "version": "4.29.0 1",
     "maintainer": "Owen Rafferty",
     "description": " "
   },
