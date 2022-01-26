@@ -547,7 +547,7 @@
   },
   {
     "name": "cups-filters",
-    "version": "1.28.10 1 ",
+    "version": "1.28.11 1 ",
     "maintainer": "Cédric",
     "description": " "
   },
@@ -1933,7 +1933,7 @@
   },
   {
     "name": "tdb",
-    "version": "1.4.5 1",
+    "version": "1.4.6 1",
     "maintainer": "Cédric",
     "description": " "
   },
@@ -8791,7 +8791,7 @@
   },
   {
     "name": "cmake",
-    "version": "3.22.1 1",
+    "version": "3.22.2 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
@@ -13045,7 +13045,7 @@
   },
   {
     "name": "erlang",
-    "version": "24.2 1",
+    "version": "24.2.1 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13261,7 +13261,7 @@
   },
   {
     "name": "nginx",
-    "version": "1.21.5 1",
+    "version": "1.21.6 1",
     "maintainer": "Ethan",
     "description": " "
   },
