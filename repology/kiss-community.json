@@ -18811,7 +18811,7 @@
   },
   {
     "name": "mesa",
-    "version": "21.3.4 1",
+    "version": "21.3.5 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -18865,7 +18865,7 @@
   },
   {
     "name": "linux",
-    "version": "5.16.2 1",
+    "version": "5.16.3 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -19015,7 +19015,7 @@
   },
   {
     "name": "mesa",
-    "version": "21.3.4 1",
+    "version": "21.3.5 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -19063,7 +19063,7 @@
   },
   {
     "name": "linux-headers",
-    "version": "5.16.2 1",
+    "version": "5.16.3 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -19531,7 +19531,7 @@
   },
   {
     "name": "eiwd",
-    "version": "1.21 1",
+    "version": "1.22 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -19603,7 +19603,7 @@
   },
   {
     "name": "lua",
-    "version": "5.4.3 1 ",
+    "version": "5.4.4 1 ",
     "maintainer": "hovercats",
     "description": " "
   },
