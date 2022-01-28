@@ -1440,6 +1440,12 @@
     "description": " "
   },
   {
+    "name": "libuuid",
+    "version": "2.37.2 1",
+    "maintainer": "Zola",
+    "description": " "
+  },
+  {
     "name": "ccrypt",
     "version": "1.11 1",
     "maintainer": "Arthur Williams",
@@ -13141,7 +13147,7 @@
   },
   {
     "name": "pyright",
-    "version": "1.1.215 1",
+    "version": "1.1.216 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -14173,7 +14179,7 @@
   },
   {
     "name": "chromium",
-    "version": "97.0.4692.71 1",
+    "version": "97.0.4692.99 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -14743,7 +14749,7 @@
   },
   {
     "name": "librewolf",
-    "version": "96.0.1 1",
+    "version": "96.0.3 1",
     "maintainer": "Ethan",
     "description": " "
   },
