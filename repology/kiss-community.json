@@ -13614,6 +13614,12 @@
     "description": " "
   },
   {
+    "name": "chromium",
+    "version": "97.0.4692.99 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "gnumeric",
     "version": "1.12.51 1",
     "maintainer": "Ethan",

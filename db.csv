@@ -2267,6 +2267,7 @@ liberation-fonts,2.1.5 1,https://github.com/ehawkvu/kiss-xorg,extra/liberation-f
 libinput,1.19.3 1,https://github.com/ehawkvu/kiss-xorg,extra/libinput,master,"Ethan"," "
 xwayland,21.1.4 1,https://github.com/ehawkvu/kiss-xorg,testing/xwayland,master,"Ethan"," "
 libreoffice,7.2.5.2 1,https://github.com/ehawkvu/kiss-xorg,testing/libreoffice,master,"Ethan"," "
+chromium,97.0.4692.99 1,https://github.com/ehawkvu/kiss-xorg,testing/chromium,master,"Ethan"," "
 gnumeric,1.12.51 1,https://github.com/ehawkvu/kiss-xorg,testing/gnumeric,master,"Ethan"," "
 xf86-video-intel,31486f40f8e8f8923ca0799aea84b58799754564 1,https://github.com/ehawkvu/kiss-xorg,xorg/xf86-video-intel,master,"Dylan Araps"," "
 sowm,1.6 1,https://github.com/ehawkvu/kiss-xorg,xorg/sowm,master,"Dylan Araps"," "
