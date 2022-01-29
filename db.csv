@@ -334,6 +334,7 @@ libportaudio2,19.6.0 1,https://github.com/kiss-community/community,community/lib
 libsamplerate,0.2.2 1,https://github.com/kiss-community/community,community/libsamplerate,main,"Zola"," "
 sbase,git 2,https://github.com/kiss-community/community,community/sbase,main,"Dylan Araps"," "
 cloc,1.92 1 ,https://github.com/kiss-community/community,community/cloc,main,"Xiaodong Xu"," "
+jfsutils,1.1.15 1,https://github.com/kiss-community/community,community/jfsutils,main,"tslil clingman"," "
 pinentry,1.2.0 1 ,https://github.com/kiss-community/community,community/pinentry,main,"aabacchus"," "
 extra-cmake-modules,5.87.0 1,https://github.com/kiss-community/community,community/extra-cmake-modules,main,"David Garland"," "
 trash-cli,0.21.10.24 1,https://github.com/kiss-community/community,community/trash-cli,main,"Jason Eslick"," "

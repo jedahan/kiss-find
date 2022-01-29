@@ -2016,6 +2016,12 @@
     "description": " "
   },
   {
+    "name": "jfsutils",
+    "version": "1.1.15 1",
+    "maintainer": "tslil clingman",
+    "description": " "
+  },
+  {
     "name": "pinentry",
     "version": "1.2.0 1 ",
     "maintainer": "aabacchus",
