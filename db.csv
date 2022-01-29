@@ -3336,7 +3336,7 @@ python-six,1.16.0 1,https://github.com/ioraff/kiss-personal,extra/python-six,mas
 ttf-font-awesome,5.15.4 1,https://github.com/ioraff/kiss-personal,extra/ttf-font-awesome,master,"Owen Rafferty"," "
 gmni,1.0 1,https://github.com/ioraff/kiss-personal,extra/gmni,master,"Owen Rafferty"," "
 python-pythran,0.11.0 1,https://github.com/ioraff/kiss-personal,extra/python-pythran,master,"Owen Rafferty"," "
-cython,0.29.26 1,https://github.com/ioraff/kiss-personal,extra/cython,master,"Owen Rafferty"," "
+cython,0.29.27 1,https://github.com/ioraff/kiss-personal,extra/cython,master,"Owen Rafferty"," "
 python-numpy,1.22.1 1,https://github.com/ioraff/kiss-personal,extra/python-numpy,master,"Owen Rafferty"," "
 python-docutils,0.18.1 1,https://github.com/ioraff/kiss-personal,extra/python-docutils,master,"Owen Rafferty"," "
 python-pyparsing,3.0.7 1,https://github.com/ioraff/kiss-personal,extra/python-pyparsing,master,"Owen Rafferty"," "
