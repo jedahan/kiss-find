@@ -17653,13 +17653,13 @@
   },
   {
     "name": "sway",
-    "version": "e1db1f8218998c428e8b087dda6660449ef2891a 1",
+    "version": "cd1ee0e172a10a3f8a420ff20aa1a69d46c7b4ad 1",
     "maintainer": "git-bruh",
     "description": " "
   },
   {
     "name": "wlroots",
-    "version": "f4578db272f998a5009508394b6f38092a09e7ff 1",
+    "version": "d1542e1eb90f24d00949c485216ad320efe55e0a 1",
     "maintainer": "git-bruh",
     "description": " "
   },
