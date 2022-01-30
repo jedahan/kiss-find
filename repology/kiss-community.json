@@ -20316,6 +20316,12 @@
     "description": " "
   },
   {
+    "name": "rsync",
+    "version": "symlink",
+    "maintainer": "unknown",
+    "description": " "
+  },
+  {
     "name": "pinentry",
     "version": "symlink",
     "maintainer": "unknown",

@@ -3384,6 +3384,7 @@ sccache,symlink,https://github.com/ioraff/kiss-personal,modified/sccache,master,
 mesa,symlink,https://github.com/ioraff/kiss-personal,modified/mesa,master,"unknown"," "
 msmtp,symlink,https://github.com/ioraff/kiss-personal,modified/msmtp,master,"unknown"," "
 gnupg2,symlink,https://github.com/ioraff/kiss-personal,modified/gnupg2,master,"unknown"," "
+rsync,symlink,https://github.com/ioraff/kiss-personal,modified/rsync,master,"unknown"," "
 pinentry,symlink,https://github.com/ioraff/kiss-personal,modified/pinentry,master,"unknown"," "
 curl,symlink,https://github.com/ioraff/kiss-personal,modified/curl,master,"unknown"," "
 cyrus-sasl,symlink,https://github.com/ioraff/kiss-personal,modified/cyrus-sasl,master,"unknown"," "
