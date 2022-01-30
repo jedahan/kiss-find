@@ -3061,7 +3061,7 @@
   },
   {
     "name": "git",
-    "version": "2.35.0 1",
+    "version": "2.35.1 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -3145,7 +3145,7 @@
   },
   {
     "name": "byacc",
-    "version": "20220114 1",
+    "version": "20220128 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -3283,7 +3283,7 @@
   },
   {
     "name": "iwd",
-    "version": "1.22 1",
+    "version": "1.23 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -3325,7 +3325,7 @@
   },
   {
     "name": "wayland-protocols",
-    "version": "1.24 1",
+    "version": "1.25 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -3823,7 +3823,7 @@
   },
   {
     "name": "expat",
-    "version": "2.4.3 1",
+    "version": "2.4.4 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -3871,7 +3871,7 @@
   },
   {
     "name": "libgpg-error",
-    "version": "1.43 1",
+    "version": "1.44 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -3961,7 +3961,7 @@
   },
   {
     "name": "imagemagick",
-    "version": "7.1.0-20 1",
+    "version": "7.1.0-22 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -4867,7 +4867,7 @@
   },
   {
     "name": "hugo",
-    "version": "0.92.0 1",
+    "version": "0.92.1 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
@@ -4981,7 +4981,7 @@
   },
   {
     "name": "lua",
-    "version": "5.4.3 1",
+    "version": "5.4.4 1",
     "maintainer": "Cem Keylan",
     "description": " "
   },
