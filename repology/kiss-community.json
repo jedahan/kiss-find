@@ -27655,7 +27655,7 @@
   },
   {
     "name": "gsettings-desktop-schemas",
-    "version": "42.alpha 1",
+    "version": "40e4191256708822e62a87238c364af4df1efcba 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -27679,7 +27679,7 @@
   },
   {
     "name": "telegram-desktop",
-    "version": "3.4.3 1",
+    "version": "3.4.8 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -28861,7 +28861,7 @@
   },
   {
     "name": "pipewire",
-    "version": "0.3.43 1",
+    "version": "0.3.44 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -29311,7 +29311,7 @@
   },
   {
     "name": "gnome-control-center",
-    "version": "9dfaca3725b454bb002418f0f51394714f658570 1",
+    "version": "e12d215a323a9a82c81f39784c8e82617aab3f13 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -29342,6 +29342,12 @@
   {
     "name": "network-manager-applet",
     "version": "1.24.0 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "js91",
+    "version": "91.5.1 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -29461,7 +29467,7 @@
   },
   {
     "name": "gnome-calendar",
-    "version": "41.2 1",
+    "version": "e35dbc1acd03dd1751b755b6c8e1932a692ad4e1 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -29653,7 +29659,7 @@
   },
   {
     "name": "gjs",
-    "version": "1.70.0 1",
+    "version": "git 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -29683,7 +29689,7 @@
   },
   {
     "name": "mutter",
-    "version": "42.alpha 1",
+    "version": "e8ed9ece1c5d7836ce7eb884d6526187974407f9 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -29737,7 +29743,7 @@
   },
   {
     "name": "gnome-shell",
-    "version": "42.alpha 1",
+    "version": "3d57bc549708045fc8e542b076e879a08843a467 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
