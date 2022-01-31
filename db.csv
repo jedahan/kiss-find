@@ -2059,7 +2059,7 @@ talloc,2.3.3 1,https://github.com/ehawkvu/kiss-personal,utils/talloc,master,"Eth
 acpi,1.7 1,https://github.com/ehawkvu/kiss-personal,utils/acpi,master,"Ethan"," "
 dictd,1.13.0 1,https://github.com/ehawkvu/kiss-personal,utils/dictd,master,"Ethan"," "
 python-gprof2dot,git 1,https://github.com/ehawkvu/kiss-personal,utils/python-gprof2dot,master,"Ethan"," "
-imagemagick,7.1.0-20 1,https://github.com/ehawkvu/kiss-personal,utils/imagemagick,master,"Ethan"," "
+imagemagick,7.1.0-22 1,https://github.com/ehawkvu/kiss-personal,utils/imagemagick,master,"Ethan"," "
 w3m,git 1,https://github.com/ehawkvu/kiss-personal,utils/w3m,master,"Ethan"," "
 sfeed,1.1 1,https://github.com/ehawkvu/kiss-personal,utils/sfeed,master,"Ethan"," "
 pv,1.6.20 1,https://github.com/ehawkvu/kiss-personal,utils/pv,master,"Ethan"," "
