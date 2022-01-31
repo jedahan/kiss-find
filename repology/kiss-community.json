@@ -13039,7 +13039,7 @@
   },
   {
     "name": "sbcl",
-    "version": "2.2.0 1",
+    "version": "2.2.1 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -18883,7 +18883,7 @@
   },
   {
     "name": "linux",
-    "version": "5.16.3 1",
+    "version": "5.16.4 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -18914,12 +18914,6 @@
   {
     "name": "libdrm",
     "version": "2.4.109 1",
-    "maintainer": "hovercats",
-    "description": " "
-  },
-  {
-    "name": "firmware",
-    "version": "20211216 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -18986,6 +18980,12 @@
   {
     "name": "fzf",
     "version": "0.29.0 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "linux-firmware",
+    "version": "20211216 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -19081,13 +19081,13 @@
   },
   {
     "name": "linux-headers",
-    "version": "5.16.3 1",
+    "version": "5.16.4 1",
     "maintainer": "hovercats",
     "description": " "
   },
   {
     "name": "git",
-    "version": "2.35.0 1",
+    "version": "2.35.1 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -19123,7 +19123,7 @@
   },
   {
     "name": "byacc",
-    "version": "20220114 1",
+    "version": "20220128 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -19399,7 +19399,7 @@
   },
   {
     "name": "expat",
-    "version": "2.4.3 1",
+    "version": "2.4.4 1",
     "maintainer": "hovercats",
     "description": " "
   },
