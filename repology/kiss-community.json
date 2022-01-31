@@ -30775,7 +30775,7 @@
   },
   {
     "name": "git",
-    "version": "2.34.1 1",
+    "version": "2.35.1 1",
     "maintainer": "Daniel M. Matongo",
     "description": " "
   },
@@ -30799,7 +30799,7 @@
   },
   {
     "name": "busybox",
-    "version": "1.34.1 1",
+    "version": "1.34.1 2",
     "maintainer": "Daniel M. Matongo",
     "description": " "
   },
@@ -30847,7 +30847,7 @@
   },
   {
     "name": "curl",
-    "version": "7.80.0 1",
+    "version": "7.81.0 1",
     "maintainer": "Daniel M. Matongo",
     "description": " "
   },
@@ -31057,7 +31057,7 @@
   },
   {
     "name": "e2fsprogs",
-    "version": "1.46.4 1",
+    "version": "1.46.5 1",
     "maintainer": "Daniel M. Matongo",
     "description": " "
   },
@@ -31140,12 +31140,6 @@
     "description": " "
   },
   {
-    "name": "firefox",
-    "version": "94.0 1",
-    "maintainer": "Daniel M. Matongo",
-    "description": " "
-  },
-  {
     "name": "ncurses",
     "version": "6.3 1",
     "maintainer": "Daniel M. Matongo",
@@ -31183,7 +31177,7 @@
   },
   {
     "name": "expat",
-    "version": "2.4.1 1",
+    "version": "2.4.4 1",
     "maintainer": "Daniel M. Matongo",
     "description": " "
   },
@@ -31237,13 +31231,13 @@
   },
   {
     "name": "mutt",
-    "version": "2.1.4 1",
+    "version": "2.1.5 1",
     "maintainer": "Daniel M. Matongo",
     "description": " "
   },
   {
     "name": "glib",
-    "version": "2.70.2 1",
+    "version": "2.71.1 1",
     "maintainer": "Daniel M. Matongo",
     "description": " "
   },
@@ -31273,7 +31267,7 @@
   },
   {
     "name": "mdevd",
-    "version": "0.1.5.0 1",
+    "version": "0.1.5.1 1",
     "maintainer": "Daniel M. Matongo",
     "description": " "
   },
@@ -31309,7 +31303,7 @@
   },
   {
     "name": "mesa",
-    "version": "21.3.1 1",
+    "version": "21.3.5 1",
     "maintainer": "Daniel M. Matongo",
     "description": " "
   },
@@ -31327,7 +31321,7 @@
   },
   {
     "name": "kirc",
-    "version": "0.2.9 1",
+    "version": "0.3.0 1",
     "maintainer": "Daniel M. Matongo",
     "description": " "
   },
@@ -31405,7 +31399,7 @@
   },
   {
     "name": "cmake",
-    "version": "3.22.1 1",
+    "version": "3.22.2 1",
     "maintainer": "Daniel M. Matongo",
     "description": " "
   },
@@ -31447,7 +31441,7 @@
   },
   {
     "name": "ffmpeg",
-    "version": "4.4.1 1",
+    "version": "5.0 1",
     "maintainer": "Daniel M. Matongo",
     "description": " "
   },
@@ -31477,7 +31471,7 @@
   },
   {
     "name": "eiwd",
-    "version": "1.20 1",
+    "version": "1.22 1",
     "maintainer": "Daniel M. Matongo",
     "description": " "
   },
