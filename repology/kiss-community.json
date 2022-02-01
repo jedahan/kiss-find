@@ -19014,6 +19014,12 @@
     "description": " "
   },
   {
+    "name": "gnupg1",
+    "version": "symlink",
+    "maintainer": "unknown",
+    "description": " "
+  },
+  {
     "name": "util-linux",
     "version": "symlink",
     "maintainer": "unknown",
@@ -19046,6 +19052,18 @@
   {
     "name": "catgirl",
     "version": "2.0a 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "python",
+    "version": "symlink",
+    "maintainer": "unknown",
+    "description": " "
+  },
+  {
+    "name": "zathura-pdf-mupdf",
+    "version": "0.3.7 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -19100,6 +19118,12 @@
   {
     "name": "libXinerama",
     "version": "1.1.4 1",
+    "maintainer": "hovercats",
+    "description": " "
+  },
+  {
+    "name": "libXmu",
+    "version": "1.1.3 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -19567,7 +19591,7 @@
   },
   {
     "name": "freetype-harfbuzz",
-    "version": "2.11.1+3.3.0 1",
+    "version": "2.11.1+3.3.1 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -26905,7 +26929,7 @@
   },
   {
     "name": "cmake",
-    "version": "3.22.1 1",
+    "version": "3.22.2 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -27920,6 +27944,12 @@
   {
     "name": "nettle",
     "version": "3.7.3 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "xsel",
+    "version": "1.2.0.20200527 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -29448,6 +29478,12 @@
     "description": " "
   },
   {
+    "name": "gnome-background",
+    "version": "96e61a072fb7ab41640169410bab82cfd5416bf7 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
     "name": "libcanberra",
     "version": "0.30 1",
     "maintainer": "Mae Dartmann",
@@ -29515,7 +29551,7 @@
   },
   {
     "name": "tracker3",
-    "version": "3.2.1 2",
+    "version": "3.3.0.alpha 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
