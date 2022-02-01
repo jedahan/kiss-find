@@ -6085,7 +6085,7 @@
   },
   {
     "name": "miktex",
-    "version": "21.12 1",
+    "version": "22.1 1",
     "maintainer": "aabacchus",
     "description": " "
   },
@@ -6109,7 +6109,7 @@
   },
   {
     "name": "graphite-harfbuzz",
-    "version": "3.2.0 1",
+    "version": "3.3.1 1",
     "maintainer": "aabacchus",
     "description": " "
   },
@@ -12222,6 +12222,12 @@
     "description": " "
   },
   {
+    "name": "iproute2",
+    "version": "5.12.0 1",
+    "maintainer": "Ethan",
+    "description": " "
+  },
+  {
     "name": "libmaa",
     "version": "1.3.2 1",
     "maintainer": "Ethan",
@@ -13339,7 +13345,7 @@
   },
   {
     "name": "harfbuzz-icu",
-    "version": "3.2.0 1",
+    "version": "3.3.0 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13351,7 +13357,7 @@
   },
   {
     "name": "freetype-harfbuzz",
-    "version": "2.11.1+3.2.0 1",
+    "version": "2.11.1+3.3.0 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13555,7 +13561,7 @@
   },
   {
     "name": "freetype-harfbuzz",
-    "version": "2.11.1+3.2.0 1",
+    "version": "2.11.1+3.3.0 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -19561,7 +19567,7 @@
   },
   {
     "name": "freetype-harfbuzz",
-    "version": "2.11.1+3.2.0 1",
+    "version": "2.11.1+3.3.0 1",
     "maintainer": "hovercats",
     "description": " "
   },
@@ -26971,7 +26977,13 @@
   },
   {
     "name": "audit",
-    "version": "3.0.6 2",
+    "version": "3.0.7 1",
+    "maintainer": "Mae Dartmann",
+    "description": " "
+  },
+  {
+    "name": "man-pages",
+    "version": "5.13 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -29143,7 +29155,7 @@
   },
   {
     "name": "avrdude",
-    "version": "6.3 1",
+    "version": "6.4 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -29419,7 +29431,7 @@
   },
   {
     "name": "gnome-control-center",
-    "version": "e12d215a323a9a82c81f39784c8e82617aab3f13 1",
+    "version": "13376ecb8b98762599bf54688cdf3afb3c25fbaf 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -29767,7 +29779,7 @@
   },
   {
     "name": "gjs",
-    "version": "git 1",
+    "version": "29f38d0f48bd5e52201bde267d813364e1da2d05 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
@@ -29851,7 +29863,7 @@
   },
   {
     "name": "gnome-shell",
-    "version": "3d57bc549708045fc8e542b076e879a08843a467 1",
+    "version": "5b83ed59ddb4c32c4a844329fc6d85608c162ae8 1",
     "maintainer": "Mae Dartmann",
     "description": " "
   },
