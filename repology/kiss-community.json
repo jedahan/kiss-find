@@ -9091,7 +9091,7 @@
   },
   {
     "name": "libudev-zero",
-    "version": "1.0.0 2",
+    "version": "4154cf252c17297f98a8ca33693ead003b4509da 1",
     "maintainer": "Dilyn Corner",
     "description": " "
   },
@@ -13345,7 +13345,7 @@
   },
   {
     "name": "harfbuzz-icu",
-    "version": "3.3.0 1",
+    "version": "3.3.1 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13357,7 +13357,7 @@
   },
   {
     "name": "freetype-harfbuzz",
-    "version": "2.11.1+3.3.0 1",
+    "version": "2.11.1+3.3.1 1",
     "maintainer": "Ethan",
     "description": " "
   },
@@ -13561,7 +13561,7 @@
   },
   {
     "name": "freetype-harfbuzz",
-    "version": "2.11.1+3.3.0 1",
+    "version": "2.11.1+3.3.1 1",
     "maintainer": "Ethan",
     "description": " "
   },
