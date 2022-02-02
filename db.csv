@@ -526,7 +526,7 @@ byacc,20220128 1,https://github.com/CarbsLinux/repository,core/byacc,master,"Cem
 gcc,11.2.0 1,https://github.com/CarbsLinux/repository,core/gcc,master,"Cem Keylan"," "
 otools,1.5.1 1,https://github.com/CarbsLinux/repository,core/otools,master,"Cem Keylan"," "
 bzip2,1.0.8 1,https://github.com/CarbsLinux/repository,core/bzip2,master,"Cem Keylan"," "
-cpt,6.2.2 1,https://github.com/CarbsLinux/repository,core/cpt,master,"Cem Keylan"," "
+cpt,6.2.3 1,https://github.com/CarbsLinux/repository,core/cpt,master,"Cem Keylan"," "
 carbs-init,1.2.2 4,https://github.com/CarbsLinux/repository,core/carbs-init,master,"Cem Keylan"," "
 rsync,3.2.3 1,https://github.com/CarbsLinux/repository,core/rsync,master,"Cem Keylan"," "
 sbase,git 4,https://github.com/CarbsLinux/repository,core/sbase,master,"Cem Keylan"," "
