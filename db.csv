@@ -2262,7 +2262,7 @@ freetype-harfbuzz,2.11.1+3.3.1 1,https://github.com/ehawkvu/kiss-xorg,extra/free
 mpv,git 1,https://github.com/ehawkvu/kiss-xorg,extra/mpv,master,"Ethan"," "
 libevdev,1.12.0 1,https://github.com/ehawkvu/kiss-xorg,extra/libevdev,master,"Ethan"," "
 libxkbcommon,1.3.1 1,https://github.com/ehawkvu/kiss-xorg,extra/libxkbcommon,master,"Ethan"," "
-ffmpeg,4.4.1 1,https://github.com/ehawkvu/kiss-xorg,extra/ffmpeg,master,"Ethan"," "
+ffmpeg,5.0 1,https://github.com/ehawkvu/kiss-xorg,extra/ffmpeg,master,"Ethan"," "
 firefox-beta,97.0b1 1,https://github.com/ehawkvu/kiss-xorg,extra/firefox-beta,master,"Ethan"," "
 libva,2.13.0 1,https://github.com/ehawkvu/kiss-xorg,extra/libva,master,"Ethan"," "
 mtdev,1.1.6 1,https://github.com/ehawkvu/kiss-xorg,extra/mtdev,master,"Ethan"," "
