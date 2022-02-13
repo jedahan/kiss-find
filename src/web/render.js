@@ -1,7 +1,7 @@
 async function readFile(filename = '/dev/stdin') {
   const buffer = new Uint8Array(1024)
 
-  const handle = await tjs.fs.open(filename, 'r')
+  const handle = await tjs.open(filename, 'r')
   let csv = ''
   let length = await handle.read(buffer)
   while (length) {
@@ -22,9 +22,9 @@ function html(pieces) {
 }
 
 ;(async () => {
-  const search = new TextDecoder().decode(await tjs.fs.readFile('src/web/search.js'))
-  const sort = new TextDecoder().decode(await tjs.fs.readFile('src/web/sort.js'))
-  const style = new TextDecoder().decode(await tjs.fs.readFile('src/web/style.css'))
+  const search = new TextDecoder().decode(await tjs.readFile('src/web/search.js'))
+  const sort = new TextDecoder().decode(await tjs.readFile('src/web/sort.js'))
+  const style = new TextDecoder().decode(await tjs.readFile('src/web/style.css'))
   const packages = (await readFile())
     .split('\n')
     .filter((line) => line !== '')
@@ -47,7 +47,7 @@ function html(pieces) {
 
       const td = (name, content) => `<td class=${name}>${content}</td>`
 
-      const package = [
+      return [
         `<tr>`,
         [
           '  ' + td('name', a(href(uri ?? ''), name)),
@@ -58,7 +58,6 @@ function html(pieces) {
         ].join('\n        '),
         `</tr>`,
       ].join('\n      ')
-      return package
     })
     .join('\n      ')
 
