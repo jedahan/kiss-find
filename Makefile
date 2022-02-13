@@ -4,7 +4,7 @@ DESTDIR := build
 CORE := $(DESTDIR)/core.csv
 DB := $(DESTDIR)/db.csv
 WEBSITE := $(DESTDIR)/web/index.html
-TJS := build/txiki.js/build/tjs
+TJS := txiki.js/build/tjs
 
 DATABASES := $(DB) $(CORE)
 
@@ -30,11 +30,8 @@ $(DB):
 	mkdir -p $(DESTDIR); \
 	src/db/list_repositories.sh | src/db/build_database.sh > $(DB)
 
-build/txiki.js:
-	git clone --recursive https://github.com/saghul/txiki.js --shallow-submodules build/txiki.js
-
-$(TJS): build/txiki.js
-	make -C build/txiki.js
+$(TJS):
+	make -C txiki.js
 
 build/web/repology:
 	mkdir -p build/web/repology

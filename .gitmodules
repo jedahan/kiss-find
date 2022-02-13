@@ -1,0 +1,3 @@
+[submodule "txiki.js"]
+	path = txiki.js
+	url = https://github.com/saghul/txiki.js
