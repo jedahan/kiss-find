@@ -51,4 +51,4 @@ build/web/repology/kiss-community.json: build/web/repology build/db.csv
 $(WEBSITE): $(DB) src/web/style.css src/web/search.js src/web/sort.js src/web/render.js $(TJS)
 	mkdir -p build/web; \
 	cp -f build/db.csv build/web/db.csv; \
-	$(TJS) src/web/render.js < $(DB) > $(WEBSITE)
+	$(TJS) src/web/render.js $(WEBSITE) < $(DB)

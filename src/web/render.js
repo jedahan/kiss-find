@@ -71,7 +71,7 @@ function html(pieces) {
     maintainers: new Set(packages.map((info) => info[5])).size,
   }
 
-  console.log(html`
+  const website = html`
 <head>
   <meta charset=utf-8 />
   <title>kiss find</title>
@@ -115,5 +115,11 @@ function html(pieces) {
     </tbody>
   </table>
 </body>
-  `)
+  `
+
+  const path = tjs.args[2]
+
+  const file = await tjs.open(path, 'w')
+  await file.write((new TextEncoder()).encode(website))
+  await file.close()
 })()
