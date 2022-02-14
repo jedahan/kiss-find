@@ -11,8 +11,6 @@ on:
 jobs:
   update_database:
     runs-on: ubuntu-latest
-    env:
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
     steps:
       - name: checkout
@@ -26,7 +24,7 @@ jobs:
           git config user.email "<>"
 
       - name: generate database
-        run: make clean && make build/web/index.html && make repology
+        run: make clean && make build/web/index.html
 
       - name: update github pages
         uses: JamesIves/github-pages-deploy-action@v4
