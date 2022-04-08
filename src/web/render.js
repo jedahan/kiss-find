@@ -93,6 +93,9 @@ function html(pieces) {
     <span>${stats.packages} packages by ${stats.maintainers} maintainers across ${stats.repositories} repositories</span>
     (<a href=https://github.com/jedahan/kiss-find/>source</a>)
   </p>
+  <p>
+    <span> generated on ${Date.now()} </span>
+  </p>
 
   <input list=names type=search placeholder=search class=hidden autofocus/>
   <span> <span id=count>${packages.length}</span> matches</span>
