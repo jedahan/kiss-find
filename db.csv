@@ -209,7 +209,7 @@ screen,4.8.0 1 ,https://github.com/kiss-community/community,community/screen,mai
 libgcrypt,1.10.0 1,https://github.com/kiss-community/community,community/libgcrypt,main,"git-bruh"," "
 fftw,3.3.10 1,https://github.com/kiss-community/community,community/fftw,main,"Mederim"," "
 zathura-pdf-poppler,0.3.0 2,https://github.com/kiss-community/community,community/zathura-pdf-poppler,main,"Cédric"," "
-neomutt,20211029 1,https://github.com/kiss-community/community,community/neomutt,main,"aabacchus"," "
+neomutt,20220408 1,https://github.com/kiss-community/community,community/neomutt,main,"aabacchus"," "
 pash,2.3.0 1,https://github.com/kiss-community/community,community/pash,main,"aabacchus"," "
 yaml-cpp,0.7.0 1,https://github.com/kiss-community/community,community/yaml-cpp,main,"Mederim"," "
 wayvnc,0.4.1 1,https://github.com/kiss-community/community,community/wayvnc,main,"Mederim"," "
