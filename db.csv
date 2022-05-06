@@ -188,7 +188,7 @@ cups-filters,1.28.15 1 ,https://github.com/kiss-community/community,community/cu
 mosh,1.3.2 5,https://github.com/kiss-community/community,community/mosh,main,"Jason Eslick"," "
 patchelf,0.13 1,https://github.com/kiss-community/community,community/patchelf,main,"Zola"," "
 onefetch,2.11.0 1,https://github.com/kiss-community/community,community/onefetch,main,"Xiaodong Xu"," "
-cava,0.8.2 1,https://github.com/kiss-community/community,community/cava,main,"Mederim"," "
+cava,0.8.2 1,https://github.com/kiss-community/community,community/cava,main,"Wolf Gupta"," "
 oksh,7.1 1,https://github.com/kiss-community/community,community/oksh,main,"Owen Rafferty"," "
 libpcap,1.10.1 1,https://github.com/kiss-community/community,community/libpcap,main,"git-bruh"," "
 chroma-bin,0.10.0 1,https://github.com/kiss-community/community,community/chroma-bin,main,"git-bruh"," "
