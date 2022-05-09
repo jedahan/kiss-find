@@ -201,7 +201,7 @@ popt,1.18 1 ,https://github.com/kiss-community/community,community/popt,main,"CÃ
 lld,14.0.0 1,https://github.com/kiss-community/community,community/lld,main,"tslil clingman"," "
 findutils,4.8.0 1,https://github.com/kiss-community/community,community/findutils,main,"Liam Warden"," "
 zig,0.9.1 1,https://github.com/kiss-community/community,community/zig,main,"tslil clingman"," "
-wlr-randr,2.0 1,https://github.com/kiss-community/community,community/wlr-randr,main,"Mederim"," "
+wlr-randr,0.2.0 1,https://github.com/kiss-community/community,community/wlr-randr,main,"Mederim"," "
 btrfs-progs,5.17 1,https://github.com/kiss-community/community,community/btrfs-progs,main,"Wolf Gupta"," "
 libisofs,1.5.4 1,https://github.com/kiss-community/community,community/libisofs,main,"git-bruh"," "
 s6,2.11.1.0 1,https://github.com/kiss-community/community,community/s6,main,"Rio6"," "
