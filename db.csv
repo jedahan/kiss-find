@@ -431,7 +431,7 @@ zathura-pdf-poppler,0.3.0 2,https://github.com/kiss-community/community,communit
 lm-sensors,3.6.0 1,https://github.com/kiss-community/community,community/lm-sensors,main,"GullikX"," "
 zip,3.0 1,https://github.com/kiss-community/community,community/zip,main,"AndreiSva"," "
 fzf,0.30.0 1,https://github.com/kiss-community/community,community/fzf,main,"Cédric"," "
-freeglut,3.2.1 1,https://github.com/kiss-community/community,community/freeglut,main,"Mederim"," "
+freeglut,3.2.2 1,https://github.com/kiss-community/community,community/freeglut,main,"Mederim"," "
 dnscrypt-proxy,2.1.1 1,https://github.com/kiss-community/community,community/dnscrypt-proxy,main,"git-bruh"," "
 tmux,3.2a 1,https://github.com/kiss-community/community,community/tmux,main,"Muhammad Herdiansyah"," "
 terminus-font,4.49.1 1 ,https://github.com/kiss-community/community,community/terminus-font,main,"Aaron G"," "
