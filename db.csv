@@ -102,7 +102,7 @@ sccache,0.2.15 2,https://github.com/kiss-community/community,community/sccache,m
 tty-clock,2.3 1 ,https://github.com/kiss-community/community,community/tty-clock,main,"matthew w"," "
 tre,0.8.0 1,https://github.com/kiss-community/community,community/tre,main,"Arthur Williams"," "
 gumbo-parser,0.10.1 1,https://github.com/kiss-community/community,community/gumbo-parser,main,"Nihal"," "
-ytfzf,2.1 1 ,https://github.com/kiss-community/community,community/ytfzf,main,"Cédric"," "
+ytfzf,2.3 1 ,https://github.com/kiss-community/community,community/ytfzf,main,"Cédric"," "
 dmidecode,3.3 1 ,https://github.com/kiss-community/community,community/dmidecode,main,"Cédric"," "
 ctags,5.8 1,https://github.com/kiss-community/community,community/ctags,main,"Arthur Williams"," "
 pandoc-bin,2.18 1 ,https://github.com/kiss-community/community,community/pandoc-bin,main,"Cédric"," "
