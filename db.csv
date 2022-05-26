@@ -108,6 +108,7 @@ chromium,100.0.4896.60 1,https://github.com/kiss-community/community,community/c
 nspr,4.34 1,https://github.com/kiss-community/community,community/nspr,main,"Owen Rafferty"," "
 gnu-netcat,0.7.1 1 ,https://github.com/kiss-community/community,community/gnu-netcat,main,"Daniel M. Matongo"," "
 mediainfo,22.03 1,https://github.com/kiss-community/community,community/mediainfo,main,"Cédric"," "
+wget,1.21.3 1,https://github.com/kiss-community/community,community/wget,main,"Azriel Akbar Ferry A"," "
 yt-dlp,2022.05.18 1,https://github.com/kiss-community/community,community/yt-dlp,main,"Owen Rafferty"," "
 zathura-cb,0.1.9 1,https://github.com/kiss-community/community,community/zathura-cb,main,"Arthur Williams"," "
 nettle,3.7.3 1,https://github.com/kiss-community/community,community/nettle,main,"git-bruh"," "
