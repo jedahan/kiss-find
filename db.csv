@@ -86,7 +86,7 @@ libisofs,1.5.4 1,https://github.com/kiss-community/community,community/libisofs,
 lsd,0.21.0 1,https://github.com/kiss-community/community,community/lsd,main,"Xiaodong Xu"," "
 openexr,3.1.5 1,https://github.com/kiss-community/community,community/openexr,main,"Mederim"," "
 caddy,2.4.6 1,https://github.com/kiss-community/community,community/caddy,main,"Dilyn Corner"," "
-iw,5.16 1,https://github.com/kiss-community/community,community/iw,main,"Owen Rafferty"," "
+iw,5.19 1,https://github.com/kiss-community/community,community/iw,main,"Owen Rafferty"," "
 gmp,6.2.1 1 ,https://github.com/kiss-community/community,community/gmp,main,"Owen Rafferty"," "
 syncthing,1.20.1 1,https://github.com/kiss-community/community,community/syncthing,main,"Cédric"," "
 exiftool,12.41 1 ,https://github.com/kiss-community/community,community/exiftool,main,"Cédric"," "
