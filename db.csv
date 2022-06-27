@@ -118,7 +118,7 @@ libisofs,1.5.4 1,https://github.com/kiss-community/community,community/libisofs,
 libdvdread,6.1.2 1,https://github.com/kiss-community/community,community/libdvdread,main,"Michele Zuccalà"," "
 chromium,100.0.4896.60 1,https://github.com/kiss-community/community,community/chromium,main,"git-bruh"," "
 syncthing,1.20.2 1,https://github.com/kiss-community/community,community/syncthing,main,"Cédric"," "
-neovim,0.7.0 1,https://github.com/kiss-community/community,community/neovim,main,"aabacchus"," "
+neovim,0.7.2 1,https://github.com/kiss-community/community,community/neovim,main,"aabacchus"," "
 libassuan,2.5.5 1,https://github.com/kiss-community/community,community/libassuan,main,"aabacchus"," "
 readline,8.1 1,https://github.com/kiss-community/community,community/readline,main,"Camille Scholtz"," "
 nawk-git,git 1 ,https://github.com/kiss-community/community,community/nawk-git,main,"Owen Rafferty"," "
