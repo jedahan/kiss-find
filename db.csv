@@ -83,7 +83,7 @@ libxslt,1.1.34 1 ,https://github.com/kiss-community/community,community/libxslt,
 sgt-puzzles,20220128 1,https://github.com/kiss-community/community,community/sgt-puzzles,main,"Jason Eslick"," "
 nnn,4.5 1,https://github.com/kiss-community/community,community/nnn,main,"FriendlyNeighborhoodShane"," "
 gnu-netcat,0.7.1 1 ,https://github.com/kiss-community/community,community/gnu-netcat,main,"Daniel M. Matongo"," "
-mediainfo,22.03 1,https://github.com/kiss-community/community,community/mediainfo,main,"Cédric"," "
+mediainfo,22.06 1,https://github.com/kiss-community/community,community/mediainfo,main,"Cédric"," "
 sc,7.16_1.1.2 1 ,https://github.com/kiss-community/community,community/sc,main,"Xeno-Hypster"," "
 brotli,1.0.9 1,https://github.com/kiss-community/community,community/brotli,main,"git-bruh"," "
 npth,1.6 1,https://github.com/kiss-community/community,community/npth,main,"aabacchus"," "
