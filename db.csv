@@ -359,6 +359,7 @@ megatools,1.10.3 1,https://github.com/kiss-community/community,community/megatoo
 s6,2.11.1.0 1,https://github.com/kiss-community/community,community/s6,main,"Rio6"," "
 cowsay,3.7.0 1,https://github.com/kiss-community/community,community/cowsay,main,"Rio Liu"," "
 gnutls,3.6.16 1,https://github.com/kiss-community/community,community/gnutls,main,"Cédric"," "
+mtpaint,git 1 ,https://github.com/kiss-community/community,community/mtpaint,main,"Cédric"," "
 zathura-pdf-poppler,0.3.0 2,https://github.com/kiss-community/community,community/zathura-pdf-poppler,main,"Cédric"," "
 oksh,7.1 1,https://github.com/kiss-community/community,community/oksh,main,"Owen Rafferty"," "
 vmwh,git 2,https://github.com/kiss-community/community,community/vmwh,main,"Ben Cornett"," "
