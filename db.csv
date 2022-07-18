@@ -318,7 +318,7 @@ zathura-cb,0.1.9 1,https://github.com/kiss-community/community,community/zathura
 shfm,0.4.2 1 ,https://github.com/kiss-community/community,community/shfm,main,"Dylan Araps"," "
 libusb,1.0.26 1,https://github.com/kiss-community/community,community/libusb,main,"Wolf Gupta"," "
 libjpeg,9 1,https://github.com/kiss-community/community,community/libjpeg,main,"Arthur Williams"," "
-yt-dlp,2022.06.29 1,https://github.com/kiss-community/community,community/yt-dlp,main,"Owen Rafferty"," "
+yt-dlp,2022.07.18 1,https://github.com/kiss-community/community,community/yt-dlp,main,"Owen Rafferty"," "
 pandoc-bin,2.18 1 ,https://github.com/kiss-community/community,community/pandoc-bin,main,"Cédric"," "
 freeglut,3.2.2 1,https://github.com/kiss-community/community,community/freeglut,main,"Mederim"," "
 evtest,1.34 1,https://github.com/kiss-community/community,community/evtest,main,"Arthur Williams"," "
