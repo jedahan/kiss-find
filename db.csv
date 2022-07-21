@@ -65,7 +65,7 @@ wget,1.21.3 1,https://github.com/kiss-community/community,community/wget,main,"A
 numactl,2.0.14 1,https://github.com/kiss-community/community,community/numactl,main,"Arthur Williams"," "
 libassuan,2.5.5 1,https://github.com/kiss-community/community,community/libassuan,main,"aabacchus"," "
 transmission,3.00 1 ,https://github.com/kiss-community/community,community/transmission,main,"Camille"," "
-nss,3.80 1,https://github.com/kiss-community/community,community/nss,main,"Owen Rafferty"," "
+nss,3.81 1,https://github.com/kiss-community/community,community/nss,main,"Owen Rafferty"," "
 lld,14.0.0 1,https://github.com/kiss-community/community,community/lld,main,"tslil clingman"," "
 openjpeg2,2.4.0 1 ,https://github.com/kiss-community/community,community/openjpeg2,main,"Nihal"," "
 lua,5.4.4 1 ,https://github.com/kiss-community/community,community/lua,main,"Daniel M. Matongo"," "
