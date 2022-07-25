@@ -239,7 +239,7 @@ libconfig,1.7.3 1 ,https://github.com/kiss-community/community,community/libconf
 pass,1.7.4 1,https://github.com/kiss-community/community,community/pass,main,"Rio6"," "
 keyutils,1.6.3 1,https://github.com/kiss-community/community,community/keyutils,main,"Dylan Araps"," "
 sfeed,1.5 1,https://github.com/kiss-community/community,community/sfeed,main,"Owen Rafferty"," "
-exiftool,12.43 1 ,https://github.com/kiss-community/community,community/exiftool,main,"Cédric"," "
+exiftool,12.44 1 ,https://github.com/kiss-community/community,community/exiftool,main,"Cédric"," "
 cmatrix,2.0 1,https://github.com/kiss-community/community,community/cmatrix,main,"Mederim"," "
 tcc,git 1 ,https://github.com/kiss-community/community,community/tcc,main,"Kyryl"," "
 wlr-randr,0.2.0 1,https://github.com/kiss-community/community,community/wlr-randr,main,"Mederim"," "
