@@ -299,6 +299,7 @@ fuse,3.10.5 1,https://github.com/kiss-community/community,community/fuse,main,"R
 tokei,12.1.2 1,https://github.com/kiss-community/community,community/tokei,main,"dylanaraps"," "
 cava,0.8.2 1,https://github.com/kiss-community/community,community/cava,main,"Wolf Gupta"," "
 mdadm,4.1 1,https://github.com/kiss-community/community,community/mdadm,main,"git-bruh"," "
+iftop,1.0pre4 1,https://github.com/kiss-community/community,community/iftop,main,"wael"," "
 bash,5.1.p8 1,https://github.com/kiss-community/community,community/bash,main,"Nihal Jere"," "
 neomutt,20220429 1,https://github.com/kiss-community/community,community/neomutt,main,"aabacchus"," "
 procs,0.12.1 1,https://github.com/kiss-community/community,community/procs,main,"Xiaodong Xu"," "
