@@ -250,6 +250,7 @@ autoconf-archive,2022.02.11 1,https://github.com/kiss-community/community,commun
 libmupdf,1.20.0 1,https://github.com/kiss-community/community,community/libmupdf,main,"Owen Rafferty"," "
 less,590 1,https://github.com/kiss-community/community,community/less,main,"FriendlyNeighborhoodShane"," "
 gphoto2,2.5.28 1 ,https://github.com/kiss-community/community,community/gphoto2,main,"Cédric"," "
+nq,0.5 1 ,https://github.com/kiss-community/community,community/nq,main,"Cédric"," "
 cdrtools,3.01 1,https://github.com/kiss-community/community,community/cdrtools,main,"Zola"," "
 sdl2_net,2.0.1 1,https://github.com/kiss-community/community,community/sdl2_net,main,"tslil clingman"," "
 gnupg2,2.3.7 1,https://github.com/kiss-community/community,community/gnupg2,main,"aabacchus"," "
