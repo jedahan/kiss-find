@@ -124,7 +124,7 @@ tuitube,git 8,https://github.com/kiss-community/community,community/tuitube,main
 qt5-declarative,5.15.3 3,https://github.com/kiss-community/community,community/qt5-declarative,main,"Dilyn Corner"," "
 qt5-svg,5.15.3 3,https://github.com/kiss-community/community,community/qt5-svg,main,"Dilyn Corner"," "
 fortune,0.0.1 2,https://github.com/kiss-community/community,community/fortune,main,"Armaan Bhojwani"," "
-pinentry,1.2.0 1 ,https://github.com/kiss-community/community,community/pinentry,main,"aabacchus"," "
+pinentry,1.2.1 1,https://github.com/kiss-community/community,community/pinentry,main,"aabacchus"," "
 pass,1.7.4 1,https://github.com/kiss-community/community,community/pass,main,"Rio6"," "
 icu,71.1 1 ,https://github.com/kiss-community/community,community/icu,main,"hovercats"," "
 lzo,2.10 1  ,https://github.com/kiss-community/community,community/lzo,main,"mb"," "
