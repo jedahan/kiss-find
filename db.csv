@@ -98,7 +98,7 @@ bash,5.1.16 3,https://github.com/kiss-community/community,community/bash,main,"h
 sdl2_image,2.6.0 1,https://github.com/kiss-community/community,community/sdl2_image,main,"tslil clingman"," "
 dogefetch,1.2.4 1,https://github.com/kiss-community/community,community/dogefetch,main,"Ali Burak"," "
 cups,2.4.2 1 ,https://github.com/kiss-community/community,community/cups,main,"Cédric"," "
-libgphoto2,2.5.29 1 ,https://github.com/kiss-community/community,community/libgphoto2,main,"Cédric"," "
+libgphoto2,2.5.30 1 ,https://github.com/kiss-community/community,community/libgphoto2,main,"Cédric"," "
 htop,3.2.1 1,https://github.com/kiss-community/community,community/htop,main,"git-bruh"," "
 mawk,1.3.4-20200120 1,https://github.com/kiss-community/community,community/mawk,main,"M. Herdiansyah"," "
 qrencode,4.1.1 1,https://github.com/kiss-community/community,community/qrencode,main,"Cédric"," "
