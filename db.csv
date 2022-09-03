@@ -111,7 +111,7 @@ lua,5.4.4 1 ,https://github.com/kiss-community/community,community/lua,main,"Dan
 dragon,1.1.1 1,https://github.com/kiss-community/community,community/dragon,main,"Zola"," "
 nettle,3.8.1 1,https://github.com/kiss-community/community,community/nettle,main,"hovercats"," "
 catgirl,2.1 1,https://github.com/kiss-community/community,community/catgirl,main,"aabacchus"," "
-patchelf,0.13 1,https://github.com/kiss-community/community,community/patchelf,main,"Zola"," "
+patchelf,0.15.0 1,https://github.com/kiss-community/community,community/patchelf,main,"git-bruh"," "
 oguri,1.0 1,https://github.com/kiss-community/community,community/oguri,main,"Mederim"," "
 libsamplerate,0.2.2 1,https://github.com/kiss-community/community,community/libsamplerate,main,"Zola"," "
 ytfzf,2.4.1 1 ,https://github.com/kiss-community/community,community/ytfzf,main,"Cédric"," "
