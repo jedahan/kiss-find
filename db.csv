@@ -250,7 +250,7 @@ shellcheck-bin,0.8.0 1,https://github.com/kiss-community/community,community/she
 wlr-randr,0.2.0 1,https://github.com/kiss-community/community,community/wlr-randr,main,"Mederim"," "
 libisofs,1.5.4 1,https://github.com/kiss-community/community,community/libisofs,main,"git-bruh"," "
 kakoune,2021.11.08 2,https://github.com/kiss-community/community,community/kakoune,main,"Riteo"," "
-neatvnc,0.5.1 1,https://github.com/kiss-community/community,community/neatvnc,main,"Mederim"," "
+neatvnc,0.5.3 1,https://github.com/kiss-community/community,community/neatvnc,main,"Mederim"," "
 aria2,1.36.0 1,https://github.com/kiss-community/community,community/aria2,main,"Dilyn Corner"," "
 libedit,20210910-3.1 1,https://github.com/kiss-community/community,community/libedit,main,"git-bruh"," "
 tiv,1.1.0 1,https://github.com/kiss-community/community,community/tiv,main,"Michael Czigler"," "
