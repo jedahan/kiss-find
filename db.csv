@@ -188,6 +188,7 @@ extra-cmake-modules,5.87.0 1,https://github.com/kiss-community/community,communi
 crosstool-ng,git 1,https://github.com/kiss-community/community,community/crosstool-ng,main,"Dilyn Corner"," "
 oed,6.7 1 ,https://github.com/kiss-community/community,community/oed,main,"Aaron G"," "
 transmission,3.00 1 ,https://github.com/kiss-community/community,community/transmission,main,"Camille"," "
+wordgrinder,0.8 1,https://github.com/kiss-community/community,community/wordgrinder,main,"Mederim"," "
 libsixel,1.10.3 1,https://github.com/kiss-community/community,community/libsixel,main,"Wolf Gupta"," "
 cfm,0.6.6 3,https://github.com/kiss-community/community,community/cfm,main,"Will Eccles"," "
 readline,8.1 1,https://github.com/kiss-community/community,community/readline,main,"Camille Scholtz"," "
