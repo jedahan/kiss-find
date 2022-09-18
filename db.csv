@@ -404,6 +404,7 @@ cmus,2.10.0 1,https://github.com/kiss-community/community,community/cmus,main,"O
 tcc,git 1 ,https://github.com/kiss-community/community,community/tcc,main,"Kyryl"," "
 cmatrix,2.0 1,https://github.com/kiss-community/community,community/cmatrix,main,"Mederim"," "
 libjpeg,9 1,https://github.com/kiss-community/community,community/libjpeg,main,"Arthur Williams"," "
+swappy,1.4.0 1,https://github.com/kiss-community/community,community/swappy,main,"git-bruh"," "
 brotli,1.0.9 1,https://github.com/kiss-community/community,community/brotli,main,"git-bruh"," "
 yambar,1.8.0 1,https://github.com/kiss-community/community,community/yambar,main,"огромный"," "
 libgcrypt,1.10.1 1,https://github.com/kiss-community/community,community/libgcrypt,main,"Wolf Gupta"," "
