@@ -171,7 +171,7 @@ gsl,2.7.1 1 ,https://github.com/kiss-community/community,community/gsl,main,"Eth
 dejavu-ttf,2.37 1,https://github.com/kiss-community/community,community/dejavu-ttf,main,"Eudald Gubert i Roldan"," "
 vundle,0.10.2 2,https://github.com/kiss-community/community,community/vundle,main,"Arthur Williams"," "
 perl,5.36.0 1,https://github.com/kiss-community/community,community/perl,main,"git-bruh"," "
-bat,0.21.0 1,https://github.com/kiss-community/community,community/bat,main,"jslick"," "
+bat,0.22.1 1,https://github.com/kiss-community/community,community/bat,main,"jslick"," "
 bri,20180907 1,https://github.com/kiss-community/community,community/bri,main,"Mederim"," "
 swaylock,1.6 1,https://github.com/kiss-community/community,community/swaylock,main,"FriendlyNeighborhoodShane"," "
 zzz,1 1 ,https://github.com/kiss-community/community,community/zzz,main,"Dylan Araps"," "
