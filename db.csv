@@ -142,6 +142,7 @@ slides,0.7.3 1,https://github.com/kiss-community/community,community/slides,main
 libevent,2.1.12 1,https://github.com/kiss-community/community,community/libevent,main,"M. Herdiansyah"," "
 mpfr,4.1.0 1 ,https://github.com/kiss-community/community,community/mpfr,main,"Owen Rafferty"," "
 hack,3.003 1 ,https://github.com/kiss-community/community,community/hack,main,"Dylan Araps"," "
+mdp,1.0.15 1,https://github.com/kiss-community/community,community/mdp,main,"Mederim"," "
 swayidle,1.7.1 1,https://github.com/kiss-community/community,community/swayidle,main,"FriendlyNeighborhoodShane"," "
 bc,1.07.1 1,https://github.com/kiss-community/community,community/bc,main,"Camille"," "
 amfora,1.9.2 1 ,https://github.com/kiss-community/community,community/amfora,main,"aabacchus"," "
