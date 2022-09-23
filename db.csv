@@ -149,7 +149,7 @@ amfora,1.9.2 1 ,https://github.com/kiss-community/community,community/amfora,mai
 sccache,0.3.0 1,https://github.com/kiss-community/community,community/sccache,main,"jslick"," "
 pybind11,2.9.0 1,https://github.com/kiss-community/community,community/pybind11,main,"Mederim"," "
 libconfig,1.7.3 1 ,https://github.com/kiss-community/community,community/libconfig,main,"git-bruh"," "
-flac,1.4.0 1,https://github.com/kiss-community/community,community/flac,main,"Owen Rafferty"," "
+flac,1.4.1 1,https://github.com/kiss-community/community,community/flac,main,"Owen Rafferty"," "
 numactl,2.0.14 1,https://github.com/kiss-community/community,community/numactl,main,"Arthur Williams"," "
 android-tools,31.0.3p2 1,https://github.com/kiss-community/community,community/android-tools,main,"git-bruh"," "
 gmp,6.2.1 1 ,https://github.com/kiss-community/community,community/gmp,main,"Owen Rafferty"," "
