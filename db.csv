@@ -133,6 +133,7 @@ gt5,1.4.0 4,https://github.com/kiss-community/community,community/gt5,main,"TAAP
 dragon,1.1.1 1,https://github.com/kiss-community/community,community/dragon,main,"Zola"," "
 npth,1.6 1,https://github.com/kiss-community/community,community/npth,main,"aabacchus"," "
 mediainfo,22.06 1,https://github.com/kiss-community/community,community/mediainfo,main,"Cédric"," "
+scrcpy,1.24 1,https://github.com/kiss-community/community,community/scrcpy,main,"git-bruh"," "
 flac,1.4.1 1,https://github.com/kiss-community/community,community/flac,main,"Owen Rafferty"," "
 imagemagick,7.1.0-47 1,https://github.com/kiss-community/community,community/imagemagick,main,"git-bruh"," "
 lm-sensors,3.6.0 1,https://github.com/kiss-community/community,community/lm-sensors,main,"GullikX"," "
