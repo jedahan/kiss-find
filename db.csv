@@ -101,7 +101,7 @@ umurmur,0.2.20 2,https://github.com/kiss-community/community,community/umurmur,m
 rsync,3.2.6 1,https://github.com/kiss-community/community,community/rsync,main,"Owen Rafferty"," "
 patch,2.7.6 1 ,https://github.com/kiss-community/community,community/patch,main,"git-bruh"," "
 qt5-declarative,5.15.3 3,https://github.com/kiss-community/community,community/qt5-declarative,main,"Dilyn Corner"," "
-reptyr,0.8.0 1,https://github.com/kiss-community/community,community/reptyr,main,"Zola"," "
+reptyr,0.9.0 1,https://github.com/kiss-community/community,community/reptyr,main,"git-bruh"," "
 go-ipfs,0.12.0 1,https://github.com/kiss-community/community,community/go-ipfs,main,"Daniel M. Matongo"," "
 nano,6.3 1 ,https://github.com/kiss-community/community,community/nano,main,"Azriel Akbar Ferry A"," "
 bandwhich,0.20.0 1,https://github.com/kiss-community/community,community/bandwhich,main,"Xiaodong Xu"," "
