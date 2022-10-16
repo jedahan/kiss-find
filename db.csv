@@ -291,6 +291,7 @@ retrogram-rtlsdr,git 1,https://github.com/kiss-community/community,community/ret
 shinit,1.0.0 1 ,https://github.com/kiss-community/community,community/shinit,main,"Dylan Araps"," "
 libjpeg,9 1,https://github.com/kiss-community/community,community/libjpeg,main,"Arthur Williams"," "
 keyutils,1.6.3 1,https://github.com/kiss-community/community,community/keyutils,main,"Dylan Araps"," "
+kmod,30 1,https://github.com/kiss-community/community,community/kmod,main,"git-bruh"," "
 wlogout,1.1.1 1,https://github.com/kiss-community/community,community/wlogout,main,"Mederim"," "
 limine,4.20221005.0 1 ,https://github.com/kiss-community/community,community/limine,main,"Vouivre"," "
 dvtm,0.15 1,https://github.com/kiss-community/community,community/dvtm,main,"unlcorn"," "
