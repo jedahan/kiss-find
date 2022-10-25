@@ -397,7 +397,7 @@ libassuan,2.5.5 1,https://github.com/kiss-community/community,community/libassua
 zathura-pdf-mupdf,0.3.9 1,https://github.com/kiss-community/community,community/zathura-pdf-mupdf,main,"Owen Rafferty"," "
 cloc,1.94 1 ,https://github.com/kiss-community/community,community/cloc,main,"Cats that hovers"," "
 mg,7.0 1,https://github.com/kiss-community/community,community/mg,main,"Xiaodong Xu"," "
-protobuf,21.6 1,https://github.com/kiss-community/community,community/protobuf,main,"jslick"," "
+protobuf,21.8 1,https://github.com/kiss-community/community,community/protobuf,main,"jslick"," "
 gpgme,1.18.0 1,https://github.com/kiss-community/community,community/gpgme,main,"git-bruh"," "
 ctags,5.8 1,https://github.com/kiss-community/community,community/ctags,main,"Arthur Williams"," "
 s6-linux-init,1.0.8.0 1,https://github.com/kiss-community/community,community/s6-linux-init,main,"Rio6"," "
