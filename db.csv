@@ -251,7 +251,7 @@ openntpd,6.8p1 1 ,https://github.com/kiss-community/community,community/openntpd
 liburing,2.2 1,https://github.com/kiss-community/community,community/liburing,main,"git-bruh"," "
 libyaml,0.2.5 1,https://github.com/kiss-community/community,community/libyaml,main,"огромный"," "
 bri,20180907 1,https://github.com/kiss-community/community,community/bri,main,"Mederim"," "
-neovim,0.8.0 1,https://github.com/kiss-community/community,community/neovim,main,"phoebos"," "
+neovim,0.8.1 1,https://github.com/kiss-community/community,community/neovim,main,"phoebos"," "
 gnupg2,2.3.8 1,https://github.com/kiss-community/community,community/gnupg2,main,"phoebos"," "
 qrencode,4.1.1 1,https://github.com/kiss-community/community,community/qrencode,main,"Cédric"," "
 sc-im,0.8.2 1 ,https://github.com/kiss-community/community,community/sc-im,main,"Cédric"," "
