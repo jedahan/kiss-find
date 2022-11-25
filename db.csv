@@ -222,7 +222,7 @@ libisoburn,1.5.4 1,https://github.com/kiss-community/community,community/libisob
 libdvdcss,1.4.3 1,https://github.com/kiss-community/community,community/libdvdcss,main,"Arthur Williams"," "
 go-ipfs,0.12.0 1,https://github.com/kiss-community/community,community/go-ipfs,main,"Daniel M. Matongo"," "
 tiv,1.1.0 1,https://github.com/kiss-community/community,community/tiv,main,"Michael Czigler"," "
-chromium,107.0.5304.110 1,https://github.com/kiss-community/community,community/chromium,main,"Owen Rafferty"," "
+chromium,107.0.5304.121 1,https://github.com/kiss-community/community,community/chromium,main,"Owen Rafferty"," "
 brotli,1.0.9 1,https://github.com/kiss-community/community,community/brotli,main,"git-bruh"," "
 boost,1.80.0 1,https://github.com/kiss-community/community,community/boost,main,"Owen Rafferty"," "
 python-psutil,5.9.1 1,https://github.com/kiss-community/community,community/python-psutil,main,"jslick"," "
