@@ -144,7 +144,7 @@ gnu-netcat,0.7.1 1 ,https://github.com/kiss-community/community,community/gnu-ne
 bri,20180907 1,https://github.com/kiss-community/community,community/bri,main,"Mederim"," "
 gdb,12.1 1,https://github.com/kiss-community/community,community/gdb,main,"ehawkvu"," "
 FreeImage,3.18.0 1,https://github.com/kiss-community/community,community/FreeImage,main,"Zola"," "
-protobuf,21.8 1,https://github.com/kiss-community/community,community/protobuf,main,"jslick"," "
+protobuf,21.10 1,https://github.com/kiss-community/community,community/protobuf,main,"jslick"," "
 sbase,git 2,https://github.com/kiss-community/community,community/sbase,main,"Dylan Araps"," "
 uthash,2.3.0 1,https://github.com/kiss-community/community,community/uthash,main,"git-bruh"," "
 crosstool-ng,git 1,https://github.com/kiss-community/community,community/crosstool-ng,main,"Dilyn Corner"," "
