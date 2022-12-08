@@ -128,7 +128,7 @@ sc-im,0.8.2 1 ,https://github.com/kiss-community/community,community/sc-im,main,
 aria2,1.36.0 1,https://github.com/kiss-community/community,community/aria2,main,"Dilyn Corner"," "
 tdb,1.4.7 1,https://github.com/kiss-community/community,community/tdb,main,"Cédric"," "
 gdb,12.1 1,https://github.com/kiss-community/community,community/gdb,main,"ehawkvu"," "
-chromium,108.0.5359.94 1,https://github.com/kiss-community/community,community/chromium,main,"Owen Rafferty"," "
+chromium,108.0.5359.98 1,https://github.com/kiss-community/community,community/chromium,main,"Owen Rafferty"," "
 libpcap,1.10.1 1,https://github.com/kiss-community/community,community/libpcap,main,"git-bruh"," "
 shinit,1.0.0 1 ,https://github.com/kiss-community/community,community/shinit,main,"Dylan Araps"," "
 iptables,1.8.8 1,https://github.com/kiss-community/community,community/iptables,main,"git-bruh"," "
