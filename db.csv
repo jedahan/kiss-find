@@ -376,7 +376,7 @@ libtool,2.4.7 1 ,https://github.com/kiss-community/community,community/libtool,m
 viu,1.4.0 1,https://github.com/kiss-community/community,community/viu,main,"Xiaodong Xu"," "
 kakoune,2022.10.31 1,https://github.com/kiss-community/community,community/kakoune,main,"Riteo"," "
 lz4,1.9.4 1,https://github.com/kiss-community/community,community/lz4,main,"git-bruh"," "
-pipewire,0.3.60+0.4.12 1,https://github.com/kiss-community/community,community/pipewire,main,"git-bruh"," "
+pipewire,0.3.62+0.4.13 1,https://github.com/kiss-community/community,community/pipewire,main,"git-bruh"," "
 patch,2.7.6 3,https://github.com/kiss-community/community,community/patch,main,"git-bruh"," "
 noto-emoji,2.038 1,https://github.com/kiss-community/community,community/noto-emoji,main,"огромный"," "
 tty-clock,2.3 1 ,https://github.com/kiss-community/community,community/tty-clock,main,"matthew w"," "
