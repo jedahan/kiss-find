@@ -64,7 +64,7 @@ valgrind,3.16.1 1,https://git.sr.ht/~gullik/ksrepo,valgrind,master,"Martin Gulli
 lynx,2.8.9rel.1 1 ,https://github.com/kiss-community/community,community/lynx,main,"fluorescent-haze"," "
 exa,0.10.1 2,https://github.com/kiss-community/community,community/exa,main,"Armaan Bhojwani"," "
 libburn,1.5.4 1,https://github.com/kiss-community/community,community/libburn,main,"git-bruh"," "
-neovim,0.8.1 1,https://github.com/kiss-community/community,community/neovim,main,"phoebos"," "
+neovim,0.8.2 1,https://github.com/kiss-community/community,community/neovim,main,"phoebos"," "
 globe-cli,0.2.0 1,https://github.com/kiss-community/community,community/globe-cli,main,"Xiaodong Xu"," "
 jo,1.6 1,https://github.com/kiss-community/community,community/jo,main,"Xiaodong Xu"," "
 file,5.44 1,https://github.com/kiss-community/community,community/file,main,"git-bruh"," "
