@@ -178,7 +178,7 @@ gnutls,3.7.8 1,https://github.com/kiss-community/community,community/gnutls,main
 reptyr,0.9.0 1,https://github.com/kiss-community/community,community/reptyr,main,"git-bruh"," "
 libjpeg,9 1,https://github.com/kiss-community/community,community/libjpeg,main,"Arthur Williams"," "
 fftw,3.3.10 1,https://github.com/kiss-community/community,community/fftw,main,"Mederim"," "
-yt-dlp,2022.11.11 1,https://github.com/kiss-community/community,community/yt-dlp,main,"Owen Rafferty"," "
+yt-dlp,2023.01.02 1,https://github.com/kiss-community/community,community/yt-dlp,main,"Owen Rafferty"," "
 unzip,6.0 2,https://github.com/kiss-community/community,community/unzip,main,"git-bruh"," "
 containerd,1.6.14 1,https://github.com/kiss-community/community,community/containerd,main,"git-bruh"," "
 elinks,0.15.1 1,https://github.com/kiss-community/community,community/elinks,main,"TAAPArthur"," "
