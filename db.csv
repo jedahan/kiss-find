@@ -220,6 +220,7 @@ wf-recorder,git 2,https://github.com/kiss-community/community,community/wf-recor
 pipewire,0.3.64+0.4.13 1,https://github.com/kiss-community/community,community/pipewire,main,"git-bruh"," "
 elinks,0.15.1 1,https://github.com/kiss-community/community,community/elinks,main,"TAAPArthur"," "
 ntfs-3g,2022.5.17 1,https://github.com/kiss-community/community,community/ntfs-3g,main,"FriendlyNeighborhoodShane"," "
+kiss-find,2.2 1,https://github.com/kiss-community/community,community/kiss-find,main,"phoebos"," "
 neofetch,7.1.0 1,https://github.com/kiss-community/community,community/neofetch,main,"Dylan Araps"," "
 dragon,1.1.1 1,https://github.com/kiss-community/community,community/dragon,main,"Zola"," "
 swappy,1.5.1 1,https://github.com/kiss-community/community,community/swappy,main,"git-bruh"," "
