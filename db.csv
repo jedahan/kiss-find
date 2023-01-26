@@ -335,7 +335,7 @@ darkhttpd,1.13 1,https://github.com/kiss-community/community,community/darkhttpd
 apulse,0.1.13 1,https://github.com/kiss-community/community,community/apulse,main,"wael"," "
 retrogram-rtlsdr,git 1,https://github.com/kiss-community/community,community/retrogram-rtlsdr,main,"Michael Czigler"," "
 sane,1.1.1 1 ,https://github.com/kiss-community/community,community/sane,main,"Cédric"," "
-chromium,109.0.5414.74 1,https://github.com/kiss-community/community,community/chromium,main,"Owen Rafferty"," "
+chromium,109.0.5414.119 1,https://github.com/kiss-community/community,community/chromium,main,"Owen Rafferty"," "
 iw,5.19 1,https://github.com/kiss-community/community,community/iw,main,"Owen Rafferty"," "
 cryptsetup,2.6.0 1,https://github.com/kiss-community/community,community/cryptsetup,main,"git-bruh"," "
 jfsutils,1.1.15 1,https://github.com/kiss-community/community,community/jfsutils,main,"tslil clingman"," "
