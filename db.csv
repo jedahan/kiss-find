@@ -232,7 +232,7 @@ cproc,git 1,https://github.com/kiss-community/community,community/cproc,main,"gi
 patchelf,0.17.2 1,https://github.com/kiss-community/community,community/patchelf,main,"git-bruh"," "
 bc,1.07.1 1 ,https://github.com/kiss-community/community,community/bc,main,"hovercats"," "
 poppler-data,0.4.11 1,https://github.com/kiss-community/community,community/poppler-data,main,"Xiaodong Xu"," "
-qbe,git 1,https://github.com/kiss-community/community,community/qbe,main,"git-bruh"," "
+qbe,1.1 1,https://github.com/kiss-community/community,community/qbe,main,"git-bruh"," "
 ncdu1,1.17 1,https://github.com/kiss-community/community,community/ncdu1,main,"jslick"," "
 ox,0.2.7 1,https://github.com/kiss-community/community,community/ox,main,"Daniel M. Matongo"," "
 sc,7.16_1.1.2 1 ,https://github.com/kiss-community/community,community/sc,main,"Xeno-Hypster"," "
