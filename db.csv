@@ -264,6 +264,7 @@ libconfig,1.7.3 1 ,https://github.com/kiss-community/community,community/libconf
 patch,2.7.6 3,https://github.com/kiss-community/community,community/patch,main,"git-bruh"," "
 tmate-bin,2.4.0 1,https://github.com/kiss-community/community,community/tmate-bin,main,"git-bruh"," "
 ubase,git 4 ,https://github.com/kiss-community/community,community/ubase,main,"Dylan Araps"," "
+pv,1.6.20 1,https://github.com/kiss-community/community,community/pv,main,"git-bruh"," "
 freeglut,3.4.0 1,https://github.com/kiss-community/community,community/freeglut,main,"Rohan"," "
 libexif,0.6.24 1 ,https://github.com/kiss-community/community,community/libexif,main,"Cédric"," "
 dmidecode,3.4 1 ,https://github.com/kiss-community/community,community/dmidecode,main,"Cédric"," "
