@@ -355,7 +355,7 @@ fftw,3.3.10 1,https://github.com/kiss-community/community,community/fftw,main,"M
 ttf-font-awesome,6.2.0 1,https://github.com/kiss-community/community,community/ttf-font-awesome,main,"git-bruh"," "
 cdrtools,3.01 1,https://github.com/kiss-community/community,community/cdrtools,main,"Zola"," "
 ccrypt,1.11 1,https://github.com/kiss-community/community,community/ccrypt,main,"Arthur Williams"," "
-fuse,3.13.0 1,https://github.com/kiss-community/community,community/fuse,main,"Riteo"," "
+fuse,3.13.1 1,https://github.com/kiss-community/community,community/fuse,main,"Riteo"," "
 gphoto2,2.5.28 1 ,https://github.com/kiss-community/community,community/gphoto2,main,"Cédric"," "
 libtermkey,0.22 2,https://github.com/kiss-community/community,community/libtermkey,main,"Dante Issaias"," "
 qt5-webengine,5.15.3 2,https://github.com/kiss-community/community,community/qt5-webengine,main,"Dilyn Corner"," "
