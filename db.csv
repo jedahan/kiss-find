@@ -333,6 +333,7 @@ nmap,7.93 1 ,https://github.com/kiss-community/community,community/nmap,main,"CÃ
 mg,7.0 1,https://github.com/kiss-community/community,community/mg,main,"Xiaodong Xu"," "
 tty-clock,2.3 1 ,https://github.com/kiss-community/community,community/tty-clock,main,"matthew w"," "
 darkhttpd,1.13 1,https://github.com/kiss-community/community,community/darkhttpd,main,"Xiaodong Xu"," "
+rustup-bin,1.25.2 1,https://github.com/kiss-community/community,community/rustup-bin,main,"git-bruh"," "
 apulse,0.1.13 1,https://github.com/kiss-community/community,community/apulse,main,"wael"," "
 retrogram-rtlsdr,git 1,https://github.com/kiss-community/community,community/retrogram-rtlsdr,main,"Michael Czigler"," "
 sane,1.1.1 1 ,https://github.com/kiss-community/community,community/sane,main,"CÃ©dric"," "
