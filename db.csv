@@ -288,6 +288,7 @@ ostree,2022.7 1,https://github.com/kiss-community/community,community/ostree,mai
 yasm,1.3.0 1,https://github.com/kiss-community/community,community/yasm,main,"ilmich"," "
 neovim,0.8.3 1,https://github.com/kiss-community/community,community/neovim,main,"phoebos"," "
 libaio,0.3.113 1 ,https://github.com/kiss-community/community,community/libaio,main,"fluorescent_haze"," "
+distrobox,1.4.2.1 1,https://github.com/kiss-community/community,community/distrobox,main,"git-bruh"," "
 qbe,1.1 1,https://github.com/kiss-community/community,community/qbe,main,"git-bruh"," "
 lcms,2.14 1,https://github.com/kiss-community/community,community/lcms,main,"Vouivre"," "
 kak-lsp-bin,14.1.0 1,https://github.com/kiss-community/community,community/kak-lsp-bin,main,"git-bruh"," "
