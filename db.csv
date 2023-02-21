@@ -162,7 +162,7 @@ entr,5.2 1,https://github.com/kiss-community/community,community/entr,main,"ehaw
 libisoburn,1.5.4 1,https://github.com/kiss-community/community,community/libisoburn,main,"git-bruh"," "
 sysmgr,git 1,https://github.com/kiss-community/community,community/sysmgr,main,"Dilyn Corner"," "
 flac,1.4.2 1,https://github.com/kiss-community/community,community/flac,main,"Owen Rafferty"," "
-s6-rc,0.5.4.0 1,https://github.com/kiss-community/community,community/s6-rc,main,"git-bruh"," "
+s6-rc,0.5.4.1 1,https://github.com/kiss-community/community,community/s6-rc,main,"git-bruh"," "
 protobuf-c,1.4.1 1,https://github.com/kiss-community/community,community/protobuf-c,main,"git-bruh"," "
 libisofs,1.5.4 1,https://github.com/kiss-community/community,community/libisofs,main,"git-bruh"," "
 jo,1.6 1,https://github.com/kiss-community/community,community/jo,main,"Xiaodong Xu"," "
