@@ -367,7 +367,7 @@ libxslt,1.1.37 1 ,https://github.com/kiss-community/community,community/libxslt,
 fzy-leo-arch,00239ab9056e9585e99edfae60a8d1177575bf3e 1,https://github.com/kiss-community/community,community/fzy-leo-arch,main,"Cats that hovers"," "
 openntpd,6.8p1 1 ,https://github.com/kiss-community/community,community/openntpd,main,"Owen Rafferty"," "
 boost,1.81.0 1,https://github.com/kiss-community/community,community/boost,main,"Owen Rafferty"," "
-chromium,110.0.5481.100 1,https://github.com/kiss-community/community,community/chromium,main,"Owen Rafferty"," "
+chromium,110.0.5481.177 1,https://github.com/kiss-community/community,community/chromium,main,"Owen Rafferty"," "
 zsh,5.9 1,https://github.com/kiss-community/community,community/zsh,main,"Azriel Akbar Ferry A"," "
 umurmur,0.2.20 2,https://github.com/kiss-community/community,community/umurmur,main,"git-bruh"," "
 cmus,2.10.0 1,https://github.com/kiss-community/community,community/cmus,main,"Owen Rafferty"," "
