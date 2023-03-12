@@ -208,7 +208,7 @@ go,1.20.1 1,https://github.com/kiss-community/community,community/go,main,"git-b
 kiss-find,2.2 1,https://github.com/kiss-community/community,community/kiss-find,main,"phoebos"," "
 mksh,59c 1 ,https://github.com/kiss-community/community,community/mksh,main,"magenbluten"," "
 qt5-webengine,5.15.3 2,https://github.com/kiss-community/community,community/qt5-webengine,main,"Dilyn Corner"," "
-chromium,110.0.5481.177 1,https://github.com/kiss-community/community,community/chromium,main,"Owen Rafferty"," "
+chromium,111.0.5563.64 1,https://github.com/kiss-community/community,community/chromium,main,"Owen Rafferty"," "
 qemu,7.2.0 1,https://github.com/kiss-community/community,community/qemu,main,"git-bruh"," "
 unbound,1.16.2 1,https://github.com/kiss-community/community,community/unbound,main,"tslil clingman"," "
 nmap,7.93 1 ,https://github.com/kiss-community/community,community/nmap,main,"Cédric"," "
