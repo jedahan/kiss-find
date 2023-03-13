@@ -81,7 +81,7 @@ openntpd,6.8p1 1 ,https://github.com/kiss-community/community,community/openntpd
 libxmlb,0.3.11 1,https://github.com/kiss-community/community,community/libxmlb,main,"git-bruh"," "
 axel,2.17.11 1,https://github.com/kiss-community/community,community/axel,main,"git-bruh"," "
 automake,1.16.5 1,https://github.com/kiss-community/community,community/automake,main,"git-bruh"," "
-wlr-randr,0.2.0 1,https://github.com/kiss-community/community,community/wlr-randr,main,"Mederim"," "
+wlr-randr,0.3.0 1,https://github.com/kiss-community/community,community/wlr-randr,main,"Rohan"," "
 lz4,1.9.4 1,https://github.com/kiss-community/community,community/lz4,main,"git-bruh"," "
 npth,1.6 1,https://github.com/kiss-community/community,community/npth,main,"aabacchus"," "
 less,608 1,https://github.com/kiss-community/community,community/less,main,"FriendlyNeighborhoodShane"," "
