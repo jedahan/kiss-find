@@ -111,7 +111,7 @@ sdl2,2.26.3 1,https://github.com/kiss-community/community,community/sdl2,main,"g
 flac,1.4.2 1,https://github.com/kiss-community/community,community/flac,main,"Owen Rafferty"," "
 rustup-bin,1.25.2 1,https://github.com/kiss-community/community,community/rustup-bin,main,"git-bruh"," "
 tiv,1.1.0 1,https://github.com/kiss-community/community,community/tiv,main,"Michael Czigler"," "
-offpunk,1.9.1 1,https://github.com/kiss-community/community,community/offpunk,main,"phoebos"," "
+offpunk,1.9.2 1,https://github.com/kiss-community/community,community/offpunk,main,"phoebos"," "
 optipng,0.7.7 1,https://github.com/kiss-community/community,community/optipng,main,"Camille"," "
 ruby,3.1.2 1,https://github.com/kiss-community/community,community/ruby,main,"Daniel M. Matongo"," "
 gtest,1.13.0 1,https://github.com/kiss-community/community,community/gtest,main,"git-bruh"," "
