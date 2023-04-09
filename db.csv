@@ -366,7 +366,7 @@ libgpg-error,1.46 1,https://github.com/kiss-community/community,community/libgpg
 9base,git 1 ,https://github.com/kiss-community/community,community/9base,main,"Aaron G"," "
 viu,1.4.0 1,https://github.com/kiss-community/community,community/viu,main,"Xiaodong Xu"," "
 libedit,20210910-3.1 1,https://github.com/kiss-community/community,community/libedit,main,"git-bruh"," "
-fuse,3.14.0 1,https://github.com/kiss-community/community,community/fuse,main,"Riteo"," "
+fuse,3.14.1 1,https://github.com/kiss-community/community,community/fuse,main,"Riteo"," "
 sc-im,0.8.3 1 ,https://github.com/kiss-community/community,community/sc-im,main,"Vouivre"," "
 transmission,3.00 1 ,https://github.com/kiss-community/community,community/transmission,main,"Camille"," "
 tokei,12.1.2 1,https://github.com/kiss-community/community,community/tokei,main,"dylanaraps"," "
