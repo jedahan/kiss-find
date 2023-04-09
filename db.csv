@@ -282,7 +282,7 @@ msmtp,1.8.23 1,https://github.com/kiss-community/community,community/msmtp,main,
 libarchive,3.6.2 2,https://github.com/kiss-community/community,community/libarchive,main,"git-bruh"," "
 scroll,git 1,https://github.com/kiss-community/community,community/scroll,main,"Michael Czigler"," "
 brotli,1.0.9 1,https://github.com/kiss-community/community,community/brotli,main,"git-bruh"," "
-android-tools,33.0.3 1,https://github.com/kiss-community/community,community/android-tools,main,"git-bruh"," "
+android-tools,34.0.0 1,https://github.com/kiss-community/community,community/android-tools,main,"git-bruh"," "
 pounce,3.1 1,https://github.com/kiss-community/community,community/pounce,main,"phoebos"," "
 sane,1.2.1 1 ,https://github.com/kiss-community/community,community/sane,main,"Vouivre"," "
 pandoc-bin,3.1.2 1 ,https://github.com/kiss-community/community,community/pandoc-bin,main,"Vouivre"," "
