@@ -168,7 +168,7 @@ limine,4.20230330.0 1 ,https://github.com/kiss-community/community,community/lim
 chromium,111.0.5563.146 1,https://github.com/kiss-community/community,community/chromium,main,"Owen Rafferty"," "
 bit-bin,1.1.2 1,https://github.com/kiss-community/community,community/bit-bin,main,"Xiaodong Xu"," "
 tty-clock,2.3 1 ,https://github.com/kiss-community/community,community/tty-clock,main,"matthew w"," "
-neovim,0.8.3 1,https://github.com/kiss-community/community,community/neovim,main,"phoebos"," "
+neovim,0.9.0 1,https://github.com/kiss-community/community,community/neovim,main,"phoebos"," "
 boost,1.81.0 1,https://github.com/kiss-community/community,community/boost,main,"Owen Rafferty"," "
 autoconf,2.71 1,https://github.com/kiss-community/community,community/autoconf,main,"Nihal"," "
 pkcs11-helper,1.29.0 1 ,https://github.com/kiss-community/community,community/pkcs11-helper,main,"Daniel M. Matongo"," "
