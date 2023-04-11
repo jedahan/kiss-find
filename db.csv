@@ -175,7 +175,7 @@ pkcs11-helper,1.29.0 1 ,https://github.com/kiss-community/community,community/pk
 girara,0.4.0 1 ,https://github.com/kiss-community/community,community/girara,main,"Vouivre"," "
 iniparser,4.1 1,https://github.com/kiss-community/community,community/iniparser,main,"Mederim"," "
 tre,0.8.0 1,https://github.com/kiss-community/community,community/tre,main,"Arthur Williams"," "
-links,2.28 1,https://github.com/kiss-community/community,community/links,main,"phoebos"," "
+links,2.29 1,https://github.com/kiss-community/community,community/links,main,"phoebos"," "
 FreeImage,3.18.0 1,https://github.com/kiss-community/community,community/FreeImage,main,"Zola"," "
 fdm,2.2 1,https://github.com/kiss-community/community,community/fdm,main,"Vouivre"," "
 freeglut,3.4.0 1,https://github.com/kiss-community/community,community/freeglut,main,"Rohan"," "
