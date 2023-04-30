@@ -386,6 +386,7 @@ numactl,2.0.14 1,https://github.com/kiss-community/community,community/numactl,m
 zathura-djvu,0.2.9 1,https://github.com/kiss-community/community,community/zathura-djvu,main,"ectlunya"," "
 ttyd,1.7.3 1,https://github.com/kiss-community/community,community/ttyd,main,"git-bruh"," "
 shellcheck-bin,0.9.0 1,https://github.com/kiss-community/community,community/shellcheck-bin,main,"git-bruh"," "
+lsof,4.98.0 1,https://github.com/kiss-community/community,community/lsof,main,"git-bruh"," "
 sdl,1.2.15 1 ,https://github.com/kiss-community/community,community/sdl,main,"Rio6"," "
 autoconf,2.71 1,https://github.com/kiss-community/community,community/autoconf,main,"Nihal"," "
 bit-bin,1.1.2 1,https://github.com/kiss-community/community,community/bit-bin,main,"Xiaodong Xu"," "
