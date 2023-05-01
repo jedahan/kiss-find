@@ -363,6 +363,7 @@ popt,1.19 1 ,https://github.com/kiss-community/community,community/popt,main,"CÃ
 libxmlb,0.3.11 1,https://github.com/kiss-community/community,community/libxmlb,main,"git-bruh"," "
 tiff,4.5.0 1,https://github.com/kiss-community/community,community/tiff,main,"Rohan"," "
 protobuf-c,1.4.1 1,https://github.com/kiss-community/community,community/protobuf-c,main,"git-bruh"," "
+lux,1.21 1,https://github.com/kiss-community/community,community/lux,main,"git-bruh"," "
 cfm,0.6.6 3,https://github.com/kiss-community/community,community/cfm,main,"Will Eccles"," "
 chromium,112.0.5615.165 1,https://github.com/kiss-community/community,community/chromium,main,"Owen Rafferty"," "
 mawk,1.3.4-20200120 1,https://github.com/kiss-community/community,community/mawk,main,"M. Herdiansyah"," "
