@@ -402,7 +402,7 @@ libxml2,2.11.1 1,https://github.com/kiss-community/community,community/libxml2,m
 gnupg1,1.4.23 2,https://github.com/kiss-community/community,community/gnupg1,main,"git-bruh"," "
 gphoto2,2.5.28 1 ,https://github.com/kiss-community/community,community/gphoto2,main,"Cédric"," "
 dmidecode,3.5 1 ,https://github.com/kiss-community/community,community/dmidecode,main,"Vouivre"," "
-mediainfo,23.03 1,https://github.com/kiss-community/community,community/mediainfo,main,"Vouivre"," "
+mediainfo,23.04 1,https://github.com/kiss-community/community,community/mediainfo,main,"Vouivre"," "
 birch,git 1 ,https://github.com/kiss-community/community,community/birch,main,"Dylan Araps"," "
 sbase,git 2,https://github.com/kiss-community/community,community/sbase,main,"Dylan Araps"," "
 libtermkey,0.22 2,https://github.com/kiss-community/community,community/libtermkey,main,"Dante Issaias"," "
