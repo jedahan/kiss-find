@@ -137,7 +137,7 @@ ncdu1,1.18.1 1,https://github.com/kiss-community/community,community/ncdu1,main,
 neatvnc,0.6.0 1,https://github.com/kiss-community/community,community/neatvnc,main,"Rohan"," "
 nawk-git,git 1 ,https://github.com/kiss-community/community,community/nawk-git,main,"Owen Rafferty"," "
 qpdf,11.3.0 1 ,https://github.com/kiss-community/community,community/qpdf,main,"Vouivre"," "
-gnupg2,2.4.0 1,https://github.com/kiss-community/community,community/gnupg2,main,"phoebos"," "
+gnupg2,2.4.1 1,https://github.com/kiss-community/community,community/gnupg2,main,"phoebos"," "
 sane,1.2.1 1 ,https://github.com/kiss-community/community,community/sane,main,"Vouivre"," "
 libportaudio2,19.6.0 1,https://github.com/kiss-community/community,community/libportaudio2,main,"Michael Czigler"," "
 jq,1.6 2 ,https://github.com/kiss-community/community,community/jq,main,"Aaron G"," "
