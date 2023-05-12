@@ -107,7 +107,7 @@ libxmlb,0.3.11 1,https://github.com/kiss-community/community,community/libxmlb,m
 xxd,6b085b9d7367e077ca69f4f82ba0f92cc6b6e443 1,https://github.com/kiss-community/community,community/xxd,main,"git-bruh"," "
 keyutils,1.6.3 1,https://github.com/kiss-community/community,community/keyutils,main,"Dylan Araps"," "
 dialog,1.3 1,https://github.com/kiss-community/community,community/dialog,main,"wael"," "
-libmupdf,1.22.0 1,https://github.com/kiss-community/community,community/libmupdf,main,"Owen Rafferty"," "
+libmupdf,1.22.1 1,https://github.com/kiss-community/community,community/libmupdf,main,"Owen Rafferty"," "
 sdl2_image,2.6.2 1,https://github.com/kiss-community/community,community/sdl2_image,main,"tslil clingman"," "
 qt5-declarative,5.15.8 3,https://github.com/kiss-community/community,community/qt5-declarative,main,"davidgarland"," "
 ytfzf,2.5.5 1 ,https://github.com/kiss-community/community,community/ytfzf,main,"Vouivre"," "
