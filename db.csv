@@ -248,7 +248,7 @@ kmod,30 1,https://github.com/kiss-community/community,community/kmod,main,"git-b
 bat,0.22.1 1,https://github.com/kiss-community/community,community/bat,main,"jslick"," "
 containerd,1.7.0 1,https://github.com/kiss-community/community,community/containerd,main,"git-bruh"," "
 android-tools,34.0.0 1,https://github.com/kiss-community/community,community/android-tools,main,"git-bruh"," "
-neovim,0.9.0 1,https://github.com/kiss-community/community,community/neovim,main,"phoebos"," "
+neovim,0.9.1 1,https://github.com/kiss-community/community,community/neovim,main,"phoebos"," "
 pv,1.6.20 1,https://github.com/kiss-community/community,community/pv,main,"git-bruh"," "
 lz4,1.9.4 1,https://github.com/kiss-community/community,community/lz4,main,"git-bruh"," "
 tiff,4.5.0 1,https://github.com/kiss-community/community,community/tiff,main,"Rohan"," "
