@@ -210,7 +210,7 @@ libgcrypt,1.10.2 1,https://github.com/kiss-community/community,community/libgcry
 libexif,0.6.24 1 ,https://github.com/kiss-community/community,community/libexif,main,"Cédric"," "
 yaml-cpp,0.7.0 1,https://github.com/kiss-community/community,community/yaml-cpp,main,"Mederim"," "
 yarn,1.22.19 1,https://github.com/kiss-community/community,community/yarn,main,"Daniel M. Matongo"," "
-age,1.0.0-rc.3 1,https://github.com/kiss-community/community,community/age,main,"Muhammad Herdiansyah"," "
+age,1.1.1 1,https://github.com/kiss-community/community,community/age,main,"git-bruh"," "
 dash,0.5.12 1,https://github.com/kiss-community/community,community/dash,main,"git-bruh"," "
 automake,1.16.5 1,https://github.com/kiss-community/community,community/automake,main,"git-bruh"," "
 wordgrinder,0.8 1,https://github.com/kiss-community/community,community/wordgrinder,main,"Mederim"," "
