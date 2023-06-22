@@ -408,7 +408,7 @@ trash-cli,0.23.2.13.2 2,https://github.com/kiss-community/community,community/tr
 swaylock,1.7.2 1,https://github.com/kiss-community/community,community/swaylock,main,"git-bruh"," "
 zathura-pdf-poppler,0.3.1 1,https://github.com/kiss-community/community,community/zathura-pdf-poppler,main,"Vouivre"," "
 neovim,0.9.1 1,https://github.com/kiss-community/community,community/neovim,main,"phoebos"," "
-yt-dlp,2023.03.04 1,https://github.com/kiss-community/community,community/yt-dlp,main,"Owen Rafferty"," "
+yt-dlp,2023.06.21 1,https://github.com/kiss-community/community,community/yt-dlp,main,"Owen Rafferty"," "
 numactl,2.0.14 1,https://github.com/kiss-community/community,community/numactl,main,"Arthur Williams"," "
 jbig2dec,0.19 1,https://github.com/kiss-community/community,community/jbig2dec,main,"Nihal"," "
 tokei,12.1.2 1,https://github.com/kiss-community/community,community/tokei,main,"dylanaraps"," "
