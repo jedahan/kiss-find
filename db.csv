@@ -415,7 +415,7 @@ FreeImage,3.18.0 1,https://github.com/kiss-community/community,community/FreeIma
 crosstool-ng,git 1,https://github.com/kiss-community/community,community/crosstool-ng,main,"Dilyn Corner"," "
 s6-linux-init,1.1.1.0 1,https://github.com/kiss-community/community,community/s6-linux-init,main,"git-bruh"," "
 groff,1.22.4 2,https://github.com/kiss-community/community,community/groff,main,"phoebos"," "
-yt-dlp,2023.06.22 1,https://github.com/kiss-community/community,community/yt-dlp,main,"Owen Rafferty"," "
+yt-dlp,2023.07.06 1,https://github.com/kiss-community/community,community/yt-dlp,main,"Owen Rafferty"," "
 wf-recorder,460d454b1efd380a3f732f6fd70c7a5e265381f6 2,https://github.com/kiss-community/community,community/wf-recorder,main,"git-bruh"," "
 nq,0.5 1 ,https://github.com/kiss-community/community,community/nq,main,"Cédric"," "
 gt5,1.4.0 4,https://github.com/kiss-community/community,community/gt5,main,"TAAPArthur"," "
