@@ -309,7 +309,7 @@ libevent,2.1.12 1,https://github.com/kiss-community/community,community/libevent
 qt5-declarative,5.15.8 3,https://github.com/kiss-community/community,community/qt5-declarative,main,"davidgarland"," "
 gnutls,3.8.0 1,https://github.com/kiss-community/community,community/gnutls,main,"Vouivre"," "
 lzo,2.10 1  ,https://github.com/kiss-community/community,community/lzo,main,"mb"," "
-kiss-find,2.2 1,https://github.com/kiss-community/community,community/kiss-find,main,"phoebos"," "
+kiss-find,2.3 1,https://github.com/kiss-community/community,community/kiss-find,main,"phoebos"," "
 exa,0.10.1 2,https://github.com/kiss-community/community,community/exa,main,"Armaan Bhojwani"," "
 init-hooks,git 1,https://github.com/kiss-community/community,community/init-hooks,main,"illiliti"," "
 qt5,5.15.8 3,https://github.com/kiss-community/community,community/qt5,main,"davidgarland"," "
