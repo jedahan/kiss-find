@@ -62,7 +62,7 @@ cppcheck,2.5 1,https://git.sr.ht/~gullik/ksrepo,cppcheck,master,"Martin Gullikss
 glfw,3.3.4 1,https://git.sr.ht/~gullik/ksrepo,glfw,master,"Martin Gulliksson"," "
 fluidsynth,2.2.2 1,https://git.sr.ht/~gullik/ksrepo,fluidsynth,master,"Martin Gulliksson"," "
 readline,8.2p001 1,https://github.com/kiss-community/community,community/readline,main,"Aelspire"," "
-gdb,13.1 1,https://github.com/kiss-community/community,community/gdb,main,"Ethan"," "
+gdb,13.2 1,https://github.com/kiss-community/community,community/gdb,main,"Ethan"," "
 diskonaut,0.11.0 1,https://github.com/kiss-community/community,community/diskonaut,main,"Xiaodong Xu"," "
 kakoune,2022.10.31 1,https://github.com/kiss-community/community,community/kakoune,main,"Riteo"," "
 libdvdcss,1.4.3 1,https://github.com/kiss-community/community,community/libdvdcss,main,"Arthur Williams"," "
