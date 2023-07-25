@@ -392,7 +392,7 @@ squashfs-tools,4.6.1 1,https://github.com/kiss-community/community,community/squ
 unzip,6.0 2,https://github.com/kiss-community/community,community/unzip,main,"git-bruh"," "
 swaybg,1.2.0 1,https://github.com/kiss-community/community,community/swaybg,main,"git-bruh"," "
 swappy,1.5.1 1,https://github.com/kiss-community/community,community/swappy,main,"git-bruh"," "
-pipewire,0.3.70+0.4.14 1,https://github.com/kiss-community/community,community/pipewire,main,"git-bruh"," "
+pipewire,0.3.75+0.4.14 1,https://github.com/kiss-community/community,community/pipewire,main,"git-bruh"," "
 iftop,1.0pre4 1,https://github.com/kiss-community/community,community/iftop,main,"wael"," "
 entr,5.3 1,https://github.com/kiss-community/community,community/entr,main,"Ethan"," "
 fuse2,2.9.9 1,https://github.com/kiss-community/community,community/fuse2,main,"Zola"," "
