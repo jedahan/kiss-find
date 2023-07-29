@@ -113,7 +113,7 @@ jfsutils,1.1.15 1,https://github.com/kiss-community/community,community/jfsutils
 android-tools,34.0.1 1,https://github.com/kiss-community/community,community/android-tools,main,"git-bruh"," "
 extra-cmake-modules,5.102.0 1,https://github.com/kiss-community/community,community/extra-cmake-modules,main,"davidgarland"," "
 cmark-gfm,0.29.0.gfm.13 1,https://github.com/kiss-community/community,community/cmark-gfm,main,"git-bruh"," "
-chromium,115.0.5790.102 1,https://github.com/kiss-community/community,community/chromium,main,"Owen Rafferty"," "
+chromium,115.0.5790.110 1,https://github.com/kiss-community/community,community/chromium,main,"Owen Rafferty"," "
 iw,5.19 1,https://github.com/kiss-community/community,community/iw,main,"Owen Rafferty"," "
 shinit,1.0.0 1 ,https://github.com/kiss-community/community,community/shinit,main,"Dylan Araps"," "
 cups-filters,1.28.17 1 ,https://github.com/kiss-community/community,community/cups-filters,main,"Vouivre"," "
