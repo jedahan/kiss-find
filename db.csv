@@ -398,7 +398,7 @@ neovim,0.9.1 1,https://github.com/kiss-community/community,community/neovim,main
 qemu,8.0.3 1,https://github.com/kiss-community/community,community/qemu,main,"git-bruh"," "
 ttf-font-awesome,6.4.0 1,https://github.com/kiss-community/community,community/ttf-font-awesome,main,"git-bruh"," "
 liburing,2.4 1,https://github.com/kiss-community/community,community/liburing,main,"git-bruh"," "
-offpunk,1.9.2 1,https://github.com/kiss-community/community,community/offpunk,main,"phoebos"," "
+offpunk,1.10 1,https://github.com/kiss-community/community,community/offpunk,main,"phoebos"," "
 sdl2,2.28.1 1,https://github.com/kiss-community/community,community/sdl2,main,"git-bruh"," "
 pash,2.3.0 1,https://github.com/kiss-community/community,community/pash,main,"aabacchus"," "
 chromium,115.0.5790.110 1,https://github.com/kiss-community/community,community/chromium,main,"Owen Rafferty"," "
