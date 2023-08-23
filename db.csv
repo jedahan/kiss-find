@@ -359,7 +359,6 @@ cups,2.4.6 1 ,https://github.com/kiss-community/community,community/cups,main,"V
 s6,2.11.3.2 1,https://github.com/kiss-community/community,community/s6,main,"git-bruh"," "
 swayidle,1.8.0 1,https://github.com/kiss-community/community,community/swayidle,main,"git-bruh"," "
 wl-clipboard,2.1.0 1,https://github.com/kiss-community/community,community/wl-clipboard,main,"Wolf Gupta"," "
-tty-clock,2.3 1 ,https://github.com/kiss-community/community,community/tty-clock,main,"matthew w"," "
 bash,5.2.p15 1,https://github.com/kiss-community/community,community/bash,main,"git-bruh"," "
 patch,2.7.6 3,https://github.com/kiss-community/community,community/patch,main,"git-bruh"," "
 ox,0.2.7 1,https://github.com/kiss-community/community,community/ox,main,"Daniel M. Matongo"," "
