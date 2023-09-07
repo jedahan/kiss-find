@@ -370,7 +370,7 @@ qt5,5.15.8 3,https://github.com/kiss-community/community,community/qt5,main,"dav
 execline,2.9.3.0 1,https://github.com/kiss-community/community,community/execline,main,"git-bruh"," "
 dash,0.5.12 1,https://github.com/kiss-community/community,community/dash,main,"git-bruh"," "
 slides,0.7.3 1,https://github.com/kiss-community/community,community/slides,main,"Xiaodong Xu"," "
-chromium,116.0.5845.140 1,https://github.com/kiss-community/community,community/chromium,main,"Owen Rafferty"," "
+chromium,116.0.5845.179 1,https://github.com/kiss-community/community,community/chromium,main,"Owen Rafferty"," "
 links,2.29 1,https://github.com/kiss-community/community,community/links,main,"phoebos"," "
 fftw,3.3.10 1,https://github.com/kiss-community/community,community/fftw,main,"Mederim"," "
 diskonaut,0.11.0 1,https://github.com/kiss-community/community,community/diskonaut,main,"Xiaodong Xu"," "
