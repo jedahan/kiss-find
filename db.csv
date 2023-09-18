@@ -390,6 +390,7 @@ libslirp,4.7.0 1,https://github.com/kiss-community/community,community/libslirp,
 bit-bin,1.1.2 1,https://github.com/kiss-community/community,community/bit-bin,main,"Xiaodong Xu"," "
 flatpak,1.14.4 1,https://github.com/kiss-community/community,community/flatpak,main,"git-bruh"," "
 zig-bin,0.12.0 1,https://github.com/kiss-community/community,community/zig-bin,main,"git-bruh"," "
+idmap,4.14.0 1,https://github.com/kiss-community/community,community/idmap,main,"git-bruh"," "
 hexyl,0.10.0 1,https://github.com/kiss-community/community,community/hexyl,main,"Dilyn Corner"," "
 libksba,1.6.4 1,https://github.com/kiss-community/community,community/libksba,main,"phoebos"," "
 keyutils,1.6.3 1,https://github.com/kiss-community/community,community/keyutils,main,"Dylan Araps"," "
