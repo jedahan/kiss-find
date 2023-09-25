@@ -148,7 +148,7 @@ hack,3.003 1 ,https://github.com/kiss-community/community,community/hack,main,"D
 pipewire,0.3.78+0.4.14 1,https://github.com/kiss-community/community,community/pipewire,main,"git-bruh"," "
 imagemagick,7.1.1-15 1,https://github.com/kiss-community/community,community/imagemagick,main,"git-bruh"," "
 globe-cli,0.2.0 1,https://github.com/kiss-community/community,community/globe-cli,main,"Xiaodong Xu"," "
-yt-dlp,2023.07.06 1,https://github.com/kiss-community/community,community/yt-dlp,main,"Owen Rafferty"," "
+yt-dlp,2023.09.24 1,https://github.com/kiss-community/community,community/yt-dlp,main,"Owen Rafferty"," "
 emacs,29.1 1,https://github.com/kiss-community/community,community/emacs,main,"Ethan"," "
 libburn,1.5.4 1,https://github.com/kiss-community/community,community/libburn,main,"git-bruh"," "
 totp,0.1 1,https://github.com/kiss-community/community,community/totp,main,"Adrien Gallouët"," "
