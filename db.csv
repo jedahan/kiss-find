@@ -110,7 +110,7 @@ darkhttpd,1.13 1,https://github.com/kiss-community/community,community/darkhttpd
 libxml2,2.11.5 1,https://github.com/kiss-community/community,community/libxml2,main,"git-bruh"," "
 abduco,0.6 1,https://github.com/kiss-community/community,community/abduco,main,"ectlunya"," "
 iftop,1.0pre4 1,https://github.com/kiss-community/community,community/iftop,main,"wael"," "
-chromium,117.0.5938.88 1,https://github.com/kiss-community/community,community/chromium,main,"Owen Rafferty"," "
+chromium,117.0.5938.92 1,https://github.com/kiss-community/community,community/chromium,main,"Owen Rafferty"," "
 libuv,1.44.2 1,https://github.com/kiss-community/community,community/libuv,main,"git-bruh"," "
 zathura-cb,0.1.10 1,https://github.com/kiss-community/community,community/zathura-cb,main,"Rohan"," "
 libusb,1.0.26 1,https://github.com/kiss-community/community,community/libusb,main,"Wolf Gupta"," "
