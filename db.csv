@@ -406,7 +406,7 @@ mosh,1.4.0 2,https://github.com/kiss-community/community,community/mosh,main,"Ja
 delta,0.12.1 1,https://github.com/kiss-community/community,community/delta,main,"Xiaodong Xu"," "
 nawk-git,git 1 ,https://github.com/kiss-community/community,community/nawk-git,main,"Owen Rafferty"," "
 swww,0.8.1 1,https://github.com/kiss-community/community,community/swww,main,"Rohan"," "
-neovim,0.9.2 1,https://github.com/kiss-community/community,community/neovim,main,"phoebos"," "
+neovim,0.9.4 1,https://github.com/kiss-community/community,community/neovim,main,"phoebos"," "
 github-cli,2.35.0 1,https://github.com/kiss-community/community,community/github-cli,main,"hovercats"," "
 libnl,3.7.0 1,https://github.com/kiss-community/community,community/libnl,main,"git-bruh"," "
 qt5-svg,5.15.8 3,https://github.com/kiss-community/community,community/qt5-svg,main,"davidgarland"," "
