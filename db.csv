@@ -201,7 +201,6 @@ vundle,0.10.2 2,https://github.com/kiss-community/community,community/vundle,mai
 freeglut,3.4.0 1,https://github.com/kiss-community/community,community/freeglut,main,"Rohan"," "
 lcms,2.15 1,https://github.com/kiss-community/community,community/lcms,main,"Vouivre"," "
 bandwhich,0.21.0 1,https://github.com/kiss-community/community,community/bandwhich,main,"git-bruh"," "
-noto-emoji,2.038 1,https://github.com/kiss-community/community,community/noto-emoji,main,"огромный"," "
 libjpeg,9e 1,https://github.com/kiss-community/community,community/libjpeg,main,"icebarf"," "
 dogefetch,1.2.4 1,https://github.com/kiss-community/community,community/dogefetch,main,"Ali Burak"," "
 libgphoto2,2.5.31 1 ,https://github.com/kiss-community/community,community/libgphoto2,main,"Vouivre"," "
