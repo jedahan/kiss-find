@@ -153,7 +153,7 @@ gperf,3.1 1,https://github.com/kiss-community/community,community/gperf,main,"gi
 libexif,0.6.24 1 ,https://github.com/kiss-community/community,community/libexif,main,"Cédric"," "
 syncthing,1.25.0 1,https://github.com/kiss-community/community,community/syncthing,main,"git-bruh"," "
 scrcpy,2.1.1 1,https://github.com/kiss-community/community,community/scrcpy,main,"git-bruh"," "
-entr,5.3 1,https://github.com/kiss-community/community,community/entr,main,"Ethan"," "
+entr,5.4 1,https://github.com/kiss-community/community,community/entr,main,"Ethan"," "
 tree,2.1.1 1,https://github.com/kiss-community/community,community/tree,main,"git-bruh"," "
 gtest,1.14.0 1,https://github.com/kiss-community/community,community/gtest,main,"git-bruh"," "
 tig,2.5.8 1,https://github.com/kiss-community/community,community/tig,main,"jslick"," "
