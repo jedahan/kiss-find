@@ -185,7 +185,7 @@ sane,1.2.1 1 ,https://github.com/kiss-community/community,community/sane,main,"V
 sc,7.16_1.1.2 1 ,https://github.com/kiss-community/community,community/sc,main,"Xeno-Hypster"," "
 ostree,2023.6 1,https://github.com/kiss-community/community,community/ostree,main,"git-bruh"," "
 pounce,3.1 1,https://github.com/kiss-community/community,community/pounce,main,"phoebos"," "
-neatvnc,0.6.0 1,https://github.com/kiss-community/community,community/neatvnc,main,"Rohan"," "
+neatvnc,0.7.0 1,https://github.com/kiss-community/community,community/neatvnc,main,"Rohan"," "
 girara,0.4.0 1 ,https://github.com/kiss-community/community,community/girara,main,"Vouivre"," "
 kak-lsp-bin,14.2.0 1,https://github.com/kiss-community/community,community/kak-lsp-bin,main,"git-bruh"," "
 sed-i,0.1 1,https://github.com/kiss-community/community,community/sed-i,main,"Aaron G"," "
