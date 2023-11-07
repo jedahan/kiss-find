@@ -225,7 +225,7 @@ iw,5.19 1,https://github.com/kiss-community/community,community/iw,main,"Owen Ra
 chromium,118.0.5993.117 1,https://github.com/kiss-community/community,community/chromium,main,"Owen Rafferty"," "
 umurmur,0.2.20 2,https://github.com/kiss-community/community,community/umurmur,main,"git-bruh"," "
 libarchive,3.7.2 1,https://github.com/kiss-community/community,community/libarchive,main,"git-bruh"," "
-neomutt,20231023 1,https://github.com/kiss-community/community,community/neomutt,main,"phoebos"," "
+neomutt,20231103 1,https://github.com/kiss-community/community,community/neomutt,main,"phoebos"," "
 openjpeg2,2.5.0 1,https://github.com/kiss-community/community,community/openjpeg2,main,"phoebos"," "
 libxml2,2.11.5 1,https://github.com/kiss-community/community,community/libxml2,main,"git-bruh"," "
 fzf,0.42.0 1,https://github.com/kiss-community/community,community/fzf,main,"Vouivre"," "
