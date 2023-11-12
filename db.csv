@@ -222,7 +222,7 @@ twemoji-color-font,14.0.2 1,https://github.com/kiss-community/community,communit
 protobuf,24.3 1,https://github.com/kiss-community/community,community/protobuf,main,"Jason Eslick"," "
 libevent,2.1.12 1 ,https://github.com/kiss-community/community,community/libevent,main,"phoebos"," "
 iw,5.19 1,https://github.com/kiss-community/community,community/iw,main,"Owen Rafferty"," "
-chromium,118.0.5993.117 1,https://github.com/kiss-community/community,community/chromium,main,"Owen Rafferty"," "
+chromium,119.0.6045.123 1,https://github.com/kiss-community/community,community/chromium,main,"Owen Rafferty"," "
 umurmur,0.2.20 2,https://github.com/kiss-community/community,community/umurmur,main,"git-bruh"," "
 libarchive,3.7.2 1,https://github.com/kiss-community/community,community/libarchive,main,"git-bruh"," "
 neomutt,20231103 1,https://github.com/kiss-community/community,community/neomutt,main,"phoebos"," "
