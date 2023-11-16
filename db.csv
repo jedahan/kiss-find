@@ -231,7 +231,7 @@ libxml2,2.11.5 1,https://github.com/kiss-community/community,community/libxml2,m
 fzf,0.42.0 1,https://github.com/kiss-community/community,community/fzf,main,"Vouivre"," "
 shinit,1.0.0 1 ,https://github.com/kiss-community/community,community/shinit,main,"Dylan Araps"," "
 shfmt-bin,3.7.0 1,https://github.com/kiss-community/community,community/shfmt-bin,main,"git-bruh"," "
-pipewire,0.3.84+0.4.15 1,https://github.com/kiss-community/community,community/pipewire,main,"git-bruh"," "
+pipewire,0.3.85+0.4.15 1,https://github.com/kiss-community/community,community/pipewire,main,"git-bruh"," "
 bemenu,0.6.16 1,https://github.com/kiss-community/community,community/bemenu,main,"git-bruh"," "
 execline,2.9.4.0 1,https://github.com/kiss-community/community,community/execline,main,"git-bruh"," "
 tokei,12.1.2 1,https://github.com/kiss-community/community,community/tokei,main,"dylanaraps"," "
